@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800234,
+    "reference_id": 209475,
+    "title": "Escolhendo uma plataforma de tradução",
+    "media_type": "Text",
+    "index_reference": "escolhendo uma plataforma de tradução",
+    "language": "por",
+    "content": "<h3>Plataforma recomendada</h3><p>A plataforma recomendada para elaborar traduções da Bíblia na comunidade online Door43 é o translationStudio (https://ufw.io/ts/). A plataforma recomendada para verificar traduções da Bíblia é o translationCore (https://ufw.io/tc/). Você pode configurar o translationStudio em dispositivos Android, Windows, Mac ou Linux (consulte <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">Configurando o translationStudio</span> para mais informações). Você pode configurar o translationCore em dispositivos Windows, Mac ou Linux. Essas plataformas são gratuitas para download e uso. Elas importam e exportam livros da Bíblia no formato USFM.</p><h3>Outras opções</h3><p>Se usar o translationStudio não for uma opção para sua equipe, você pode considerar o uso de outras ferramentas online ou offline. Por favor, note: se você não usar o translationStudio, mas quiser utilizar outro software de tradução da Bíblia, será sua responsabilidade garantir que o conteúdo traduzido esteja no formato USFM (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">Formatos de arquivo</span> para mais informações).</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26736,
+          "content_id": 800101,
+          "label": "Formatos de arquivo",
+          "language": "por"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 800243,
+          "label": "Configurando o translationStudio",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

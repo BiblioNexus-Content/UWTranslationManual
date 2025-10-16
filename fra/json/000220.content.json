@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 689662,
+    "reference_id": 209482,
+    "title": "Setting Up translationCore®",
+    "media_type": "Text",
+    "index_reference": "setting up translationcore®",
+    "language": "fra",
+    "content": "<h3>How to Get translationCore®</h3><p>translationCore® is an open-source and open-licensed software program for checking Bible translations. It is completely free to use. The latest version of translationCore for desktop or laptop computers (Windows, Mac, or Linux) is available from https://translationcore.com/. To install the program, click on “Download” to get the latest release. Note that you may also copy the installation file to other computers to share translationCore with others without using the internet.</p><h3>How to Set Up translationCore®</h3><p>For documentation on how to use translationCore, please see https://tc-documentation.readthedocs.io/. The following is an overview.</p><h4>Log In</h4><p>To start, you will need to log in with a user name. If your translation is on Door43, use your Door43 user name. If you do not want to use the internet, then you can enter any name that you want to use, either real or a pseudonym.</p><h4>Choose a Project</h4><p>If you logged in with your Door43 user name, translationCore will know which translations belong to you and will make them available to download into translationCore. You can choose from the list of your projects in Door43 which translation project you want to check. You may also load translations that are already saved on your computer without using the internet.</p><h4>Choose a Tool</h4><p>translationCore currently contains three checking tools:</p><ul><li><p><span resourceId=\"209463\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">translationWords Tool</span></p></li><li><p><span resourceId=\"209490\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">translationNotes Tool</span></p></li><li><p><span resourceId=\"209450\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Word Alignment Tool</span></p></li></ul><p>Instructions for using each tool can be found by clicking on the name of the tool above.</p><h3>After Using translationCore®</h3><p>At any point, you may upload your work to <a href=\"https://git.door43.org\" target=\"_blank\" rel=\"noopener nofollow\">Door43</a> by returning to the project list and clicking on the three-dot menu next to the project that you want to upload and choosing “Upload to Door43.” You can also save your project to a file on your computer. Once uploaded, Door43 will keep your work in a repository under your user name and you can access your work there (see <span resourceId=\"209466\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Publishing</span>).</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209450,
+          "content_id": 689630,
+          "label": "Alignment Checking",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 689643,
+          "label": "translationWords Check in tC",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 689646,
+          "label": "Introduction to Publishing",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 689670,
+          "label": "translationNotes Check in tC",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

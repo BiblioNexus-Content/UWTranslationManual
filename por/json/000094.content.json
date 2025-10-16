@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 800115,
+    "reference_id": 26750,
+    "title": "Honoríficos",
+    "media_type": "Text",
+    "index_reference": "honoríficos",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Este é o espaço reservado para um artigo sobre a discussão de honoríficos na literatura bíblica. Este artigo ainda está em desenvolvimento.</p><h1>Razões pelas quais isso é um problema de tradução:</h1><p>Texto</p><h3>Exemplos da Bíblia</h3><p>Texto</p><h3>Estratégias de tradução</h3><p>Texto</p><h3>Exemplos de estratégias de tradução aplicadas</h3><p>Texto</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 139461,
+          "content_id": 312552,
+          "label": "Atos 21.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170686,
+          "content_id": 482919,
+          "label": "Gênesis 12.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171214,
+          "content_id": 483447,
+          "label": "Gênesis 18.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171578,
+          "content_id": 483811,
+          "label": "Gênesis 20.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171656,
+          "content_id": 483889,
+          "label": "Gênesis 20.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171910,
+          "content_id": 484143,
+          "label": "Gênesis 23.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171950,
+          "content_id": 484183,
+          "label": "Gênesis 23.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172062,
+          "content_id": 484295,
+          "label": "Gênesis 24.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173335,
+          "content_id": 485568,
+          "label": "Gênesis 32.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173354,
+          "content_id": 485587,
+          "label": "Gênesis 32.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174112,
+          "content_id": 486345,
+          "label": "Gênesis 40.13 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174119,
+          "content_id": 486352,
+          "label": "Gênesis 40.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174132,
+          "content_id": 486365,
+          "label": "Gênesis 40.17 (#2)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

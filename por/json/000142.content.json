@@ -1,0 +1,316 @@
+[
+  {
+    "content_id": 800163,
+    "reference_id": 26798,
+    "title": "Fazendo uma planilha de termos-chave",
+    "media_type": "Text",
+    "index_reference": "fazendo uma planilha de termos-chave",
+    "language": "por",
+    "content": "<h3>Criando uma planilha de termos-chave</h3><ul><li><p>Crie uma lista de termos-chave na história ou passagem bíblica que você traduz, junto com o termo escolhido para cada um deles no idioma alvo. É preferível que você faça isso em uma planilha, permitindo listar a palavra ou frase de origem em uma coluna e a palavra ou frase alvo em outra coluna. Colunas adicionais podem listar termos equivalentes em outros idiomas e as referências onde esses termos ocorrem na Bíblia. Garanta que todos que traduzem livros bíblicos que utilizam esses termos tenham acesso à planilha, ou a um gráfico em papel, para que todos possam usar as mesmas palavras ou frases em sua tradução.</p></li><li><p>Utilize a lista de palavras e definições no recurso de Palavras de Tradução unfoldingWord® para ajudá-lo a compilar uma lista dessas palavras e compreender seus significados. A ferramenta translationStudio exibirá essas palavras e suas definições à medida que você as encontrar no texto fonte, e a ferramenta translationWords no translationCore fornecerá uma lista de todos os termos-chave em cada livro da Bíblia.</p></li><li><p>Cada vez que a palavra-chave aparecer no texto original, certifique-se de que o termo escolhido para a tradução ainda faça sentido nesse contexto. Se não fizer, discuta o problema com outros membros da equipe de tradução e tentem encontrar uma solução juntos. Pode ser necessário usar um termo diferente, ou talvez seja preciso usar mais de um termo para os diferentes contextos, ou ainda encontrar outra maneira de comunicar o termo que inclua todos os significados, como usar uma frase mais longa.</p></li><li><p>Quando decidir que precisa usar palavras ou frases diferentes no idioma alvo para traduzir uma palavra do idioma de origem em diferentes contextos, faça uma nova linha na planilha para cada maneira diferente de traduzir a palavra de origem. Repita o termo de origem na coluna de origem e coloque a nova tradução na próxima coluna, abaixo da primeira tradução. Compartilhe esta planilha com toda a equipe de tradução para que possam escolher a tradução correta para o termo-chave no contexto que estão traduzindo.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 169361,
+          "content_id": 481594,
+          "label": "Gênesis 1:1 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169362,
+          "content_id": 481595,
+          "label": "Gênesis 1.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169363,
+          "content_id": 481596,
+          "label": "Gênesis 1.1 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169364,
+          "content_id": 481597,
+          "label": "Gênesis 1.1 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169374,
+          "content_id": 481607,
+          "label": "Gênesis 1.4 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169393,
+          "content_id": 481626,
+          "label": "Gênesis 1.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169503,
+          "content_id": 481736,
+          "label": "Gênesis 1.27 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169517,
+          "content_id": 481750,
+          "label": "Gênesis 1.29 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169543,
+          "content_id": 481776,
+          "label": "Gênesis 2.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169550,
+          "content_id": 481783,
+          "label": "Gênesis 2.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169580,
+          "content_id": 481813,
+          "label": "Gênesis 2.9 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169714,
+          "content_id": 481947,
+          "label": "Gênesis 3.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169788,
+          "content_id": 482021,
+          "label": "Gênesis 4.3 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170027,
+          "content_id": 482260,
+          "label": "Gênesis 6.9 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170065,
+          "content_id": 482298,
+          "label": "Gênesis 6.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170173,
+          "content_id": 482406,
+          "label": "Gênesis 7.23 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170270,
+          "content_id": 482503,
+          "label": "Gênesis 8.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170277,
+          "content_id": 482510,
+          "label": "Gênesis 8.21 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170336,
+          "content_id": 482569,
+          "label": "Gênesis 9.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170367,
+          "content_id": 482600,
+          "label": "Gênesis 9.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170398,
+          "content_id": 482631,
+          "label": "Gênesis 9.26 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170888,
+          "content_id": 483121,
+          "label": "Gênesis 14.18 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170890,
+          "content_id": 483123,
+          "label": "Gênesis 14.19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170922,
+          "content_id": 483155,
+          "label": "Gênesis 15.1 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170926,
+          "content_id": 483159,
+          "label": "Gênesis 15.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171053,
+          "content_id": 483286,
+          "label": "Gênesis 16.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171097,
+          "content_id": 483330,
+          "label": "Gênesis 17.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171104,
+          "content_id": 483337,
+          "label": "Gênesis 17.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171132,
+          "content_id": 483365,
+          "label": "Gênesis 17.10 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171179,
+          "content_id": 483412,
+          "label": "Gênesis 17.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171383,
+          "content_id": 483616,
+          "label": "Gênesis 19.1 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171477,
+          "content_id": 483710,
+          "label": "Gênesis 19.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171603,
+          "content_id": 483836,
+          "label": "Gênesis 20.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171723,
+          "content_id": 483956,
+          "label": "Gênesis 21.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171851,
+          "content_id": 484084,
+          "label": "Gênesis 22.12 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172418,
+          "content_id": 484651,
+          "label": "Gênesis 26.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172451,
+          "content_id": 484684,
+          "label": "Gênesis 26.24 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172558,
+          "content_id": 484791,
+          "label": "Gênesis 27.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172649,
+          "content_id": 484882,
+          "label": "Gênesis 27.41 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172713,
+          "content_id": 484946,
+          "label": "Gênesis 28.12 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173084,
+          "content_id": 485317,
+          "label": "Gênesis 31.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173490,
+          "content_id": 485723,
+          "label": "Gênesis 34.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173546,
+          "content_id": 485779,
+          "label": "Gênesis 35.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173547,
+          "content_id": 485780,
+          "label": "Gênesis 35.2 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173570,
+          "content_id": 485803,
+          "label": "Gênesis 35.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173583,
+          "content_id": 485816,
+          "label": "Gênesis 35.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173629,
+          "content_id": 485862,
+          "label": "Gênesis 35.26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173670,
+          "content_id": 485903,
+          "label": "Gênesis 36.9 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174072,
+          "content_id": 486305,
+          "label": "Gênesis 40.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175180,
+          "content_id": 487413,
+          "label": "Gênesis 48.16 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

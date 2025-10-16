@@ -1,0 +1,478 @@
+[
+  {
+    "content_id": 800107,
+    "reference_id": 26742,
+    "title": "Conectar — Cláusulas de exceção",
+    "media_type": "Text",
+    "index_reference": "conectar — cláusulas de exceção",
+    "language": "por",
+    "content": "<h3>Relação excepcional</h3><h1>Descrição</h1><p>Conectores de relações excepcionais excluem um ou mais itens ou pessoas de um grupo.</p><h1>Por que isso é um problema de tradução</h1><p>O português indica relações excepcionais primeiro descrevendo um grupo (Parte 1) e depois afirmando o que não está nesse grupo usando palavras como &quot;exceto&quot;, &quot;mas não&quot;, &quot;além de&quot;, &quot;a não ser&quot;, &quot;porém... não&quot; e &quot;somente&quot; (Parte 2). Algumas línguas não indicam dessa forma que um ou mais itens ou pessoas são excluídos de um grupo. Em vez disso, têm outras maneiras de fazer isso. Em algumas línguas, esse tipo de construção não faz sentido porque a exceção na Parte 2 parece contradizer a afirmação na Parte 1. Os tradutores precisam entender quem (ou o quê) está no grupo e quem (ou o quê) é excluído para poder comunicar isso com precisão em sua língua.</p><h1>Exemplos do OBS e da Bíblia</h1><p>Deus disse a Adão que ele poderia comer de <strong>qualquer</strong> árvore no jardim, <strong>exceto</strong> da árvore do conhecimento do bem e do mal (OBS História 1 Quadro 11).</p><p>Mas se você não quiser resgatá-lo, então me diga para que eu saiba, pois não há <strong>ninguém</strong> para resgatá-lo <strong>além</strong> de você, e eu sou o próximo depois de você (Rt 4.4b).</p><p>Davi os atacou desde o crepúsculo até a noite do dia seguinte. <strong>Nenhum</strong> homem escapou, <strong>exceto</strong> 400 jovens, que montaram em camelos e fugiram (1Sm 30.17).</p><p>O homem disse: “Deixe-me ir, pois a aurora está rompendo”. Jacó respondeu: “<strong>Não</strong> te deixarei ir <strong>a menos que</strong> me abençoes” (Gn 32.26).</p><h1>Estratégias de tradução</h1><p>Se a forma como as Cláusulas de exceção são destacadas na língua de origem também for clara no seu idioma, então traduza as Cláusulas de exceção da mesma maneira.</p><p>(1) Muitas vezes, a exceção na Parte 2 contradiz algo que foi negado na Parte 1. Neste caso, o tradutor pode expressar a mesma ideia sem a contradição, eliminando a negativa e usando uma palavra como &quot;<strong>somente</strong>&quot;. (2) Inverta a ordem das cláusulas para que a exceção seja declarada primeiro e, em seguida, o grupo maior seja nomeado em segundo lugar.</p><h1>Exemplos de estratégia aplicada à tradução</h1><p>(1) Muitas vezes, a exceção na Parte 2 contradiz algo que foi negado na Parte 1. Nesse caso, o tradutor pode expressar a mesma ideia sem a contradição, removendo a negativa e usando uma palavra como “<strong>somente</strong>”.</p><p>Davi os atacou desde o crepúsculo até a noite do dia seguinte. <strong>Nenhum homem escapou, exceto 400 jovens</strong>, que montaram em camelos e fugiram (1Sm 30.17).</p><ul><li><p>Parte 1: (<strong>Nenhum</strong> homem escapou);</p></li><li><p>Parte 2: (<strong>exceto</strong> 400 jovens).</p></li></ul><p>Davi os atacou desde o crepúsculo até a noite do dia seguinte. <strong>Somente</strong> 400 jovens escaparam; eles montaram em camelos e fugiram.</p><p>Mas se você não quiser resgatá-lo, então me diga para que eu saiba, pois não há <strong>ninguém</strong> para resgatá-lo <strong>além</strong> de você, e eu sou o próximo depois de você (Rt 4.4).</p><p>Mas se você não quiser resgatá-lo, então me diga para que eu saiba, pois <strong>você é o primeiro na fila para resgatá-lo {somente você pode resgatá-lo}</strong>, e eu sou o próximo depois de você.</p><p>O homem disse: “Deixe-me ir, pois a aurora está rompendo”. Jacó respondeu: “Eu <strong>não</strong> te deixarei ir <strong>a menos que</strong> me abençoes” (Gn 32.26).</p><p>O homem disse: “Deixe-me ir, pois a aurora está rompendo”. Jacó respondeu: “Eu te deixarei ir <strong>somente se</strong> me abençoares”;</p><p>(2) Declare primeiro a exceção e, em seguida, nomeie o grupo maior.</p><p>Deus disse a Adão que ele poderia comer de <strong>qualquer</strong> árvore no jardim, <strong>exceto</strong> da árvore do conhecimento do bem e do mal. (OBS História 1 Quadro 11).</p><p>Deus disse a Adão que ele <strong>não</strong> deveria comer da árvore do conhecimento do bem e do mal, mas poderia comer de <strong>qualquer outra</strong> árvore do jardim.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115948,
+          "content_id": 234677,
+          "label": "Marcos 2.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116033,
+          "content_id": 234762,
+          "label": "Marcos 2.26 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116144,
+          "content_id": 234873,
+          "label": "Marcos 3.27 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116147,
+          "content_id": 234876,
+          "label": "Marcos 3.28-29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116287,
+          "content_id": 235016,
+          "label": "Marcos 4.22 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116512,
+          "content_id": 235241,
+          "label": "Marcos 5.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116557,
+          "content_id": 235286,
+          "label": "Marcos 6.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116562,
+          "content_id": 235291,
+          "label": "Marcos 6.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116575,
+          "content_id": 235304,
+          "label": "Marcos 6.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116797,
+          "content_id": 235526,
+          "label": "Marcos 7.3 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116804,
+          "content_id": 235533,
+          "label": "Marcos 7.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117027,
+          "content_id": 235756,
+          "label": "Marcos 8.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117183,
+          "content_id": 235912,
+          "label": "Marcos 9.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117284,
+          "content_id": 236013,
+          "label": "Marcos 9.29 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117469,
+          "content_id": 236198,
+          "label": "Marcos 10.18 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117682,
+          "content_id": 236411,
+          "label": "Marcos 11.13 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118235,
+          "content_id": 236964,
+          "label": "Marcos 13.32 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147646,
+          "content_id": 297875,
+          "label": "Mateus 5.13 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147683,
+          "content_id": 297912,
+          "label": "Mateus 5.20 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147777,
+          "content_id": 298006,
+          "label": "Mateus 5.32 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143426,
+          "content_id": 303349,
+          "label": "Lucas 4.26 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143430,
+          "content_id": 303353,
+          "label": "Lucas 4.27 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144149,
+          "content_id": 304072,
+          "label": "Lucas 8.51 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144462,
+          "content_id": 304385,
+          "label": "Lucas 10.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144466,
+          "content_id": 304389,
+          "label": "Lucas 10.22 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144664,
+          "content_id": 304587,
+          "label": "Lucas 11.29 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145680,
+          "content_id": 305603,
+          "label": "Lucas 17.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138310,
+          "content_id": 311401,
+          "label": "Atos 11.19 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139381,
+          "content_id": 312472,
+          "label": "Atos 20.22 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139912,
+          "content_id": 313003,
+          "label": "Atos 26.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148934,
+          "content_id": 299163,
+          "label": "Mateus 11.27 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148936,
+          "content_id": 299165,
+          "label": "Mateus 11.27 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148964,
+          "content_id": 299193,
+          "label": "Mateus 12.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149057,
+          "content_id": 299286,
+          "label": "Mateus 12.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149083,
+          "content_id": 299312,
+          "label": "Mateus 12.29 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149091,
+          "content_id": 299320,
+          "label": "Mateus 12.31 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149138,
+          "content_id": 299367,
+          "label": "Mateus 12.39 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149508,
+          "content_id": 299737,
+          "label": "Mateus 13.57 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149586,
+          "content_id": 299815,
+          "label": "Mateus 14.17 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149790,
+          "content_id": 300019,
+          "label": "Mateus 15.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150046,
+          "content_id": 300275,
+          "label": "Mateus 17.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150114,
+          "content_id": 300343,
+          "label": "Mateus 17.21 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150160,
+          "content_id": 300389,
+          "label": "Mateus 18.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150397,
+          "content_id": 300626,
+          "label": "Mateus 19.9 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150760,
+          "content_id": 300989,
+          "label": "Mateus 21.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151480,
+          "content_id": 301709,
+          "label": "Mateus 24.36 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161702,
+          "content_id": 583436,
+          "label": "1 Timóteo 5.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155271,
+          "content_id": 640516,
+          "label": "1 Coríntios 1.14 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155388,
+          "content_id": 640633,
+          "label": "1 Coríntios 2.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155444,
+          "content_id": 640689,
+          "label": "1 Coríntios 2.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155941,
+          "content_id": 641186,
+          "label": "1 Coríntios 6.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155973,
+          "content_id": 641218,
+          "label": "1 Coríntios 7.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156202,
+          "content_id": 641447,
+          "label": "1 Coríntios 7.39 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156226,
+          "content_id": 641471,
+          "label": "1 Coríntios 8.4 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156513,
+          "content_id": 641758,
+          "label": "1 Coríntios 10.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156805,
+          "content_id": 642050,
+          "label": "1 Coríntios 12.3 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157027,
+          "content_id": 642272,
+          "label": "1 Coríntios 14.5 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157038,
+          "content_id": 642283,
+          "label": "1 Coríntios 14.6 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157453,
+          "content_id": 642698,
+          "label": "1 Coríntios 15.36 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157839,
+          "content_id": 658883,
+          "label": "2 Coríntios 2.2 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159053,
+          "content_id": 660097,
+          "label": "2 Coríntios 12.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159104,
+          "content_id": 660148,
+          "label": "2 Coríntios 12.13 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169611,
+          "content_id": 481844,
+          "label": "Gênesis 2.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170305,
+          "content_id": 482538,
+          "label": "Gênesis 9.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170916,
+          "content_id": 483149,
+          "label": "Gênesis 14.24 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173345,
+          "content_id": 485578,
+          "label": "Gênesis 32.26 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174006,
+          "content_id": 486239,
+          "label": "Gênesis 39.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174419,
+          "content_id": 486652,
+          "label": "Gênesis 42.15 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174529,
+          "content_id": 486762,
+          "label": "Gênesis 43.3 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174537,
+          "content_id": 486770,
+          "label": "Gênesis 43.5 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187167,
+          "content_id": 723776,
+          "label": "Gálatas 1.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187227,
+          "content_id": 723836,
+          "label": "Gálatas 1.19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187300,
+          "content_id": 723909,
+          "label": "Gálatas 2.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187336,
+          "content_id": 723945,
+          "label": "Gálatas 2.16 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187943,
+          "content_id": 724552,
+          "label": "Gálatas 6.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185101,
+          "content_id": 806522,
+          "label": "Rute 4.4 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 168082,
+          "content_id": 817236,
+          "label": "Apocalipse 19.12 (#4)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

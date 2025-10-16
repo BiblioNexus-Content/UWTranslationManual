@@ -1,0 +1,670 @@
+[
+  {
+    "content_id": 799940,
+    "reference_id": 26699,
+    "title": "तृतीय-पुरुष आज्ञाएँ",
+    "media_type": "Text",
+    "index_reference": "तृतीय-पुरुष आज्ञाएँ",
+    "language": "hin",
+    "content": "<h3>विवरण</h3><p>बाइबल साहित्य में तृतीय-पुरुष आज्ञाओं के विषय पर लेख के लिए यह स्थानधारक है। यह लेख अभी भी विकासाधीन है।</p><h1>कारण यह एक अनुवाद मुद्दा है:</h1><p>पाठ </p><h3>बाइबल से उद्धरण</h3><p>पाठ </p><h3>अनुवाद की रणनीतियाँ</h3><p>पाठ </p><h3>अनुवाद रणनीतियों के लागू किए गए उदाहरण</h3><p>पाठ </p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116221,
+          "content_id": 767791,
+          "label": "मरकुस 4:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 116847,
+          "content_id": 768252,
+          "label": "मरकुस 7:10 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 117121,
+          "content_id": 768445,
+          "label": "मरकुस 8:34 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 117432,
+          "content_id": 768601,
+          "label": "मरकुस 10:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 118143,
+          "content_id": 768892,
+          "label": "मरकुस 13:14 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 118144,
+          "content_id": 768893,
+          "label": "मरकुस 13:14 (#9)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136746,
+          "content_id": 376267,
+          "label": "प्रेरितों के काम 1:20 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136752,
+          "content_id": 376273,
+          "label": "प्रेरितों के काम 1:20 (#10)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136842,
+          "content_id": 376363,
+          "label": "प्रेरितों के काम 2:14 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136973,
+          "content_id": 376494,
+          "label": "प्रेरितों के काम 2:36 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137169,
+          "content_id": 376690,
+          "label": "प्रेरितों के काम 4:10 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 118718,
+          "content_id": 411069,
+          "label": "मरकुस 15:32 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 118150,
+          "content_id": 768898,
+          "label": "मरकुस 13:15 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 118155,
+          "content_id": 768903,
+          "label": "मरकुस 13:16 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 138575,
+          "content_id": 378096,
+          "label": "प्रेरितों के काम 13:38 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 138968,
+          "content_id": 378489,
+          "label": "प्रेरितों के काम 16:37 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 139306,
+          "content_id": 378827,
+          "label": "प्रेरितों के काम 19:38 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 139482,
+          "content_id": 379003,
+          "label": "प्रेरितों के काम 21:14 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 139777,
+          "content_id": 379298,
+          "label": "प्रेरितों के काम 24:20 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 139807,
+          "content_id": 379328,
+          "label": "प्रेरितों के काम 25:5 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140129,
+          "content_id": 379650,
+          "label": "प्रेरितों के काम 28:28 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147660,
+          "content_id": 678037,
+          "label": "मत्ती 5:16 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147773,
+          "content_id": 678150,
+          "label": "मत्ती 5:31 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147804,
+          "content_id": 678181,
+          "label": "मत्ती 5:37 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147912,
+          "content_id": 678289,
+          "label": "मत्ती 6:9 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147916,
+          "content_id": 678293,
+          "label": "मत्ती 6:10 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148262,
+          "content_id": 678639,
+          "label": "मत्ती 8:13 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148519,
+          "content_id": 678896,
+          "label": "मत्ती 9:29 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148622,
+          "content_id": 678999,
+          "label": "मत्ती 10:13 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148850,
+          "content_id": 679227,
+          "label": "मत्ती 11:15 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155375,
+          "content_id": 394874,
+          "label": "1 कुरिन्थियों 1:31 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155546,
+          "content_id": 394923,
+          "label": "1 कुरिन्थियों 3:10 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155586,
+          "content_id": 394935,
+          "label": "1 कुरिन्थियों 3:18 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155618,
+          "content_id": 394942,
+          "label": "1 कुरिन्थियों 4:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 149685,
+          "content_id": 680062,
+          "label": "मत्ती 15:4 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 149813,
+          "content_id": 680190,
+          "label": "मत्ती 15:28 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 149981,
+          "content_id": 680358,
+          "label": "मत्ती 16:24 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 150267,
+          "content_id": 680644,
+          "label": "मत्ती 18:17 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 150385,
+          "content_id": 680762,
+          "label": "मत्ती 19:6 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 150420,
+          "content_id": 680797,
+          "label": "मत्ती 19:12 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151374,
+          "content_id": 681751,
+          "label": "मत्ती 24:15 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151375,
+          "content_id": 681752,
+          "label": "मत्ती 24:16 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151379,
+          "content_id": 681756,
+          "label": "मत्ती 24:17 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151384,
+          "content_id": 681761,
+          "label": "मत्ती 24:18 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151914,
+          "content_id": 682291,
+          "label": "मत्ती 26:39 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 151937,
+          "content_id": 682314,
+          "label": "मत्ती 26:42 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 152182,
+          "content_id": 682559,
+          "label": "मत्ती 27:22 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 152259,
+          "content_id": 682636,
+          "label": "मत्ती 27:42 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 152263,
+          "content_id": 682640,
+          "label": "मत्ती 27:43 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155606,
+          "content_id": 765966,
+          "label": "1 कुरिन्थियों 3:21 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155963,
+          "content_id": 766217,
+          "label": "1 कुरिन्थियों 7:2 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155966,
+          "content_id": 766220,
+          "label": "1 कुरिन्थियों 7:3 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 155999,
+          "content_id": 766244,
+          "label": "1 कुरिन्थियों 7:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156011,
+          "content_id": 766254,
+          "label": "1 कुरिन्थियों 7:11 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156018,
+          "content_id": 766259,
+          "label": "1 कुरिन्थियों 7:12 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156021,
+          "content_id": 766262,
+          "label": "1 कुरिन्थियों 7:13 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156035,
+          "content_id": 766273,
+          "label": "1 कुरिन्थियों 7:15 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156051,
+          "content_id": 766284,
+          "label": "1 कुरिन्थियों 7:17 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156059,
+          "content_id": 766290,
+          "label": "1 कुरिन्थियों 7:18 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156073,
+          "content_id": 766301,
+          "label": "1 कुरिन्थियों 7:20 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156078,
+          "content_id": 766304,
+          "label": "1 कुरिन्थियों 7:21 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156095,
+          "content_id": 766317,
+          "label": "1 कुरिन्थियों 7:24 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 167691,
+          "content_id": 380367,
+          "label": "Revelation 13:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 167718,
+          "content_id": 380394,
+          "label": "प्रकाशितवाक्य 13:18 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 168257,
+          "content_id": 380933,
+          "label": "प्रकाशितवाक्य 22:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 168281,
+          "content_id": 380957,
+          "label": "प्रकाशितवाक्य 22:17 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156785,
+          "content_id": 395279,
+          "label": "1 कुरिन्थियों 11:34 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157155,
+          "content_id": 395367,
+          "label": "1 कुरिन्थियों 14:26 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157219,
+          "content_id": 395378,
+          "label": "1 कुरिन्थियों 14:37 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157638,
+          "content_id": 395491,
+          "label": "1 कुरिन्थियों 16:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157664,
+          "content_id": 395497,
+          "label": "1 कुरिन्थियों 16:14 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 158816,
+          "content_id": 399425,
+          "label": "2 कुरिन्थियों 10:7 (#7)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 158834,
+          "content_id": 399443,
+          "label": "2 कुरिन्थियों 10:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 158866,
+          "content_id": 399475,
+          "label": "2 कुरिन्थियों 10:17 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 164465,
+          "content_id": 401251,
+          "label": "इब्रानियों 1:6 (#7)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166033,
+          "content_id": 402819,
+          "label": "इब्रानियों 13:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 159466,
+          "content_id": 404383,
+          "label": "कुलुस्सियों 2:16 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 159474,
+          "content_id": 404391,
+          "label": "कुलुस्सियों 2:18 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161585,
+          "content_id": 417878,
+          "label": "1 तिमिथियुस 4:12 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161728,
+          "content_id": 417961,
+          "label": "1 तिमिथियुस 6:1 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156182,
+          "content_id": 766385,
+          "label": "1 कुरिन्थियों 7:36 (#11)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156183,
+          "content_id": 766386,
+          "label": "1 कुरिन्थियों 7:36 (#12)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156511,
+          "content_id": 766617,
+          "label": "1 कुरिन्थियों 10:12 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156565,
+          "content_id": 766650,
+          "label": "1 कुरिन्थियों 10:24 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156643,
+          "content_id": 766707,
+          "label": "1 कुरिन्थियों 11:6 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156648,
+          "content_id": 766711,
+          "label": "1 कुरिन्थियों 11:6 (#8)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 156762,
+          "content_id": 766793,
+          "label": "1 कुरिन्थियों 11:28 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157076,
+          "content_id": 767032,
+          "label": "1 कुरिन्थियों 14:13 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157162,
+          "content_id": 767094,
+          "label": "1 कुरिन्थियों 14:27 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157169,
+          "content_id": 767100,
+          "label": "1 कुरिन्थियों 14:28 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157176,
+          "content_id": 767106,
+          "label": "1 कुरिन्थियों 14:29 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157182,
+          "content_id": 767111,
+          "label": "1 कुरिन्थियों 14:30 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157199,
+          "content_id": 767124,
+          "label": "1 कुरिन्थियों 14:34 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157202,
+          "content_id": 767127,
+          "label": "1 कुरिन्थियों 14:34 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157207,
+          "content_id": 767132,
+          "label": "1 कुरिन्थियों 14:35 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157226,
+          "content_id": 767148,
+          "label": "1 कुरिन्थियों 14:38 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157234,
+          "content_id": 767154,
+          "label": "1 कुरिन्थियों 14:40 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157601,
+          "content_id": 767419,
+          "label": "1 कुरिन्थियों 16:2 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157701,
+          "content_id": 767496,
+          "label": "1 कुरिन्थियों 16:22 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161402,
+          "content_id": 798901,
+          "label": "1 तीमुथियुस 2:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161478,
+          "content_id": 798942,
+          "label": "1 तीमुथियुस 3:10 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161483,
+          "content_id": 798944,
+          "label": "1 तीमुथियुस 3:12 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161621,
+          "content_id": 799006,
+          "label": "1 तीमुथियुस 5:4 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161647,
+          "content_id": 799018,
+          "label": "1 तीमुथियुस 5:9 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161681,
+          "content_id": 799032,
+          "label": "1 तीमुथियुस 5:16 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161685,
+          "content_id": 799034,
+          "label": "1 तीमुथियुस 5:16 (#7)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161687,
+          "content_id": 799035,
+          "label": "1 तीमुथियुस 5:17 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 161735,
+          "content_id": 799052,
+          "label": "1 तीमुथियुस 6:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162257,
+          "content_id": 799353,
+          "label": "2 तीमुथियुस 2:19 (#7)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

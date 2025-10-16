@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 33359,
+    "reference_id": 26773,
+    "title": "Notes with Links",
+    "media_type": "Text",
+    "index_reference": "notes with links",
+    "language": "fra",
+    "content": "<p>There are two types of links in the translationNotes: links to an unfoldingWord® Translation Academy topic page and links for repeated words or phrases within the same book.</p><h3>unfoldingWord® Translation Academy Topics</h3><p>The unfoldingWord® Translation Academy topics are intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language. They are intended to be highly flexible for just-in-time learning in either online or offline mobile video formats.</p><p>Each translationNote follows a phrase from the ULT and will provide immediate help on how to translate that phrase. Sometimes there will be a statement in parentheses at the end of the suggested translation that may look like this: (See: <em><span resourceId=\"26706\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Metaphor</span></em>). The word or words in blue or green are a link to an unfoldingWord® Translation Academy topic. In the translationNote, you can click on the link to learn more about the topic.</p><p>There are several reasons to read the unfoldingWord® Translation Academy topic information:</p><ul><li><p>Learning about the topic will help the translator to translate more accurately.</p></li><li><p>The topics have been chosen to provide a basic understanding of the principles and strategies of translation.</p></li></ul><h1>Examples</h1><ul><li><p><strong>evening and morning</strong> — This refers to the whole day. Two parts of the day are used to refer to the whole day. In the Jewish culture, a day begins when the sun sets. (See: <em><span resourceId=\"26705\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Merism</span></em>)</p></li><li><p><strong>walking</strong> — “obeying” (See: <em><span resourceId=\"26706\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Metaphor</span></em>)</p></li><li><p><strong>made it known</strong> — “communicated it” (See: <em><span resourceId=\"26697\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Idiom</span></em>)</p></li></ul><h3>Repeated Phrases in a Book</h3><p>Sometimes a phrase is used multiple times in one book. When this happens, there will be a link in the translationNotes (the blue or green chapter and verse numbers that you can click on) that will take you back to where you have translated that phrase before. There are several reasons why you will want to go to the place where the word or phrase was translated before:</p><ul><li><p>This will make it easier for you to translate this phrase by reminding you of how you have already translated it.</p></li><li><p>This will make your translation faster and more consistent because you will be reminded to translate that phrase in the same way each time.</p></li></ul><p>If a translation that you have used before for the same phrase does not fit a new context, then you will need to think of a new way to translate it. In this case, you should make a note of it and discuss it with others on the translation team.</p><p>These links will only take you back to Notes in the same book that you are working on, not to Notes in other books. (The links in the examples below are not functional).</p><h1>Examples</h1><ul><li><p><strong>be fruitful and multiply</strong> — See how you translated these commands in Genesis 1:28.</p></li><li><p><strong>everything that creeps along the ground</strong> — This includes all types of small animals. See how you translated this in Genesis 1:25.</p></li><li><p><strong>will be blessed in him</strong> — Alternate Translation: “will be blessed because of Abraham” or “will be blessed because I have blessed Abraham.” For translating “in him,” see how you translated “through you” in Genesis 12:3.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26705,
+          "content_id": 33291,
+          "label": "Merism",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800095,
+    "reference_id": 26730,
+    "title": "Verbos",
+    "media_type": "Text",
+    "index_reference": "verbos",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Verbos são palavras que se referem a uma ação ou evento ou que são usadas para descrever ou identificar coisas. Uma “ação” é algo que você faz. “Evento” é mais amplo do que “ação”. “Eventos” são coisas que acontecem, como a morte. Um verbo de ligação (ser/estar) descreve uma condição de ser.</p><p><strong>Exemplos,</strong> os verbos nos exemplos abaixo estão em negrito.</p><ul><li><p>João <strong>correu</strong> (“correr” é uma ação).</p></li><li><p>João <strong>comeu</strong> a banana (“comer” é uma ação).</p></li><li><p>João <strong>viu</strong> Marcos (“ver” é um evento).</p></li><li><p>João <strong>faleceu</strong> (“falecer” é um evento).</p></li><li><p>João <strong>é</strong> alto (a frase “é alto” descreve João. A palavra “é” é um verbo que conecta “João” com “alto”).</p></li><li><p>João <strong>parece</strong> bonito (A frase “é bonito” descreve João. A palavra “parece” aqui é um verbo que conecta “João” a “bonito”).</p></li><li><p>João <strong>é</strong> meu irmão (a frase “é meu irmão” identifica João).</p></li></ul><h3>Pessoas ou coisas relacionadas a um verbo</h3><p>Um verbo geralmente diz algo sobre alguém ou alguma coisa. Todas as frases de exemplo acima dizem algo sobre João. “João” é o <strong>sujeito</strong> dessas frases. Em português, o sujeito geralmente vem antes do verbo.</p><p>Às vezes, há outra pessoa ou coisa associada ao verbo. Nos exemplos abaixo, a palavra em negrito é o verbo, e a frase entre aspas é o <strong>objeto</strong>. Em português, o objeto geralmente vem após o verbo.</p><ul><li><p>Ele <strong>comeu</strong> &quot;a comida&quot;.</p></li><li><p>Ele <strong>cantou</strong> &quot;uma canção&quot;.</p></li><li><p>Ele <strong>leu</strong> &quot;um livro&quot;.</p></li><li><p><strong>Ele viu</strong> &quot;o livro&quot;.</p></li></ul><p>Alguns verbos nunca têm um objeto.</p><ul><li><p>O sol <strong>nasceu</strong> às seis horas.</p></li><li><p>João <strong>dormiu</strong> bem.</p></li><li><p>João <strong>caiu</strong> ontem.</p></li></ul><p>Para muitos verbos em português, quando o objeto não é importante na frase, ele pode não ser mencionado.</p><ul><li><p>Ele nunca <strong>come</strong> à noite.</p></li><li><p>Ele <strong>canta</strong> o tempo todo.</p></li><li><p>Ele <strong>lê</strong> muito bem.</p></li><li><p>Ele não consegue <strong>ver</strong>.</p></li></ul><p>Em algumas línguas, um verbo que requer um objeto deve sempre ter um, mesmo que o objeto não seja muito importante. Pessoas que falam essas línguas podem reformular as frases acima da seguinte forma:</p><ul><li><p>Ele nunca <strong>come</strong> <strong>comida</strong> à noite.</p></li><li><p>Ele <strong>canta</strong> <strong>músicas</strong> o tempo todo.</p></li><li><p>Ele <strong>lê</strong> <strong>as palavras</strong> bem.</p></li><li><p>Ele não consegue <strong>enxergar</strong> <strong>nada</strong>.</p></li></ul><h3>Identificação de sujeito e objeto em verbos</h3><p>Em algumas línguas, a forma do verbo pode variar dependendo das pessoas ou coisas associadas a ele. Em outras línguas, a marcação no verbo pode indicar se o sujeito é &quot;eu&quot;, &quot;você&quot; ou &quot;ele&quot;; singular, dual ou plural; masculino ou feminino; ou humano ou não humano.</p><ul><li><p>Eles <strong>comem</strong> bananas todos os dias (o sujeito “eles” refere-se a várias pessoas).</p></li><li><p>João <strong>come</strong> bananas todos os dias (o sujeito &quot;João&quot; é uma pessoa).</p></li></ul><h3>Tempo</h3><p>Quando falamos sobre um evento, geralmente indicamos se ele está no passado, no presente ou no futuro. Às vezes, fazemos isso com palavras como &quot;ontem&quot;, &quot;agora&quot; ou &quot;amanhã&quot;.</p><p>Em algumas línguas, o verbo pode variar dependendo do tempo associado a ele. Esse tipo de marcação em um verbo é chamado de &quot;tempo verbal&quot; (ou tempo e modo). </p><ul><li><p>Às vezes, Maria <strong>cozinha</strong> carne (presente, ação habitual)</p></li><li><p>Ontem Maria <strong>cozinhou</strong> carne (passado).</p></li><li><p>Amanhã, Maria <strong>cozinhará</strong> carne (futuro).</p></li></ul><h3>Aspecto</h3><p>Além do tempo, também podemos indicar <strong>como a ação se desenvolveu</strong> ou <strong>se relaciona com outra ação</strong>. Isso é chamado de <strong>aspecto verbal</strong>. No português, usamos formas compostas ou perífrases verbais para marcar o aspecto.</p><ul><li><p>Maria <strong>cozinha</strong> carne todos os dias (isso se refere a algo que Maria faz com frequência).</p></li><li><p>Maria <strong>está cozinhando</strong> a carne (isso indica algo que Maria está fazendo neste momento).</p></li><li><p>Maria <strong>cozinhou</strong> a carne, e João <strong>chegou</strong> em casa (isso apenas relata as ações de Maria e João).</p></li><li><p>Enquanto Maria <strong>cozinhava</strong> a carne, João chegou em casa (isso descreve algo que Maria fazia quando João chegou em casa).</p></li><li><p>Maria <strong>cozinhou</strong> a carne, e ela quer que venhamos comê-la (isso se refere a algo que Maria fez e que ainda é relevante agora).</p></li><li><p>Maria <strong>havia cozinhado</strong> a carne quando João chegou em casa (isso se refere a algo que Maria completou no passado antes de outra coisa acontecer).</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 136691,
+          "content_id": 309782,
+          "label": "Atos 1.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142593,
+          "content_id": 309559,
+          "label": "João 20.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143343,
+          "content_id": 303266,
+          "label": "Lucas 4.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144482,
+          "content_id": 304405,
+          "label": "Lucas 10.25 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145845,
+          "content_id": 305768,
+          "label": "Lucas 18.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146277,
+          "content_id": 306200,
+          "label": "Lucas 20.37 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146515,
+          "content_id": 306438,
+          "label": "Lucas 22.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146863,
+          "content_id": 306786,
+          "label": "Lucas 23.32 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146904,
+          "content_id": 306827,
+          "label": "Lucas 23.41 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146988,
+          "content_id": 306911,
+          "label": "Lucas 24.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147046,
+          "content_id": 306969,
+          "label": "Lucas 24.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147079,
+          "content_id": 307002,
+          "label": "Lucas 24.28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147082,
+          "content_id": 307005,
+          "label": "Lucas 24.29 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147096,
+          "content_id": 307019,
+          "label": "Lucas 24.32 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147104,
+          "content_id": 307027,
+          "label": "Lucas 24.33 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

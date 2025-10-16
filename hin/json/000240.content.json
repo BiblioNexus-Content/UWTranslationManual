@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 727277,
+    "reference_id": 209502,
+    "title": "एक अनुवाद को जाँचने के कदम",
+    "media_type": "Text",
+    "index_reference": "एक अनुवाद को जाँचने के कदम",
+    "language": "hin",
+    "content": "<h3>एक अनुवाद को जाँचने के कदम</h3><h4>जाँच से पहले</h4><ol><li><p>समय से पहले ही जान लें कि आप कौनसी कहानी अथवा बाइबल का भाग जाँचेंगे</p></li><li><p>समझ में आने वाले किसी भी भाषा में कर्इ सारे अनुवादों को पढ़ें, उपलब्ध हो तो मूल भाषा में भी पढ़ने की कोशिश करें</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26798,
+          "content_id": 727434,
+          "label": "Making a Key Terms Spreadsheet",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 799953,
+          "label": "संरेखण जांच",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 727271,
+          "label": "पिछला अनुवाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209503,
+          "content_id": 727278,
+          "label": "जाँच की चीजों के प्रकार",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

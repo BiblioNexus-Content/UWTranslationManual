@@ -1,0 +1,766 @@
+[
+  {
+    "content_id": 800105,
+    "reference_id": 26740,
+    "title": "Conectar — Condições factuais",
+    "media_type": "Text",
+    "index_reference": "conectar — condições factuais",
+    "language": "por",
+    "content": "<h2>Relações condicionais</h2><p>Conectores condicionais ligam duas orações para indicar que uma delas acontecerá quando a outra ocorrer. Em português, uma forma muito comum de conectar orações condicionais é com as palavras &quot;se ... então&quot;. No entanto, muitas vezes, a palavra &quot;então&quot; não é mencionada.</p><h3>Condições factuais</h3><h1>Descrição</h1><p>Uma Condição factual é uma condição que parece hipotética, mas já é certa ou verdadeira na mente do falante. Em português, uma frase contendo uma Condição factual pode usar as palavras &quot;mesmo que&quot;, &quot;já que&quot; ou &quot;sendo esse o caso&quot; para indicar que é uma condição factual e não uma condição hipotética.</p><h1>Por que isso é um problema de tradução</h1><p>Algumas línguas não expressam algo como uma condição se for certo ou verdadeiro. Tradutores dessas línguas podem interpretar mal as línguas originais e pensar que a condição é incerta, o que levaria a erros em suas traduções. Mesmo que os tradutores entendam que a condição é certa ou verdadeira, os leitores podem interpretá-la mal. Nesse caso, seria melhor traduzi-la como uma declaração de fato em vez de uma declaração condicional.</p><h1>Exemplos do OBS e da Bíblia</h1><p>“<strong>Se</strong> Yahweh é Deus, adorem-no!” (História 19 Quadro 6 OBS).</p><p>Elias se aproximou de todo o povo e disse: “Até quando vocês vão hesitar entre duas opiniões? <strong>Se Yahweh é Deus</strong>, sigam-no. Mas se Baal é Deus, então sigam-no”. No entanto, o povo não lhe respondeu uma palavra (1Rs 18.21).</p><p>Esta frase tem a mesma construção de uma condição hipotética. A condição é &quot;se Yahweh é Deus&quot;. Se isso for verdade, então os israelitas devem adorar Yahweh. Mas o profeta Elias não questiona se Yahweh é Deus ou não. Na verdade, ele está tão certo de que Yahweh é Deus que, mais adiante na passagem, ele derrama água sobre seu sacrifício. Ele está confiante de que Deus é real e que Ele queimará até mesmo uma oferta que está completamente molhada. Repetidamente, os profetas ensinaram que Yahweh é Deus, então o povo deveria adorá-lo. O povo, no entanto, não adorou Yahweh, mesmo Ele sendo Deus. Ao colocar a declaração ou instrução na forma de uma Condição Factual, Elias está tentando fazer com que os israelitas entendam mais claramente o que devem fazer.</p><p>“Um filho honra seu pai, e um servo honra seu mestre. <strong>Se</strong> eu, então, sou um pai, onde está a minha honra? <strong>Se</strong> eu sou um mestre, onde está a reverência por mim?” diz Yahweh dos exércitos a vocês, sacerdotes, que desprezam o meu nome (Ml 1.6).</p><p>Yahweh disse que ele é um pai e um mestre para Israel, então, mesmo que isso pareça uma condição hipotética porque começa com &quot;se&quot;, não é hipotético. Este versículo começa com o provérbio de que um filho honra seu pai. Todos sabem que isso é correto. Mas os israelitas não estão honrando Yahweh. O outro provérbio no versículo diz que um servo honra seu mestre. Todos sabem que isso é correto. Mas os israelitas não estão honrando Yahweh, então parece que ele não é o mestre deles. Mas Yahweh é o mestre. Yahweh usa a forma de uma condição hipotética para demonstrar que os israelitas estão errados. A segunda parte da condição que deveria ocorrer naturalmente não está acontecendo, mesmo que a declaração condicional seja verdadeira.</p><h1>Estratégias de tradução</h1><p>Se o uso de uma condição hipotética for confuso ou fizer o leitor pensar que o falante duvida do que está dizendo na primeira parte da frase, então use uma afirmação em vez disso. Palavras como &quot;já que&quot;, &quot;você sabe que&quot; ou &quot;é verdade que&quot; podem ser úteis para deixar o significado claro.</p><h1>Exemplos de estratégias aplicadas na tradução</h1><p>“<strong>Se</strong> Yahweh é Deus, adorem-no!” (História 19 Quadro 6 OBS).</p><p>“<strong>É verdade que</strong> Yahweh é Deus, então adorem-no!”.</p><p>“Um filho honra seu pai, e um servo honra seu mestre. <strong>Se</strong> eu, então, sou um pai, onde está a minha honra? <strong>Se</strong> eu sou um mestre, onde está a reverência por mim?” diz Yahweh dos exércitos a vocês, sacerdotes, que desprezam o meu nome (Ml 1.6).</p><p>“Um filho honra seu pai, e um servo honra seu mestre. <strong>Se</strong> eu sou um pai, onde está a minha honra? <strong>Se</strong> sou um mestre, onde está o respeito por mim?”.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118181,
+          "content_id": 236910,
+          "label": "Marcos 13.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137878,
+          "content_id": 310969,
+          "label": "Atos 8.22 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139142,
+          "content_id": 312233,
+          "label": "Atos 18.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139691,
+          "content_id": 312782,
+          "label": "Atos 23.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139877,
+          "content_id": 312968,
+          "label": "Atos 26.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139914,
+          "content_id": 313005,
+          "label": "Atos 26.23 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140436,
+          "content_id": 307402,
+          "label": "João 3.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140823,
+          "content_id": 307789,
+          "label": "João 5.47 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141067,
+          "content_id": 308033,
+          "label": "João 7.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141117,
+          "content_id": 308083,
+          "label": "João 7.23 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141313,
+          "content_id": 308279,
+          "label": "João 8.46 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141569,
+          "content_id": 308535,
+          "label": "João 10.35 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141582,
+          "content_id": 308548,
+          "label": "João 10.38 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141927,
+          "content_id": 308893,
+          "label": "João 13.14 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148023,
+          "content_id": 298252,
+          "label": "Mateus 6.30 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148122,
+          "content_id": 298351,
+          "label": "Mateus 7.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148347,
+          "content_id": 298576,
+          "label": "Mateus 8.31 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148687,
+          "content_id": 298916,
+          "label": "Mateus 10.25 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149078,
+          "content_id": 299307,
+          "label": "Mateus 12.28 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150445,
+          "content_id": 300674,
+          "label": "Mateus 19.17 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144599,
+          "content_id": 304522,
+          "label": "Lucas 11.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144626,
+          "content_id": 304549,
+          "label": "Lucas 11.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144885,
+          "content_id": 304808,
+          "label": "Lucas 12.28 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145596,
+          "content_id": 305519,
+          "label": "Lucas 16.31 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145789,
+          "content_id": 305712,
+          "label": "Lucas 18.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145956,
+          "content_id": 305879,
+          "label": "Lucas 19.8 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141934,
+          "content_id": 308900,
+          "label": "João 13.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141999,
+          "content_id": 308965,
+          "label": "João 14.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142009,
+          "content_id": 308975,
+          "label": "João 14.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142143,
+          "content_id": 309109,
+          "label": "João 15.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150458,
+          "content_id": 300687,
+          "label": "Mateus 19.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151115,
+          "content_id": 301344,
+          "label": "Mateus 22.45 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151407,
+          "content_id": 301636,
+          "label": "Mateus 24.23 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155556,
+          "content_id": 640801,
+          "label": "1 Coríntios 3.12 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155661,
+          "content_id": 640906,
+          "label": "1 Coríntios 4.7 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155845,
+          "content_id": 641090,
+          "label": "1 Coríntios 6.2 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156258,
+          "content_id": 641503,
+          "label": "1 Coríntios 8.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156284,
+          "content_id": 641529,
+          "label": "1 Coríntios 8.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152767,
+          "content_id": 684142,
+          "label": "Romanos 2.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153051,
+          "content_id": 684426,
+          "label": "Romanos 3.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153076,
+          "content_id": 684451,
+          "label": "Romanos 4.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153308,
+          "content_id": 684683,
+          "label": "Romanos 5.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153351,
+          "content_id": 684726,
+          "label": "Romanos 5.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153370,
+          "content_id": 684745,
+          "label": "Romanos 5.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153450,
+          "content_id": 684825,
+          "label": "Romanos 6.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153469,
+          "content_id": 684844,
+          "label": "Romanos 6.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153693,
+          "content_id": 685068,
+          "label": "Romanos 7.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153712,
+          "content_id": 685087,
+          "label": "Romanos 7.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153822,
+          "content_id": 685197,
+          "label": "Romanos 8.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153829,
+          "content_id": 685204,
+          "label": "Romanos 8.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153870,
+          "content_id": 685245,
+          "label": "Romanos 8.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153954,
+          "content_id": 685329,
+          "label": "Romanos 8.31 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154146,
+          "content_id": 685521,
+          "label": "Romanos 9.22 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154432,
+          "content_id": 685807,
+          "label": "Romanos 11.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154474,
+          "content_id": 685849,
+          "label": "Romanos 11.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154490,
+          "content_id": 685865,
+          "label": "Romanos 11.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154500,
+          "content_id": 685875,
+          "label": "Romanos 11.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154505,
+          "content_id": 685880,
+          "label": "Romanos 11.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154531,
+          "content_id": 685906,
+          "label": "Romanos 11.21 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154553,
+          "content_id": 685928,
+          "label": "Romanos 11.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154773,
+          "content_id": 686148,
+          "label": "Romanos 13.9 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155068,
+          "content_id": 686443,
+          "label": "Romanos 15.27 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161436,
+          "content_id": 583170,
+          "label": "1 Timóteo 3.1 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161744,
+          "content_id": 583478,
+          "label": "1 Timóteo 6.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164534,
+          "content_id": 586983,
+          "label": "Hebreus 2.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164676,
+          "content_id": 587125,
+          "label": "Hebreus 3.7 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165079,
+          "content_id": 587528,
+          "label": "Hebreus 7.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165327,
+          "content_id": 587776,
+          "label": "Hebreus 9.13 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165998,
+          "content_id": 588447,
+          "label": "Hebreus 12.25 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156351,
+          "content_id": 641596,
+          "label": "1 Coríntios 9.11 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156354,
+          "content_id": 641599,
+          "label": "1 Coríntios 9.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156382,
+          "content_id": 641627,
+          "label": "1 Coríntios 9.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156525,
+          "content_id": 641770,
+          "label": "1 Coríntios 10.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156609,
+          "content_id": 641854,
+          "label": "1 Coríntios 10.31 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156645,
+          "content_id": 641890,
+          "label": "1 Coríntios 11.6 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156975,
+          "content_id": 642220,
+          "label": "1 Coríntios 13.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157158,
+          "content_id": 642403,
+          "label": "1 Coríntios 14.27 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157165,
+          "content_id": 642410,
+          "label": "1 Coríntios 14.28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157217,
+          "content_id": 642462,
+          "label": "1 Coríntios 14.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157223,
+          "content_id": 642468,
+          "label": "1 Coríntios 14.38 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157290,
+          "content_id": 642535,
+          "label": "1 Coríntios 15.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157424,
+          "content_id": 642669,
+          "label": "1 Coríntios 15.32 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157493,
+          "content_id": 642738,
+          "label": "1 Coríntios 15.44 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157633,
+          "content_id": 642878,
+          "label": "1 Coríntios 16.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157699,
+          "content_id": 642944,
+          "label": "1 Coríntios 16.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157733,
+          "content_id": 658777,
+          "label": "2 Coríntios 1.6 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157736,
+          "content_id": 658780,
+          "label": "2 Coríntios 1.6 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157860,
+          "content_id": 658904,
+          "label": "2 Coríntios 2.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158003,
+          "content_id": 659047,
+          "label": "2 Coríntios 3.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158023,
+          "content_id": 659067,
+          "label": "2 Coríntios 3.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158039,
+          "content_id": 659083,
+          "label": "2 Coríntios 3.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158122,
+          "content_id": 659166,
+          "label": "2 Coríntios 4.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158204,
+          "content_id": 659248,
+          "label": "2 Coríntios 4.16 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158226,
+          "content_id": 659270,
+          "label": "2 Coríntios 5.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158239,
+          "content_id": 659283,
+          "label": "2 Coríntios 5.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158301,
+          "content_id": 659345,
+          "label": "2 Coríntios 5.13 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158326,
+          "content_id": 659370,
+          "label": "2 Coríntios 5.16 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158503,
+          "content_id": 659547,
+          "label": "2 Coríntios 7.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158509,
+          "content_id": 659553,
+          "label": "2 Coríntios 7.8 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158547,
+          "content_id": 659591,
+          "label": "2 Coríntios 7.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158820,
+          "content_id": 659864,
+          "label": "2 Coríntios 10.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158886,
+          "content_id": 659930,
+          "label": "2 Coríntios 11.4 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158894,
+          "content_id": 659938,
+          "label": "2 Coríntios 11.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158941,
+          "content_id": 659985,
+          "label": "2 Coríntios 11.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158963,
+          "content_id": 660007,
+          "label": "2 Coríntios 11.20 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159013,
+          "content_id": 660057,
+          "label": "2 Coríntios 11.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159093,
+          "content_id": 660137,
+          "label": "2 Coríntios 12.11 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159124,
+          "content_id": 660168,
+          "label": "2 Coríntios 12.15 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159167,
+          "content_id": 660211,
+          "label": "2 Coríntios 13.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159183,
+          "content_id": 660227,
+          "label": "2 Coríntios 13.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159325,
+          "content_id": 660831,
+          "label": "Colossenses 1.23 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159397,
+          "content_id": 660903,
+          "label": "Colossenses 2.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159490,
+          "content_id": 660996,
+          "label": "Colossenses 2.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159520,
+          "content_id": 661026,
+          "label": "Colossenses 3.1 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160942,
+          "content_id": 683363,
+          "label": "1 Tessalonicenses 3.8 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161058,
+          "content_id": 683479,
+          "label": "1 Tessalonicenses 4.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161888,
+          "content_id": 683672,
+          "label": "2 Tessalonicenses 1.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187325,
+          "content_id": 723934,
+          "label": "Gálatas 2.14 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187344,
+          "content_id": 723953,
+          "label": "Gálatas 2.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187634,
+          "content_id": 724243,
+          "label": "Gálatas 4.7 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187878,
+          "content_id": 724487,
+          "label": "Gálatas 5.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185676,
+          "content_id": 745788,
+          "label": "Cântico dos cânticos 8.7 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 162214,
+          "content_id": 760231,
+          "label": "2 Timóteo 2.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 162553,
+          "content_id": 760570,
+          "label": "Filemom 1.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 162556,
+          "content_id": 760573,
+          "label": "Filemom 1.18 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 727412,
+    "reference_id": 209483,
+    "title": "अनुवाद दल को स्थापित करना",
+    "media_type": "Text",
+    "index_reference": "अनुवाद दल को स्थापित करना",
+    "language": "hin",
+    "content": "<h3>एक दल अथवा टीम को चुनना</h3><p>जब आप अनुवाद एवं जाँच के दल को चुनते हैं तो कर्इ प्रकार के लोगों और भूमिकाओं की जरूरत होती है। हर दल के लिए विशेष योग्यताओं का होना जरूरी है।</p><ul><li><p>अनुवाद दल को चुनना <span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Choosing a Translation Team</span> - जरूरी भुमिकाओं का वर्णन करता है</p></li><li><p>अनुवादक की योग्यताएँ <span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">Translator Qualifications</span> - अनुवादकों में जरूरी निपुणताओं के बारे में बताता है</p></li><li><p>याद रखें कि दल के प्रत्येक व्यक्ति को सहमति के कथन पर हस्ताक्षर करना जरूरी है (फॉर्म पर उपलब्ध हैं)</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Statement of Faith</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Translation Guidelines</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Open License</span></p></li><li><p>दल का प्रत्येक व्यक्ति अनुवादक की योग्यताओं से ज्ञात हो (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">The Qualities of a Good Translation</span>)</p></li><li><p>दल को यह भी ज्ञात होना चाहिए कि उत्तर कहाँ मिल सकते हैं (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209457\" data-resourceType=\"UWTranslationManual\">Finding Answers</span>)</p></li></ul><h3>अनुवाद के निर्णय</h3><p>अनुवादक दल को कर्इ सारे निर्णय लेने पड़ेंगे, जिनमें से अधिकतर निर्णय प्रोजेक्ट से पहले ही लेने होंगे। िम्नलिखित उनमें शामिल हैं:</p><ul><li><p>चुनना कि क्या अनुवाद करें <span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Choosing What to Translate</span> - एक और निर्णय यह लेना पड़ेगा कि पहले क्या अनुवाद किया जाए</p></li><li><p>स्रोत लेख को चुनना <span data-bnType=\"resourceReference\" data-resourceId=\"26814\" data-resourceType=\"UWTranslationManual\">Choosing a Source Text</span> - स्रोत लेख को चुनना महत्वपूर्ण है</p></li><li><p>कॉपीराइट, लाइसेंस एवं स्रोत लेख <span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\">Copyrights, Licensing, and Source Texts</span> - स्रोत के लेख को चुनते वक्त कॉपीराइट के विषय को ध्यान में रखना बहुत जरूरी है</p></li><li><p>स्रोत लेख एवं वर्ज़न संख्याएँ <span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\">Source Texts and Version Numbers</span> - स्रोत लेख के सबसे नए वर्जन से अनुवाद करना अच्छा होता है</p></li><li><p>अक्षरमाला/वर्तनी <span data-bnType=\"resourceReference\" data-resourceId=\"26781\" data-resourceType=\"UWTranslationManual\">Alphabet/Orthography</span> - कर्इ भाषाओं में अक्षरमाला के विषय में भी निर्णय लेना पड़ता है</p></li><li><p>अपनी भाषा को लिखने के निर्णय <span data-bnType=\"resourceReference\" data-resourceId=\"26830\" data-resourceType=\"UWTranslationManual\">Decisions for Writing Your Language</span> - लिखने का तरीका, नामों के अनुवाद, सही शब्द और अन्य निर्णयों को लेना जरूरी है</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 799937,
+          "label": "अनुवाद शैली का चयन ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26669,
+          "content_id": 727301,
+          "label": "अनुवाद दल को चुनना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 727384,
+          "label": "अच्छे अनुवादक के गुण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26764,
+          "content_id": 727396,
+          "label": "अनुवादक की योग्यताएँ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26781,
+          "content_id": 727418,
+          "label": "अक्षरमाला/वर्तनी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 727448,
+          "label": "कॉपीराइट, लार्इसेंस और स्रोत लेख",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 727246,
+          "label": "स्वीकार्य शैली",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209457,
+          "content_id": 727362,
+          "label": "उत्तरों की तलाश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 727391,
+          "label": "खुला लार्इसेंस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 727394,
+          "label": "अनुवाद शुरू करने से पहले प्रशिक्षण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26814,
+          "content_id": 727449,
+          "label": "स्रोत लेख को चुनना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 727450,
+          "label": "स्रोत लेख एवं वर्जन संख्याएँ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 727461,
+          "label": "चुनना कि क्या अनुवाद किया जाए",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26830,
+          "content_id": 727465,
+          "label": "अपनी भाषाओं को लिखने के निर्णय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 727415,
+          "label": "विश्वास कथन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 727462,
+          "label": "अनुवाद मार्गनिर्देश",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

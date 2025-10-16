@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 800217,
+    "reference_id": 209458,
+    "title": "Como verificar a qualidade da formatação",
+    "media_type": "Text",
+    "index_reference": "como verificar a qualidade da formatação",
+    "language": "por",
+    "content": "<p>Existem verificações que você pode fazer antes, durante e após a tradução de um livro da Bíblia que tornarão o processo de tradução muito mais fácil, de modo que a tradução fique boa e seja o mais fácil de ler possível. Os módulos sobre esses tópicos estão reunidos aqui em Formatação e Publicação, mas são aspectos que a equipe de tradução deve estar pensando e decidindo ao longo do processo de tradução.</p><h3>Antes de traduzir</h3><p>A equipe de tradução deve tomar decisões sobre as seguintes questões antes de começar a traduzir.</p><ol><li><p>Alfabeto (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209451\" data-resourceType=\"UWTranslationManual\">Alfabeto apropriado</span>)</p></li><li><p>Ortografia (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209486\" data-resourceType=\"UWTranslationManual\">Ortografia consistente</span>)</p></li><li><p>Pontuação (consulte <span data-bnType=\"resourceReference\" data-resourceId=\"209480\" data-resourceType=\"UWTranslationManual\">Pontuação consistente</span>)</p></li></ol><h3>Durante a tradução</h3><p>Após a tradução de vários capítulos, a equipe de tradução pode precisar revisar algumas dessas decisões para resolver problemas identificados durante o processo. Se o ParaText estiver disponível, você também pode realizar verificações de consistência no ParaText neste momento para ver se há mais decisões a serem tomadas sobre ortografia e pontuação.</p><h3>Depois de concluir um livro</h3><p>Depois de terminar um livro, você pode verificar se todos os versículos estão presentes e decidir sobre os títulos das seções. Também é útil anotar ideias para os títulos das seções enquanto você traduz.</p><ol><li><p>Versificação (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">Versificação completa</span>)</p></li><li><p>Títulos de Seções (consulte <span data-bnType=\"resourceReference\" data-resourceId=\"209462\" data-resourceType=\"UWTranslationManual\">Títulos de seções</span>)</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209451,
+          "content_id": 800210,
+          "label": "Alfabeto apropriado",
+          "language": "por"
+        },
+        {
+          "reference_id": 209462,
+          "content_id": 800221,
+          "label": "Títulos de seções",
+          "language": "por"
+        },
+        {
+          "reference_id": 209480,
+          "content_id": 800239,
+          "label": "Pontuação consistente",
+          "language": "por"
+        },
+        {
+          "reference_id": 209486,
+          "content_id": 800245,
+          "label": "Ortografia consistente",
+          "language": "por"
+        },
+        {
+          "reference_id": 209495,
+          "content_id": 800254,
+          "label": "Versificação completa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

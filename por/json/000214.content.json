@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800235,
+    "reference_id": 209476,
+    "title": "Treinando antes de começar a verificação",
+    "media_type": "Text",
+    "index_reference": "treinando antes de começar a verificação",
+    "language": "por",
+    "content": "<h3>Antes de fazer a verificação</h3><p>Recomenda-se que você consulte o <span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Manual de verificação</span> frequentemente enquanto verifica sua tradução. Antes de iniciar a verificação, sugerimos que você estude o Manual de verificação até compreender o que é necessário para cada verificação. Durante o processo de verificação, será necessário consultar o Manual de verificação com frequência.</p><p>Algumas informações que a equipe de tradução deve saber antes de começar a revisão:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209460\" data-resourceType=\"UWTranslationManual\">Objetivo da verificação</span> — Qual é o objetivo da verificação?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">Introdução à verificação de Tradução</span> — Por que precisamos de uma equipe para revisar a tradução?</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209460,
+          "content_id": 800219,
+          "label": "O objetivo da verificação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 800223,
+          "label": "Introdução ao Manual de Verificação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 800224,
+          "label": "Introdução à Verificação de Tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

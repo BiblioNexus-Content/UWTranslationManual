@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 689637,
+    "reference_id": 209457,
+    "title": "Finding Answers",
+    "media_type": "Text",
+    "index_reference": "finding answers",
+    "language": "fra",
+    "content": "<h3>How to Get Answers</h3><p>There are several resources available for finding answers to questions:</p><ul><li><p><strong>unfoldingWord® Translation Academy</strong> — This training manual is available at https://ufw.io/ta and has much information including:</p><ul><li><p><span resourceId=\"209488\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Introduction</span> — introduces this resource, the Gateway Languages strategy, and translation</p></li><li><p><span resourceId=\"209478\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Process Manual</span> — answers the question “what next?”</p></li><li><p><span resourceId=\"26802\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Manual</span> — explains the basics of translation theory and provides practical translation helps</p></li><li><p><span resourceId=\"209464\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Checking Manual</span> — explains the basics of checking theory and best practices</p></li></ul></li><li><p><strong>Door43 Forum</strong> — A place to ask questions and get answers to technical, strategic, translation, and checking issues, https://forum.door43.org/</p></li><li><p><strong>Helpdesk</strong> — email <a href=\"mailto:help@door43.org\" target=\"_blank\" rel=\"noopener nofollow\">help@door43.org</a> with your questions</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 33388,
+          "label": "Introduction to the Translation Manual",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 689644,
+          "label": "Introduction to the Checking Manual",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 689658,
+          "label": "Introduction to the Process Manual",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 689668,
+          "label": "Introduction to unfoldingWord® Translation Academy",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

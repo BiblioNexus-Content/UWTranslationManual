@@ -1,0 +1,166 @@
+[
+  {
+    "content_id": 800174,
+    "reference_id": 26809,
+    "title": "Usos incomuns do plural",
+    "media_type": "Text",
+    "index_reference": "usos incomuns do plural",
+    "language": "por",
+    "content": "<p>As línguas bíblicas às vezes usam formas plurais para se referirem a objetos, ideias ou pessoas singulares.</p><h3>Descrição</h3><p>Usar uma forma plural para se referir a algo singular é feito para expressar um sentimento intensificado sobre o objeto, ideia ou pessoa, ou para indicar que um objeto ou ideia é extraordinário de alguma forma. Além disso, às vezes uma pessoa se refere a si mesma com um pronome plural. Se a pessoa é um rei ou um líder em uma posição elevada, isso serve para mostrar que ela é muito importante e representa muitas pessoas. Se a pessoa está escrevendo uma carta, como Paulo no Novo Testamento, isso tem o efeito oposto. É para evitar referir-se diretamente a si mesmo, evitando qualquer impressão de que está se gabando ou chamando atenção para si.</p><h1>Por que isso é um problema de tradução</h1><p>Muitas línguas não usam formas plurais para se referir a objetos, ideias ou pessoas singulares. Nessas línguas, fazer isso seria tanto errado quanto confuso. Em vez disso, elas precisam usar uma forma singular e expressar qualquer intensificação pretendida de outra maneira.</p><h3>Exemplos da Bíblia</h3><p>As tendas dos ladrões prosperam, e seguranças há para os provocadores de Deus (Jó 12.6)</p><p>Jó está usando a forma plural <strong>seguranças</strong> para indicar que esses provocadores de Deus experimentam segurança em um grau máximo.</p><p>Agora você me lançou nas profundezas do coração dos mares (Jn 2.3)</p><p>Jonas refere-se ao mar usando o plural <strong>mares</strong> para intensificar a ideia de vastidão ou atividade do mar.</p><p>A carta que você enviou para <strong>nós</strong> foi lida cuidadosamente em voz alta diante de mim (Ed 4.18).</p><p>Artaxerxes, o rei da Pérsia, refere-se a si mesmo como <strong>nós</strong> ao responder a uma carta enviada a ele.</p><p>...por meio de quem [Jesus] <strong>nós</strong> recebemos graça e apostolado para a obediência da fé entre todos os gentios (Rm 1.5)</p><p>Como esta carta é apenas de Paulo, é provável que ele esteja usando o plural <strong>nós</strong> para referir-se a si mesmo.</p><h3>Estratégias de tradução</h3><p>Se uma forma plural for natural e transmitir o significado correto em seu idioma, considere usá-la. Caso contrário, considere estas estratégias:</p><p>(1) Use a forma singular em vez do plural. (2) Se o plural for usado para intensificar o significado, utilize uma forma singular com outra palavra que o intensifique, como &quot;muito&quot;, &quot;grande&quot; ou &quot;muitos&quot;. (3) Se o plural for usado para intensificar ou enfatizar o significado, utilize uma das formas da sua língua para fazer isso.</p><h3>Estratégias de tradução aplicadas</h3><p>(1) Use a forma singular em vez do plural.</p><p>A carta que você enviou para <strong>nós</strong> foi cuidadosamente lida em voz alta diante de mim (Ed 4.18).</p><p>A carta que você enviou para <strong>mim</strong> foi lida em voz alta com atenção na minha presença.</p><p>...por meio de quem [Jesus] <strong>nós</strong> recebemos graça e apostolado para a obediência da fé entre todos os gentios (Rm 1.5)</p><p>...por meio de quem [Jesus] <strong>recebi</strong> graça e apostolado para a obediência da fé entre todos os gentios</p><p>(2) Se o plural for usado para intensificar ou enfatizar o significado, use uma forma singular com outra palavra que o intensifique, como &quot;muito&quot;, &quot;grande&quot; ou &quot;muitos&quot;.</p><p>As tendas dos ladrões prosperam, e <strong>seguranças </strong>há para os provocadores de Deus (Jó 12.6)</p><p>As tendas dos ladrões prosperam, e <strong>grande segurança está</strong> com os provocadores de Deus</p><p>Agora você me lançou nas profundezas do <strong>mar</strong> (Jn 2.3)</p><p>Agora você me lançou profundamente no coração do <strong>grande mar</strong></p><p>(3) Se o plural for usado para intensificar ou enfatizar o significado, utilize uma das formas da sua língua para fazer isso.</p><p>As tendas dos ladrões prosperam, e <strong>segurança </strong>há para os provocadores de Deus (Jó 12.6)</p><p>As tendas dos ladrões prosperam, e os provocadores de Deus <strong>vivem em total segurança</strong></p><p>Agora você me lançou nas profundezas do <strong>mar</strong> (Jn 2.3)</p><p>Agora você me lançou profundamente no coração do <strong>mar agitado</strong><br><br>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 176430,
+          "content_id": 584451,
+          "label": "Jó 12.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176718,
+          "content_id": 584739,
+          "label": "Jó 15.26 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176789,
+          "content_id": 584810,
+          "label": "Jó 16.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176790,
+          "content_id": 584811,
+          "label": "Jó 16.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176803,
+          "content_id": 584824,
+          "label": "Jó 17.1 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176857,
+          "content_id": 584878,
+          "label": "Jó 17.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176864,
+          "content_id": 584885,
+          "label": "Jó 18.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176869,
+          "content_id": 584890,
+          "label": "Jó 18.3 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177071,
+          "content_id": 585092,
+          "label": "Jó 20.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177303,
+          "content_id": 585324,
+          "label": "Jó 22.25 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177304,
+          "content_id": 585325,
+          "label": "Jó 22.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177478,
+          "content_id": 585499,
+          "label": "Jó 25.2 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177864,
+          "content_id": 585885,
+          "label": "Jó 31.2 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178055,
+          "content_id": 586076,
+          "label": "Jó 33.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178233,
+          "content_id": 586254,
+          "label": "Jó 35.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178396,
+          "content_id": 586417,
+          "label": "Jó 37.6 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178404,
+          "content_id": 586425,
+          "label": "Jó 37.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178433,
+          "content_id": 586454,
+          "label": "Jó 37.16 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178523,
+          "content_id": 586544,
+          "label": "Jó 38.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178769,
+          "content_id": 586790,
+          "label": "Jó 41.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185274,
+          "content_id": 745386,
+          "label": "Cântico dos cânticos 2.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185302,
+          "content_id": 745414,
+          "label": "Cântico dos cânticos 2.9 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185340,
+          "content_id": 745452,
+          "label": "Cântico dos cânticos 3.1 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185446,
+          "content_id": 745558,
+          "label": "Cântico dos cânticos 4.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 184923,
+          "content_id": 806344,
+          "label": "Rute 1.15 (#5)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

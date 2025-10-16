@@ -1,0 +1,316 @@
+[
+  {
+    "content_id": 727434,
+    "reference_id": 26798,
+    "title": "Making a Key Terms Spreadsheet",
+    "media_type": "Text",
+    "index_reference": "making a key terms spreadsheet",
+    "language": "hin",
+    "content": "<h3>Making a Key Terms Spreadsheet</h3><ul><li><p>Make a list of the key terms in the story or Bible passage that you translate, along with the term that you choose for each of them in the target language. It is best if you can do this on a spreadsheet so that you can list the source word or phrase in one column and the target word or phrase in another column. Further columns could list equivalent terms in other languages and the references where these terms occur in the Bible. Make sure that everyone translating Bible books that use these terms has access to the spreadsheet, or a chart on paper, so that you can all use the same words or phrases in your translation.</p></li><li><p>Use the list of words and definitions in the unfoldingWord® translation Words resource to help you to make a list of these words and to understand what they mean. The translationStudio tool will show you these words and their definitions as you encounter them in the source text, and the translationWords tool in translationCore will give you a list of all of the key terms in each book of the Bible.</p></li><li><p>Each time the key word occurs in the source text, make sure that the term you have chosen for the translation still makes sense in that context. If it does not, discuss the problem with others on the translation team and try to find a solution together. You may need to use a different term, or you may need to use more than one term for the different contexts, or you may need to find another way to communicate the term that includes all of the meanings, such as using a longer phrase.</p></li><li><p>When you have decided that you need to use different target language words or phrases to translate one source language word in different contexts, then make a new line on the spreadsheet for each different way that you are translating the source word. Repeat the source term in the source column, and put the new translation in the next column, under the first translation. Share this spreadsheet with everyone on the translation team so that they can choose the right translation for the key term in the context that they are translating.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 169361,
+          "content_id": 370102,
+          "label": "उत्पत्ति 1:1 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169362,
+          "content_id": 370103,
+          "label": "उत्पत्ति 1:1 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169363,
+          "content_id": 370104,
+          "label": "उत्पत्ति 1:1 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169364,
+          "content_id": 370105,
+          "label": "उत्पत्ति 1:1 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169374,
+          "content_id": 370115,
+          "label": "उत्पत्ति 1:4 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169393,
+          "content_id": 370134,
+          "label": "उत्पत्ति 1:8 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169503,
+          "content_id": 370244,
+          "label": "उत्पत्ति 1:27 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169517,
+          "content_id": 370258,
+          "label": "उत्पत्ति 1:29 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169543,
+          "content_id": 370284,
+          "label": "उत्पत्ति 2:3 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169550,
+          "content_id": 370291,
+          "label": "उत्पत्ति 2:4 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169580,
+          "content_id": 370321,
+          "label": "उत्पत्ति 2:9 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169714,
+          "content_id": 370455,
+          "label": "उत्पत्ति 3:14 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 169788,
+          "content_id": 370529,
+          "label": "उत्पत्ति 4:3 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170027,
+          "content_id": 370768,
+          "label": "उत्पत्ति 6:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170065,
+          "content_id": 370806,
+          "label": "उत्पत्ति 6:18 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170173,
+          "content_id": 370914,
+          "label": "उत्पत्ति 7:23 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170270,
+          "content_id": 371011,
+          "label": "उत्पत्ति 8:20 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170277,
+          "content_id": 371018,
+          "label": "उत्पत्ति 8:21 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170336,
+          "content_id": 371077,
+          "label": "उत्पत्ति 9:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170367,
+          "content_id": 371108,
+          "label": "उत्पत्ति 9:17 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170398,
+          "content_id": 371139,
+          "label": "उत्पत्ति 9:26 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170888,
+          "content_id": 371629,
+          "label": "उत्पत्ति 14:18 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170890,
+          "content_id": 371631,
+          "label": "उत्पत्ति 14:19 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170922,
+          "content_id": 371663,
+          "label": "उत्पत्ति 15:1 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170926,
+          "content_id": 371667,
+          "label": "उत्पत्ति 15:2 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171053,
+          "content_id": 371794,
+          "label": "उत्पत्ति 16:7 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171097,
+          "content_id": 371838,
+          "label": "उत्पत्ति 17:2 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171104,
+          "content_id": 371845,
+          "label": "उत्पत्ति 17:4 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171132,
+          "content_id": 371873,
+          "label": "उत्पत्ति 17:10 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171179,
+          "content_id": 371920,
+          "label": "उत्पत्ति 17:21 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171383,
+          "content_id": 372124,
+          "label": "उत्पत्ति 19:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171477,
+          "content_id": 372218,
+          "label": "उत्पत्ति 19:19 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171603,
+          "content_id": 372344,
+          "label": "उत्पत्ति 20:7 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171723,
+          "content_id": 372464,
+          "label": "उत्पत्ति 21:17 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171851,
+          "content_id": 372592,
+          "label": "उत्पत्ति 22:12 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172418,
+          "content_id": 373159,
+          "label": "उत्पत्ति 26:14 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172451,
+          "content_id": 373192,
+          "label": "उत्पत्ति 26:24 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172558,
+          "content_id": 373299,
+          "label": "उत्पत्ति 27:19 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172649,
+          "content_id": 373390,
+          "label": "उत्पत्ति 27:41 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172713,
+          "content_id": 373454,
+          "label": "उत्पत्ति 28:12 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173084,
+          "content_id": 373825,
+          "label": "उत्पत्ति 31:11 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173490,
+          "content_id": 374231,
+          "label": "उत्पत्ति 34:15 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173546,
+          "content_id": 374287,
+          "label": "उत्पत्ति 35:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173547,
+          "content_id": 374288,
+          "label": "उत्पत्ति 35:2 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173570,
+          "content_id": 374311,
+          "label": "उत्पत्ति 35:7 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173583,
+          "content_id": 374324,
+          "label": "उत्पत्ति 35:9 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173629,
+          "content_id": 374370,
+          "label": "उत्पत्ति 35:26 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173670,
+          "content_id": 374411,
+          "label": "उत्पत्ति 36:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 174072,
+          "content_id": 374813,
+          "label": "उत्पत्ति 40:1 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 175180,
+          "content_id": 375921,
+          "label": "उत्पत्ति 48:16 (#1)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

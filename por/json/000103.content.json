@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800124,
+    "reference_id": 26759,
+    "title": "As qualidades de uma boa tradução",
+    "media_type": "Text",
+    "index_reference": "as qualidades de uma boa tradução",
+    "language": "por",
+    "content": "<h3>Quatro qualidades principais</h3><p>Existem quatro qualidades principais de uma boa tradução. Ela deve ser:</p><ul><li><p>clara — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">Criar traduções claras</span></p></li><li><p>natural — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">Criar traduções naturais</span></p></li><li><p>Preciso — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">Criar traduções precisas</span></p></li><li><p>Aprovado pela Igreja — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26753\" data-resourceType=\"UWTranslationManual\">Criar traduções aprovadas pela Igreja</span></p></li></ul><p>Podemos imaginar cada uma dessas qualidades como uma perna de um banquinho de quatro pernas. Todas são necessárias. Se uma estiver ausente, o banquinho não se sustentará. Da mesma forma, cada uma dessas qualidades deve estar presente em uma tradução para que ela seja fiel à Palavra de Deus e útil para a igreja.</p><h1>Clara</h1><p>Utilize quaisquer estruturas de linguagem necessárias para alcançar o mais alto nível de compreensão. Isso inclui simplificar conceitos, reorganizar a forma de um texto e usar tantos ou tão poucos termos quanto necessário para comunicar o significado original da maneira mais precisa possível. Para aprender a fazer traduções claras, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">Criar traduções claras</span>.</p><h1>Natural</h1><p>Utilize formas de linguagem que sejam eficazes e que reflitam a maneira como seu idioma é usado em contextos correspondentes. Para aprender a fazer traduções naturais, consulte <span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">Criar traduções naturais</span>.</p><h1>Precisa</h1><p>Traduza com precisão, sem reduzir, alterar ou adicionar ao significado do texto original, conforme teria sido entendido pelo público original. Traduza considerando o significado do texto e comunique com precisão as informações implícitas, conceitos desconhecidos e figuras de linguagem. Para aprender a fazer traduções precisas, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">Criar traduções precisas</span>.</p><h1>Aprovado pela Igreja</h1><p>Se uma tradução é clara, natural e precisa, mas a igreja não a aprova ou aceita, então ela não atingirá o objetivo final de edificar a igreja. É importante que a igreja esteja envolvida na tradução, verificação e distribuição da tradução. Para aprender como fazer traduções aprovadas pela igreja, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26753\" data-resourceType=\"UWTranslationManual\">Criar traduções aprovadas pela Igreja</span>.</p><h3>Seis outras características</h3><p>Além de serem claras, naturais, precisas e aprovadas pela igreja, ótimas traduções também devem ser:</p><ul><li><p>fiel — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26757\" data-resourceType=\"UWTranslationManual\">Criar traduções fiéis</span></p></li><li><p>autoritativa — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26752\" data-resourceType=\"UWTranslationManual\">Criar traduções confiáveis</span></p></li><li><p>histórica — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26758\" data-resourceType=\"UWTranslationManual\">Criar traduções históricas</span></p></li><li><p>igual — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26756\" data-resourceType=\"UWTranslationManual\">Criar traduções iguais</span></p></li><li><p>colaborativa — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26755\" data-resourceType=\"UWTranslationManual\">Como criar traduções colaborativas</span></p></li><li><p>contínua — veja <span data-bnType=\"resourceReference\" data-resourceId=\"26761\" data-resourceType=\"UWTranslationManual\">Criar traduções contínuas</span></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 800116,
+          "label": "Criar traduções precisas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26752,
+          "content_id": 800117,
+          "label": "Criar traduções confiáveis",
+          "language": "por"
+        },
+        {
+          "reference_id": 26753,
+          "content_id": 800118,
+          "label": "Criar traduções aprovadas pela Igreja",
+          "language": "por"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 800119,
+          "label": "Criar traduções claras",
+          "language": "por"
+        },
+        {
+          "reference_id": 26755,
+          "content_id": 800120,
+          "label": "Criar traduções colaborativas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26756,
+          "content_id": 800121,
+          "label": "Criar traduções iguais",
+          "language": "por"
+        },
+        {
+          "reference_id": 26757,
+          "content_id": 800122,
+          "label": "Criar traduções fiéis",
+          "language": "por"
+        },
+        {
+          "reference_id": 26758,
+          "content_id": 800123,
+          "label": "Criar traduções históricas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 800125,
+          "label": "Criar traduções naturais",
+          "language": "por"
+        },
+        {
+          "reference_id": 26761,
+          "content_id": 800126,
+          "label": "Criar traduções contínuas",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

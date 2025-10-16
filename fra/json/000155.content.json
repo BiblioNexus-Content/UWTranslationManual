@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 33397,
+    "reference_id": 26811,
+    "title": "The Translation Process",
+    "media_type": "Text",
+    "index_reference": "the translation process",
+    "language": "fra",
+    "content": "<h3>How to Translate</h3><p>There are two things to do in translation:</p><ol start=\"1\"><li><p>Discover the meaning in the source language text (See <span resourceId=\"26790\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Discover the Meaning of the Text</span>.)</p></li><li><p>Re-tell the meaning in the target language translation (See <span resourceId=\"26812\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Re-telling the Meaning</span>.)</p></li></ol><p>Instructions for translation sometimes divide these two things into smaller steps. The graphic below shows how these two fit into the translation process.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26790,
+          "content_id": 33376,
+          "label": "Discover the Meaning of the Text",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26812,
+          "content_id": 33398,
+          "label": "Re-telling the Meaning",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

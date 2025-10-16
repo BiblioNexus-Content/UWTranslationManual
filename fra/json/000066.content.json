@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 33308,
+    "reference_id": 26722,
+    "title": "Reduplication",
+    "media_type": "Text",
+    "index_reference": "reduplication",
+    "language": "fra",
+    "content": "<p>This is a placeholder for an article to be written about reduplication in the biblical text, such as infinitive-absolute + indicative or other repeated words.</p><h3>Description</h3><h3>Reason This Is a Translation Issue</h3><h3>Examples From the Bible</h3><p>Begin, possess, to possess his land (Deut 2:31 ULT)</p><h3>Translation Strategies</h3><h3>Examples of Translation Strategies Applied</h3>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118731,
+          "content_id": 143943,
+          "label": "Mark 15:34 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144543,
+          "content_id": 215070,
+          "label": "Luke 10:41 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148166,
+          "content_id": 218693,
+          "label": "Matthew 7:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148175,
+          "content_id": 218702,
+          "label": "Matthew 7:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149258,
+          "content_id": 219785,
+          "label": "Matthew 13:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167458,
+          "content_id": 261038,
+          "label": "Revelation 8:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167969,
+          "content_id": 261549,
+          "label": "Revelation 18:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175951,
+          "content_id": 269531,
+          "label": "Job 6:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176504,
+          "content_id": 270084,
+          "label": "Job 13:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176515,
+          "content_id": 270095,
+          "label": "Job 13:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176532,
+          "content_id": 270112,
+          "label": "Job 13:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176966,
+          "content_id": 270546,
+          "label": "Job 19:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177092,
+          "content_id": 270672,
+          "label": "Job 21:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177591,
+          "content_id": 271171,
+          "label": "Job 27:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177718,
+          "content_id": 271298,
+          "label": "Job 29:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178375,
+          "content_id": 271955,
+          "label": "Job 37:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183717,
+          "content_id": 277297,
+          "label": "Proverbs 23:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183796,
+          "content_id": 277376,
+          "label": "Proverbs 23:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184981,
+          "content_id": 278561,
+          "label": "Ruth 2:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185719,
+          "content_id": 279299,
+          "label": "Zephaniah 1:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185794,
+          "content_id": 279374,
+          "label": "Zephaniah 1:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185819,
+          "content_id": 279399,
+          "label": "Zephaniah 2:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185920,
+          "content_id": 279500,
+          "label": "Zephaniah 3:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202819,
+          "content_id": 499754,
+          "label": "Joel 1:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202986,
+          "content_id": 499921,
+          "label": "Joel 2:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203065,
+          "content_id": 500000,
+          "label": "Joel 3:14 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

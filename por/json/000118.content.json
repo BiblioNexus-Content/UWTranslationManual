@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800139,
+    "reference_id": 26774,
+    "title": "Notas para frases longas em uma tradução literal",
+    "media_type": "Text",
+    "index_reference": "notas para frases longas em uma tradução literal",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Às vezes, há notas para uma frase e notas separadas para partes dessa frase. Nesse caso, a frase maior é explicada primeiro, seguida pelas explicações de suas partes.</p><h3>Exemplos de notas de tradução</h3><p><strong>Mas é devido à sua dureza e coração impenitente</strong> que você está acumulando para si mesmo ira no dia da ira. (Romanos 2.5a)</p><ul><li><p><strong>Mas é na medida da sua dureza e coração impenitente</strong> — Paulo usa uma metáfora para comparar uma pessoa que se recusa a obedecer a Deus a algo duro, como uma pedra. Ele também utiliza a metonímia “coração” para representar a pessoa inteira. Tradução alternativa: “é porque você se recusa a ouvir e se arrepender” (Veja: <em>Metáfora</em> e <em>Metonímia</em>)</p></li><li><p><strong>Dureza e coração impenitente</strong> — A expressão “coração impenitente” esclarece o significado de “dureza” (Veja: <em>Dupla</em>)</p></li></ul><p>Neste exemplo, a primeira nota explica a metáfora e a metonímia na frase mais longa como um todo, e a segunda nota explica a dupla dentro da frase mais longa.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

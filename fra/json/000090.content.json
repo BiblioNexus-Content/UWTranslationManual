@@ -1,0 +1,442 @@
+[
+  {
+    "content_id": 33332,
+    "reference_id": 26746,
+    "title": "Connect — Background Information",
+    "media_type": "Text",
+    "index_reference": "connect — background information",
+    "language": "fra",
+    "content": "<h2>Time Relationship</h2><p>Some connectors establish time relationships between two phrases, clauses, sentences, or chunks of text.</p><h3>Background Clause</h3><h1>Description</h1><p>A background clause is one that describes something that is ongoing. Then, in the same sentence, another clause indicates an event that begins to happen during that time. These events are also simultaneous events, but they have the further relationship of background event and main event because the event that is already happening serves as the background for the other event, the one that is in focus. The background event simply provides the time frame or other context for the main event or events.</p><h1>Reason This Is a Translation Issue</h1><p>Languages indicate a shift in time in different ways. You (the translator) need to understand how these shifts in time are indicated in the original languages in order to communicate them clearly in your own language. Background clauses often indicate a time that began long before the event that is in focus. Translators need to understand how both the source language and the target language communicate background events. Some English words that indicate background events are “now,” “when,” “while,” and “during.” Those words can also indicate simultaneous events. To tell the difference, ask yourself if all of the events seem to be equal in importance and started at about the same time. If so, they are probably simultaneous events. But if an event(s) is ongoing and another event(s) just started, then the ongoing event(s) is probably background to the other event(s). Some common phrases that indicate background events are “in those days” and “at that time.”</p><h1>Examples From OBS and the Bible</h1><p><strong>When</strong> Solomon was old, he also worshiped their gods. (OBS Story 18 Frame 3)</p><p>Solomon began to worship foreign gods at a time when he was old. Being old is the background event. Worshiping other gods is the main event.</p><p>And his parents went <strong>every year</strong> to Jerusalem to the Feast of the Passover. And when he was 12 years old, they went up according to the custom of the feast. (Luke 2:41–42 ULT)</p><p>The first event—going to Jerusalem—is ongoing and started long ago. We know this because of the words “every year.” Going to Jerusalem is the background event. Then an event begins that started during the time “when he was twelve years old.” So the main event is the specific time Jesus and his family traveled to Jerualem for the Passover festival <strong>when he was twelve years old.</strong></p><p>And it came about that, <strong>while</strong> they were there, the days were fulfilled for her to give birth. (Luke 2:6 ULT)</p><p>Being in Bethlehem is the background event. The birth of the baby is the main event.</p><p>And in the fifteenth year of the reign of Tiberius Caesar—<strong>while</strong> Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene, <strong>during</strong> the high priesthood of Annas and Caiaphas—the word of God came to John, the son of Zechariah, in the wilderness. (Luke 3:1–2 ULT)</p><p>This example begins with five background clauses (marked by commas), signalled as background by the words “while” and “during.” Then the main event happens: “the word of God came to John.”</p><h1>Translation Strategies</h1><p>If the way that the Background Clauses are marked is also clear in your language, then translate the Background Clauses as they are.</p><p>(1) If the connecting word does not make it clear that what follows is a Background Clause, use a connecting word that communicates this more clearly. (2) If your language marks Background Clauses in a different way than using connecting words (such as by using different verb forms), then use that way.</p><h1>Examples of Translation Strategies Applied</h1><p>And in the fifteenth year of the reign of Tiberius Caesar—<strong>while</strong> Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene, <strong>during</strong> the high priesthood of Annas and Caiaphas—the word of God came to John, the son of Zechariah, in the wilderness. (Luke 3:1–2 ULT)</p><p>(1) If the connecting word does not make it clear that what follows is a background clause, use a connecting word that communicates this more clearly.</p><p><strong>It happened during the time that</strong> Pontius Pilate was governor of Judea, <strong>and during the time that</strong> Herod was tetrarch of Galilee, <strong>and during the time that</strong> his brother Philip was tetrarch of the region of Ituraea and Trachonitis, <strong>and during the time that</strong> Lysanias was tetrarch of Abilene, <strong>and also during the time that</strong> Annas and Caiaphas were high priests—<strong>that</strong> the word of God came to John son of Zechariah in the wilderness.</p><p>(2) If your language marks background clauses in a different way than using connecting words, such as with different verb forms, then use that way.</p><p>Pontius Pilate <strong>was governing</strong> Judea, and Herod <strong>was ruling over</strong> Galilee, and his brother Philip <strong>was ruling over</strong> the region of Ituraea and Trachonitis, and Lysanias <strong>was ruling over</strong> Abilene, and Annas and Caiaphas <strong>were being</strong> high priests—the word of God <strong>came</strong> to John son of Zechariah in the wilderness.</p><h1>Example of Differences in Time Relationship Connecting Words:</h1><p>| Category | Example | | ------------------------ | -------------------------------------------- | |Background setting |Yahweh’s word was rare <strong>in those days</strong>;| |Background repeated | there was no frequent prophetic vision. | |Introduction of main event|<strong>At that time</strong>, <strong>when</strong> Eli | |Background |<strong>whose</strong> eyesight had begun to grow dim so that he could not see well,| |Simultaneous background |was lying down in his own bed. |Simultaneous background | The lamp of God <strong>had not yet</strong> gone out, | |Simultaneous background |<strong>and</strong> Samuel was lying down to sleep in the temple of Yahweh,| | Simultaneous background | where the ark of God was. | |Main event |<strong>Yahweh called to Samuel</strong>, | |Sequential event |who said, “Here I am.” (1 Sam 3:1–4 ULT) |</p><p>In the above example, the first two lines talk about a condition that was going on for a long time. This is the general, long-term background. We know this from the phrase “in those days.” After the introduction of the main event (“At that time,”), there are several lines of simultaneous background. The first one is introduced by “when,” and then three more follow, with the last connected by “and.” The background clause introduced by “where” explains a little more about the background clause before it. Then the main event happens, followed by more events. Translators will need to think about the best way to show these relationships in their language.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116617,
+          "content_id": 141829,
+          "label": "Mark 6:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117778,
+          "content_id": 142990,
+          "label": "Mark 11:32 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136807,
+          "content_id": 207334,
+          "label": "Acts 2:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137025,
+          "content_id": 207552,
+          "label": "Acts 3:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137275,
+          "content_id": 207802,
+          "label": "Acts 4:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137352,
+          "content_id": 207879,
+          "label": "Acts 5:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143145,
+          "content_id": 213672,
+          "label": "Luke 2:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143203,
+          "content_id": 213730,
+          "label": "Luke 2:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143293,
+          "content_id": 213820,
+          "label": "Luke 3:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143389,
+          "content_id": 213916,
+          "label": "Luke 4:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143445,
+          "content_id": 213972,
+          "label": "Luke 4:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143788,
+          "content_id": 214315,
+          "label": "Luke 7:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144601,
+          "content_id": 215128,
+          "label": "Luke 11:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144769,
+          "content_id": 215296,
+          "label": "Luke 12:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145021,
+          "content_id": 215548,
+          "label": "Luke 13:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145057,
+          "content_id": 215584,
+          "label": "Luke 13:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145103,
+          "content_id": 215630,
+          "label": "Luke 13:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145187,
+          "content_id": 215714,
+          "label": "Luke 14:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145244,
+          "content_id": 215771,
+          "label": "Luke 14:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145291,
+          "content_id": 215818,
+          "label": "Luke 14:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145328,
+          "content_id": 215855,
+          "label": "Luke 15:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145367,
+          "content_id": 215894,
+          "label": "Luke 15:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145418,
+          "content_id": 215945,
+          "label": "Luke 15:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145454,
+          "content_id": 215981,
+          "label": "Luke 16:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145509,
+          "content_id": 216036,
+          "label": "Luke 16:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145689,
+          "content_id": 216216,
+          "label": "Luke 17:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145840,
+          "content_id": 216367,
+          "label": "Luke 18:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145936,
+          "content_id": 216463,
+          "label": "Luke 19:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145970,
+          "content_id": 216497,
+          "label": "Luke 19:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146279,
+          "content_id": 216806,
+          "label": "Luke 20:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146489,
+          "content_id": 217016,
+          "label": "Luke 22:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146797,
+          "content_id": 217324,
+          "label": "Luke 23:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146962,
+          "content_id": 217489,
+          "label": "Luke 23:54 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147547,
+          "content_id": 218074,
+          "label": "Matthew 4:18 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148578,
+          "content_id": 219105,
+          "label": "Matthew 10:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155380,
+          "content_id": 240639,
+          "label": "1 Corinthians 2:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159450,
+          "content_id": 244709,
+          "label": "Colossians 2:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160927,
+          "content_id": 246186,
+          "label": "1 Thessalonians 3:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164884,
+          "content_id": 258464,
+          "label": "Hebrews 5:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166525,
+          "content_id": 260105,
+          "label": "James 3:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166561,
+          "content_id": 260141,
+          "label": "James 3:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168891,
+          "content_id": 262471,
+          "label": "Esther 6:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168944,
+          "content_id": 262524,
+          "label": "Esther 6:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168995,
+          "content_id": 262575,
+          "label": "Esther 7:8 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169552,
+          "content_id": 263132,
+          "label": "Genesis 2:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169653,
+          "content_id": 263233,
+          "label": "Genesis 3:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169781,
+          "content_id": 263361,
+          "label": "Genesis 4:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169915,
+          "content_id": 263495,
+          "label": "Genesis 5:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169922,
+          "content_id": 263502,
+          "label": "Genesis 5:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169982,
+          "content_id": 263562,
+          "label": "Genesis 6:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170485,
+          "content_id": 264065,
+          "label": "Genesis 11:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170620,
+          "content_id": 264200,
+          "label": "Genesis 12:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170707,
+          "content_id": 264287,
+          "label": "Genesis 13:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170719,
+          "content_id": 264299,
+          "label": "Genesis 13:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170843,
+          "content_id": 264423,
+          "label": "Genesis 14:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170857,
+          "content_id": 264437,
+          "label": "Genesis 14:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171189,
+          "content_id": 264769,
+          "label": "Genesis 17:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171257,
+          "content_id": 264837,
+          "label": "Genesis 18:10 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171261,
+          "content_id": 264841,
+          "label": "Genesis 18:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171584,
+          "content_id": 265164,
+          "label": "Genesis 20:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172101,
+          "content_id": 265681,
+          "label": "Genesis 24:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172814,
+          "content_id": 266394,
+          "label": "Genesis 29:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174516,
+          "content_id": 268096,
+          "label": "Genesis 43:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175091,
+          "content_id": 268671,
+          "label": "Genesis 47:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184933,
+          "content_id": 278513,
+          "label": "Ruth 1:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187245,
+          "content_id": 391412,
+          "label": "Galatians 2:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187661,
+          "content_id": 391828,
+          "label": "Galatians 4:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190063,
+          "content_id": 394230,
+          "label": "Exodus 33:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190213,
+          "content_id": 394380,
+          "label": "Exodus 34:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190521,
+          "content_id": 667194,
+          "label": "Jonah 1:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190633,
+          "content_id": 667295,
+          "label": "Jonah 4:8 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

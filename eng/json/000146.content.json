@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 33388,
+    "reference_id": 26802,
+    "title": "Introduction to the Translation Manual",
+    "media_type": "Text",
+    "index_reference": "introduction to the translation manual",
+    "language": "eng",
+    "content": "<h3>What Does the Translation Manual Teach?</h3><p>This manual teaches translation theory and how to make a good translation for Other Languages (OLs). Some of the principles of translation in this manual also apply to Gateway Language translation. For specific instruction on how to translate the set of translation tools for Gateway Languages, however, please see the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/\">Gateway Language Manual</a>. It will be very helpful to study many of these modules before starting any type of translation project. Other modules, such as the ones about grammar, are only needed for “just-in-time” learning.</p><p>Some highlights in the Translation Manual:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">The Qualities of a Good Translation</span> — defining a good translation</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">The Translation Process</span> — how to achieve a good translation</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Choosing a Translation Team</span> — some items to consider before starting a translation project</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Choosing What to Translate</span> — what to start translating</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26669,
+          "content_id": 33255,
+          "label": "Choosing a Translation Team",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 33345,
+          "label": "The Qualities of a Good Translation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 33397,
+          "label": "The Translation Process",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 33413,
+          "label": "Choosing What to Translate",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

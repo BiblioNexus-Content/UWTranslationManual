@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800247,
+    "reference_id": 209488,
+    "title": "Introdução à Academia de Tradução unfoldingWord®",
+    "media_type": "Text",
+    "index_reference": "introdução à academia de tradução unfoldingword®",
+    "language": "por",
+    "content": "<h3>Bem-vindo à Academia de Tradução unfoldingWord®</h3><p>A Academia de Tradução unfoldingWord® é uma coleção de informações e instruções sobre tradução da Bíblia. Os principais usuários que temos em mente são tradutores de língua materna baseados em igrejas. Está escrita em linguagem simples sempre que possível e tem como objetivo capacitar qualquer pessoa, em qualquer lugar, a se preparar para realizar traduções de alta qualidade de conteúdo bíblico para sua própria língua.</p><p>A Academia de Tradução unfoldingWord® foi projetada para ser altamente flexível. Sua estrutura modular permite diversos caminhos através do material, dependendo das necessidades e interesses do usuário. Embora recomende certos passos e procedimentos, busca ser neutra em termos de paradigma, para que possa ser utilizada em uma variedade de contextos e processos. Pode ser usada em abordagens sistemáticas e planejadas, ou pode ser utilizada para aprendizado justo a tempo (ou ambos, conforme necessário).</p><p>A Academia de Tradução unfoldingWord® está organizada nas seguintes seções:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Introdução</span> — apresenta este recurso, a estratégia de idiomas de acesso e tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Manual de Processos</span> — responde à pergunta “o que vem depois?”</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Manual de Tradução</span> — explica os fundamentos da teoria da tradução e oferece orientações práticas para a tradução da Bíblia</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209465\" data-resourceType=\"UWTranslationManual\">Manual de Verificação</span> — explica os fundamentos da teoria de verificação e as melhores práticas para verificar traduções.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 800167,
+          "label": "Introdução ao Manual de Tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 800224,
+          "label": "Introdução à Verificação de Tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 800237,
+          "label": "Introdução ao Manual de Processos",
+          "language": "por"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 800247,
+          "label": "Introdução à Academia de Tradução unfoldingWord®",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

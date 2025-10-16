@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800248,
+    "reference_id": 209489,
+    "title": "Verificação de bloco oral em equipe",
+    "media_type": "Text",
+    "index_reference": "verificação de bloco oral em equipe",
+    "language": "por",
+    "content": "<p>Para revisar a tradução de um trecho ou capítulo em equipe, realize uma <span>Verificação de bloco oral em equipe</span>. Para isso, cada tradutor lerá sua tradução em voz alta para o restante da equipe. Ao final de cada trecho, o tradutor fará uma pausa para que a equipe possa discutir aquele trecho. Idealmente, cada tradução escrita é projetada para que todos possam vê-la enquanto o tradutor lê o texto oralmente.</p><p>As funções dos membros da equipe são divididas — é importante que cada membro da equipe desempenhe apenas um dos seguintes papéis por vez.</p><ol><li><p>Um ou mais membros da equipe escutam para verificar a naturalidade. Se algo soar estranho, ao final da leitura do trecho, eles recomendam uma forma mais natural de expressá-lo.</p></li><li><p>Um ou mais membros da equipe acompanham o texto original, anotando qualquer coisa que seja adicionada, esteja faltando ou tenha sido alterada. Ao final da leitura do trecho, eles alertam a equipe caso algo tenha sido adicionado, esteja faltando ou tenha sido alterado.</p></li><li><p>Outro membro da equipe acompanha no modo de relatório do translationCore, anotando todos os termos-chave destacados no texto original. A equipe então discute quaisquer termos-chave na tradução que pareçam inconsistentes ou inadequados, juntamente com quaisquer outros problemas que surjam durante a leitura. Se este modo não estiver disponível, este membro da equipe pode consultar os termos-chave na planilha de termos-chave da equipe.</p></li></ol><p>Esses passos podem ser repetidos conforme necessário até que a equipe esteja satisfeita com a tradução.</p><p>Neste ponto, a tradução é considerada um primeiro rascunho, e a equipe precisa também fazer o seguinte.</p><ol><li><p>Alguém da equipe de tradução precisa inserir o texto no translationStudio. Se a equipe estiver usando o translationStudio desde o início da elaboração, então, neste ponto, apenas as alterações feitas pela equipe precisam ser inseridas.</p></li><li><p>Uma nova gravação de áudio deve ser feita da tradução, incorporando todas as alterações e melhorias realizadas pela equipe.</p></li><li><p>Os arquivos do translationStudio e a gravação de áudio devem ser enviados para o repositório da equipe no Door43.</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

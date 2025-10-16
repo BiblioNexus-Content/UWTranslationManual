@@ -1,0 +1,406 @@
+[
+  {
+    "content_id": 33372,
+    "reference_id": 26786,
+    "title": "Biblical Money",
+    "media_type": "Text",
+    "index_reference": "biblical money",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>In early Old Testament times, people weighed their metals, such as silver and gold, and would pay a certain weight of that metal in order to buy things. Later, people started to make coins that each contained a standard amount of a certain metal. The daric is one such coin. In New Testament times, people used silver and copper coins.</p><p>The two tables below show some of the most well-known units of money found in the Old Testament (OT) and New Testament (NT). The table for Old Testament units shows what kind of metal was used and how much it weighed. The table for New Testament units shows what kind of metal was used and how much it was worth in terms of a day’s wage.</p><p>| Unit in OT | Metal | Weight | | -------- | -------- | -------- | | daric | gold coin | 8.4 grams | | shekel | various metals | 11 grams | | talent | various metals | 33 kilograms|</p><p>| Unit in NT | Metal | Day’s Wage | | -------- | -------- | -------- | | denarius/denarii | silver coin | 1 day | | drachma | silver coin | 1 day | | mite | copper coin| 1/64 day | | shekel | silver coin | 4 days | | talent | silver | 6,000 days |</p><h1>Translation Principle</h1><p>Do not use modern money values since these change from year to year. Using them will cause the Bible translation to become outdated and inaccurate.</p><h3>Translation Strategies</h3><p>The value of most money in the Old Testament was based on its weight. So when translating these weights in the Old Testament, see <span resourceId=\"26788\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Biblical Weight</span>. The strategies below are for translating the value of money in the New Testament.</p><p>(1) Use the Bible term and spell it in a way that is similar to the way it sounds. (See <span resourceId=\"26821\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copy or Borrow Words</span>.) (2) Describe the value of the money in terms of what kind of metal it was made of and how many coins were used. (3) Describe the value of the money in terms of what people in Bible times could earn in one day of work. (4) Use the biblical term and give the equivalent amount in the text or a footnote. (5) Use the biblical term and explain it in a footnote.</p><h3>Translation Strategies Applied</h3><p>The translations strategies are all applied to Luke 7:41 below.</p><p>The one owed 500 denarii, and the other, 50. (Luke 7:41b ULT)</p><ol start=\"1\"><li><p>Use the Bible term and spell it in a way that is similar to the way it sounds. (See <span resourceId=\"26821\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copy or Borrow Words</span>.)</p></li></ol><p>“The one owed <strong>500 denali</strong>, and the other, <strong>50</strong>.”</p><ol start=\"2\"><li><p>Describe the value of the money in terms of what kind of metal it was made of and how many pieces or coins were used.</p></li></ol><p>“The one owed <strong>500 silver coins</strong>, and the other, <strong>50</strong>.”</p><p>(3) Describe the value of the money in terms of what people in Bible times could earn in one day of work.</p><p>“The one owed <strong>500 days’ wages</strong>, and the other, <strong>50</strong>.”</p><p>(4) Use the Bible term and give the equivalent amount in the text or a footnote.</p><p>“The one owed <strong>500 denarii</strong> 1, and the other owed <strong>50 denarii</strong>. 2”</p><p>The footnotes would look like:</p><p>[1] 500 days’ wages [2] 50 days’ wages</p><p>(5) Use the Bible term and explain it in a footnote.</p><p>“The one owed <strong>500 denarii</strong>,1 and the other, <strong>50</strong>.” (Luke 7:41 ULT)</p><p>[1] A denarius was the amount of silver that people could earn in one day of work.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26788,
+          "content_id": 33374,
+          "label": "Biblical Weight",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26821,
+          "content_id": 33407,
+          "label": "Copy or Borrow Words",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116703,
+          "content_id": 141915,
+          "label": "Mark 6:37 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117866,
+          "content_id": 143078,
+          "label": "Mark 12:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118042,
+          "content_id": 143254,
+          "label": "Mark 12:42 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118043,
+          "content_id": 143255,
+          "label": "Mark 12:42 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139246,
+          "content_id": 209773,
+          "label": "Acts 19:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139247,
+          "content_id": 209774,
+          "label": "Acts 19:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140840,
+          "content_id": 211367,
+          "label": "John 6:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141736,
+          "content_id": 212263,
+          "label": "John 12:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143925,
+          "content_id": 214452,
+          "label": "Luke 7:41 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143926,
+          "content_id": 214453,
+          "label": "Luke 7:41 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144523,
+          "content_id": 215050,
+          "label": "Luke 10:35 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118291,
+          "content_id": 143503,
+          "label": "Mark 14:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144801,
+          "content_id": 215328,
+          "label": "Luke 12:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145020,
+          "content_id": 215547,
+          "label": "Luke 12:59 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145351,
+          "content_id": 215878,
+          "label": "Luke 15:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146222,
+          "content_id": 216749,
+          "label": "Luke 20:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146326,
+          "content_id": 216853,
+          "label": "Luke 21:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147737,
+          "content_id": 218264,
+          "label": "Matthew 5:26 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148712,
+          "content_id": 219239,
+          "label": "Matthew 10:29 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150131,
+          "content_id": 220658,
+          "label": "Matthew 17:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150153,
+          "content_id": 220680,
+          "label": "Matthew 17:27 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150303,
+          "content_id": 220830,
+          "label": "Matthew 18:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150322,
+          "content_id": 220849,
+          "label": "Matthew 18:28 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150512,
+          "content_id": 221039,
+          "label": "Matthew 20:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150546,
+          "content_id": 221073,
+          "label": "Matthew 20:9 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150551,
+          "content_id": 221078,
+          "label": "Matthew 20:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150998,
+          "content_id": 221525,
+          "label": "Matthew 22:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151613,
+          "content_id": 222140,
+          "label": "Matthew 25:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151618,
+          "content_id": 222145,
+          "label": "Matthew 25:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151627,
+          "content_id": 222154,
+          "label": "Matthew 25:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151640,
+          "content_id": 222167,
+          "label": "Matthew 25:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151646,
+          "content_id": 222173,
+          "label": "Matthew 25:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151667,
+          "content_id": 222194,
+          "label": "Matthew 25:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151809,
+          "content_id": 222336,
+          "label": "Matthew 26:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152103,
+          "content_id": 222630,
+          "label": "Matthew 27:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152110,
+          "content_id": 222637,
+          "label": "Matthew 27:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152113,
+          "content_id": 222640,
+          "label": "Matthew 27:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152129,
+          "content_id": 222656,
+          "label": "Matthew 27:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152430,
+          "content_id": 222957,
+          "label": "Matthew 28:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152440,
+          "content_id": 222967,
+          "label": "Matthew 28:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167342,
+          "content_id": 260922,
+          "label": "Revelation 6:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168665,
+          "content_id": 262245,
+          "label": "Esther 3:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171647,
+          "content_id": 265227,
+          "label": "Genesis 20:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171952,
+          "content_id": 265532,
+          "label": "Genesis 23:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173852,
+          "content_id": 267432,
+          "label": "Genesis 37:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174609,
+          "content_id": 268189,
+          "label": "Genesis 43:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178846,
+          "content_id": 272426,
+          "label": "Job 42:11 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179437,
+          "content_id": 273017,
+          "label": "Nehemiah 5:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179746,
+          "content_id": 273326,
+          "label": "Nehemiah 7:70 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179751,
+          "content_id": 273331,
+          "label": "Nehemiah 7:71 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179752,
+          "content_id": 273332,
+          "label": "Nehemiah 7:71 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179753,
+          "content_id": 273333,
+          "label": "Nehemiah 7:72 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180174,
+          "content_id": 273754,
+          "label": "Nehemiah 10:32 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185700,
+          "content_id": 279280,
+          "label": "Song of Solomon 8:11 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189400,
+          "content_id": 393567,
+          "label": "Exodus 21:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189891,
+          "content_id": 394058,
+          "label": "Exodus 30:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198355,
+          "content_id": 462676,
+          "label": "Ezra 2:69 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198356,
+          "content_id": 462677,
+          "label": "Ezra 2:69 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198958,
+          "content_id": 463279,
+          "label": "Ezra 7:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189897,
+          "content_id": 394064,
+          "label": "Exodus 30:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199115,
+          "content_id": 463436,
+          "label": "Ezra 8:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199124,
+          "content_id": 463445,
+          "label": "Ezra 8:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199125,
+          "content_id": 463446,
+          "label": "Ezra 8:27 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

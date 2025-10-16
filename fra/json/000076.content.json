@@ -1,0 +1,448 @@
+[
+  {
+    "content_id": 33318,
+    "reference_id": 26732,
+    "title": "Singular Pronouns that refer to Groups",
+    "media_type": "Text",
+    "index_reference": "singular pronouns that refer to groups",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>The Bible was written in Hebrew, Aramaic and Greek. These languages have a singular form of “you” for when the word “you” refers to just one person, and a plural form for when the word “you” refers to more than one person. However, sometimes speakers in the Bible used the singular form of “you” even though they were speaking to a group of people. This is not obvious when you read the Bible in English because English does not have different forms that indicate where “you” is singular and where “you” is plural. But you may see this if you read a Bible in a language that does have distinct forms.</p><p>Also, speakers and writers of the Old Testament often referred to groups of people with the singular pronoun “he,” rather than with the plural pronoun “they.”</p><p>Finally, Old Testament speakers and writers sometimes referred to actions that they performed as part of a group by saying ‘I’ did it when, really, the whole group was involved.</p><h1>Reason This Is a Translation Issue</h1><ul><li><p>For many languages, a translator who reads a Bible with a general form of “you” will need to know whether the speaker was speaking to one person or to more than one.</p></li><li><p>In some languages, it might be confusing if a speaker uses a singular pronoun when speaking to or about more than one person.</p></li></ul><h3>Examples From the Bible</h3><p>1 Now take heed that <strong>you</strong> do not do <strong>your</strong> acts of righteousness before people to be seen by them, otherwise <strong>you</strong> will not have a reward with <strong>your</strong> Father who is in heaven. 2 So when <strong>you</strong> give alms, do not sound a trumpet before <strong>yourself</strong> as the hypocrites do in the synagogues and in the streets, so that they may have the praise of people. Truly I say to <strong>you</strong>, they have received their reward. (Matthew 6:1–2 ULT)</p><p>Jesus said this to a crowd. He used “you” plural in verse 1, and “you” singular in the first sentence of verse 2. Then, in the last sentence, he used the plural again.</p><p>God spoke all these words: “I am Yahweh, <strong>your</strong> God, who brought <strong>you</strong> out of the land of Egypt, out of the house of slavery. <strong>You</strong> must have no other gods before me.” (Exodus 20:1–3 ULT)</p><p>God said this to all the people of Israel. He had taken them all out of Egypt and he wanted them all to obey him, but he used the singular form of you here when speaking to them.</p><p>This is what Yahweh says, “For three sins of Edom, even for four, I will not turn away punishment, because <strong>he</strong> pursued <strong>his</strong> brother with the sword and cast off all pity. <strong>His</strong> anger raged continually, and <strong>his</strong> wrath lasted forever.” (Amos 1:11 ULT)</p><p>Yahweh said these things about the nation of Edom, not about only one person.</p><p>And I arose in the night, myself and a few men with me. And I was going up by the wadi at night, and I was looking intently at the wall. And I turned back, and I entered by the gate of the valley, and I returned. (Nehemiah 2:12a,15 ULT)</p><p>Nehemiah makes clear that he brought other people with him on his inspection tour of the wall of Jerusalem. But as he describes the tour, he just says “I” did this and that.</p><h3>Translation Strategies</h3><p>If the singular form of the pronoun would be natural when referring to a group of people, consider using it.</p><p>(1) If using the singular form of the pronoun when referring to a group of people would not be natural in your language, use the plural form of the pronoun.</p><ul><li><p>Whether you can use use the singular form of the pronoun may depend on who the speaker is and who the people are that he is talking about or talking to.</p></li><li><p>It may also depend on what the speaker is saying.</p></li></ul><h3>Translation Strategies Applied</h3><p>(1) If using the singular form of the pronoun when referring to a group of people would not be natural in your language, use the plural form of the pronoun.</p><p>This is what Yahweh says, “For three sins of Edom, even for four, I will not turn away punishment, because <strong>he</strong> pursued <strong>his</strong> brother with the sword and cast off all pity. <strong>His</strong> anger raged continually, and <strong>his</strong> wrath lasted forever.” (Amos 1:11 ULT)</p><p>This is what Yahweh says, “For three sins of Edom, even for four, I will not turn away punishment, because <strong>they</strong> pursued <strong>their brothers</strong> with the sword and cast off all pity. <strong>Their</strong> anger raged continually, and <strong>their</strong> wrath lasted forever.”</p><p>And I arose in the night, myself and a few men with me. And <strong>I</strong> was going up by the wadi at night, and <strong>I</strong> was looking intently at the wall. And <strong>I</strong> turned back, and <strong>I</strong> entered by the gate of the valley, and <strong>I</strong> returned. (Nehemiah 2:12a,15 ULT)</p><p>And I arose in the night, myself and a few men with me. … And <strong>we</strong> were going up by the wadi at night and <strong>we</strong> were looking intently at the wall. And <strong>we</strong> turned back and <strong>we</strong> entered by the gate of the valley, and <strong>we</strong> returned.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 117350,
+          "content_id": 142562,
+          "label": "Mark 9:43 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117373,
+          "content_id": 142585,
+          "label": "Mark 9:47 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143367,
+          "content_id": 213894,
+          "label": "Luke 4:8 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143687,
+          "content_id": 214214,
+          "label": "Luke 6:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143693,
+          "content_id": 214220,
+          "label": "Luke 6:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143734,
+          "content_id": 214261,
+          "label": "Luke 6:41 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143741,
+          "content_id": 214268,
+          "label": "Luke 6:42 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144489,
+          "content_id": 215016,
+          "label": "Luke 10:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144696,
+          "content_id": 215223,
+          "label": "Luke 11:34 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145012,
+          "content_id": 215539,
+          "label": "Luke 12:58 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145019,
+          "content_id": 215546,
+          "label": "Luke 12:59 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145215,
+          "content_id": 215742,
+          "label": "Luke 14:8 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145613,
+          "content_id": 216140,
+          "label": "Luke 17:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145622,
+          "content_id": 216149,
+          "label": "Luke 17:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145858,
+          "content_id": 216385,
+          "label": "Luke 18:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147710,
+          "content_id": 218237,
+          "label": "Matthew 5:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147715,
+          "content_id": 218242,
+          "label": "Matthew 5:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147724,
+          "content_id": 218251,
+          "label": "Matthew 5:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147733,
+          "content_id": 218260,
+          "label": "Matthew 5:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147749,
+          "content_id": 218276,
+          "label": "Matthew 5:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147760,
+          "content_id": 218287,
+          "label": "Matthew 5:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147801,
+          "content_id": 218328,
+          "label": "Matthew 5:36 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147817,
+          "content_id": 218344,
+          "label": "Matthew 5:39 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147822,
+          "content_id": 218349,
+          "label": "Matthew 5:40 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147828,
+          "content_id": 218355,
+          "label": "Matthew 5:41 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147833,
+          "content_id": 218360,
+          "label": "Matthew 5:42 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147871,
+          "content_id": 218398,
+          "label": "Matthew 6:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147878,
+          "content_id": 218405,
+          "label": "Matthew 6:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147892,
+          "content_id": 218419,
+          "label": "Matthew 6:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147950,
+          "content_id": 218477,
+          "label": "Matthew 6:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147953,
+          "content_id": 218480,
+          "label": "Matthew 6:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147970,
+          "content_id": 218497,
+          "label": "Matthew 6:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147976,
+          "content_id": 218503,
+          "label": "Matthew 6:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148069,
+          "content_id": 218596,
+          "label": "Matthew 7:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148080,
+          "content_id": 218607,
+          "label": "Matthew 7:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148086,
+          "content_id": 218613,
+          "label": "Matthew 7:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149129,
+          "content_id": 219656,
+          "label": "Matthew 12:37 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150192,
+          "content_id": 220719,
+          "label": "Matthew 18:8 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150202,
+          "content_id": 220729,
+          "label": "Matthew 18:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150247,
+          "content_id": 220774,
+          "label": "Matthew 18:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150255,
+          "content_id": 220782,
+          "label": "Matthew 18:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150264,
+          "content_id": 220791,
+          "label": "Matthew 18:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152662,
+          "content_id": 223189,
+          "label": "Romans 2:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152685,
+          "content_id": 223212,
+          "label": "Romans 2:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152768,
+          "content_id": 223295,
+          "label": "Romans 2:17 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154270,
+          "content_id": 224797,
+          "label": "Romans 10:6 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154287,
+          "content_id": 224814,
+          "label": "Romans 10:8 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154294,
+          "content_id": 224821,
+          "label": "Romans 10:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154508,
+          "content_id": 225035,
+          "label": "Romans 11:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154512,
+          "content_id": 225039,
+          "label": "Romans 11:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154514,
+          "content_id": 225041,
+          "label": "Romans 11:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154524,
+          "content_id": 225051,
+          "label": "Romans 11:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154534,
+          "content_id": 225061,
+          "label": "Romans 11:21 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154541,
+          "content_id": 225068,
+          "label": "Romans 11:22 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154555,
+          "content_id": 225082,
+          "label": "Romans 11:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154826,
+          "content_id": 225353,
+          "label": "Romans 14:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154850,
+          "content_id": 225377,
+          "label": "Romans 14:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154880,
+          "content_id": 225407,
+          "label": "Romans 14:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154910,
+          "content_id": 225437,
+          "label": "Romans 14:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154918,
+          "content_id": 225445,
+          "label": "Romans 14:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166407,
+          "content_id": 259987,
+          "label": "James 2:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166421,
+          "content_id": 260001,
+          "label": "James 2:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166695,
+          "content_id": 260275,
+          "label": "James 4:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166702,
+          "content_id": 260282,
+          "label": "James 4:12 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180747,
+          "content_id": 274327,
+          "label": "Obadiah 1:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180772,
+          "content_id": 274352,
+          "label": "Obadiah 1:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187838,
+          "content_id": 392005,
+          "label": "Galatians 5:14 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187890,
+          "content_id": 392057,
+          "label": "Galatians 6:1 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188915,
+          "content_id": 393082,
+          "label": "Exodus 12:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188942,
+          "content_id": 393109,
+          "label": "Exodus 12:46 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188944,
+          "content_id": 393111,
+          "label": "Exodus 12:48 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189181,
+          "content_id": 393348,
+          "label": "Exodus 16:28 (#2)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

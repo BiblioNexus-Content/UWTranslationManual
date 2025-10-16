@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 689644,
+    "reference_id": 209464,
+    "title": "Introduction to the Checking Manual",
+    "media_type": "Text",
+    "index_reference": "introduction to the checking manual",
+    "language": "fra",
+    "content": "<h3>Translation Checking Manual</h3><p>This manual describes how to check Bible translations in Other Languages (OLs) for accuracy, clarity, and naturalness. (For the process to check Gateway Languages (GLs), see the <a href=\"https://gl-manual.readthedocs.io/en/latest/\" target=\"_blank\" rel=\"noopener nofollow\">Gateway Language Manual</a>). This Translation Checking Manual also discusses the importance of obtaining approval for the translation and the translation process from the church leaders of the language area.</p><p>The manual begins with instructions for checking the translation that the translation team will use to check each other’s work. These checks include the <span resourceId=\"209474\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Oral Partner Check</span> and the <span resourceId=\"209489\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Team Oral Chunk Check</span>. Then there are instructions for the translation team to use for checking the translation with the translationCore software. These include the <span resourceId=\"209463\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Words Check</span> and the <span resourceId=\"209490\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Notes check</span>.</p><p>After this, the translation team will need to check the translation with the <span resourceId=\"209468\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Language Community</span> for clarity and naturalness. This is necessary because other speakers of the language can often suggest better ways of saying things that the translation team may not have thought of. Sometimes the translation team makes the translation sound strange because they are following the words of the source language too closely. Other speakers of the language can help them fix that. Another check that the translation team can do at this point is <span resourceId=\"209449\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Church Leader Check</span> (or OL pastor check). Since the OL pastors are familiar with the Bible in the Gateway Language (GL), they can check the translation for accuracy to the GL Bible. They can also catch mistakes that the translation team did not see because the translation team is so close to and involved in their work. Also, the translation team may lack some of the expertise or knowledge of the Bible that other OL pastors might have who are not part of the translation team. In this way, the whole language community can work together to make sure that the Bible translation is accurate, clear, and natural in the target language.</p><p>A further check for the accuracy of the Bible translation is to align it to the original languages of the Bible using the <span resourceId=\"209450\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Word Alignment</span> tool in Translation Core. After all of these checks have been performed and the translation has been aligned, the leaders of the OL church networks will want to <span resourceId=\"209502\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Review</span> the translation and give their <span resourceId=\"209469\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Endorsement</span>. Because many leaders of church networks do not speak the language of the translation, there are also instructions for creating a <span resourceId=\"209496\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Back Translation</span>, which allows people to check a translation in a language that they do not speak.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209449,
+          "content_id": 689629,
+          "label": "Checking the Translation for Accuracy",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 689630,
+          "label": "Alignment Checking",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 689643,
+          "label": "translationWords Check in tC",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 689648,
+          "label": "Checking the Translation for Clarity and Naturalness",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 689649,
+          "label": "Quality Checker Evaluation Form",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 689654,
+          "label": "Oral Partner Check",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 689669,
+          "label": "Team Oral Chunk Check",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 689670,
+          "label": "translationNotes Check in tC",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 689676,
+          "label": "Back Translation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 689682,
+          "label": "Steps for Quality Checkers",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

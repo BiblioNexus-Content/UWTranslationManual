@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 800242,
+    "reference_id": 209483,
+    "title": "Organizando uma equipe de tradução",
+    "media_type": "Text",
+    "index_reference": "organizando uma equipe de tradução",
+    "language": "por",
+    "content": "<h3>Selecionando uma equipe</h3><p>Ao iniciar a seleção de uma equipe de tradução e revisão, há muitos tipos diferentes de pessoas e funções que são necessárias. Existem também qualificações específicas exigidas para cada equipe.</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Escolhendo uma equipe de tradução</span> — Descreve muitos dos papéis que são necessários</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">Qualificações do tradutor</span> — Descreve algumas das habilidades necessárias para tradutores</p></li><li><p>Lembre-se de que todos na equipe precisam assinar uma declaração de concordância (os formulários estão disponíveis em https://ufw.io/forms)</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Declaração de fé</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Diretrizes de tradução</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Licença livre</span></p></li></ul></li><li><p>Todos na equipe também precisam conhecer as qualidades de uma boa tradução (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">As qualidades de uma boa tradução</span>).</p></li><li><p>A equipe também precisa saber onde pode encontrar respostas (consulte <span data-bnType=\"resourceReference\" data-resourceId=\"209457\" data-resourceType=\"UWTranslationManual\">Encontrando respostas</span>).</p></li></ul><h3>Decisões de Tradução</h3><p>Há muitas decisões que a equipe de tradução precisará tomar, muitas delas logo no início do projeto. Incluem-se as seguintes:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26814\" data-resourceType=\"UWTranslationManual\">Escolhendo um texto fonte</span> — Escolher um bom texto fonte é muito importante</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\">Direitos autorais, licenciamento e textos fonte</span> — Questões de direitos autorais devem ser levadas em conta ao escolher um texto fonte</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\">Textos fonte e números de versões</span> — Traduzir a partir da versão mais recente de um texto fonte é a melhor opção</p></li></ul></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26781\" data-resourceType=\"UWTranslationManual\">Alfabeto/Ortografia</span> — Muitas línguas precisam tomar decisões sobre o alfabeto</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26830\" data-resourceType=\"UWTranslationManual\">Decisões para escrever seu idioma</span> — Estilo de escrita, pontuação, tradução de nomes, ortografia e outras decisões precisam ser tomadas.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">Estilo de tradução</span> — O comitê de tradução precisa concordar sobre o estilo da tradução, decidindo o quanto desejam que ela imite a forma do original, quanto empréstimo de palavras é permitido e outros tópicos. Veja também esta seção sobre tornar a tradução <span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">Aceitável</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Escolhendo o que traduzir</span> — Os livros devem ser escolhidos com base nas necessidades da igreja e na dificuldade da tradução</p></li></ul><p>Depois que o comitê de tradução tomar essas decisões, é bom registrá-las em um documento que todos os envolvidos na tradução possam ler. Isso ajudará todos a tomarem decisões de tradução semelhantes e evitará discussões futuras sobre essas questões.</p><p>Após escolher a equipe de tradução, será hora de começar a oferecer a eles <span data-bnType=\"resourceReference\" data-resourceId=\"209477\" data-resourceType=\"UWTranslationManual\">Treinamento de tradução</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 800033,
+          "label": "Escolhendo um estilo de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26669,
+          "content_id": 800034,
+          "label": "Escolhendo uma equipe de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 800124,
+          "label": "As qualidades de uma boa tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26764,
+          "content_id": 800129,
+          "label": "Qualificações do tradutor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26781,
+          "content_id": 800146,
+          "label": "Alfabeto/Ortografia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 800178,
+          "label": "Direitos autorais, licenciamento e textos fonte",
+          "language": "por"
+        },
+        {
+          "reference_id": 26814,
+          "content_id": 800179,
+          "label": "Escolhendo um texto fonte",
+          "language": "por"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 800180,
+          "label": "Textos fonte e números de versões",
+          "language": "por"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 800192,
+          "label": "Escolhendo o que traduzir",
+          "language": "por"
+        },
+        {
+          "reference_id": 26830,
+          "content_id": 800195,
+          "label": "Decisões para escrever seu idioma",
+          "language": "por"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 800207,
+          "label": "Estilo aceitável",
+          "language": "por"
+        },
+        {
+          "reference_id": 209457,
+          "content_id": 800216,
+          "label": "Encontrando respostas",
+          "language": "por"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 800231,
+          "label": "Licença aberta",
+          "language": "por"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 800236,
+          "label": "Treinando antes de começar a tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 800246,
+          "label": "Declaração de Fé",
+          "language": "por"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 800251,
+          "label": "Orientações de tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

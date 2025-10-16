@@ -1,0 +1,850 @@
+[
+  {
+    "content_id": 33264,
+    "reference_id": 26678,
+    "title": "Distinguishing Versus Informing or Reminding",
+    "media_type": "Text",
+    "index_reference": "distinguishing versus informing or reminding",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>In some languages, phrases that modify a noun can be used with the noun for two different purposes. They can either (1) distinguish the noun from other similar items, or (2) they can give more information about the noun. That information could be new to the reader, or a reminder about something the reader might already know. Other languages use modifying phrases with a noun only for distinguishing the noun from other similar things. When people who speak these languages hear a modifying phrase along with a noun, they assume that its function is to distinguish one item from another similar item.</p><p>When the phrase that modifies a noun is a relative clause (a phrase that starts with a word such as “who” or“which”), some languages use a comma to mark the difference between (1) making a distinction between similar items and (2) giving more information about an item. Without the comma, the sentence below communicates that the added phrase is making a distinction:</p><ul><li><p>Mary gave some of the food to <strong>her sister who was very thankful</strong>.</p><ul><li><p>If her sister was usually thankful, the phrase “who was thankful” could distinguish this sister of Mary’s from another sister who was not usually thankful.</p></li></ul></li></ul><p>With the comma, the phrase is giving more information:</p><ul><li><p>Mary gave some of the food to <strong>her sister, who was very thankful</strong>.</p><ul><li><p>This same phrase can be used to give us more information about Mary’s sister. It tells us about how Mary’s sister responded when Mary gave her the food. In this case it does not distinguish one sister from another sister.</p></li></ul></li></ul><h1>Reasons This Is a Translation Issue</h1><ul><li><p>Many source languages of the Bible use phrases that modify a noun both for distinguishing the noun from another similar item and also for giving more information about the noun. You (the translator) must be careful to understand which meaning the author intended in each case.</p></li><li><p>Some languages use phrases that modify a noun only for distinguishing the noun from another similar item. When translating a phrase that is used for giving more information, translators who speak these languages will need to separate the phrase from the noun. Otherwise, people who read it or hear it will think that the phrase is meant to distinguish the noun from other similar items.</p></li></ul><h3>Examples From the Bible</h3><h1>Examples of words and phrases that are used to distinguish one item from other possible items:</h1><p>(These usually do not cause any problem in translation.)</p><p>The curtain is to separate <strong>the holy place</strong> from <strong>the most holy place</strong>. (Exodus 26:33b ULT)</p><p>The words “holy” and “most holy” distinguish two different places from each other and from any other place.</p><p>A foolish son is a grief to his father, and bitterness to <strong>the woman who bore him</strong>. (Proverbs 17:25 ULT)</p><p>The phrase “who bore him” distinguishes which woman the son is bitterness to. He is not bitterness to all women, but to his mother.</p><h1>Examples of words and phrases that are used to give added information or a reminder about an item:</h1><p>(These are a translation issue for languages that do not use these.)</p><p>… for <strong>your righteous judgments</strong> are good. (Psalm 119:39b ULT)</p><p>The word “righteous” simply reminds us that God’s judgments are righteous. It does not distinguish his righteous judgments from his unrighteous judgments, because all of his judgments are righteous.</p><p>You must surely open your hand to your brother, <strong>to your needy and to your poor</strong> in your land. (Deuteronomy 15:11 ULT)</p><p>The phrases “to your needy and to your poor” give further information about “your brother.” They do not refer to a separate group of people.</p><p>How can Sarah, <strong>who is 90 years old</strong>, bear a son? (Genesis 17:17b ULT)</p><p>The phrase “who is 90 years old” is a reminder of Sarah’s age. It tells why Abraham was asking the question. He did not expect that a woman who was that old could bear a child. He was not distinguishing one woman named Sarah from another woman named Sarah who was a different age.</p><p>I will wipe away mankind <strong>whom I have created</strong> from the surface of the earth. (Genesis 6:7 ULT)</p><p>The phrase “whom I have created” is a reminder of the relationship between God and mankind. It is the reason God had the right to wipe away mankind. There is not another mankind that God did not create.</p><p>I hate those who serve <strong>worthless</strong> idols (Psalm 31:6 ULT)</p><p>By saying “worthless idols,” David was commenting about all idols and giving his reason for hating those who serve them. He was not distinguishing worthless idols from valuable idols.</p><h3>Translation Strategies</h3><p>If readers would understand the purpose of a phrase with a noun, then consider keeping the phrase and the noun together. For languages that use words or phrases with a noun only to distinguish one item from another, here are some strategies for translating phrases that are used to inform or remind.</p><p>(1) Put the information in another part of the sentence and add words that show its purpose. (2) Use one of your language’s ways for expressing that this is just added information. It may be by adding a small word, or by changing the way the voice sounds. Sometimes changes in the voice can be shown with punctuation marks, such as parentheses or commas.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) Put the information in another part of the sentence and add words that show its purpose.</p><p>I hate those who serve <strong>worthless</strong> idols (Psalm 31:6 ULT)</p><p><strong>Because</strong> <strong>idols are worthless</strong>, I hate those who serve them.</p><p>… for your <strong>righteous</strong> judgments are good. (Psalm 119:39b ULT)</p><p>… for your judgments are good <strong>because they are righteous</strong>.</p><p>Can Sarah, <strong>who is 90 years old</strong>, bear a son? (Genesis 17:17b ULT)</p><p>Can Sarah bear a son <strong>even when</strong> <strong>she is 90 years old</strong>?</p><p>You must surely open your hand to your brother, <strong>to your needy and to your poor</strong> in your land. (Deuteronomy 15:11 ULT)</p><p>You must surely open your hand to any of <strong>your needy and poor brothers</strong> in your land.</p><p>(2) Use one of your language’s ways for expressing that this is just added information.</p><p>You are my Son, <strong>whom I love</strong>. I am pleased with you. (Luke 3:22 ULT)</p><p>You are my Son. <strong>I love you</strong> and I am pleased with you.</p><p><strong>Receiving my love</strong>, you are my Son. I am pleased with you.</p><p>You must surely open your hand to your brother, <strong>to your needy and to your poor</strong> in your land. (Deuteronomy 15:11 ULT)</p><p>You must surely open your hand to your brother <strong>who is needy and poor</strong> in your land.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116116,
+          "content_id": 141328,
+          "label": "Mark 3:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117878,
+          "content_id": 143090,
+          "label": "Mark 12:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140893,
+          "content_id": 211420,
+          "label": "John 6:27 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141659,
+          "content_id": 212186,
+          "label": "John 11:31 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118343,
+          "content_id": 143555,
+          "label": "Mark 14:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118351,
+          "content_id": 143563,
+          "label": "Mark 14:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146231,
+          "content_id": 216758,
+          "label": "Luke 20:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146865,
+          "content_id": 217392,
+          "label": "Luke 23:32 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147222,
+          "content_id": 217749,
+          "label": "Matthew 1:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151762,
+          "content_id": 222289,
+          "label": "Matthew 26:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152469,
+          "content_id": 222996,
+          "label": "Romans 1:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152473,
+          "content_id": 223000,
+          "label": "Romans 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152474,
+          "content_id": 223001,
+          "label": "Romans 1:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152514,
+          "content_id": 223041,
+          "label": "Romans 1:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152528,
+          "content_id": 223055,
+          "label": "Romans 1:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152572,
+          "content_id": 223099,
+          "label": "Romans 1:18 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152614,
+          "content_id": 223141,
+          "label": "Romans 1:25 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152757,
+          "content_id": 223284,
+          "label": "Romans 2:15 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153054,
+          "content_id": 223581,
+          "label": "Romans 3:30 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153105,
+          "content_id": 223632,
+          "label": "Romans 4:6 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153138,
+          "content_id": 223665,
+          "label": "Romans 4:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153141,
+          "content_id": 223668,
+          "label": "Romans 4:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153184,
+          "content_id": 223711,
+          "label": "Romans 4:16 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153198,
+          "content_id": 223725,
+          "label": "Romans 4:17 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153343,
+          "content_id": 223870,
+          "label": "Romans 5:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153379,
+          "content_id": 223906,
+          "label": "Romans 5:17 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153719,
+          "content_id": 224246,
+          "label": "Romans 7:21 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153784,
+          "content_id": 224311,
+          "label": "Romans 8:4 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153835,
+          "content_id": 224362,
+          "label": "Romans 8:11 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154000,
+          "content_id": 224527,
+          "label": "Romans 8:39 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154015,
+          "content_id": 224542,
+          "label": "Romans 9:3 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154017,
+          "content_id": 224544,
+          "label": "Romans 9:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154098,
+          "content_id": 224625,
+          "label": "Romans 9:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154129,
+          "content_id": 224656,
+          "label": "Romans 9:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154153,
+          "content_id": 224680,
+          "label": "Romans 9:22 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154166,
+          "content_id": 224693,
+          "label": "Romans 9:23 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154172,
+          "content_id": 224699,
+          "label": "Romans 9:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154208,
+          "content_id": 224735,
+          "label": "Romans 9:30 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154410,
+          "content_id": 224937,
+          "label": "Romans 11:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154559,
+          "content_id": 225086,
+          "label": "Romans 11:24 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154758,
+          "content_id": 225285,
+          "label": "Romans 13:6 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154786,
+          "content_id": 225313,
+          "label": "Romans 13:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155109,
+          "content_id": 225636,
+          "label": "Romans 16:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155122,
+          "content_id": 225649,
+          "label": "Romans 16:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155192,
+          "content_id": 225719,
+          "label": "Romans 16:25 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155193,
+          "content_id": 225720,
+          "label": "Romans 16:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155216,
+          "content_id": 240475,
+          "label": "1 Corinthians 1:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155293,
+          "content_id": 240552,
+          "label": "1 Corinthians 1:18 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155819,
+          "content_id": 241078,
+          "label": "1 Corinthians 5:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158255,
+          "content_id": 243514,
+          "label": "2 Corinthians 5:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158339,
+          "content_id": 243598,
+          "label": "2 Corinthians 5:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158492,
+          "content_id": 243751,
+          "label": "2 Corinthians 7:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158608,
+          "content_id": 243867,
+          "label": "2 Corinthians 8:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158637,
+          "content_id": 243896,
+          "label": "2 Corinthians 8:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159160,
+          "content_id": 244419,
+          "label": "2 Corinthians 12:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159751,
+          "content_id": 245010,
+          "label": "Colossians 4:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159755,
+          "content_id": 245014,
+          "label": "Colossians 4:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160769,
+          "content_id": 246028,
+          "label": "1 Thessalonians 1:10 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160829,
+          "content_id": 246088,
+          "label": "1 Thessalonians 2:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161006,
+          "content_id": 246265,
+          "label": "1 Thessalonians 4:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161025,
+          "content_id": 246284,
+          "label": "1 Thessalonians 4:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161053,
+          "content_id": 246312,
+          "label": "1 Thessalonians 4:13 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161073,
+          "content_id": 246332,
+          "label": "1 Thessalonians 4:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161091,
+          "content_id": 246350,
+          "label": "1 Thessalonians 4:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161161,
+          "content_id": 246420,
+          "label": "1 Thessalonians 5:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161172,
+          "content_id": 246431,
+          "label": "1 Thessalonians 5:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161503,
+          "content_id": 246762,
+          "label": "1 Timothy 3:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161538,
+          "content_id": 246797,
+          "label": "1 Timothy 4:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161561,
+          "content_id": 246820,
+          "label": "1 Timothy 4:6 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163403,
+          "content_id": 256983,
+          "label": "1 Peter 1:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163568,
+          "content_id": 257148,
+          "label": "1 Peter 2:6 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163960,
+          "content_id": 257540,
+          "label": "2 Peter 1:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164144,
+          "content_id": 257724,
+          "label": "2 Peter 2:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164159,
+          "content_id": 257739,
+          "label": "2 Peter 2:5 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164173,
+          "content_id": 257753,
+          "label": "2 Peter 2:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164208,
+          "content_id": 257788,
+          "label": "2 Peter 2:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164214,
+          "content_id": 257794,
+          "label": "2 Peter 2:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164724,
+          "content_id": 258304,
+          "label": "Hebrews 3:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165027,
+          "content_id": 258607,
+          "label": "Hebrews 7:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166071,
+          "content_id": 259651,
+          "label": "Hebrews 13:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166699,
+          "content_id": 260279,
+          "label": "James 4:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166826,
+          "content_id": 260406,
+          "label": "Jude 1:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166864,
+          "content_id": 260444,
+          "label": "Jude 1:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168542,
+          "content_id": 262122,
+          "label": "Esther 2:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168547,
+          "content_id": 262127,
+          "label": "Esther 2:15 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168673,
+          "content_id": 262253,
+          "label": "Esther 3:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168857,
+          "content_id": 262437,
+          "label": "Esther 5:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169013,
+          "content_id": 262593,
+          "label": "Esther 8:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169183,
+          "content_id": 262763,
+          "label": "Esther 9:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169276,
+          "content_id": 262856,
+          "label": "Esther 9:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169319,
+          "content_id": 262899,
+          "label": "Esther 9:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169322,
+          "content_id": 262902,
+          "label": "Esther 9:29 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169332,
+          "content_id": 262912,
+          "label": "Esther 9:31 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169351,
+          "content_id": 262931,
+          "label": "Esther 10:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179808,
+          "content_id": 273388,
+          "label": "Nehemiah 8:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179844,
+          "content_id": 273424,
+          "label": "Nehemiah 8:13 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180208,
+          "content_id": 273788,
+          "label": "Nehemiah 10:38 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180223,
+          "content_id": 273803,
+          "label": "Nehemiah 11:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180301,
+          "content_id": 273881,
+          "label": "Nehemiah 11:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180319,
+          "content_id": 273899,
+          "label": "Nehemiah 11:22 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180353,
+          "content_id": 273933,
+          "label": "Nehemiah 11:35 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180370,
+          "content_id": 273950,
+          "label": "Nehemiah 12:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180435,
+          "content_id": 274015,
+          "label": "Nehemiah 12:24 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180443,
+          "content_id": 274023,
+          "label": "Nehemiah 12:26 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180482,
+          "content_id": 274062,
+          "label": "Nehemiah 12:36 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180484,
+          "content_id": 274064,
+          "label": "Nehemiah 12:36 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180560,
+          "content_id": 274140,
+          "label": "Nehemiah 13:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180601,
+          "content_id": 274181,
+          "label": "Nehemiah 13:10 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180709,
+          "content_id": 274289,
+          "label": "Nehemiah 13:28 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181792,
+          "content_id": 275372,
+          "label": "Proverbs 8:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183455,
+          "content_id": 277035,
+          "label": "Proverbs 21:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185915,
+          "content_id": 279495,
+          "label": "Zephaniah 3:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185946,
+          "content_id": 279526,
+          "label": "Zephaniah 3:8 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187137,
+          "content_id": 391304,
+          "label": "Galatians 1:1 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187149,
+          "content_id": 391316,
+          "label": "Galatians 1:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187155,
+          "content_id": 391322,
+          "label": "Galatians 1:4 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187214,
+          "content_id": 391381,
+          "label": "Galatians 1:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187258,
+          "content_id": 391425,
+          "label": "Galatians 2:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198156,
+          "content_id": 462477,
+          "label": "Ezra 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198161,
+          "content_id": 462482,
+          "label": "Ezra 1:2 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198166,
+          "content_id": 462487,
+          "label": "Ezra 1:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198168,
+          "content_id": 462489,
+          "label": "Ezra 1:3 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198364,
+          "content_id": 462685,
+          "label": "Ezra 3:1 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198377,
+          "content_id": 462698,
+          "label": "Ezra 3:2 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198449,
+          "content_id": 462770,
+          "label": "Ezra 3:10 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198476,
+          "content_id": 462797,
+          "label": "Ezra 4:1 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198495,
+          "content_id": 462816,
+          "label": "Ezra 4:3 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198629,
+          "content_id": 462950,
+          "label": "Ezra 5:1 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198680,
+          "content_id": 463001,
+          "label": "Ezra 5:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198779,
+          "content_id": 463100,
+          "label": "Ezra 6:12 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198796,
+          "content_id": 463117,
+          "label": "Ezra 6:14 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198842,
+          "content_id": 463163,
+          "label": "Ezra 6:21 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198848,
+          "content_id": 463169,
+          "label": "Ezra 6:22 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198862,
+          "content_id": 463183,
+          "label": "Ezra 7:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198897,
+          "content_id": 463218,
+          "label": "Ezra 7:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198926,
+          "content_id": 463247,
+          "label": "Ezra 7:16 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198956,
+          "content_id": 463277,
+          "label": "Ezra 7:21 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199356,
+          "content_id": 463677,
+          "label": "Ezra 10:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199392,
+          "content_id": 463713,
+          "label": "Ezra 10:16 (#5)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

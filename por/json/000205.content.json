@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800226,
+    "reference_id": 209467,
+    "title": "Introdução à distribuição",
+    "media_type": "Text",
+    "index_reference": "introdução à distribuição",
+    "language": "por",
+    "content": "<h3>Visão geral sobre distribuição</h3><p>O conteúdo bíblico só tem valor quando é distribuído e utilizado. Uma vantagem de usar a plataforma de tradução e publicação Door43 é que ela oferece várias maneiras simples de distribuir conteúdo. No Door43:</p><ul><li><p>Você pode guardar sua tradução com segurança</p></li><li><p>As pessoas podem ver a sua tradução</p></li><li><p>As pessoas podem deixar comentários e sugestões para melhorar a sua tradução</p></li><li><p>As pessoas podem baixar sua tradução para ler, imprimir e compartilhar com outras.</p></li></ul><h3>Licença Aberta</h3><p>O principal fator que possibilita a distribuição de conteúdo é a <span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Licença Aberta</span> utilizada para todo o conteúdo no Door 43. Esta licença oferece a todos a liberdade necessária para:</p><ul><li><p><strong>Compartilhar</strong> — copiar e redistribuir o material em qualquer meio ou formato</p></li><li><p><strong>Adaptar</strong> — remixar, transformar e desenvolver a partir do material</p></li></ul><p>para qualquer finalidade, até mesmo comercial, sem custo. “De graça recebestes; de graça dai”. (Mt 10.8b)</p><p>Para saber como compartilhar suas traduções tanto online quanto offline, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209485\" data-resourceType=\"UWTranslationManual\">Como compartilhar conteúdo</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209472,
+          "content_id": 800231,
+          "label": "Licença aberta",
+          "language": "por"
+        },
+        {
+          "reference_id": 209485,
+          "content_id": 800244,
+          "label": "Como compartilhar conteúdo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

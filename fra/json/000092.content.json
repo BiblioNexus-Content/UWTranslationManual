@@ -1,0 +1,598 @@
+[
+  {
+    "content_id": 33334,
+    "reference_id": 26748,
+    "title": "Connect — Simultaneous Time Relationship",
+    "media_type": "Text",
+    "index_reference": "connect — simultaneous time relationship",
+    "language": "fra",
+    "content": "<h2>Time Relationships</h2><p>Some connectors establish time relationships between two phrases, clauses, sentences, or chunks of text.</p><h3>Simultaneous Clause</h3><h1>Description</h1><p>A simultaneous clause is a time relationship that connects two or more events that occur at the same time.</p><h1>Reason This Is a Translation Issue</h1><p>Languages indicate in many different ways that events occur simultaneously. These ways may vary based on whether or not something is causing the events to occur simultaneously. Connecting words that may indicate simultaneous events are words such as “while,” “as,” and “during.” Often the Bible does not state a relationship between the events but simply says they occurred at the same time. It is important that you (the translator) know when a time relationship is implied and when it is not implied so that you can communicate it clearly. A simultaneous clause communicates that events happened at the same time but it does not indicate that one event caused the other. That would be a reason-and-result relationship.</p><h1>Examples From OBS and the Bible</h1><p>Joseph served his master well, <strong>and</strong> God blessed Joseph. (OBS Story 8 Frame 4)</p><p>Two events happened while Joseph was a slave to a wealthy government official: Joseph served well, and God blessed Joseph. There is no indication of a reason-and-result (cause and effect) relationship between the two, or that the first event happened, and then the second event happened.</p><p>But in truth I say to you that there were many widows in Israel <strong>during</strong> the days of Elijah. (Luke 4:25b ULT)</p><p>The connecting word “<strong>during</strong>” tells us clearly that two things happened at the same time, but one event did not cause the other.</p><p>And the people were waiting for Zechariah, <strong>and</strong> they were wondering at his delaying in the temple. (Luke 1:21 ULT)</p><p>The people were both waiting and wondering at the same time. The general connector “<strong>and</strong>” indicates this.</p><p><strong>While</strong> they were looking intensely into heaven <strong>as</strong> he was going up, suddenly, two men stood by them in white clothing. (Acts 1:10 ULT)</p><p>Three events happened at the same time — the disciples looking, Jesus going up, and two men standing. The connector words “<strong>while</strong>” and “<strong>as</strong>” tell us this.</p><h1>Translation Strategies</h1><p>If the way that the simultaneous clauses are marked also is clear in your language, then translate the simultaneous clauses as they are.</p><p>(1) If the connecting word does not make it clear that the simultaneous clauses are happening at the same time, use a connecting word that communicates this more clearly. (2) If it is not clear which clause the simultaneous clause is connected to, and that they are happening at the same time, mark all of the clauses with a connecting word. (3) If your language marks events as simultaneous in a different way than using connecting words, then use that way.</p><h1>Examples of Translation Strategies Applied</h1><p>Below, each Bible verse will be restated in three different ways, according to the translation strategies in the list above. Each restatement will have the same number as the translation strategy that it is using.</p><p>And the people were waiting for Zechariah, <strong>and</strong> they were wondering at his delaying in the temple. (Luke 1:21 ULT)</p><p>(1) Now <strong>while</strong> the people were waiting for Zechariah, they were wondering at his delaying in the temple.</p><p>(2) Now <strong>while</strong> the people were waiting for Zechariah, they were <strong>also</strong> wondering at his delaying in the temple.</p><p>(3) Now the people were waiting for Zechariah, wondering at his delaying in the temple.</p><p><strong>While</strong> they were looking intently into heaven <strong>as</strong> he was going up, suddenly, two men stood by them in white clothing. (Acts 1:10 ULT)</p><p>(1) And <strong>during the time</strong> they were looking intently into heaven <strong>while</strong> he was going up, suddenly, two men stood by them in white clothing.</p><p>(2) And <strong>while</strong> they were looking intently into heaven <strong>as</strong> he was going up, suddenly, <strong>at that same time</strong> two men stood by them in white clothing.</p><p>(3) They were looking intently into heaven; he was going up <strong>when</strong> they saw two men standing by them in white clothing.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118501,
+          "content_id": 143713,
+          "label": "Mark 14:54 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118562,
+          "content_id": 143774,
+          "label": "Mark 14:66 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137389,
+          "content_id": 207916,
+          "label": "Acts 5:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137603,
+          "content_id": 208130,
+          "label": "Acts 7:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141268,
+          "content_id": 211795,
+          "label": "John 8:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118783,
+          "content_id": 143995,
+          "label": "Mark 15:47 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142389,
+          "content_id": 212916,
+          "label": "John 18:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142811,
+          "content_id": 213338,
+          "label": "Luke 1:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142854,
+          "content_id": 213381,
+          "label": "Luke 1:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146846,
+          "content_id": 217373,
+          "label": "Luke 23:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147235,
+          "content_id": 217762,
+          "label": "Matthew 1:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147335,
+          "content_id": 217862,
+          "label": "Matthew 2:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147383,
+          "content_id": 217910,
+          "label": "Matthew 3:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147879,
+          "content_id": 218406,
+          "label": "Matthew 6:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149537,
+          "content_id": 220064,
+          "label": "Matthew 14:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151338,
+          "content_id": 221865,
+          "label": "Matthew 24:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151408,
+          "content_id": 221935,
+          "label": "Matthew 24:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151502,
+          "content_id": 222029,
+          "label": "Matthew 24:40 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151565,
+          "content_id": 222092,
+          "label": "Matthew 25:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151778,
+          "content_id": 222305,
+          "label": "Matthew 26:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152010,
+          "content_id": 222537,
+          "label": "Matthew 26:58 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152063,
+          "content_id": 222590,
+          "label": "Matthew 26:69 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152126,
+          "content_id": 222653,
+          "label": "Matthew 27:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152330,
+          "content_id": 222857,
+          "label": "Matthew 27:61 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153289,
+          "content_id": 223816,
+          "label": "Romans 5:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153298,
+          "content_id": 223825,
+          "label": "Romans 5:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153589,
+          "content_id": 224116,
+          "label": "Romans 7:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154682,
+          "content_id": 225209,
+          "label": "Romans 12:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155055,
+          "content_id": 225582,
+          "label": "Romans 15:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155232,
+          "content_id": 240491,
+          "label": "1 Corinthians 1:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155384,
+          "content_id": 240643,
+          "label": "1 Corinthians 2:1 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155463,
+          "content_id": 240722,
+          "label": "1 Corinthians 2:13 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155690,
+          "content_id": 240949,
+          "label": "1 Corinthians 4:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155696,
+          "content_id": 240955,
+          "label": "1 Corinthians 4:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155771,
+          "content_id": 241030,
+          "label": "1 Corinthians 5:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155839,
+          "content_id": 241098,
+          "label": "1 Corinthians 6:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156244,
+          "content_id": 241503,
+          "label": "1 Corinthians 8:7 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156277,
+          "content_id": 241536,
+          "label": "1 Corinthians 8:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156398,
+          "content_id": 241657,
+          "label": "1 Corinthians 9:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156629,
+          "content_id": 241888,
+          "label": "1 Corinthians 11:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156776,
+          "content_id": 242035,
+          "label": "1 Corinthians 11:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156780,
+          "content_id": 242039,
+          "label": "1 Corinthians 11:33 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157086,
+          "content_id": 242345,
+          "label": "1 Corinthians 14:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157843,
+          "content_id": 243102,
+          "label": "2 Corinthians 2:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158169,
+          "content_id": 243428,
+          "label": "2 Corinthians 4:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159402,
+          "content_id": 244661,
+          "label": "Colossians 2:5 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159539,
+          "content_id": 244798,
+          "label": "Colossians 3:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159560,
+          "content_id": 244819,
+          "label": "Colossians 3:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159630,
+          "content_id": 244889,
+          "label": "Colossians 3:16 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159692,
+          "content_id": 244951,
+          "label": "Colossians 4:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159695,
+          "content_id": 244954,
+          "label": "Colossians 4:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159714,
+          "content_id": 244973,
+          "label": "Colossians 4:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160738,
+          "content_id": 245997,
+          "label": "1 Thessalonians 1:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161080,
+          "content_id": 246339,
+          "label": "1 Thessalonians 4:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161109,
+          "content_id": 246368,
+          "label": "1 Thessalonians 5:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161927,
+          "content_id": 247186,
+          "label": "2 Thessalonians 2:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162570,
+          "content_id": 247829,
+          "label": "Philemon 1:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164703,
+          "content_id": 258283,
+          "label": "Hebrews 3:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164964,
+          "content_id": 258544,
+          "label": "Hebrews 6:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165005,
+          "content_id": 258585,
+          "label": "Hebrews 7:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165131,
+          "content_id": 258711,
+          "label": "Hebrews 7:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165182,
+          "content_id": 258762,
+          "label": "Hebrews 8:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165296,
+          "content_id": 258876,
+          "label": "Hebrews 9:8 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165323,
+          "content_id": 258903,
+          "label": "Hebrews 9:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165450,
+          "content_id": 259030,
+          "label": "Hebrews 10:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165863,
+          "content_id": 259443,
+          "label": "Hebrews 12:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168345,
+          "content_id": 261925,
+          "label": "Esther 1:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168469,
+          "content_id": 262049,
+          "label": "Esther 2:6 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168480,
+          "content_id": 262060,
+          "label": "Esther 2:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168488,
+          "content_id": 262068,
+          "label": "Esther 2:8 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168573,
+          "content_id": 262153,
+          "label": "Esther 2:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168578,
+          "content_id": 262158,
+          "label": "Esther 2:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170213,
+          "content_id": 263793,
+          "label": "Genesis 8:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171500,
+          "content_id": 265080,
+          "label": "Genesis 19:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179331,
+          "content_id": 272911,
+          "label": "Nehemiah 4:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179337,
+          "content_id": 272917,
+          "label": "Nehemiah 5:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179516,
+          "content_id": 273096,
+          "label": "Nehemiah 6:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179557,
+          "content_id": 273137,
+          "label": "Nehemiah 6:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179902,
+          "content_id": 273482,
+          "label": "Nehemiah 9:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180491,
+          "content_id": 274071,
+          "label": "Nehemiah 12:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180508,
+          "content_id": 274088,
+          "label": "Nehemiah 12:43 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180513,
+          "content_id": 274093,
+          "label": "Nehemiah 12:44 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180576,
+          "content_id": 274156,
+          "label": "Nehemiah 13:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180665,
+          "content_id": 274245,
+          "label": "Nehemiah 13:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181234,
+          "content_id": 274814,
+          "label": "Proverbs 3:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181528,
+          "content_id": 275108,
+          "label": "Proverbs 6:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182041,
+          "content_id": 275621,
+          "label": "Proverbs 10:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184874,
+          "content_id": 278454,
+          "label": "Ruth 1:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188075,
+          "content_id": 392242,
+          "label": "Exodus 2:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188642,
+          "content_id": 392809,
+          "label": "Exodus 8:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189817,
+          "content_id": 393984,
+          "label": "Exodus 29:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189824,
+          "content_id": 393991,
+          "label": "Exodus 29:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198624,
+          "content_id": 462945,
+          "label": "Ezra 5:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198636,
+          "content_id": 462957,
+          "label": "Ezra 5:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198869,
+          "content_id": 463190,
+          "label": "Ezra 7:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199056,
+          "content_id": 463377,
+          "label": "Ezra 8:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190565,
+          "content_id": 667234,
+          "label": "Jonah 2:7 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

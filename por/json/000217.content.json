@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 800238,
+    "reference_id": 209479,
+    "title": "Publicando",
+    "media_type": "Text",
+    "index_reference": "publicando",
+    "language": "por",
+    "content": "<h3>Publicando no Door43</h3><ul><li><p>Durante o processo de tradução e verificação, o rascunho da tradução será carregado e mantido em um repositório sob o nome de usuário que você escolheu no site Door43. É aqui que o translationStudio e o translationCore enviam os rascunhos quando você os instrui a carregar.</p></li><li><p>Quando a verificação for concluída e todas as edições apropriadas tiverem sido feitas na tradução no Door43, os verificadores ou líderes da igreja informarão à unfoldingWord sobre seu desejo de publicar. Eles fornecerão à unfoldingWord os documentos que afirmam que os <span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">Pastores</span>, a <span data-bnType=\"resourceReference\" data-resourceId=\"209455\" data-resourceType=\"UWTranslationManual\">Comunidade</span> e os <span data-bnType=\"resourceReference\" data-resourceId=\"209469\" data-resourceType=\"UWTranslationManual\">Líderes da Rede de Igrejas</span> confirmam que a tradução é confiável. Os documentos também contêm uma afirmação das <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Diretrizes de Tradução</span> da unfoldingWord e da <span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Declaração de Fé</span> da unfoldingWord. Espera-se que todo o conteúdo traduzido esteja de acordo com a teologia da Declaração de Fé. Também esperamos que os tradutores tenham seguido os procedimentos e metodologias das Diretrizes de Tradução. A unfoldingWord não tem como verificar a precisão das traduções ou das afirmações, e por isso confiamos na integridade da liderança das redes de igrejas.</p></li><li><p>Após obter essas afirmações, a unfoldingWord fará uma cópia da tradução que está no Door43, publicará digitalmente uma cópia estática no site da unfoldingWord (veja https://www.unfoldingword.org) e a disponibilizará no aplicativo móvel da unfoldingWord. Um PDF pronto para impressão também será produzido e disponibilizado para download. Será possível continuar alterando a versão verificada no Door43, permitindo futuras verificações e edições.</p></li><li><p>unfoldingWord também precisará saber o número da versão da fonte que foi usada para a tradução. Este número será incorporado ao número da versão da tradução para facilitar o acompanhamento do estado da fonte e da tradução à medida que ambos melhoram e mudam ao longo do tempo. Para informações sobre números de versão, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\">Textos fonte e números de versões</span>.</p></li></ul><h3>Verificação contínua</h3><p>O processo e a estrutura de verificação descritos neste documento dependem de uma verificação e revisão contínuas do conteúdo, conforme determinado pela Igreja que o utiliza. Encorajamos cada equipe de tradução a continuar aceitando feedback da comunidade do idioma e da igreja. Assim, eles podem melhorar a tradução incorporando correções e encontrando maneiras melhores de expressar as ideias à medida que são descobertas. Por essa razão, as traduções do conteúdo continuam disponíveis na plataforma de tradução (veja https://door43.org) indefinidamente, permitindo que os usuários continuem a melhorá-las. Recomendamos que o comitê de tradução convide a comunidade do idioma a contribuir no Door43 e designe uma ou mais pessoas para monitorar as questões submetidas lá para a tradução. Essas pessoas podem fazer correções na tradução e discutir outras mudanças sugeridas com o comitê de tradução. Com o tempo, o comitê pode decidir ajustar o estilo da tradução, como adicionar ou remover informações implícitas ou usar palavras ou frases mais atuais. Ao maximizar a contribuição do maior número de usuários do conteúdo, a Igreja pode trabalhar em conjunto para criar conteúdo bíblico que aumente em qualidade e usabilidade ao longo do tempo.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26815,
+          "content_id": 800180,
+          "label": "Textos fonte e números de versões",
+          "language": "por"
+        },
+        {
+          "reference_id": 209455,
+          "content_id": 800214,
+          "label": "Perguntas de avaliação da comunidade do idioma",
+          "language": "por"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 800220,
+          "label": "Afirmação de precisão e aceitação pela comunidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 800228,
+          "label": "Formulário de avaliação do Verificador de Qualidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 800246,
+          "label": "Declaração de Fé",
+          "language": "por"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 800251,
+          "label": "Orientações de tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

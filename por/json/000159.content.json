@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800180,
+    "reference_id": 26815,
+    "title": "Textos fonte e números de versões",
+    "media_type": "Text",
+    "index_reference": "textos fonte e números de versões",
+    "language": "por",
+    "content": "<h3>Importância dos números de versão</h3><p>Em um projeto aberto como o unfoldingWord, é essencial acompanhar as versões publicadas. Isso é crucial porque as traduções (e os textos-fonte) podem mudar frequentemente. Ser capaz de identificar cada versão ajuda a esclarecer qual texto está realmente sendo discutido. Os números de versão também são importantes porque todas as traduções devem ser baseadas no texto-fonte mais recente. Se o texto-fonte mudar, a tradução deve ser atualizada para corresponder à versão mais recente.</p><p>Antes de iniciar um projeto de tradução, por favor, certifique-se de que você possui a versão mais recente do texto original.</p><h3>Como funciona o versionamento</h3><p>Os números de versão são atribuídos apenas quando uma obra é lançada, não quando é editada. O histórico de revisões é mantido no Door43, mas isso é diferente de uma obra receber um número de versão.</p><p></p><p>Cada texto original recebe um número inteiro para cada lançamento (versão 1, 2, 3, etc). Quaisquer traduções baseadas nesse texto original adotarão o número da versão do texto original e adicionarão .1 (assim, uma tradução do OBS em português versão 4 se tornaria versão 4.1). Qualquer tradução adicional baseada na tradução intermediária adicionaria mais .1 ao número da versão da qual foi criada (por exemplo, 4.1.1). Novos lançamentos de qualquer um desses textos incrementam seu “decimal” em 1.</p><p>Por favor, consulte https://ufw.io/versioning para mais detalhes.</p><h3>Onde encontrar a versão mais atual</h3><p>As versões mais recentes dos recursos no Catálogo Door43 podem ser visualizadas online em https://door 43.org/en/?user=Door43-Catalog. O conteúdo original em inglês do unfoldingWord® também está disponível em vários formatos em https://www.unfoldingword.org/content/.</p><p><strong>Nota:</strong> translationCore, translationStudio e o aplicativo unfoldingWord® nem sempre possuem as versões mais recentes, pois a atualização de conteúdo não ocorre automaticamente (você pode usar o recurso de atualização de conteúdo de origem em cada um desses aplicativos para obter as versões mais recentes).</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

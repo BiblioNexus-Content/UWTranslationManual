@@ -1,0 +1,226 @@
+[
+  {
+    "content_id": 33259,
+    "reference_id": 26673,
+    "title": "Apostrophe",
+    "media_type": "Text",
+    "index_reference": "apostrophe",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>An apostrophe is a figure of speech in which a speaker turns his attention away from his listeners and speaks to someone or something that he knows cannot hear him. He does this to tell his listeners his message or feelings about that person or thing in a very strong way.</p><h1>Reason This Is a Translation Issue</h1><p>Many languages do not use apostrophe, and readers could be confused by it. They may wonder who the speaker is talking to, or think that the speaker is crazy to talk to things or people who cannot hear.</p><h3>Examples from the Bible</h3><p>Mountains of Gilboa, let there not be dew or rain on you. (2 Samuel 1:21a ULT)</p><p>King Saul was killed on Mount Gilboa, and David sang a sad song about it. By telling these mountains that he wanted them to have no dew or rain, he showed how sad he was.</p><p>Jerusalem, Jerusalem, who kills the prophets and stones those sent to you. (Luke 13:34a ULT)</p><p>Jesus was expressing his feelings for the people of Jerusalem in front of his disciples and a group of Pharisees. By speaking directly to Jerusalem as though its people could hear him, Jesus showed how deeply he cared about them.</p><p>He cried against the altar by the word of Yahweh: “<strong>Altar</strong>, <strong>altar</strong>! This is what Yahweh says, ‘See, … on you they will burn human bones.’” (1 Kings 13:2 ULT)</p><p>The man of God spoke as if the altar could hear him, but he really wanted the king, who was standing there, to hear him.</p><h3>Translation Strategies</h3><p>If apostrophe would be natural and give the right meaning in your language, consider using it. But if this way of speaking would be confusing to your people, let the speaker continue speaking to the people that are listening to him as he tells <strong>them</strong> his message or feelings about the people or thing that cannot hear him. See the example below.</p><h3>Examples of Translation Strategies Applied</h3><p>He cried against the altar by the word of Yahweh: “<strong>Altar</strong>, <strong>altar</strong>! This is what Yahweh says, ‘See, … on you they will burn human bones.’” (1 Kings 13:2 ULT)</p><p>He said this about the altar: “This is what Yahweh says <strong>about this altar.</strong> ‘See, … they will burn people’s bones on <strong>it</strong>.’”</p><p><strong>Mountains of Gilboa</strong>, let there not be dew or rain on <strong>you.</strong> (2 Samuel 1:21a ULT)</p><p><strong>As for these mountains of Gilboa</strong>, let there not be dew or rain on <strong>them</strong>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 117236,
+          "content_id": 142448,
+          "label": "Mark 9:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117685,
+          "content_id": 142897,
+          "label": "Mark 11:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144291,
+          "content_id": 214818,
+          "label": "Luke 9:41 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144405,
+          "content_id": 214932,
+          "label": "Luke 10:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144420,
+          "content_id": 214947,
+          "label": "Luke 10:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145162,
+          "content_id": 215689,
+          "label": "Luke 13:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146101,
+          "content_id": 216628,
+          "label": "Luke 19:42 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146114,
+          "content_id": 216641,
+          "label": "Luke 19:44 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146848,
+          "content_id": 217375,
+          "label": "Luke 23:30 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147291,
+          "content_id": 217818,
+          "label": "Matthew 2:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148881,
+          "content_id": 219408,
+          "label": "Matthew 11:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148897,
+          "content_id": 219424,
+          "label": "Matthew 11:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150087,
+          "content_id": 220614,
+          "label": "Matthew 17:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151283,
+          "content_id": 221810,
+          "label": "Matthew 23:37 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157572,
+          "content_id": 242831,
+          "label": "1 Corinthians 15:55 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160139,
+          "content_id": 245398,
+          "label": "Ephesians 5:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160140,
+          "content_id": 245399,
+          "label": "Ephesians 5:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167380,
+          "content_id": 260960,
+          "label": "Revelation 6:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167970,
+          "content_id": 261550,
+          "label": "Revelation 18:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167986,
+          "content_id": 261566,
+          "label": "Revelation 18:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168025,
+          "content_id": 261605,
+          "label": "Revelation 18:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168029,
+          "content_id": 261609,
+          "label": "Revelation 18:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176785,
+          "content_id": 270365,
+          "label": "Job 16:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176787,
+          "content_id": 270367,
+          "label": "Job 16:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176848,
+          "content_id": 270428,
+          "label": "Job 17:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176851,
+          "content_id": 270431,
+          "label": "Job 17:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177926,
+          "content_id": 271506,
+          "label": "Job 31:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178496,
+          "content_id": 272076,
+          "label": "Job 38:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185281,
+          "content_id": 278861,
+          "label": "Song of Solomon 2:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185448,
+          "content_id": 279028,
+          "label": "Song of Solomon 4:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185704,
+          "content_id": 279284,
+          "label": "Song of Solomon 8:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185853,
+          "content_id": 279433,
+          "label": "Zephaniah 2:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185856,
+          "content_id": 279436,
+          "label": "Zephaniah 2:5 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202967,
+          "content_id": 499902,
+          "label": "Joel 2:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202971,
+          "content_id": 499906,
+          "label": "Joel 2:22 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

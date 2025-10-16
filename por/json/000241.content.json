@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800262,
+    "reference_id": 209503,
+    "title": "Tipos de coisas a verificar",
+    "media_type": "Text",
+    "index_reference": "tipos de coisas a verificar",
+    "language": "por",
+    "content": "<h3>Tipos de coisas a verificação</h3><p>Estas são coisas a serem verificadas ao analisar uma passagem das Escrituras para confirmar sua precisão. Pastores que falam o idioma alvo podem usar estas diretrizes, assim como os Verificadores de Qualidade que não falam o idioma alvo.</p><ol><li><p>Pergunte sobre qualquer coisa que não pareça correta para você, para que a equipe de tradução possa explicar. Se também não parecer correto para eles, eles podem ajustar a tradução. Em geral:</p><ol><li><p>Verifique se há algo que parece ter sido adicionado e que não fazia parte do significado original do texto. (Lembre-se, o significado original também inclui <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Informações implícitas</span>.)</p></li><li><p>Verifique se há algo que parece estar faltando, que fazia parte do significado do texto original, mas não foi incluído na tradução.</p></li><li><p>Verifique se há algum significado que parece ser diferente do significado do texto original.</p></li></ol></li><li><p>Verifique se o ponto principal ou o tema da passagem está claro. Peça à equipe de tradução que resuma o que a passagem está dizendo ou ensinando. Se eles escolherem um ponto secundário como o principal, talvez precisem ajustar a forma como traduziram a passagem.</p></li><li><p>Verifique se as diferentes partes da passagem estão conectadas corretamente — se as razões, adições, resultados, conclusões, etc., na passagem bíblica estão indicados com os conectores adequados no idioma alvo.</p></li><li><p>Verifique a consistência das Palavras de Tradução unfoldingWord®, conforme explicado na última seção de <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">Etapas para Verificação de Qualidade</span>. Pergunte como cada termo é usado na cultura, quem usa os termos e em quais ocasiões. Pergunte também quais outros termos são semelhantes e quais são as diferenças entre eles. Isso ajuda o tradutor (ou equipe de tradução) a verificar se alguns termos podem ter significados indesejados e a identificar qual termo pode ser mais adequado. A tradução pode precisar usar termos diferentes em contextos distintos.</p></li><li><p>Verifique as figuras de linguagem. Onde houver uma figura de linguagem na tradução literal que você está consultando, veja como ela foi traduzida e certifique-se de que comunica o mesmo significado. Onde houver uma figura de linguagem na tradução, verifique para garantir que ela comunica o mesmo significado que no texto da Bíblia IA.</p></li><li><p>Verifique como ideias abstratas foram traduzidas, como amor, perdão, alegria, etc. Muitas dessas também são palavras-chave.</p></li><li><p>Verifique a tradução de itens ou práticas que podem ser desconhecidos na cultura alvo. Mostrar fotos desses itens à equipe de tradução e explicar o que são pode ser muito útil.</p></li><li><p>Discuta as palavras relacionadas ao mundo espiritual e como elas são compreendidas na cultura alvo. Certifique-se de que as palavras usadas na tradução transmitam o significado correto.</p></li><li><p>Verifique qualquer coisa que você considere especialmente difícil de entender ou traduzir na passagem.</p></li></ol><p>Depois de verificar todos esses aspectos e fazer as correções, peça à equipe de tradução para ler o trecho em voz alta novamente entre si ou para outros membros de sua comunidade, garantindo que tudo ainda flua de maneira natural e use os conectores corretos. Se uma correção fizer algo soar de forma não natural, eles precisarão fazer ajustes adicionais na tradução. Esse processo de teste e revisão deve se repetir até que a tradução comunique de forma clara e natural no idioma alvo.</p><p>Para perguntas a serem consideradas sobre a tradução como um todo, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209470\" data-resourceType=\"UWTranslationManual\">Perguntas para Revisores de Qualidade</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 800052,
+          "label": "Conhecimento presumido e informações implícitas",
+          "language": "por"
+        },
+        {
+          "reference_id": 209470,
+          "content_id": 800229,
+          "label": "Perguntas para Verificadores de Qualidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 800261,
+          "label": "Etapas para verificadores de qualidade",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

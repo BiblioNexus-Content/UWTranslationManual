@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800252,
+    "reference_id": 209493,
+    "title": "Visão geral da tradução",
+    "media_type": "Text",
+    "index_reference": "visão geral da tradução",
+    "language": "por",
+    "content": "<h3>Processo de Tradução OL</h3><p>Para &quot;Outras Línguas&quot; (OLs, línguas diferentes dos Idiomas de Acesso), que são a maioria das línguas do mundo, o seguinte é o processo de tradução que a unfoldingWord recomenda e apoia com recursos e ferramentas de tradução.</p><p>Após <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">estabelecer um Comitê de Tradução</span> e treinar tradutores nos <span data-bnType=\"resourceReference\" data-resourceId=\"209477\" data-resourceType=\"UWTranslationManual\">Princípios de Tradução</span> e no uso do <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>, recomendamos que você siga este processo:</p><ol><li><p>Usando o translationStudio, faça uma tradução <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">do primeiro rascunho</span> de uma história do Histórias Bíblicas Livres (HBL).</p></li><li><p>Verifique a tradução com um <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">parceiro</span> da sua equipe de tradução.</p></li><li><p>Verifique a tradução com a <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Equipe de tradução completa</span>.</p></li><li><p>Verifique a tradução usando as <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Notas de Tradução</span> e as <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">Palavras de Tradução</span>.</p></li><li><p>Verifique a tradução com a <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Comunidade do idioma</span>.</p></li><li><p>Verifique a tradução com <span data-bnType=\"resourceReference\" data-resourceId=\"209453\" data-resourceType=\"UWTranslationManual\">os Pastores da comunidade do idioma</span>.</p></li><li><p>Verifique a tradução com <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">os Líderes de Redes da Igreja</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publique</span> a tradução no Door43, em formato impresso e em áudio, conforme preferido.</p></li></ol><p>Repita estas etapas com cada história de Histórias Bíblicas Livres, até que você tenha concluído todas as cinquenta.</p><p>Após terminar as Histórias Bíblicas Livres, você terá adquirido habilidade e experiência suficientes para começar a traduzir a Bíblia. Recomendamos que você comece com um livro que tenha <span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Nível de dificuldade 2</span>. Em seguida, siga este processo:</p><ol><li><p>Usando o translationStudio, faça uma tradução <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">primeiro rascunho</span> de um livro da Bíblia.</p></li><li><p>Verifique a tradução com um <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">parceiro</span> da sua equipe de tradução.</p></li><li><p>Verifique a tradução com a <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Equipe de tradução completa</span>.</p></li><li><p>Verifique a tradução usando as ferramentas <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Notas de Tradução</span> e as <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">Palavras de Tradução</span> no <span data-bnType=\"resourceReference\" data-resourceId=\"209482\" data-resourceType=\"UWTranslationManual\">translationCore</span>.</p></li><li><p>Verifique a tradução com a <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Comunidade do idioma</span>.</p></li><li><p>Verifique a tradução com <span data-bnType=\"resourceReference\" data-resourceId=\"209453\" data-resourceType=\"UWTranslationManual\">os Pastores da Comunidade do idioma</span>.</p></li><li><p>Alinhe a tradução com os idiomas originais usando a <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Ferramenta de Alinhamento</span> no <span data-bnType=\"resourceReference\" data-resourceId=\"209482\" data-resourceType=\"UWTranslationManual\">translationCore</span>.</p></li><li><p>Verifique a tradução com <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">os Líderes de Redes de Igrejas</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publique</span> a tradução no Door43, em formato impresso e em áudio, conforme preferido.</p></li></ol><p>Repita estas etapas com cada livro da Bíblia.</p><p>Planeje ter alguém da equipe de tradução para continuar mantendo a tradução no <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org\">Door43</a>, editando-a para corrigir erros e melhorá-la de acordo com as sugestões da comunidade da igreja. A tradução pode ser facilmente baixada e reimpressa quantas vezes desejar.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 800102,
+          "label": "Primeiro rascunho",
+          "language": "por"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 800192,
+          "label": "Escolhendo o que traduzir",
+          "language": "por"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 800209,
+          "label": "Verificação de Alinhamento",
+          "language": "por"
+        },
+        {
+          "reference_id": 209453,
+          "content_id": 800212,
+          "label": "Verificação de Precisão por líderes de igreja",
+          "language": "por"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 800222,
+          "label": "Verificação de palavras de tradução no tC",
+          "language": "por"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 800225,
+          "label": "Introdução a publicação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 800227,
+          "label": "Verificando a clareza e naturalidade da tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 800233,
+          "label": "Verificação oral com um parceiro",
+          "language": "por"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 800236,
+          "label": "Treinando antes de começar a tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209482,
+          "content_id": 800241,
+          "label": "Configurando o translationCore®",
+          "language": "por"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 800242,
+          "label": "Organizando uma equipe de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 800243,
+          "label": "Configurando o translationStudio",
+          "language": "por"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 800248,
+          "label": "Verificação de bloco oral em equipe",
+          "language": "por"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 800249,
+          "label": "Verificação de Notas de Tradução no tC",
+          "language": "por"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 800261,
+          "label": "Etapas para verificadores de qualidade",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

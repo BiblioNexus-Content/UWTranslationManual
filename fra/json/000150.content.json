@@ -1,0 +1,550 @@
+[
+  {
+    "content_id": 33392,
+    "reference_id": 26806,
+    "title": "Numbers",
+    "media_type": "Text",
+    "index_reference": "numbers",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>There are many numbers in the Bible. They can be written as words (“five”) or as numerals (“5”). Some numbers are very large, such as “two hundred” (200), “twenty-two thousand” (22,000), or “one hundred million” (100,000,000). Some languages do not have words for all of these numbers. Translators need to decide how to translate numbers and whether to write them as words or numerals.</p><p>Some numbers are exact and others are rounded.</p><p>Abram was <strong>86</strong> years old when Hagar bore Ishmael to Abram. (Genesis 16:16 ULT)</p><p>Eighty-six (86) is an exact number.</p><p>That day about <strong>3,000</strong> of the people died. (Exodus 32:28b ULT)</p><p>Here the number three thousand (3,000) is a round number. It may have been a little more than that or a little less than that. The word “about” shows that it is not an exact number.</p><h1>Reason This Is a Translation Issue</h1><p>Some languages do not have words for some of these numbers.</p><h1>Translation Principles</h1><ul><li><p>Exact numbers should be translated as closely and specifically as they can be.</p></li><li><p>Rounded numbers can be translated more generally.</p></li></ul><h3>Examples From the Bible</h3><p>When Jared had lived <strong>162</strong> years, he became the father of Enoch. After he became the father of Enoch, Jared lived <strong>800</strong> years. He became the father of more sons and daughters. Jared lived <strong>962</strong> years, and then he died. (Genesis 5:18–20 ULT)</p><p>The numbers 162, 800, and 962 are exact numbers and should be translated with something as close to those numbers as possible.</p><p>Our sister, may you be the mother of <strong>thousands of ten thousands.</strong> (Genesis 24:60b ULT)</p><p>This is a rounded number. It does not say exactly how many descendants she should have, but it was a huge number of them.</p><h3>Translation Strategies</h3><p>(1) Write numbers using numerals. (2) Write numbers using your language’s words or the Gateway Language words for those numbers. (3) Write numbers using words, and put the numerals in parentheses after them. (4) Combine words for large numbers. (5) Use a very general expression for very large rounded numbers and write the numeral in parentheses afterward.</p><h3>Examples of Translation Strategies Applied</h3><p>We will use the following verse in our examples:</p><p>Now, see, at great effort I have prepared for Yahweh’s house <strong>100,000</strong> talents of gold, <strong>1,000,000</strong> talents of silver, and bronze and iron in large quantities. (1 Chronicles 22:14a ULT)</p><p>(1) Write numbers using numerals.</p><p>I have prepared for Yahweh’s house <strong>100,000</strong> talents of gold, <strong>1,000,000</strong> talents of silver, and bronze and iron in large quantities.</p><p>(2) Write numbers using your language’s words or the Gateway Language words for those numbers.</p><p>I have prepared for Yahweh’s house <strong>one hundred thousand</strong> talents of gold, <strong>one million</strong> talents of silver, and bronze and iron in large quantities.</p><p>(3) Write numbers using words, and put the numerals in parenthesis after them.</p><p>I have prepared for Yahweh’s house one <strong>hundred thousand (100,000)</strong> talents of gold, <strong>one million (1,000,000)</strong> talents of silver, and bronze and iron in large quantities.</p><p>(4) Combine words for large numbers.</p><p>I have prepared for Yahweh’s house <strong>one hundred thousand</strong> talents of gold, <strong>a thousand thousand</strong> talents of silver, and bronze and iron in large quantities.</p><p>(5) Use a very general expression for very large rounded numbers and write the numeral in parentheses afterward.</p><p>I have prepared for Yahweh’s house <strong>a great amount of gold (100,000 talents)</strong>, <strong>ten times that amount of silver (1,000,000 talents)</strong>, and bronze and iron in large quantities.</p><h1>Consistency</h1><p>Be consistent in your translations. Decide how the numbers will be translated, using numbers or numerals. There are different ways of being consistent.</p><ul><li><p>Use words to represent numbers all of the time. (You might have very long words.)</p></li><li><p>Use numerals to represent numbers all of the time.</p></li><li><p>Use words to represent the numbers that your language has words for and use numerals for the numbers that your language does not have words for.</p></li><li><p>Use words for low numbers and numerals for high numbers.</p></li><li><p>Use words for numbers that require few words and numerals for numbers that require more than a few words.</p></li><li><p>Use words to represent numbers, and write the numerals in parentheses after them.</p></li></ul><h1>Consistency in the ULT and UST</h1><p>The <em>unfoldingWord® Literal Text</em> (ULT) and the <em>unfoldingWord® Simplified Text</em> (UST) use words for the numbers one through ten and use numerals for all numbers above ten.</p><p>When Adam had lived <strong>130</strong> years, he became the father of a son in his own likeness, after his image, and he called his name Seth. After Adam became the father of Seth, he lived <strong>800</strong> years. He became the father of more sons and daughters. Adam lived <strong>930</strong> years, and then he died. (Genesis 5:3–5 ULT)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 117510,
+          "content_id": 142722,
+          "label": "Mark 10:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139716,
+          "content_id": 210243,
+          "label": "Acts 23:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140020,
+          "content_id": 210547,
+          "label": "Acts 27:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150499,
+          "content_id": 221026,
+          "label": "Matthew 19:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156492,
+          "content_id": 241751,
+          "label": "1 Corinthians 10:8 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156494,
+          "content_id": 241753,
+          "label": "1 Corinthians 10:8 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157106,
+          "content_id": 242365,
+          "label": "1 Corinthians 14:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157257,
+          "content_id": 242516,
+          "label": "1 Corinthians 15:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165977,
+          "content_id": 259557,
+          "label": "Hebrews 12:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167318,
+          "content_id": 260898,
+          "label": "Revelation 5:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167395,
+          "content_id": 260975,
+          "label": "Revelation 7:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167399,
+          "content_id": 260979,
+          "label": "Revelation 7:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167506,
+          "content_id": 261086,
+          "label": "Revelation 9:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167721,
+          "content_id": 261301,
+          "label": "Revelation 14:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168302,
+          "content_id": 261882,
+          "label": "Esther 1:1 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168319,
+          "content_id": 261899,
+          "label": "Esther 1:4 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168321,
+          "content_id": 261901,
+          "label": "Esther 1:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168653,
+          "content_id": 262233,
+          "label": "Esther 3:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168696,
+          "content_id": 262276,
+          "label": "Esther 3:13 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168773,
+          "content_id": 262353,
+          "label": "Esther 4:11 (#14)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168782,
+          "content_id": 262362,
+          "label": "Esther 4:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169083,
+          "content_id": 262663,
+          "label": "Esther 8:9 (#13)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169177,
+          "content_id": 262757,
+          "label": "Esther 9:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169182,
+          "content_id": 262762,
+          "label": "Esther 9:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169191,
+          "content_id": 262771,
+          "label": "Esther 9:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169193,
+          "content_id": 262773,
+          "label": "Esther 9:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169205,
+          "content_id": 262785,
+          "label": "Esther 9:13 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169212,
+          "content_id": 262792,
+          "label": "Esther 9:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169218,
+          "content_id": 262798,
+          "label": "Esther 9:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169224,
+          "content_id": 262804,
+          "label": "Esther 9:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169324,
+          "content_id": 262904,
+          "label": "Esther 9:29 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169328,
+          "content_id": 262908,
+          "label": "Esther 9:30 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169907,
+          "content_id": 263487,
+          "label": "Genesis 5:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169929,
+          "content_id": 263509,
+          "label": "Genesis 5:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170111,
+          "content_id": 263691,
+          "label": "Genesis 7:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170180,
+          "content_id": 263760,
+          "label": "Genesis 7:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179428,
+          "content_id": 273008,
+          "label": "Nehemiah 5:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179438,
+          "content_id": 273018,
+          "label": "Nehemiah 5:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179548,
+          "content_id": 273128,
+          "label": "Nehemiah 6:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180246,
+          "content_id": 273826,
+          "label": "Nehemiah 11:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180254,
+          "content_id": 273834,
+          "label": "Nehemiah 11:8 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180268,
+          "content_id": 273848,
+          "label": "Nehemiah 11:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180275,
+          "content_id": 273855,
+          "label": "Nehemiah 11:13 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180281,
+          "content_id": 273861,
+          "label": "Nehemiah 11:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180302,
+          "content_id": 273882,
+          "label": "Nehemiah 11:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180308,
+          "content_id": 273888,
+          "label": "Nehemiah 11:19 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185405,
+          "content_id": 278985,
+          "label": "Song of Solomon 4:4 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187489,
+          "content_id": 391656,
+          "label": "Galatians 3:17 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188046,
+          "content_id": 392213,
+          "label": "Exodus 2:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188101,
+          "content_id": 392268,
+          "label": "Exodus 2:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188216,
+          "content_id": 392383,
+          "label": "Exodus 3:18 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188473,
+          "content_id": 392640,
+          "label": "Exodus 6:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188476,
+          "content_id": 392643,
+          "label": "Exodus 6:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188481,
+          "content_id": 392648,
+          "label": "Exodus 6:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188515,
+          "content_id": 392682,
+          "label": "Exodus 7:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188560,
+          "content_id": 392727,
+          "label": "Exodus 7:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188820,
+          "content_id": 392987,
+          "label": "Exodus 10:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188823,
+          "content_id": 392990,
+          "label": "Exodus 10:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188932,
+          "content_id": 393099,
+          "label": "Exodus 12:37 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188934,
+          "content_id": 393101,
+          "label": "Exodus 12:40 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188935,
+          "content_id": 393102,
+          "label": "Exodus 12:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188959,
+          "content_id": 393126,
+          "label": "Exodus 13:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188962,
+          "content_id": 393129,
+          "label": "Exodus 13:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189018,
+          "content_id": 393185,
+          "label": "Exodus 14:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189141,
+          "content_id": 393308,
+          "label": "Exodus 15:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189255,
+          "content_id": 393422,
+          "label": "Exodus 18:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189262,
+          "content_id": 393429,
+          "label": "Exodus 18:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189414,
+          "content_id": 393581,
+          "label": "Exodus 22:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189471,
+          "content_id": 393638,
+          "label": "Exodus 22:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189492,
+          "content_id": 393659,
+          "label": "Exodus 23:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189497,
+          "content_id": 393664,
+          "label": "Exodus 23:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189505,
+          "content_id": 393672,
+          "label": "Exodus 23:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189507,
+          "content_id": 393674,
+          "label": "Exodus 23:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189541,
+          "content_id": 393708,
+          "label": "Exodus 24:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189549,
+          "content_id": 393716,
+          "label": "Exodus 24:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189571,
+          "content_id": 393738,
+          "label": "Exodus 24:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189575,
+          "content_id": 393742,
+          "label": "Exodus 24:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189640,
+          "content_id": 393807,
+          "label": "Exodus 26:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189641,
+          "content_id": 393808,
+          "label": "Exodus 26:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189653,
+          "content_id": 393820,
+          "label": "Exodus 26:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189727,
+          "content_id": 393894,
+          "label": "Exodus 28:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189728,
+          "content_id": 393895,
+          "label": "Exodus 28:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189852,
+          "content_id": 394019,
+          "label": "Exodus 29:35 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189957,
+          "content_id": 394124,
+          "label": "Exodus 31:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190029,
+          "content_id": 394196,
+          "label": "Exodus 32:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190183,
+          "content_id": 394350,
+          "label": "Exodus 34:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190204,
+          "content_id": 394371,
+          "label": "Exodus 34:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190216,
+          "content_id": 394383,
+          "label": "Exodus 35:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190647,
+          "content_id": 667308,
+          "label": "Jonah 4:11 (#4)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

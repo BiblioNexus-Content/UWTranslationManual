@@ -1,0 +1,280 @@
+[
+  {
+    "content_id": 33269,
+    "reference_id": 26683,
+    "title": "Order of Events",
+    "media_type": "Text",
+    "index_reference": "order of events",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>In the Bible, events are not always told in the order in which they occurred. Sometimes the author wanted to discuss something that happened at an earlier time than the event that he just talked about. This can be confusing to the reader.</p><h1>Reason This Is a Translation Issue</h1><p>Readers might think that the events happened in the order that they are told. It is important to help them understand the correct order of events.</p><h3>Examples From the Bible</h3><p>He even added this to them all: he locked John up in prison. Now it came about, when all the people were baptized, Jesus also was baptized. (Luke 3:20–21 ULT)</p><p>This could sound like John baptized Jesus after John was locked up in prison, but John baptized Jesus before John was locked up in prison.</p><p>Just as Joshua had said to the people, the seven priests carrying seven trumpets of rams’ horns before Yahweh went forward and blew the trumpets, and the ark of the covenant of Yahweh followed after them. But Joshua commanded the people, saying, “Do not shout nor let your voice be heard, nor let any word leave your mouth until the day I tell you to shout. Then you must shout.” (Joshua 6:8,10 ULT)</p><p>This could sound like Joshua gave the order not to shout after the army had already started their march, but he had given that order before they started marching.</p><p>Who is worthy to open the scroll and break its seals? (Revelation 5:2b ULT)</p><p>This sounds like a person must first open the scroll and then break its seals, but the seals that lock the scroll must be broken before the scroll can be unrolled.</p><h3>Translation Strategies</h3><p>(1) If your language uses phrases or time words to show that an event happened before one that was already mentioned, consider using one of them. (2) If your language uses verb tense or aspect to show that an event happened before one that was already mentioned, consider using that. (See the section on “Aspect” of <span resourceId=\"26730\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Verbs</span>.) (3) If your language prefers to tell events in the order that they occurred, consider reordering the events so they they are in that order. This may require putting two or more verses together (like 5–6). (See <span resourceId=\"26824\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Verse Bridges</span>.)</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If your language uses phrases, time words or tenses to show that an event happened before the one just mentioned, consider using one of them.</p><p>20 he even added this to them all: he locked John up in prison. Now it came about, when all the people were baptized, Jesus also was baptized. (Luke 3:20–21 ULT)</p><p>20 But then Herod … had John locked up in prison. 21 <strong>Before John was put in prison,</strong> while all the people were being baptized by John, Jesus also was baptized.</p><p>Who is worthy to open the scroll and break its seals? (Revelation 5:2b ULT)</p><p>Who is worthy to open the scroll <strong>after</strong> breaking its seals?</p><p>(2) If your language uses verb tense or aspect to show that an event happened before one that was already mentioned, consider using that.</p><p>Just as Joshua had said to the people, the seven priests carrying seven trumpets of rams’ horns before Yahweh went forward and blew the trumpets, But Joshua commanded the people, saying, “Do not shout nor let your voice be heard, nor let any word leave your mouth until the day I tell you to shout. Then you must shout.” (Joshua 6:8,10 ULT)</p><p>8 Just as Joshua had said to the people, the seven priests carried the seven trumpets of rams’ horns before Yahweh, as they advanced, they gave a blast on the trumpets 10 But Joshua <strong>had commanded</strong> the people, saying, “Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout.”</p><p>(3) If your language prefers to tell events in the order that they occur, consider reordering the events. This may require putting two or more verses together (like 5–6).</p><p>8 Just as Joshua had said to the people, the seven priests carrying seven trumpets of rams’ horns before Yahweh went forward and blew the trumpets, But Joshua commanded the people, saying, “Do not shout nor let your voice be heard, nor let any word leave your mouth until the day I tell you to shout. Then you must shout.” (Joshua 6:8,10 ULT)</p><p>8,10 Joshua commanded the people, saying, “Do not shout. No sound must leave your mouths until the day I tell you to shout. Only then must you shout.” Then just as Joshua had said to the people, the seven priests carried the seven trumpets of rams horns before Yahweh, as they advanced, they gave a blast on the trumpets…</p><p>Who is worthy to open the scroll and break its seals? (Revelation 5:2b ULT)</p><p>Who is worthy to break the seals and open the scroll?</p><p>You may also want to watch the video at https://ufw.io/figs_events.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26730,
+          "content_id": 33316,
+          "label": "Verbs",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26824,
+          "content_id": 33410,
+          "label": "Verse Bridges",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137311,
+          "content_id": 207838,
+          "label": "Acts 5:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115863,
+          "content_id": 141075,
+          "label": "Mark 1:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115906,
+          "content_id": 141118,
+          "label": "Mark 1:43-44 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116668,
+          "content_id": 141880,
+          "label": "Mark 6:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137326,
+          "content_id": 207853,
+          "label": "Acts 5:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137347,
+          "content_id": 207874,
+          "label": "Acts 5:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137374,
+          "content_id": 207901,
+          "label": "Acts 5:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137506,
+          "content_id": 208033,
+          "label": "Acts 6:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137591,
+          "content_id": 208118,
+          "label": "Acts 7:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141596,
+          "content_id": 212123,
+          "label": "John 11:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141719,
+          "content_id": 212246,
+          "label": "John 11:56-57 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141725,
+          "content_id": 212252,
+          "label": "John 11:57 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143314,
+          "content_id": 213841,
+          "label": "Luke 3:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143564,
+          "content_id": 214091,
+          "label": "Luke 5:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144073,
+          "content_id": 214600,
+          "label": "Luke 8:29 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144104,
+          "content_id": 214631,
+          "label": "Luke 8:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144364,
+          "content_id": 214891,
+          "label": "Luke 10:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144520,
+          "content_id": 215047,
+          "label": "Luke 10:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148580,
+          "content_id": 219107,
+          "label": "Matthew 10:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160848,
+          "content_id": 246107,
+          "label": "1 Thessalonians 2:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161942,
+          "content_id": 247201,
+          "label": "2 Thessalonians 2:3 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162192,
+          "content_id": 247451,
+          "label": "2 Timothy 2:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162296,
+          "content_id": 247555,
+          "label": "2 Timothy 2:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166264,
+          "content_id": 259844,
+          "label": "James 1:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167294,
+          "content_id": 260874,
+          "label": "Revelation 5:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168365,
+          "content_id": 261945,
+          "label": "Esther 1:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168384,
+          "content_id": 261964,
+          "label": "Esther 1:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168879,
+          "content_id": 262459,
+          "label": "Esther 6:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168988,
+          "content_id": 262568,
+          "label": "Esther 7:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169016,
+          "content_id": 262596,
+          "label": "Esther 8:1 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169021,
+          "content_id": 262601,
+          "label": "Esther 8:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169057,
+          "content_id": 262637,
+          "label": "Esther 8:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169115,
+          "content_id": 262695,
+          "label": "Esther 8:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169139,
+          "content_id": 262719,
+          "label": "Esther 8:17 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169273,
+          "content_id": 262853,
+          "label": "Esther 9:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169296,
+          "content_id": 262876,
+          "label": "Esther 9:26 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169302,
+          "content_id": 262882,
+          "label": "Esther 9:27 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179014,
+          "content_id": 272594,
+          "label": "Nehemiah 2:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179374,
+          "content_id": 272954,
+          "label": "Nehemiah 5:7 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179376,
+          "content_id": 272956,
+          "label": "Nehemiah 5:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 179793,
+          "content_id": 273373,
+          "label": "Nehemiah 8:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190055,
+          "content_id": 394222,
+          "label": "Exodus 33:5 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

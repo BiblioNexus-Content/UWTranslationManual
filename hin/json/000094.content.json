@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 799946,
+    "reference_id": 26750,
+    "title": "सम्मानसूचक शब्द",
+    "media_type": "Text",
+    "index_reference": "सम्मानसूचक शब्द",
+    "language": "hin",
+    "content": "<h3>विवरण</h3><p>यह बाइबल साहित्य में सम्मानसूचक शब्दों की चर्चा के बारे में एक लेख के लिए स्थान-धारक है। यह लेख अभी भी विकसित किया जा रहा है।</p><h1>कारण यह एक अनुवाद मुद्दा है:</h1><p>वचन</p><h3>बाइबल से उदाहरण</h3><p>वचन</p><h3>अनुवाद की रणनीतियाँ</h3><p>वचन</p><h3>अनुवाद रणनीतियों के लागू किए गए उदाहरण</h3><p>वचन</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 139461,
+          "content_id": 378982,
+          "label": "प्रेरितों के काम 21:8 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 170686,
+          "content_id": 371427,
+          "label": "उत्पत्ति 12:17 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171214,
+          "content_id": 371955,
+          "label": "उत्पत्ति 18:3 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171578,
+          "content_id": 372319,
+          "label": "उत्पत्ति 20:3 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171656,
+          "content_id": 372397,
+          "label": "उत्पत्ति 20:18 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171910,
+          "content_id": 372651,
+          "label": "उत्पत्ति 23:6 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 171950,
+          "content_id": 372691,
+          "label": "उत्पत्ति 23:15 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 172062,
+          "content_id": 372803,
+          "label": "उत्पत्ति 24:18 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173335,
+          "content_id": 374076,
+          "label": "उत्पत्ति 32:24 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 173354,
+          "content_id": 374095,
+          "label": "उत्पत्ति 32:29 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 174112,
+          "content_id": 374853,
+          "label": "उत्पत्ति 40:13 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 174119,
+          "content_id": 374860,
+          "label": "उत्पत्ति 40:14 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 174132,
+          "content_id": 374873,
+          "label": "उत्पत्ति 40:17 (#2)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

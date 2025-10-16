@@ -1,0 +1,292 @@
+[
+  {
+    "content_id": 33407,
+    "reference_id": 26821,
+    "title": "Copy or Borrow Words",
+    "media_type": "Text",
+    "index_reference": "copy or borrow words",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Sometimes the Bible includes things that are not part of your culture and for which your language may not have a word. The Bible also includes people and places for which you may not have names.</p><p>When that happens you can “borrow” the word from the Bible in a familiar language and use it in your translation in your own language. This means that you basically copy it from the other language. This page tells how to “borrow” words. (There are also other ways to translate words for things that are not in your language. See <span resourceId=\"26822\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translate Unknowns</span>.)</p><h3>Examples From the Bible</h3><p>Seeing one fig tree along the roadside, he went to it. (Matthew 21:19a ULT)</p><p>If there are no fig trees where your language is spoken, there might not be a name for this kind of tree in your language.</p><p>Above him were the <strong>seraphim</strong>; each one had six wings; with two each covered his face, and with two he covered his feet, and with two he flew. (Isaiah 6:2 ULT)</p><p>Your language might not have a name for this kind of creature.</p><p>The declaration of the word of Yahweh to Israel by the hand of <strong>Malachi</strong>. (Malachi 1:1 ULT)</p><p>Malachi might not be a name that people who speak your language use.</p><h3>Translation Strategies</h3><p>There are several things to be aware of when borrowing words from another language.</p><ul><li><p>Different languages use different scripts, such as the Hebrew, Greek, Latin, Cyrillic, Devanagari, and Korean scripts. These scripts use different shapes to represent the letters in their alphabets.</p></li><li><p>Languages that use the same script might pronounce the letters in that script differently. For example, when speaking German, people pronounce the letter “j” the same way that people pronounce the letter “y” when speaking English.</p></li><li><p>Languages do not all have the same sounds or combinations of sounds. For example, many languages do not have the soft “th” sound in the English word “think,” and some languages cannot start a word with a combination of sounds like “st” as in “stop.”</p></li></ul><p>There are several ways to borrow a word.</p><p>(1) If your language uses a different script from the language you are translating from, you can simply substitute each letter shape with the corresponding letter shape of the script of your language. (2) You can spell the word as the Other Language spells it, and pronounce it the way your language normally pronounces those letters. (3) You can pronounce the word similarly to the way the Other Language does, and adjust the spelling to fit the rules of your language.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If your language uses a different script from the language you are translating from, you can simply substitute each letter shape with the corresponding letter shape of the script of your language.</p><p>צְפַנְיָ֤ה — A man’s name in Hebrew letters.</p><p>“Zephaniah” — The same name in Roman letters</p><p>(2) You can spell the word as the Other Language spells it, and pronounce it the way your language normally pronounces those letters.</p><p>Zephaniah — This is a man’s name.</p><p>“Zephaniah” — The name as it is spelled in English, but you can pronounce it according to the rules of your language.</p><p>(3) You can pronounce the word similarly to the way the Other Language does, and adjust the spelling to fit the rules of your language.</p><p>Zephaniah — If your language does not have the “z,” you could use “s.” If your writing system does not use “ph” you could use “f.” Depending on how you pronounce the “i” you could spell it with “i” or “ai” or “ay.”</p><p>“Sefania”</p><p>“Sefanaia”</p><p>“Sefanaya”</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 33408,
+          "label": "Translate Unknowns",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116098,
+          "content_id": 141310,
+          "label": "Mark 3:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116101,
+          "content_id": 141313,
+          "label": "Mark 3:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116525,
+          "content_id": 141737,
+          "label": "Mark 5:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116857,
+          "content_id": 142069,
+          "label": "Mark 7:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116960,
+          "content_id": 142172,
+          "label": "Mark 7:34 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136742,
+          "content_id": 207269,
+          "label": "Acts 1:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138447,
+          "content_id": 208974,
+          "label": "Acts 13:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139031,
+          "content_id": 209558,
+          "label": "Acts 17:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117659,
+          "content_id": 142871,
+          "label": "Mark 11:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117669,
+          "content_id": 142881,
+          "label": "Mark 11:10 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118424,
+          "content_id": 143636,
+          "label": "Mark 14:36 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118686,
+          "content_id": 143898,
+          "label": "Mark 15:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118729,
+          "content_id": 143941,
+          "label": "Mark 15:34 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139567,
+          "content_id": 210094,
+          "label": "Acts 21:38 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139975,
+          "content_id": 210502,
+          "label": "Acts 27:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147255,
+          "content_id": 217782,
+          "label": "Matthew 1:23 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147701,
+          "content_id": 218228,
+          "label": "Matthew 5:22 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148577,
+          "content_id": 219104,
+          "label": "Matthew 10:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149934,
+          "content_id": 220461,
+          "label": "Matthew 16:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150708,
+          "content_id": 221235,
+          "label": "Matthew 21:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150739,
+          "content_id": 221266,
+          "label": "Matthew 21:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152231,
+          "content_id": 222758,
+          "label": "Matthew 27:33 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152279,
+          "content_id": 222806,
+          "label": "Matthew 27:46 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157703,
+          "content_id": 242962,
+          "label": "1 Corinthians 16:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157710,
+          "content_id": 242969,
+          "label": "1 Corinthians 16:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165273,
+          "content_id": 258853,
+          "label": "Hebrews 9:4 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165278,
+          "content_id": 258858,
+          "label": "Hebrews 9:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167022,
+          "content_id": 260602,
+          "label": "Revelation 1:6 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167076,
+          "content_id": 260656,
+          "label": "Revelation 1:18 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167238,
+          "content_id": 260818,
+          "label": "Revelation 3:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167345,
+          "content_id": 260925,
+          "label": "Revelation 6:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167491,
+          "content_id": 261071,
+          "label": "Revelation 9:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167628,
+          "content_id": 261208,
+          "label": "Revelation 12:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167864,
+          "content_id": 261444,
+          "label": "Revelation 16:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168215,
+          "content_id": 261795,
+          "label": "Revelation 21:19 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168292,
+          "content_id": 261872,
+          "label": "Revelation 22:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170045,
+          "content_id": 263625,
+          "label": "Genesis 6:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185338,
+          "content_id": 278918,
+          "label": "Song of Solomon 2:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187157,
+          "content_id": 391324,
+          "label": "Galatians 1:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187628,
+          "content_id": 391795,
+          "label": "Galatians 4:6 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188440,
+          "content_id": 392607,
+          "label": "Exodus 6:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189762,
+          "content_id": 393929,
+          "label": "Exodus 28:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203024,
+          "content_id": 499959,
+          "label": "Joel 3:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203057,
+          "content_id": 499992,
+          "label": "Joel 3:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203082,
+          "content_id": 500017,
+          "label": "Joel 3:18 (#7)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

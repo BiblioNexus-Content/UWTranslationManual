@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 33400,
+    "reference_id": 26814,
+    "title": "Choosing a Source Text",
+    "media_type": "Text",
+    "index_reference": "choosing a source text",
+    "language": "fra",
+    "content": "<h3>Factors to Consider for a Source Text</h3><p>Many translation teams will want to use a Bible translation in their Gateway Language as an additional source text, alongside the Literal and Simplified texts from unfoldingWord. This third text can serve as a model for how things can be said in a natural way for the Gateway Language. Another good possibility for this third (or fourth) source text is to choose a translation that exists in a language related to the target language. This can be especially helpful to see how those translators expressed the meaning in a clear and natural way for the related language. When choosing this source text, there are a number of factors that must be considered:</p><ul><li><p><strong><span resourceId=\"209487\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Statement of Faith</span></strong> — Does the text agree with the Statement of Faith?</p></li><li><p><strong><span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span></strong> — Does the text agree with the Translation Guidelines?</p></li><li><p><strong>Language</strong> — Is the text in a suitable language that translators and checkers understand well?</p></li><li><p><strong><span resourceId=\"26813\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copyrights, Licensing, and Source Texts</span></strong> — Is the text released under a license that gives sufficient legal freedom?</p></li><li><p><strong><span resourceId=\"26815\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Source Texts and Version Numbers</span></strong> — Is the text the latest, most updated version?</p></li><li><p><strong><span resourceId=\"26808\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">The Original and Source Languages</span></strong> — Does the translation team understand the difference between source languages and original languages?</p></li><li><p><strong><span resourceId=\"26803\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Original Manuscripts</span></strong> — Does the translation team understand about Original Manuscripts and <span resourceId=\"26819\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Textual Variants</span>?</p></li></ul><p>It is important that the leaders of the churches in the language group agree that the source text is a good one. They should agree that it is an accurate translation of the original language texts and conveys the meaning in a clear and natural way for speakers of the Gateway Language or of a related language.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26803,
+          "content_id": 33389,
+          "label": "Original Manuscripts",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26808,
+          "content_id": 33394,
+          "label": "The Original and Source Languages",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 33399,
+          "label": "Copyrights, Licensing, and Source Texts",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 33401,
+          "label": "Source Texts and Version Numbers",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26819,
+          "content_id": 33405,
+          "label": "Textual Variants",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 689667,
+          "label": "Statement of Faith",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

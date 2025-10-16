@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800255,
+    "reference_id": 209496,
+    "title": "Tradução Reversa",
+    "media_type": "Text",
+    "index_reference": "tradução reversa",
+    "language": "por",
+    "content": "<h3>O que é uma tradução reversa?</h3><p>Uma tradução reversa é uma tradução do texto bíblico da língua alvo local (a OL) de volta para a língua de comunicação mais ampla (a GL). É chamada de &quot;tradução reversa&quot; porque é uma tradução na direção oposta àquela realizada para criar a tradução na língua alvo local. O propósito de uma tradução reversa é permitir que alguém que não fala a língua alvo compreenda o que a tradução na língua alvo expressa.</p><p>No entanto, uma tradução reversa não é feita em um estilo completamente normal, pois não tem a naturalidade como objetivo na língua da tradução (que, neste caso, é a língua de comunicação mais ampla). Em vez disso, o objetivo da tradução reversa é representar as palavras e expressões da tradução na língua local de forma literal, enquanto também utiliza a gramática e a ordem das palavras da língua de comunicação mais ampla. Dessa forma, o verificador de tradução pode ver mais claramente o significado das palavras no texto da língua-alvo, além de entender bem a tradução reversa e lê-la de forma mais rápida e fácil.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

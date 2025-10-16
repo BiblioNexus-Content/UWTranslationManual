@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 33374,
+    "reference_id": 26788,
+    "title": "Biblical Weight",
+    "media_type": "Text",
+    "index_reference": "biblical weight",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>The following terms are the most common units of weight in the Bible. The term “shekel” means “weight,” and many other weights are described in terms of the shekel. Some of these weights were used for money. The metric values in the table below are not exactly equal to the biblical measures. The biblical measures differed in exact amount from time to time and place to place. The equivalents below are only an attempt to give an average measurement.</p><p>| Original Measure | Shekels | Grams | Kilograms | |--------------------|----------|---------|------------| |shekel | 1 shekel |11 grams | - | | bekah | 1/2 shekel | 5.7 grams | - | | pim | 2/3 shekel | 7.6 grams | - | | gerah | 1/20 shekel | 0.57 grams | - | | mina | 50 shekels | 550 grams | 1/2 kilogram | | talent | 3,000 shekels | - | 34 kilograms |</p><h1>Translation Principles</h1><ol start=\"1\"><li><p>The people in the Bible did not use modern measures such as meters, liters, and kilograms. Using the original measures can help readers know that the Bible really was written long ago in a time when people used those measures.</p></li><li><p>Using modern measures can help readers understand the text more easily.</p></li><li><p>Whatever measure you use, it would be good, if possible, to tell about the other kind of measure in the text or a footnote.</p></li><li><p>If you do not use the biblical measures, try not to give the readers the idea that the measurements are exact. For example, if you translate one gerah as “.57 grams,” readers might think that the measurement is exact. It would be better to say “half a gram.”</p></li><li><p>Sometimes it can be helpful to use the word “about” to show that a measurement is not exact. For example, 2 Samuel 21:16 says that Goliath’s spear weighed 300 shekels. Instead of translating this as “3300 grams” or “3.3 kilograms,” it can be translated as “about three and one half kilograms.”</p></li><li><p>When God tells people how much something should weigh, and when people use those weights, do not say “about” in the translation. Otherwise, it will give the impression that God did not care exactly how much the thing should weigh.</p></li></ol><h3>Translation Strategies</h3><p>(1) Use the measurements from the ULT. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULT. (See <span resourceId=\"26821\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copy or Borrow Words</span>.) (2) Use the metric measurements given in the UST. The translators of the UST have already figured how to represent the amounts in the metric system. (3) Use measurements that are already used in your language. In order to do this, you would need to know how your measurements relate to the metric system and figure out each measurement. (4) Use the measurements from the ULT and include measurements that your people know in the text or a note. (5) Use measurements that your people know, and include the measurements from the ULT in the text or in a note.</p><h3>Translation Strategies Applied</h3><p>The strategies are all applied to Exodus 38:29 below.</p><p>The bronze from the wave offering weighed <strong>70 talents and 2,400 shekels</strong>. (Exodus 38:29 ULT)</p><p>(1) Use the measurements from the ULT. These are the same kinds of measurements that the original writers used. Spell them in a way that is similar to the way they sound or are spelled in the ULT. (See <span resourceId=\"26821\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copy or Borrow Words</span>.)</p><p>“The bronze from the wave offering weighed <strong>70 talentes and 2,400 sekeles</strong>.”</p><p>(2) Use the metric measurements given in the UST. The translators of the UST have already figured how to represent the amounts in the metric system.</p><p>“The bronze from the wave offering weighed <strong>2,400 kilograms</strong>.”</p><p>(3) Use measurements that are already used in your language. In order to do this you would need to know how your measurements relate to the metric system and figure out each measurement.</p><p>“The bronze from the wave offering weighed <strong>5,300 pounds</strong>.”</p><p>(4) Use the measurements from the ULT and include measurements that your people know in the text or a footnote. The following shows both measurements in the text.</p><p>“The bronze from the wave offering weighed <strong>70 talents (2,380 kilograms)</strong> and <strong>2,400 shekels (26.4 kilograms)</strong>.”</p><p>(5) Use measurements that your people know, and include the measurements from the ULT in the text or in a footnote. The following shows the ULT measurements in notes.</p><p>“The bronze from the offering weighed <strong>70 talents and 2,400 shekels</strong>. 1”</p><p>The footnote would look like:</p><p>[1] This was a total of about 2,400 kilograms.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26821,
+          "content_id": 33407,
+          "label": "Copy or Borrow Words",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141729,
+          "content_id": 212256,
+          "label": "John 12:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142572,
+          "content_id": 213099,
+          "label": "John 19:39 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145979,
+          "content_id": 216506,
+          "label": "Luke 19:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145996,
+          "content_id": 216523,
+          "label": "Luke 19:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146006,
+          "content_id": 216533,
+          "label": "Luke 19:18 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146013,
+          "content_id": 216540,
+          "label": "Luke 19:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146032,
+          "content_id": 216559,
+          "label": "Luke 19:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146036,
+          "content_id": 216563,
+          "label": "Luke 19:25 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167881,
+          "content_id": 261461,
+          "label": "Revelation 16:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172076,
+          "content_id": 265656,
+          "label": "Genesis 24:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172079,
+          "content_id": 265659,
+          "label": "Genesis 24:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189620,
+          "content_id": 393787,
+          "label": "Exodus 25:39 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189890,
+          "content_id": 394057,
+          "label": "Exodus 30:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189913,
+          "content_id": 394080,
+          "label": "Exodus 30:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190389,
+          "content_id": 394556,
+          "label": "Exodus 38:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190390,
+          "content_id": 394557,
+          "label": "Exodus 38:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190392,
+          "content_id": 394559,
+          "label": "Exodus 38:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190396,
+          "content_id": 394563,
+          "label": "Exodus 38:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190399,
+          "content_id": 394566,
+          "label": "Exodus 38:29 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

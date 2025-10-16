@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 689663,
+    "reference_id": 209483,
+    "title": "Setting Up A Translation Team",
+    "media_type": "Text",
+    "index_reference": "setting up a translation team",
+    "language": "fra",
+    "content": "<h3>Choosing a Team</h3><p>As you begin selecting a translation and checking team, there are many different types of people and roles that are needed. There are also specific qualifications that are needed for each team.</p><ul><li><p><span resourceId=\"26669\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Choosing a Translation Team</span> — Describes many of the roles that are needed</p></li><li><p><span resourceId=\"26764\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translator Qualifications</span> — Describes some of the skills needed by the translators</p></li><li><p>Remember that everyone on the team needs to sign a statement that they agree with (forms are available at https://ufw.io/forms)</p><ul><li><p><span resourceId=\"209487\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Statement of Faith</span></p></li><li><p><span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span></p></li><li><p><span resourceId=\"209472\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Open License</span></p></li></ul></li><li><p>Everyone on the team also needs to know the qualities of a good translation (see <span resourceId=\"26759\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">The Qualities of a Good Translation</span>).</p></li><li><p>The team also needs to know where they can find answers (see <span resourceId=\"209457\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Finding Answers</span>).</p></li></ul><h3>Translation Decisions</h3><p>There are many decisions the translation team will need to make, many of them right at the beginning of the project. Included are the following:</p><ul><li><p><span resourceId=\"26814\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Choosing a Source Text</span> — Choosing a good source text is very important</p><ul><li><p><span resourceId=\"26813\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Copyrights, Licensing, and Source Texts</span> — Copyright issues must be considered when choosing a source text</p></li><li><p><span resourceId=\"26815\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Source Texts and Version Numbers</span> — Translating from the latest version of a source text is best</p></li></ul></li><li><p><span resourceId=\"26781\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Alphabet/Orthography</span> — Many languages have alphabet decisions that need to be made</p></li><li><p><span resourceId=\"26830\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Decisions for Writing Your Language</span> — Writing style, punctuation, translating names, spelling, and other decisions have to be made</p></li><li><p><span resourceId=\"26668\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Style</span> — The translation committee needs to agree on the style of the translation in the sense of how much they want it to imitate the form of the source, how much borrowing of words is allowed, and other topics. See also this section on making the translation <span resourceId=\"209448\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Acceptable</span>.</p></li><li><p><span resourceId=\"26827\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Choosing What to Translate</span> — Books should be chosen based on the needs of the church and the difficulty of translation</p></li></ul><p>After the translation committee makes these decisions, it is good to write them down in a document that everyone involved in the translation can read. This will help everyone to make similar translation decisions and will avoid further arguments about these things.</p><p>After choosing the translation team, it will be time to start giving them <span resourceId=\"209477\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Training</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 33254,
+          "label": "Choosing a Translation Style",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26669,
+          "content_id": 33255,
+          "label": "Choosing a Translation Team",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 33345,
+          "label": "The Qualities of a Good Translation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26764,
+          "content_id": 33350,
+          "label": "Translator Qualifications",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26781,
+          "content_id": 33367,
+          "label": "Alphabet/Orthography",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 33399,
+          "label": "Copyrights, Licensing, and Source Texts",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26814,
+          "content_id": 33400,
+          "label": "Choosing a Source Text",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 33401,
+          "label": "Source Texts and Version Numbers",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 33413,
+          "label": "Choosing What to Translate",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26830,
+          "content_id": 33416,
+          "label": "Decisions for Writing Your Language",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 689628,
+          "label": "Acceptable Style",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209457,
+          "content_id": 689637,
+          "label": "Finding Answers",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 689652,
+          "label": "Open License",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 689657,
+          "label": "Training Before Translation Begins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 689667,
+          "label": "Statement of Faith",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

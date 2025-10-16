@@ -1,0 +1,322 @@
+[
+  {
+    "content_id": 800151,
+    "reference_id": 26786,
+    "title": "Dinheiro bíblico",
+    "media_type": "Text",
+    "index_reference": "dinheiro bíblico",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Nos tempos do Antigo Testamento, as pessoas pesavam seus metais, como prata e ouro, e pagavam um certo peso desse metal para comprar coisas. Mais tarde, começaram a fazer moedas que continham uma quantidade padrão de um determinado metal. O dárico é uma dessas moedas. Nos tempos do Novo Testamento, as pessoas usavam moedas de prata e cobre.</p><p>As duas tabelas abaixo apresentam algumas das unidades monetárias mais conhecidas encontradas no Antigo Testamento (AT) e no Novo Testamento (NT). A tabela das unidades do Antigo Testamento indica o tipo de metal utilizado e o peso correspondente. A tabela das unidades do Novo Testamento indica o tipo de metal utilizado e o valor em termos de um dia de salário.</p><p>| Unidade no AT | Metal | Peso | | -------- | -------- | -------- | | dárico | moeda de ouro | 8,4 gramas | | shekel | vários metais | 11 gramas | | talento | vários metais | 33 quilogramas |</p><p>| Unidade no NT | Metal | Salário do Dia | | -------- | -------- | -------- | | denário/denários | moeda de prata | 1 dia | | dracma | moeda de prata | 1 dia | | leptão | moeda de cobre | 1/64 de um dia | | shekel | moeda de prata | 4 dias | | talento | prata | 6.000 dias |</p><h1>Princípio de tradução</h1><p>Evite usar valores monetários modernos, pois eles mudam de ano para ano. Usá-los tornará a tradução da Bíblia desatualizada e imprecisa.</p><h3>Estratégias de tradução</h3><p>O valor da maioria do dinheiro no Antigo Testamento era baseado no seu peso. Portanto, ao traduzir esses pesos no Antigo Testamento, consulte <span data-bnType=\"resourceReference\" data-resourceId=\"26788\" data-resourceType=\"UWTranslationManual\">Peso bíblico</span>. As estratégias abaixo são para traduzir o valor do dinheiro no Novo Testamento.</p><p>(1) Use o termo bíblico e escreva de uma forma que seja semelhante à forma como soa (Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26821\" data-resourceType=\"UWTranslationManual\">Copiar ou emprestar palavras</span>). (2) Descreva o valor do dinheiro em termos de qual metal era feito e quantas moedas eram usadas. (3) Descreva o valor do dinheiro em termos do que as pessoas nos tempos bíblicos poderiam ganhar em um dia de trabalho. (4) Use o termo bíblico e forneça o valor equivalente no texto ou em uma nota de rodapé. (5) Use o termo bíblico e explique-o em uma nota de rodapé.</p><h3>Estratégias de tradução aplicadas</h3><p>As estratégias de tradução são todas aplicadas a Lucas 7.41 abaixo.</p><p>Um devia 500 denários, e o outro, 50 (Lc 7.41b).</p><ol><li><p>Use o termo da Bíblia e soletre de uma forma que seja semelhante à forma como soa (Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26821\" data-resourceType=\"UWTranslationManual\">Copiar ou emprestar palavras</span>).</p></li></ol><p>“Um devia <strong>500 denários</strong>, e o outro, <strong>50</strong>”.</p><ol start=\"2\"><li><p>Descreva o valor do dinheiro em termos do tipo de metal utilizado e a quantidade de peças ou moedas empregadas.</p></li></ol><p>“Um devia <strong>500 moedas de prata</strong>, e o outro devia <strong>50</strong>”.</p><p>(3) Descreva o valor do dinheiro em termos do que as pessoas nos tempos bíblicos poderiam ganhar em um dia de trabalho.</p><p>“Um devia <strong>500 dias de salário</strong>, e o outro devia <strong>50</strong>”.</p><p>(4) Utilize o termo bíblico e forneça o valor equivalente no texto ou em uma nota de rodapé.</p><p>“Um devia <strong>500 denários</strong> [1] e o outro devia <strong>50 denários </strong>[2] ”.</p><p>As notas de rodapé ficariam assim:</p><p>[1] 500 dias de salário [2] 50 dias de salário.</p><p>(5) Utilize o termo bíblico e explique-o em uma nota de rodapé.</p><p>“Um devia <strong>500 denários </strong>[1], e o outro, <strong>50</strong>” (Lc 7.41).</p><p>[1] Um denário era a quantidade de prata que as pessoas podiam ganhar em um dia de trabalho.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão&nbsp;específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26788,
+          "content_id": 800153,
+          "label": "Peso bíblico",
+          "language": "por"
+        },
+        {
+          "reference_id": 26821,
+          "content_id": 800186,
+          "label": "Copiar ou emprestar palavras",
+          "language": "por"
+        },
+        {
+          "reference_id": 116703,
+          "content_id": 235432,
+          "label": "Marcos 6.37 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117866,
+          "content_id": 236595,
+          "label": "Marcos 12.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118042,
+          "content_id": 236771,
+          "label": "Marcos 12.42 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118043,
+          "content_id": 236772,
+          "label": "Marcos 12.42 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118291,
+          "content_id": 237020,
+          "label": "Marcos 14.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143925,
+          "content_id": 303848,
+          "label": "Lucas 7.41 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143926,
+          "content_id": 303849,
+          "label": "Lucas 7.41 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144523,
+          "content_id": 304446,
+          "label": "Lucas 10.35 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140840,
+          "content_id": 307806,
+          "label": "João 6.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141736,
+          "content_id": 308702,
+          "label": "João 12.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139246,
+          "content_id": 312337,
+          "label": "Atos 19.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139247,
+          "content_id": 312338,
+          "label": "Atos 19.19 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147737,
+          "content_id": 297966,
+          "label": "Mateus 5.26 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148712,
+          "content_id": 298941,
+          "label": "Mateus 10.29 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150131,
+          "content_id": 300360,
+          "label": "Mateus 17.24 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150153,
+          "content_id": 300382,
+          "label": "Mateus 17.27 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150303,
+          "content_id": 300532,
+          "label": "Mateus 18.24 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150322,
+          "content_id": 300551,
+          "label": "Mateus 18.28 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150512,
+          "content_id": 300741,
+          "label": "Mateus 20.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150546,
+          "content_id": 300775,
+          "label": "Mateus 20.9 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150551,
+          "content_id": 300780,
+          "label": "Mateus 20.10 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150998,
+          "content_id": 301227,
+          "label": "Mateus 22.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151613,
+          "content_id": 301842,
+          "label": "Mateus 25.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144801,
+          "content_id": 304724,
+          "label": "Lucas 12.6 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145020,
+          "content_id": 304943,
+          "label": "Lucas 12.59 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145351,
+          "content_id": 305274,
+          "label": "Lucas 15.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146222,
+          "content_id": 306145,
+          "label": "Lucas 20.24 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146326,
+          "content_id": 306249,
+          "label": "Lucas 21.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151618,
+          "content_id": 301847,
+          "label": "Mateus 25.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151627,
+          "content_id": 301856,
+          "label": "Mateus 25.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151640,
+          "content_id": 301869,
+          "label": "Mateus 25.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151646,
+          "content_id": 301875,
+          "label": "Mateus 25.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151667,
+          "content_id": 301896,
+          "label": "Mateus 25.28 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151809,
+          "content_id": 302038,
+          "label": "Mateus 26.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152103,
+          "content_id": 302332,
+          "label": "Mateus 27.3 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152110,
+          "content_id": 302339,
+          "label": "Mateus 27.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152113,
+          "content_id": 302342,
+          "label": "Mateus 27.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152129,
+          "content_id": 302358,
+          "label": "Mateus 27.9 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152430,
+          "content_id": 302659,
+          "label": "Mateus 28.12 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152440,
+          "content_id": 302669,
+          "label": "Mateus 28.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171647,
+          "content_id": 483880,
+          "label": "Gênesis 20.16 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171952,
+          "content_id": 484185,
+          "label": "Gênesis 23.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173852,
+          "content_id": 486085,
+          "label": "Gênesis 37.28 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174609,
+          "content_id": 486842,
+          "label": "Gênesis 43.21 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189400,
+          "content_id": 489092,
+          "label": "Êxodo 21.32 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189891,
+          "content_id": 489583,
+          "label": "Êxodo 30.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178846,
+          "content_id": 586867,
+          "label": "Jó 42.11 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185700,
+          "content_id": 745812,
+          "label": "Cântico dos cânticos 8.11 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189897,
+          "content_id": 489589,
+          "label": "Êxodo 30.15 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

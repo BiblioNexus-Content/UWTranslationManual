@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 727416,
+    "reference_id": 209488,
+    "title": "ट्रांसलेशन अकैडमी का परिचय",
+    "media_type": "Text",
+    "index_reference": "ट्रांसलेशन अकैडमी का परिचय",
+    "language": "hin",
+    "content": "<h3>ट्रांसलेशन अकेडमी (translationAcademy) में आपका स्वागत है</h3><p>‘‘ट्रांसलेशन अकेडमी’’ का लक्ष्य हर एक को, हर जगह पर स्वयं निपुण बनाना है कि वह बाइबल की सामग्रियों का अपनी भाषा में उच्चस्तरीय अनुवाद कर सके। ट्रांसलेशन अकेडमी अपने आप में बहुत ही लचीली है. इसका उपयोग एक क्रमबद्ध, समय-पूर्व पहल अथवा समय-के-अंतर्गत प्रशिक्षण, के लिए (अथवा दोनों के लिए) इस्तेमाल किया जा सकता है. इसकी संरचना प्रमापीय अथवा माप-दर-माप है.</p><p>ट्रांसलेशन अकेडमी में निम्न भाग हैं:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Introduction</span> परिचय - ट्रांसलेशन अकेडमी एवं अन्फॉल्डिन्ग वर्ड का परिचय</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Process Manual</span> प्रक्रिया पुस्तिका - यह ‘‘आगे क्या’’ का उत्तर देता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Translation Manual</span> अनुवाद पुस्तिका - अनुवाद के मूलभूत सिद्धांतों एवं प्रायोगिक अनुवाद के तरीकों को बताता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Checking Manual</span> जाँच पुस्तिका - मूलभूत जाँच सिद्धांतों एवं सर्वश्रेष्ठ प्रयोगों के बारे में बताता है</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727438,
+          "label": "अनुवाद सहायक पुस्तिका का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 727260,
+          "label": "अनुवाद की जाँचों का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 727395,
+          "label": "प्रक्रिया हस्तपुस्तिका का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 727416,
+          "label": "ट्रांसलेशन अकैडमी का परिचय",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

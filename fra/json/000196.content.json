@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 689638,
+    "reference_id": 209458,
+    "title": "How to Check for Good Formatting",
+    "media_type": "Text",
+    "index_reference": "how to check for good formatting",
+    "language": "fra",
+    "content": "<p>There are checks that you can do before, during, and after translation of a book of the Bible that will make the translation process go much easier so that the translation will look good and be as easy to read as possible. The modules on these topics are gathered here under Formatting and Publishing, but they are things that the translation team should be thinking about and deciding throughout the translation process.</p><h3>Before Translating</h3><p>The translation team should make decisions about the following issues before you start to translate.</p><ol start=\"1\"><li><p>Alphabet (see <span resourceId=\"209451\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Appropriate Alphabet</span>)</p></li><li><p>Spelling (see <span resourceId=\"209486\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Consistent Spelling</span>)</p></li><li><p>Punctuation (see <span resourceId=\"209480\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Consistent Punctuation</span>)</p></li></ol><h3>While Translating</h3><p>After several chapters have been translated, the translation team may need to revise some of these decisions to take care of problems that they discovered while translating. If ParaText is available to you, you can also do consistency checks in ParaText at this time to see if there are more decisions that you need to make about spelling and punctuation.</p><h3>After Finishing a Book</h3><p>After finishing a book, you can check to make sure that all the verses are there, and you can decide on section headings. It is also helpful to write down ideas for section headings as you translate.</p><ol start=\"1\"><li><p>Versification (see <span resourceId=\"209495\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Complete Versification</span>)</p></li><li><p>Section Headings (see <span resourceId=\"209462\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Section Headings</span>)</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209451,
+          "content_id": 689631,
+          "label": "Appropriate Alphabet",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209462,
+          "content_id": 689642,
+          "label": "Section Headings",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209480,
+          "content_id": 689660,
+          "label": "Consistent Punctuation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209486,
+          "content_id": 689666,
+          "label": "Consistent Spelling",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209495,
+          "content_id": 689675,
+          "label": "Complete Versification",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

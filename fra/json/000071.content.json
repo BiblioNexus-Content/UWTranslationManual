@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 33313,
+    "reference_id": 26727,
+    "title": "Simple Metaphor",
+    "media_type": "Text",
+    "index_reference": "simple metaphor",
+    "language": "fra",
+    "content": "<p>A <strong>simple metaphor</strong> is an explicit <span resourceId=\"26706\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">metaphor</span> that uses a single physical <strong>Image</strong> to refer to a single abstract <strong>Idea</strong>. This is in contrast to <span resourceId=\"26686\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">extended metaphors</span> and <span resourceId=\"26675\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">complex metaphors</span>, which can use multiple images and multiple ideas at the same time.</p><h3>Explanation of a Simple Metaphor</h3><p>Usually, a writer/speaker uses a simple metaphor in order to express something about a <strong>Topic</strong>, with one main <strong>Idea</strong> or <strong>Point of Comparison</strong> between the <strong>Topic</strong> and the <strong>Image</strong>. In simple metaphors, often the <strong>Topic</strong> and the <strong>Image</strong> are explicitly stated, but the <strong>Idea</strong> is not; it is only implied. The writer/speaker uses a metaphor in order to invite the reader/listener to think about the similarity between the <strong>Topic</strong> and the <strong>Image</strong> and to figure out for themselves the <strong>Idea</strong> that is being communicated.</p><p>For example, Jesus used a simple metaphor when he said:</p><p>I am the light of the world. (John 9:5b ULT)</p><p>In this simple metaphor, the <strong>Topic</strong> is Jesus himself. The <strong>Image</strong> is the phrase “light of the world” because light is the physical object that Jesus uses to refer to some unknown <strong>Idea</strong> about himself. As is often the case with simple metaphors in the Bible, in this instance Jesus does not explicitly tell his listeners the Idea that he intends to communicate. The reader must read the story and figure out the Idea for himself from the context.</p><p>After making this statement, Jesus healed a man who was born blind. After the healed man saw Jesus for the first time and worshiped him as God, Jesus explained the <strong>Idea</strong> of his “light of the world” metaphor:</p><p>… I came into this world so that those who do not see may see … (John 9:39b ULT)</p><p>Jesus was using the <strong>Image</strong> of seeing physical light to express the abstract <strong>Idea</strong> of understanding, believing, and confessing that Jesus is God. Jesus healed the blind man, giving him physical sight; similarly, Jesus told the blind man who He was, and the blind man believed.</p><p>Then the man said, “Lord, I believe,” and he worshiped him. (John 9:38 ULT)</p><h3>Other Examples From the Bible</h3><p>Listen to this word, <strong>you cows of Bashan</strong>. (Amos 4:1a ULT)</p><p>In this metaphor, Amos spoke to the upper-class women of Samaria (“you,” the Topic) as if they were cows (the Image). Amos did not say what similarity(s) he was thinking of between these women and cows. He wants the reader to think of them, and he fully expects that readers from his culture will easily do so. From the context, we can see that he meant that the women are like cows in that they are fat and interested only in feeding themselves. If we were to apply similarities from a different culture, such as that cows are sacred and should be worshiped, we would get the wrong meaning from this verse.</p><p>NOTE: Amos did not actually mean that the women were cows. He spoke to them as human beings.</p><p>Yet, Yahweh, you are our father; <strong>we are the clay</strong>. <strong>You are our potter</strong>; and we all are the work of your hand. (Isaiah 64:8 ULT)</p><p>The example above has two related metaphors. The Topic(s) are “we” and “you,” and the Image(s) are “clay” and “potter.” The similarity between a potter and God is the fact that both make what they wish out of their material. The potter makes what he wishes out of the clay, and God makes what he wishes out of his people. The Idea being expressed by the comparison between the potter’s clay and us is that <strong>neither the clay nor God’s people have a right to complain about what they are becoming</strong>.</p><p>Jesus said to them, “Take heed and beware of <strong>the yeast of the Pharisees and Sadducees</strong>.” They reasoned among themselves, saying, “It is because we did not take bread.” (Matthew 16:6–7 ULT)</p><p>Jesus used a metaphor here, but his disciples did not realize it. When he said “yeast,” they thought he was talking about bread, but yeast was the Image in his metaphor, and the Topic was the teaching of the Pharisees and Sadducees. Since the disciples (the original audience) did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.</p><h3>Translation Strategies</h3><ul><li><p>Simple metaphors in the Bible should be translated like active metaphors.</p></li><li><p>For strategies regarding translating metaphors, see <span resourceId=\"26706\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Metaphor</span>.</p></li><li><p>To learn more about simple metaphors, see <span resourceId=\"26663\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Biblical Imagery — Common Patterns</span>.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26663,
+          "content_id": 33249,
+          "label": "Biblical Imagery — Common Patterns",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26675,
+          "content_id": 33261,
+          "label": "Complex Metaphor",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26686,
+          "content_id": 33272,
+          "label": "Biblical Imagery — Extended Metaphors",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

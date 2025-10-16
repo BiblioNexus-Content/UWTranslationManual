@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 689659,
+    "reference_id": 209479,
+    "title": "Publishing",
+    "media_type": "Text",
+    "index_reference": "publishing",
+    "language": "fra",
+    "content": "<h3>Publishing on Door43</h3><ul><li><p>Throughout the translation and checking process, the translation draft will be uploaded to and maintained in a repository under the username that you have chosen on the Door43 website. This is where translationStudio and translationCore send the drafts when you tell them to upload.</p></li><li><p>When checking has been completed and all appropriate edits have been made to the translation on door43, the checkers or church leaders will inform unfoldingWord of their desire to publish. They will provide unfoldingWord with the documents affirming that the <span resourceId=\"209461\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Pastors</span>, the <span resourceId=\"209455\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Community</span>, and the <span resourceId=\"209469\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Church Network Leaders</span> affirm that the translation is trustworthy. The documents also contain an affirmation of the unfoldingWord <span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span> and the unfoldingWord <span resourceId=\"209487\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Statement of Faith</span>. All translated content is expected to be in accordance with the theology of the Statement of Faith. We also expect that the translators have followed the procedures and methodologies of the Translation Guidelines. unfoldingWord has no way to verify the accuracy of the translations or the affirmations, and so we rely on the integrity of the leadership of the church networks.</p></li><li><p>After obtaining these affirmations, unfoldingWord will then make a copy of the translation that is on Door43, digitally publish a static copy of it on the unfoldingWord website (see https://www.unfoldingword.org), and make it available on the unfoldingWord mobile app. A print-ready PDF will also be produced and made available for download. It will continue to be possible to change the checked version on Door43, allowing for future checking and editing.</p></li><li><p>unfoldingWord will also need to know the version number of the source that was used for the translation. This number will be incorporated into the version number for the translation so that it will be easy to keep track of the state of the source and the translation as they both improve and change over time. For information about version numbers, see <span resourceId=\"26815\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Source Texts and Version Numbers</span>.</p></li></ul><h3>Ongoing Checking</h3><p>The process and checking framework described in this document depends on an ongoing process of checking and revising content, as determined by the Church that uses the content. We encourage each translation team to continue to accept feedback from the language and church community. By doing so, they can continue to improve the translation by incorporating corrections and including better ways of saying things as people discover them. For that reason, the translations of the content continue to be made available on the translation platform (see https://door43.org) indefinitely so that users can continue to improve it. We recommend that the translation committee invite input from the language community to Door43, and appoint one or more people to monitor the issues that people submit there for the translation. These people can make corrections to the translation and discuss other suggested changes with the translation committee. Over time, the committee may decide to adjust the style of the translation as well, such as to add or remove implied information or to use newer words or phrases. By maximizing input in this way from the greatest number of users of the content, the Church can work together to create biblical content that increases in quality and usability over time.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26815,
+          "content_id": 33401,
+          "label": "Source Texts and Version Numbers",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209455,
+          "content_id": 689635,
+          "label": "Language Community Evaluation Questions",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 689641,
+          "label": "Affirmation of Accuracy and Community Acceptance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 689649,
+          "label": "Quality Checker Evaluation Form",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 689667,
+          "label": "Statement of Faith",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

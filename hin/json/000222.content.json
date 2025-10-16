@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 727413,
+    "reference_id": 209484,
+    "title": "अनुवाद स्टूडियो स्थापित करना",
+    "media_type": "Text",
+    "index_reference": "अनुवाद स्टूडियो स्थापित करना",
+    "language": "hin",
+    "content": "<h3>मोबाइल के लिए tS को इन्स्टॉल करना</h3><p>ट्रांसलेशन स्टूडियो का मोबाइल (एंड्रोयड) संस्करण पर <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://play.google.com/store/apps/details?id=com.translationstudio.androidapp\">Google Play Store</a> उपलब्ध है: या आप इसे http://ufw.io/ts/ से सीधा डाऊनलोड कर सकते हैं। यदि आप प्लेस्टोर से इन्स्टॉल करते हैं तो जब भी इसका नया वर्जन उपलब्ध होगा, प्लेस्टोर आपको सूचित करेगा। ध्यान दें कि आप इन्स्टॉल किए जा चुके ऐप को साइडलॉड कर, दूसरे यंत्रों में शेयर कर सकते हैं।</p><h3>डेस्कटॉप के लिए tS इन्स्टॉल करना</h3><p>डेस्कटॉप या लैपटॉप (विन्डोज़, मैक या लाइनेक्स) के लिए ट्रांसलेशन स्टूडियो का नवीनतम वर्ज़न http://ufw.io/ts/ पर उपलब्ध है। कार्यक्रम को इन्स्टॉल करने के लिए, ‘‘डेस्कटॉप’’ सेक्शन की ओर जाएँ और नवीनतम निर्मोचन डाऊनलॉड करें। ध्यान दें कि आप इन्स्टॉलेशन फाइल की प्रतिलिपि बनाकर, दूसरे कम्प्यूटरों में शेयर कर सकते हैं।</p><h3>tS का उपयोग करना</h3><p>इन्स्टॉल करने के बाद, ट्रांसलेशन स्टूडियो के दोनों संस्करण एक तरीके से कार्य करते हैं। ट्रांसलेशन स्टूडियो के उपयोग के लिए आपको इंटरनेट की आवश्यकता <em>नही</em> है। ट्रांसलेशन स्टूडियो को पहली बार इस्तेमाल करने वालों को विश्वास कथन <span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Statement of Faith</span>, अनुवाद निर्देश <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Translation Guidelines</span> और ऑपन लाइसेंस <span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Open License</span> के सहमति पत्र पर हस्ताक्षर करना होगा।</p><p>फस्र्ट यूज़ स्क्रीन के बाद, आप होमू स्क्रीन पर आएँगे जहाँ आप नया प्रोजेक्ट शुरू कर सकते हैं। प्रोजेक्ट को बनाने के बाद, आप वहीं से अनुवाद करना शुरू कर सकते हैं। ऐप के अंदर अनुवाद की मदद (translationHelps) उपलब्ध है जिससे आप स्रोत लेख की अच्छी समझ पा सकते हैं। ध्यान दें कि आपका कार्य अपने आप सेव होता जाता है। आप चाहें तो उसका बैक-अप ले सकते, बाँट सकते या बीच बीच में अपने कार्य को अपलोड कर सकते हैं (इन कार्यों को करने के लिए मेन्यू (menu) को देखें)।</p><h3>tS के उपयोग के बाद</h3><ol><li><p>यह बलपूर्वक सुझाव देते हैं कि अपने अनुवाद की जाँच होती रहे (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209476\" data-resourceType=\"UWTranslationManual\">Training Before Checking Begins</span>)</p></li><li><p>जाँच (किसी भी स्तर की) पूरी होते ही, आप ऐप से अपने कार्य को अपलोड कर सकते हैं (Menu → Upload)</p></li><li><p>अपलोड करने के बाद, आप Door43 पर अपना कार्य ऑनलाइन देख सकते हैं (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publishing</span>)</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 727363,
+          "label": "प्रथम प्रालेख तैयार करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 727433,
+          "label": "अनुवाद में मदद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 727389,
+          "label": "प्रकाशन का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 727391,
+          "label": "खुला लार्इसेंस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209476,
+          "content_id": 727393,
+          "label": "जाँच शुरू होने के पहले प्रशिक्षण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 727394,
+          "label": "अनुवाद शुरू करने से पहले प्रशिक्षण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 727415,
+          "label": "विश्वास कथन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 727462,
+          "label": "अनुवाद मार्गनिर्देश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 799958,
+          "label": "अनुवाद अवलोकन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

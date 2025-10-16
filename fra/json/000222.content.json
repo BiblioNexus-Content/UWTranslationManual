@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 689664,
+    "reference_id": 209484,
+    "title": "Setting Up translationStudio",
+    "media_type": "Text",
+    "index_reference": "setting up translationstudio",
+    "language": "fra",
+    "content": "<h3>Installing tS for Mobile</h3><p>The mobile (Android) edition of translationStudio is available from the <a href=\"https://play.google.com/store/apps/details?id=com.translationstudio.androidapp\" target=\"_blank\" rel=\"noopener nofollow\">Google Play Store</a> or via direct download from https://ufw.io/ts/. If you install from the Play Store, then you will be notified by the Play Store when a new version is available. Note that you may also copy the installation file (apk) to other devices to share translationStudio with others without using the internet.</p><h3>Installing tS for Desktop</h3><p>The latest version of translationStudio for desktop or laptop computers (Windows, Mac, or Linux) is available from https://ufw.io/ts/. To install the program, navigate to the “Desktop” section and download the latest release. Note that you may also copy the installation file to other computers to share translationStudio with others without using the internet.</p><h3>Using tS</h3><p>Once installed, both editions of translationStudio are designed to work similarly. You <em>do not</em> need an internet connection to use translationStudio! When using translationStudio for the first time, the software will take you to a screen where you must sign an agreement to the <span resourceId=\"209487\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Statement of Faith</span>, the <span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span>, and the <span resourceId=\"209472\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Open License</span>.</p><p>After this first-use screen, the software will then take you to the Home screen where you can create a new project. You will need to give the project a name (usually a book of the Bible), identify the project type (usually Bible or Open Bible Stories), and identify the target language. Once your project is created, you can start translating. Make sure that you understand the <span resourceId=\"209477\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Principles of Good Translation</span> and know how to use the <span resourceId=\"26797\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Helps</span> that are built into translationStudio. These will help you to gain a better understanding of the source text and how to translate it. Note that your work is automatically saved. You may also choose to back up, share, or upload your work at various intervals (use the menu to access these functions). For guidelines on how to start translating, see <span resourceId=\"209493\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Overview</span> and <span resourceId=\"26737\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Making a First Draft</span>.</p><p>For more information on how to use translationStudio, please see the documentation at https://ts-info.readthedocs.io/.</p><h3>After Using tS</h3><ol start=\"1\"><li><p>Make sure that you have a translation team that can help you check your work (see <span resourceId=\"209476\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Training Before Checking Begins</span>).</p></li><li><p>At any point, you may upload your work to <a href=\"https://git.door43.org\" target=\"_blank\" rel=\"noopener nofollow\">Door43</a> by clicking on the three-dot menu and choosing Upload/Export. You will need to create a user name on Door43.</p></li><li><p>Once uploaded, Door43 will keep your work in a repository under your user name and you can access your work there (see <span resourceId=\"209466\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Publishing</span>).</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 33323,
+          "label": "First Draft",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 33383,
+          "label": "Help with Translating",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 689646,
+          "label": "Introduction to Publishing",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 689652,
+          "label": "Open License",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209476,
+          "content_id": 689656,
+          "label": "Training Before Checking Begins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 689657,
+          "label": "Training Before Translation Begins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 689667,
+          "label": "Statement of Faith",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 689673,
+          "label": "Translation Overview",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

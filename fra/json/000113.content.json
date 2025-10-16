@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 33355,
+    "reference_id": 26769,
+    "title": "Notes with Definitions",
+    "media_type": "Text",
+    "index_reference": "notes with definitions",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Sometimes you may not know what a word in the ULT means. The Notes may have a definition or a description of the word or phrase to help you understand what it means.</p><h3>Translation Notes Examples</h3><p>Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:</p><p>It is like children sitting the marketplace, who call out to one another and say, “We played a <strong>flute</strong> for you.” (Matthew 11:16b-17a ULT)</p><ul><li><p><strong>marketplace</strong> — a large, open-air area where people would come to sell their goods</p></li><li><p><strong>flute</strong> — a long, hollow musical instrument which is played by blowing air in or over one end</p></li></ul><p>Behold, those in expensive clothing and living in luxury are in <strong>kings’ palaces.</strong> (Luke 7:25b ULT)</p><ul><li><p><strong>kings’ palaces</strong> — the large, expensive houses that kings live in</p></li></ul><h3>Translation Principles</h3><ul><li><p>Use words that are already part of your language if possible.</p></li><li><p>Keep expressions short if possible.</p></li><li><p>Represent God’s commands and historical facts accurately.</p></li></ul><h3>Translation Strategies</h3><p>See <span resourceId=\"26822\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translate Unknowns</span> for more information on translating words or phrases that are not known in your language.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 33408,
+          "label": "Translate Unknowns",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

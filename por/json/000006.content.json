@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800027,
+    "reference_id": 26662,
+    "title": "Imagens bíblicas — Objetos feitos pelo homem",
+    "media_type": "Text",
+    "index_reference": "imagens bíblicas — objetos feitos pelo homem",
+    "language": "por",
+    "content": "<p>Algumas <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">metonímias</span> e <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">metáforas</span> comuns da Bíblia envolvendo objetos feitos pelo homem estão listadas abaixo. A palavra em letras maiúsculas identifica uma imagem que representa uma ideia. A palavra específica da imagem pode não aparecer em todo versículo que usa a imagem, mas o texto comunicará de alguma forma o conceito da imagem.</p><h1>BRONZE representa a força</h1><p>Ele treina... meus braços para dobrar um arco de <strong>bronze</strong> (Sl 18.34).</p><h1>CORRENTES representam controle</h1><p>“Vamos romper as <strong>algemas</strong> que eles colocaram em nós e lançar fora suas <strong>correntes</strong>” (Salmo 2.3).</p><h1>ROUPAS representam qualidades morais ou emocionais (atitudes, espírito, vida)</h1><p>É Deus quem coloca força em mim como um <strong>cinto</strong> (Sl 18.32a).</p><p>A justiça será o <strong>cinto da sua cintura</strong>, e a fidelidade o <strong>cinto ao redor dos seus quadris </strong>(Is 11.5).</p><p>Que meus adversários sejam <strong>vestidos de vergonha</strong>; que eles <strong>usem sua vergonha como um manto</strong> (Sl 109.29).</p><p>Eu <strong>vestirei seus inimigos de vergonha</strong> (Sl 132.18a).</p><h1>Uma CASA representa uma família ou lar (ou seja, as pessoas que vivem e trabalham em uma casa ou propriedade familiar)</h1><p>Então Yahweh disse a Abrão: “Saia do seu país, do meio dos seus parentes e da<strong> família</strong> do seu pai, para a terra que eu lhe mostrarei” (Gn 12.1).</p><p>Naquele dia, o rei Assuero deu à rainha Ester a <strong>casa</strong> de Hamã, o adversário dos judeus (Et 8.1a).</p><p>Eles disseram: “Creia no Senhor Jesus, e você será salvo, você e toda a sua <strong>família</strong>”. Falaram a palavra do Senhor a ele, junto com todos em sua casa. Então ele os levou naquela mesma hora da noite, lavou os ferimentos deles e foi batizado imediatamente — ele e todos os seus (At 16.31–33).</p><p>Nos idiomas originais (hebraico e grego), as palavras traduzidas aqui como “família” significam literalmente “casa”. A palavra “casa” é uma metonímia para as pessoas que vivem nela. Esta é uma metonímia muito comum na Bíblia.</p><h1>Uma CASA pode representar os descendentes ou as posses de uma pessoa.</h1><p>Você falou até mesmo sobre a família do seu servo por um longo tempo que virá, e me mostrou gerações futuras, Senhor Yahweh!… Pois você, Yahweh dos exércitos, o Deus de Israel, revelou ao seu servo que lhe construirás uma <strong>casa</strong> (2Sm 7.19,27a).</p><p>Aqui, &quot;casa&quot; representa os descendentes de Davi.</p><p>Naquele dia, o rei Assuero deu à rainha Ester a <strong>casa</strong> de Hamã, o adversário dos judeus (Et 8.1).</p><p>Aqui, &quot;casa&quot; representa toda a propriedade e os bens de Hamã.</p><h1>Uma CASA pode representar um grupo de pessoas.</h1><p>Não falhou nenhuma palavra de todas as boas coisas que Yahweh havia falado à <strong>casa</strong> de Israel; tudo se cumpriu (Js 21.45).</p><p>Aqui, &quot;casa&quot; representa um grupo de pessoas, o povo de Israel.</p><h1>Um LAÇO (ou seja, uma PEQUENA ARMADILHA para pássaros feita com cordas) simboliza a morte</h1><p>Pois ele livrará você do <strong>laço</strong> do caçador (Sl 91.3a).</p><p>As <strong>cordas da morte</strong> me cercaram, e os <strong>laços</strong> do sheol me confrontaram (Sl 116.3a).</p><p>As <strong>cordas dos ímpios</strong> me <strong>laçaram</strong> (Sl 119.61a).</p><p>Os ímpios armaram <strong>um laço</strong> para mim (Sl 119.110a).</p><p>O ímpio é <strong>enredado</strong> por suas próprias ações (Sl 9.16b).</p><p>Eles se misturaram com as nações, aprenderam seus costumes e adoraram seus ídolos, que se tornaram <strong>um laço</strong> para eles (Sl 106.35–36).</p><p>Neste caso, o laço foi uma persuasão para cometer o mal, o que leva à morte.</p><h1>Uma TENDA representa uma casa, lar, pessoas em casa, descendentes</h1><p>Deus também destruirá você para sempre; ele tomará você e lhe arrancará da sua <strong>tenda</strong> (Sl 52.5a).</p><p>A casa dos ímpios será destruída, mas a <strong>tenda</strong> dos justos florescerá (Pv 14.11).</p><p>Um trono será estabelecido em fidelidade, e alguém da <strong>tenda</strong> de Davi se sentará ali com lealdade (Is 16.5a).</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão&nbsp;específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 800071,
+          "label": "Metáfora",
+          "language": "por"
+        },
+        {
+          "reference_id": 26707,
+          "content_id": 800072,
+          "label": "Metonímia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

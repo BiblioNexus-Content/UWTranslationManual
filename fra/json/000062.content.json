@@ -1,0 +1,196 @@
+[
+  {
+    "content_id": 33304,
+    "reference_id": 26718,
+    "title": "Pronouns",
+    "media_type": "Text",
+    "index_reference": "pronouns",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Pronouns are words that people might use instead of using a noun when referring to someone or something. Some examples are “I,” “you,” “he,” “it,” “this,” “that,” “himself,” “someone,” and others. The personal pronoun is the most common type of pronoun.</p><h3>Personal Pronouns</h3><p>Personal pronouns refer to people or things and show whether the speaker is referring to himself, the person he is speaking to, or someone or something else. The following are kinds of information that personal pronouns may provide. Other types of pronouns may give some of this information, as well.</p><h1>Person</h1><ul><li><p>First Person — The speaker and possibly others (I, me, we, us)</p><ul><li><p><span resourceId=\"26685\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Exclusive and Inclusive “We”</span></p></li></ul></li><li><p>Second Person — The person or people that the speaker is talking to and possibly others (you)</p><ul><li><p><span resourceId=\"26731\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Forms of You</span></p></li></ul></li><li><p>Third Person — Someone or something other than the speaker and those he is talking to (he, she, it, they)</p></li></ul><h1>Number</h1><ul><li><p>Singular — one (I, you, he, she, it)</p></li><li><p>Plural — more than one (we, you, they)</p><ul><li><p><span resourceId=\"26732\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Singular Pronouns that Refer to Groups</span></p></li></ul></li><li><p>Dual — two (Some languages have pronouns specifically for two people or two things.)</p></li></ul><h1>Gender</h1><ul><li><p>Masculine — he</p></li><li><p>Feminine — she</p></li><li><p>Neuter — it</p></li></ul><h1>Relationship to other words in the sentence</h1><ul><li><p>Subject of the verb: I, you, he, she, it, we, they</p></li><li><p>Object of the verb or preposition: me, you, him, her, it, us, them</p></li><li><p>Possessor with a noun: my, your, his, her, its, our, their</p></li><li><p>Possessor without a noun: mine, yours, his, hers, its, ours, theirs</p></li></ul><h3>Other Types of pronouns</h3><p><strong><span resourceId=\"26723\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Reflexive Pronouns</span></strong> refer to another noun or pronoun in the same sentence: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.</p><ul><li><p>John saw <strong>himself</strong> in the mirror. The word “himself” refers to John.</p></li></ul><p><strong>Interrogative Pronouns</strong> are used to make a question that needs more than just a yes or no for an answer: what, which, who, whom, whose.</p><ul><li><p><strong>Who</strong> built the house?</p></li></ul><p><strong>Relative Pronouns</strong> mark a relative clause. The relative pronouns, who, whom, whose, which and that give more information about a noun in the main part of the sentence. Sometimes, the relative adverbs when and where can also be used as relative pronouns.</p><ul><li><p>I saw the house <strong>that John built</strong>. The clause “that John built” tells which house I saw.</p></li><li><p>I saw the man <strong>who built the house</strong>. The clause “who built the house” tells which man I saw.</p></li></ul><p><strong>Demonstrative Pronouns</strong> are used to draw attention to someone or something and to show distance from the speaker or something else. The demonstrative pronouns are: this, these, that, and those.</p><ul><li><p>Have you seen <strong>this</strong> here?</p></li><li><p>Who is <strong>that</strong> over there?</p></li></ul><p><strong>Indefinite pronouns</strong> are used when no particular noun is being referred to. The indefinite pronouns are: any, anyone, someone, anything, something, and some. Sometimes a personal pronoun is used in a generic way to do this: you, they, he or it.</p><ul><li><p>He does not want to talk to <strong>anyone</strong>.</p></li><li><p><strong>Someone</strong> fixed it, but I do not know who.</p></li><li><p><strong>They</strong> say that <strong>you</strong> should not wake a sleeping dog.</p></li></ul><p>In the last example, “they” and “you” just refer to people in general.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26723,
+          "content_id": 33309,
+          "label": "Reflexive Pronouns",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26731,
+          "content_id": 33317,
+          "label": "Forms of You",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26732,
+          "content_id": 33318,
+          "label": "Singular Pronouns that refer to Groups",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115654,
+          "content_id": 140866,
+          "label": "Titus 2:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115692,
+          "content_id": 140904,
+          "label": "Titus 3:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137717,
+          "content_id": 208244,
+          "label": "Acts 7:45 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137726,
+          "content_id": 208253,
+          "label": "Acts 7:46 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138010,
+          "content_id": 208537,
+          "label": "Acts 9:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138656,
+          "content_id": 209183,
+          "label": "Acts 14:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138827,
+          "content_id": 209354,
+          "label": "Acts 15:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139403,
+          "content_id": 209930,
+          "label": "Acts 20:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115694,
+          "content_id": 140906,
+          "label": "Titus 3:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115695,
+          "content_id": 140907,
+          "label": "Titus 3:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160247,
+          "content_id": 245506,
+          "label": "Ephesians 6:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160399,
+          "content_id": 245658,
+          "label": "Philippians 2:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164092,
+          "content_id": 257672,
+          "label": "2 Peter 1:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170056,
+          "content_id": 263636,
+          "label": "Genesis 6:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171203,
+          "content_id": 264783,
+          "label": "Genesis 18:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171235,
+          "content_id": 264815,
+          "label": "Genesis 18:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171406,
+          "content_id": 264986,
+          "label": "Genesis 19:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171445,
+          "content_id": 265025,
+          "label": "Genesis 19:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171461,
+          "content_id": 265041,
+          "label": "Genesis 19:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171554,
+          "content_id": 265134,
+          "label": "Genesis 19:34 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184931,
+          "content_id": 278511,
+          "label": "Ruth 1:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184970,
+          "content_id": 278550,
+          "label": "Ruth 2:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185014,
+          "content_id": 278594,
+          "label": "Ruth 2:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185023,
+          "content_id": 278603,
+          "label": "Ruth 2:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185029,
+          "content_id": 278609,
+          "label": "Ruth 3:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188319,
+          "content_id": 392486,
+          "label": "Exodus 4:23 (#4)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 800224,
+    "reference_id": 209465,
+    "title": "Introdução à Verificação de Tradução",
+    "media_type": "Text",
+    "index_reference": "introdução à verificação de tradução",
+    "language": "por",
+    "content": "<h3>Verificação de Tradução</h3><h4>Introdução</h4><h5>Por que realizamos a Verificação de Tradução?</h5><p>Como parte do processo de tradução, é necessário que várias pessoas revisem a tradução para garantir que ela comunique claramente a mensagem desejada. Um tradutor iniciante, que foi orientado a revisar sua tradução, uma vez disse: “Mas eu falo meu idioma nativo perfeitamente. A tradução é para esse idioma. O que mais é necessário?” O que ele disse era verdade, mas há mais duas coisas a serem lembradas.</p><p>Primeiro, ele pode não ter compreendido o texto original corretamente, e assim alguém que saiba o que deveria ser dito pode corrigir a tradução. Isso pode acontecer porque ele não entendeu corretamente uma frase ou expressão na língua de origem. Nesse caso, outra pessoa que entenda bem a língua de origem pode corrigir a tradução.</p><p>Ou pode ser que ele não tenha compreendido algo que a Bíblia queria comunicar em determinado trecho. Nesse caso, alguém que conhece bem a Bíblia, como um professor de Bíblia ou um revisor de tradução da Bíblia, pode corrigir a tradução.</p><p>Em segundo lugar, mesmo que o tradutor saiba exatamente o que o texto deve dizer, a forma como ele o traduziu pode transmitir um significado diferente para outra pessoa. Ou seja, outra pessoa pode interpretar a tradução como se estivesse tratando de algo diferente do que o tradutor pretendia. Além disso, a pessoa que ouve ou lê a tradução pode não compreender o que o tradutor estava tentando expressar.</p><p>Frequentemente, acontece que quando uma pessoa escreve uma frase e outra pessoa a lê (ou às vezes até mesmo se a primeira pessoa a lê novamente mais tarde), elas a entendem de forma diferente do que o escritor quis dizer. Veja a seguinte frase como exemplo.</p><p>&quot;João levou Pedro ao templo e depois ele foi para casa&quot;.</p><p>O escritor quis dizer que Pedro foi para casa, mas o leitor provavelmente interpretou que foi João quem foi para casa. A frase precisa ser alterada para ficar mais clara.</p><p>Finalmente, uma equipe de tradução está muito próxima e envolvida em seu trabalho, e por isso às vezes não percebe erros que outros podem ver mais facilmente. Por essas razões, é sempre necessário verificar o que outra pessoa entende da tradução para que você (o tradutor) possa torná-la mais precisa e clara.</p><p>Este Manual de Verificação é um guia para o processo de verificação. Ele o guiará por vários tipos de verificações que permitirão corrigir esses problemas. Acreditamos que ter muitas pessoas realizando uma variedade de verificações diferentes resultará em um processo de verificação mais rápido, permitirá uma ampla participação e apropriação da igreja, e produzirá traduções melhores.</p><p>Para mais exemplos das coisas que precisam ser verificadas, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209503\" data-resourceType=\"UWTranslationManual\">Tipos de coisas a verificar</span>.</p><p><strong>Créditos: Citação usada com permissão, © 2013, Juan Tuggy P., Victor Raúl Paredes E., <em>Sharing Our Native Culture</em>, p 69.</strong></p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209503,
+          "content_id": 800262,
+          "label": "Tipos de coisas a verificar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

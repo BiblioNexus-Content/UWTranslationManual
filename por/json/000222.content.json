@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 800243,
+    "reference_id": 209484,
+    "title": "Configurando o translationStudio",
+    "media_type": "Text",
+    "index_reference": "configurando o translationstudio",
+    "language": "por",
+    "content": "<h3>Instalando o tS no Celular</h3><p>A edição móvel (Android) do translationStudio está disponível na <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://play.google.com/store/apps/details?id=com.translationstudio.androidapp\">Google Play Store</a> ou via download direto em https://ufw.io/ts/. Se você instalar pela Play Store, será notificado pela Play Store quando uma nova versão estiver disponível. Note que você também pode copiar o arquivo de instalação (apk) para outros dispositivos para compartilhar o translationStudio com outras pessoas sem usar a internet.</p><h3>Instalando o tS para Desktop</h3><p>A versão mais recente do translationStudio para computadores desktop ou laptop (Windows, Mac ou Linux) está disponível em https://ufw.io/ts/. Para instalar o programa, vá até a seção &quot;Desktop&quot; e baixe a versão mais recente. Note que você também pode copiar o arquivo de instalação para outros computadores para compartilhar o translationStudio com outras pessoas sem usar a internet.</p><h3>Utilizando tS</h3><p>Depois de instalado, ambas as edições do translationStudio são projetadas para funcionar de maneira semelhante. Você <em>não</em> precisa de uma conexão com a internet para usar o translationStudio! Ao usar o translationStudio pela primeira vez, o software levará você a uma tela onde deverá concordar com a <span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\">Declaração de Fé</span>, as <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Diretrizes de Tradução</span> e a <span data-bnType=\"resourceReference\" data-resourceId=\"209472\" data-resourceType=\"UWTranslationManual\">Licença Livre</span>.</p><p>Após esta tela de primeiro uso, o software o levará para a tela inicial, onde você pode criar um novo projeto. Você precisará dar um nome ao projeto (geralmente um livro da Bíblia), identificar o tipo de projeto (geralmente Bíblia ou Histórias da Bíblia Aberta) e identificar o idioma-alvo. Assim que seu projeto estiver criado, você pode começar a traduzir. Certifique-se de que entende os <span data-bnType=\"resourceReference\" data-resourceId=\"209477\" data-resourceType=\"UWTranslationManual\">Princípios de boa tradução</span> e saiba como usar as <span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">Ajudas de tradução</span> que estão integradas no translationStudio. Estas ajudarão você a obter uma melhor compreensão do texto-fonte e de como traduzi-lo. Note que seu trabalho é salvo automaticamente. Você também pode optar por fazer backup, compartilhar ou carregar seu trabalho em vários intervalos (use o menu para acessar essas funções). Para diretrizes sobre como começar a traduzir, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209493\" data-resourceType=\"UWTranslationManual\">Visão geral da tradução</span> e <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">Fazendo um primeiro rascunho</span>.</p><p>Para mais informações sobre como usar o translationStudio, consulte a documentação em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ts-info.readthedocs.io/\">https://ts-info.readthedocs.io/</a>.</p><h3>Após Usar tS</h3><ol><li><p>Certifique-se de que você tem uma equipe de tradução que possa ajudá-lo a revisar seu trabalho (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209476\" data-resourceType=\"UWTranslationManual\">Treinamento antes de iniciar a verificação</span>).</p></li><li><p>A qualquer momento, você pode enviar seu trabalho para o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org\">Door43</a> clicando no menu de três pontos e escolhendo Enviar/Exportar. Será necessário criar um nome de usuário no Door43.</p></li><li><p>Depois de carregado, o Door43 manterá seu trabalho em um repositório sob seu nome de usuário, e você poderá acessá-lo lá (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publicando</span>).</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 800102,
+          "label": "Primeiro rascunho",
+          "language": "por"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 800162,
+          "label": "Ajuda com tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 800225,
+          "label": "Introdução a publicação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 800231,
+          "label": "Licença aberta",
+          "language": "por"
+        },
+        {
+          "reference_id": 209476,
+          "content_id": 800235,
+          "label": "Treinando antes de começar a verificação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 800236,
+          "label": "Treinando antes de começar a tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 800246,
+          "label": "Declaração de Fé",
+          "language": "por"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 800251,
+          "label": "Orientações de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 800252,
+          "label": "Visão geral da tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

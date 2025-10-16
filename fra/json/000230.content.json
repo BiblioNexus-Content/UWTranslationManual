@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 689672,
+    "reference_id": 209492,
+    "title": "Translation Guidelines",
+    "media_type": "Text",
+    "index_reference": "translation guidelines",
+    "language": "fra",
+    "content": "<p><strong>The official version of this document is found at https://ufw.io/guidelines/.</strong></p><p>The following statement on the principles and procedures used in translation is subscribed to by unfoldingWord and its contributors. All translation activities are carried out according to these common guidelines.</p><ol start=\"1\"><li><p><strong>Accurate</strong> — Translate accurately, without detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. (see <span resourceId=\"26751\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Accurate Translations</span>)</p></li><li><p><strong>Clear</strong> — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as clearly as possible. (see <span resourceId=\"26754\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Clear Translations</span>)</p></li><li><p><strong>Natural</strong> — Use language forms that are effective and that reflect the way your language is used in corresponding contexts. (see <span resourceId=\"26760\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Natural Translations</span>)</p></li><li><p><strong>Faithful</strong> — Avoid any political, denominational, ideological, social, cultural, or theological bias in your translation. Use key terms that are faithful to the vocabulary of the original biblical languages. Use equivalent common language terms for the biblical words that describe the relationship between God the Father and God the Son. These may be clarified, as needed, in footnotes or other supplemental resources. (see <span resourceId=\"26757\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Faithful Translations</span>)</p></li><li><p><strong>Authoritative</strong> — Use the original language biblical texts as the highest authority for translation of biblical content. Reliable biblical content in other languages may be used for clarification and as intermediary source texts. (see <span resourceId=\"26752\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Authoritative Translations</span>)</p></li><li><p><strong>Historical</strong> — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content. (see <span resourceId=\"26758\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Historical Translations</span>)</p></li><li><p><strong>Equal</strong> — Communicate the same intent as the source text, including expressions of feeling and attitudes. As much as possible, maintain the different kinds of literature in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. (see <span resourceId=\"26756\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Equal Translations</span>)</p></li></ol><h3>Identifying and Managing Translation Quality</h3><p>The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.</p><p>The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is:</p><ol start=\"1\"><li><p><strong>Accurate, Clear, Natural, and Equal</strong> — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:</p></li><li><p><strong>Affirmed by the Church</strong> — Endorsed and used by the Church. (see <span resourceId=\"26753\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Church-Approved Translations</span>)</p></li></ol><p>We also recommend that the translation work be:</p><ol start=\"1\"><li><p><strong>Collaborative</strong> — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible. (see <span resourceId=\"26755\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Collaborative Translations</span>)</p></li><li><p><strong>Ongoing</strong> — Translation work is never completely finished. Encourage those who are skilled with the language to suggest better ways to say things when they notice that improvements can be made. Any errors in the translation should also be corrected as soon as they are discovered. Also encourage the periodic review of translations to ascertain when revision or a new translation is needed. We recommend that each language community form a translation committee to oversee this ongoing work. Using the unfoldingWord® online tools, these changes to the translation can be made quickly and easily. (see <span resourceId=\"26761\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Create Ongoing Translations</span>)</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 33337,
+          "label": "Create Accurate Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26752,
+          "content_id": 33338,
+          "label": "Create Authoritative Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26753,
+          "content_id": 33339,
+          "label": "Create Church-Approved Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 33340,
+          "label": "Create Clear Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26755,
+          "content_id": 33341,
+          "label": "Create Collaborative Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26756,
+          "content_id": 33342,
+          "label": "Create Equal Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26757,
+          "content_id": 33343,
+          "label": "Create Faithful Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26758,
+          "content_id": 33344,
+          "label": "Create Historical Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 33346,
+          "label": "Create Natural Translations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26761,
+          "content_id": 33347,
+          "label": "Create Ongoing Translations",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

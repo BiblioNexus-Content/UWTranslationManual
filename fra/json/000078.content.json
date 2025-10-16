@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 33320,
+    "reference_id": 26734,
+    "title": "Forms of ‘You’ — Formal or Informal",
+    "media_type": "Text",
+    "index_reference": "forms of ‘you’ — formal or informal",
+    "language": "fra",
+    "content": "<p>(You may also want to watch the video at https://ufw.io/figs_youform.)</p><h3>Description</h3><p>Some languages make a distinction between the formal form of “you” and the informal form of “you.” This page is primarily for people whose language makes this distinction.</p><p>In some cultures people use the formal “you” when speaking to someone who is older or in authority, and they use the informal “you” when speaking to someone who is their own age or younger or who has less authority. In other cultures, people use the formal “you” when speaking to strangers or people they do not know well, and the informal “you” when speaking with family members and close friends.</p><h1>Reasons This Is a Translation Issue</h1><ul><li><p>The Bible was written in Hebrew, Aramaic, and Greek. These languages do not have formal and informal forms of “you.”</p></li><li><p>English and many other source languages do not have formal and informal forms of “you.”</p></li><li><p>Translators who use a source text in a language that does have formal and informal forms of “you” will need to understand how those forms are used in that language. The rules in that language may not be exactly the same as the rules in the translator’s language.</p></li><li><p>Translators will need to understand the relationship between two speakers in order to choose the appropriate form in their language.</p></li><li><p>Use of “you” by people speaking to Jesus is sometimes particularly difficult for translators. Because Jesus is God, some will want to always use the formal form when people are speaking to him, but it is important to recognize the actual relationship and feelings towards Jesus. Pharisees and Sadduces became Jesus’ enemies early on and would have been unlikely to have spoken with particular respect to him. Also, when Jesus was with Pilate, he was treated as a criminal, not with respect.</p></li></ul><h1>Translation Principles</h1><ul><li><p>Understand the relationship between a speaker and the person or people he is speaking to.</p></li><li><p>Understand the speaker’s attitude toward the person he is speaking to.</p></li><li><p>Choose the form in your language that is appropriate for that relationship and attitude.</p></li></ul><h3>Examples From the Bible</h3><p>Yahweh God called to the man and said to him, “Where are <strong>you</strong>?” (Genesis 3:9 ULT)</p><p>God is in authority over the man, so languages that have formal and informal forms of “you” would probably use the informal form here.</p><p>It seemed good to me also, having carefully investigated everything from the beginning, to write for <strong>you</strong> an orderly account, most excellent Theophilus, so that <strong>you</strong> might know the certainty concerning the things that <strong>you</strong> have been taught. (Luke 1:3–4 ULT)</p><p>Luke called Theophilus “most excellent.” This shows us that Theophilus was probably a high official to whom Luke was showing great respect. Speakers of languages that have a formal form of “you” would probably use that form here.</p><p>‘Our Father who is in heaven, may <strong>your</strong> name be honored as holy.’ (Matthew 6:9b ULT)</p><p>This is part of a prayer that Jesus taught his disciples. Some cultures would use the formal “you” because God is in authority. Other cultures would use the informal “you” because God is our Father.</p><h3>Translation Strategies</h3><p>Translators whose language has formal and informal forms of “you” will need to understand the relationship between two speakers in order to choose the appropriate form of “you” in their language.</p><h1>Deciding whether to use the formal or informal “You”</h1><ol start=\"1\"><li><p>Pay attention to the relationships between the speakers.</p><ul><li><p>Is one speaker in authority over the other?</p></li><li><p>Is one speaker older than the other?</p></li><li><p>Are the speakers family members, relatives, friends, strangers, or enemies?</p></li></ul></li><li><p>If you have a Bible in a language that has formal and informal forms of “you,” see what forms it uses. Remember, though, that the rules in that language might be different than the rules in your language.</p></li></ol><h3>Translation Strategies Applied</h3><p>English does not have formal and informal forms of “you,” so we cannot show in English how to translate using formal and informal forms of “you.” Please see the examples and discussion above.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 136776,
+          "content_id": 207303,
+          "label": "Acts 1:24 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136928,
+          "content_id": 207455,
+          "label": "Acts 2:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136935,
+          "content_id": 207462,
+          "label": "Acts 2:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137234,
+          "content_id": 207761,
+          "label": "Acts 4:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142780,
+          "content_id": 213307,
+          "label": "Luke 1:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143159,
+          "content_id": 213686,
+          "label": "Luke 2:29 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144452,
+          "content_id": 214979,
+          "label": "Luke 10:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144557,
+          "content_id": 215084,
+          "label": "Luke 11:2 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145818,
+          "content_id": 216345,
+          "label": "Luke 18:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146641,
+          "content_id": 217168,
+          "label": "Luke 22:42 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184640,
+          "content_id": 278220,
+          "label": "Proverbs 30:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202868,
+          "content_id": 499803,
+          "label": "Joel 1:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202872,
+          "content_id": 499807,
+          "label": "Joel 1:20 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

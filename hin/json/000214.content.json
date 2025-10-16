@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 727393,
+    "reference_id": 209476,
+    "title": "जाँच शुरू होने के पहले प्रशिक्षण",
+    "media_type": "Text",
+    "index_reference": "जाँच शुरू होने के पहले प्रशिक्षण",
+    "language": "hin",
+    "content": "<h3>जाँच से पहले</h3><p>यह सुझाव दिया जाता है कि सामग्रियों की जाँच के दौरान निरंतर (<span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Checking Manual</span>) की मदद लेते रहें। जाँच शुरू करने से पहले, हमारा सुझाव है कि आप अपने तरीके से पुस्तिका की जाँच शुरू कर दें जब तक के आपको यह न पता चल जाए कि हर स्तर की जरूरतें क्या हैं। जाँच प्रक्रिया में कार्य करने के दौरान, आपको जाँच हस्तपुस्तिका की निरंतर मदद लेनी होगी।</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209460,
+          "content_id": 727255,
+          "label": "जाँच का लक्ष्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 727259,
+          "label": "हस्तपुस्तिका की जाँच का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 727260,
+          "label": "अनुवाद की जाँचों का परिचय",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

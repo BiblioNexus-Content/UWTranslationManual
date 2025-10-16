@@ -1,0 +1,316 @@
+[
+  {
+    "content_id": 33384,
+    "reference_id": 26798,
+    "title": "Making a Key Terms Spreadsheet",
+    "media_type": "Text",
+    "index_reference": "making a key terms spreadsheet",
+    "language": "fra",
+    "content": "<h3>Making a Key Terms Spreadsheet</h3><ul><li><p>Make a list of the key terms in the story or Bible passage that you translate, along with the term that you choose for each of them in the target language. It is best if you can do this on a spreadsheet so that you can list the source word or phrase in one column and the target word or phrase in another column. Further columns could list equivalent terms in other languages and the references where these terms occur in the Bible. Make sure that everyone translating Bible books that use these terms has access to the spreadsheet, or a chart on paper, so that you can all use the same words or phrases in your translation.</p></li><li><p>Use the list of words and definitions in the unfoldingWord® translation Words resource to help you to make a list of these words and to understand what they mean. The translationStudio tool will show you these words and their definitions as you encounter them in the source text, and the translationWords tool in translationCore will give you a list of all of the key terms in each book of the Bible.</p></li><li><p>Each time the key word occurs in the source text, make sure that the term you have chosen for the translation still makes sense in that context. If it does not, discuss the problem with others on the translation team and try to find a solution together. You may need to use a different term, or you may need to use more than one term for the different contexts, or you may need to find another way to communicate the term that includes all of the meanings, such as using a longer phrase.</p></li><li><p>When you have decided that you need to use different target language words or phrases to translate one source language word in different contexts, then make a new line on the spreadsheet for each different way that you are translating the source word. Repeat the source term in the source column, and put the new translation in the next column, under the first translation. Share this spreadsheet with everyone on the translation team so that they can choose the right translation for the key term in the context that they are translating.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 169361,
+          "content_id": 262941,
+          "label": "Genesis 1:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169362,
+          "content_id": 262942,
+          "label": "Genesis 1:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169363,
+          "content_id": 262943,
+          "label": "Genesis 1:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169364,
+          "content_id": 262944,
+          "label": "Genesis 1:1 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169374,
+          "content_id": 262954,
+          "label": "Genesis 1:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169393,
+          "content_id": 262973,
+          "label": "Genesis 1:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169503,
+          "content_id": 263083,
+          "label": "Genesis 1:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169517,
+          "content_id": 263097,
+          "label": "Genesis 1:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169543,
+          "content_id": 263123,
+          "label": "Genesis 2:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169550,
+          "content_id": 263130,
+          "label": "Genesis 2:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169580,
+          "content_id": 263160,
+          "label": "Genesis 2:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169714,
+          "content_id": 263294,
+          "label": "Genesis 3:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169788,
+          "content_id": 263368,
+          "label": "Genesis 4:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170027,
+          "content_id": 263607,
+          "label": "Genesis 6:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170065,
+          "content_id": 263645,
+          "label": "Genesis 6:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170173,
+          "content_id": 263753,
+          "label": "Genesis 7:23 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170270,
+          "content_id": 263850,
+          "label": "Genesis 8:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170277,
+          "content_id": 263857,
+          "label": "Genesis 8:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170336,
+          "content_id": 263916,
+          "label": "Genesis 9:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170367,
+          "content_id": 263947,
+          "label": "Genesis 9:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170398,
+          "content_id": 263978,
+          "label": "Genesis 9:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170888,
+          "content_id": 264468,
+          "label": "Genesis 14:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170890,
+          "content_id": 264470,
+          "label": "Genesis 14:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170922,
+          "content_id": 264502,
+          "label": "Genesis 15:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170926,
+          "content_id": 264506,
+          "label": "Genesis 15:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171053,
+          "content_id": 264633,
+          "label": "Genesis 16:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171097,
+          "content_id": 264677,
+          "label": "Genesis 17:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171104,
+          "content_id": 264684,
+          "label": "Genesis 17:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171132,
+          "content_id": 264712,
+          "label": "Genesis 17:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171179,
+          "content_id": 264759,
+          "label": "Genesis 17:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171383,
+          "content_id": 264963,
+          "label": "Genesis 19:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171477,
+          "content_id": 265057,
+          "label": "Genesis 19:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171603,
+          "content_id": 265183,
+          "label": "Genesis 20:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171723,
+          "content_id": 265303,
+          "label": "Genesis 21:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171851,
+          "content_id": 265431,
+          "label": "Genesis 22:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172418,
+          "content_id": 265998,
+          "label": "Genesis 26:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172451,
+          "content_id": 266031,
+          "label": "Genesis 26:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172558,
+          "content_id": 266138,
+          "label": "Genesis 27:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172649,
+          "content_id": 266229,
+          "label": "Genesis 27:41 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172713,
+          "content_id": 266293,
+          "label": "Genesis 28:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173084,
+          "content_id": 266664,
+          "label": "Genesis 31:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173490,
+          "content_id": 267070,
+          "label": "Genesis 34:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173546,
+          "content_id": 267126,
+          "label": "Genesis 35:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173547,
+          "content_id": 267127,
+          "label": "Genesis 35:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173570,
+          "content_id": 267150,
+          "label": "Genesis 35:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173583,
+          "content_id": 267163,
+          "label": "Genesis 35:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173629,
+          "content_id": 267209,
+          "label": "Genesis 35:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173670,
+          "content_id": 267250,
+          "label": "Genesis 36:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174072,
+          "content_id": 267652,
+          "label": "Genesis 40:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175180,
+          "content_id": 268760,
+          "label": "Genesis 48:16 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

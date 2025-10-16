@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800137,
+    "reference_id": 26772,
+    "title": "Notas que identificam citações indiretas e diretas",
+    "media_type": "Text",
+    "index_reference": "notas que identificam citações indiretas e diretas",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Existem dois tipos de citações: citação direta e citação indireta. Ao traduzir uma citação, os tradutores precisam decidir se a traduzem como uma citação direta ou uma citação indireta. (Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26719\" data-resourceType=\"UWTranslationManual\">Citações diretas e indiretas</span>.)</p><p>Quando há uma citação direta ou indireta na tradução literal livre, as notas podem oferecer a opção de traduzi-la para o outro tipo de citação. A sugestão de tradução pode começar com “Pode ser traduzido como uma citação direta:” ou “Pode ser traduzido como uma citação indireta:” e será seguida por esse tipo de citação. Em seguida, haverá um link para a página de informações chamada “Citações diretas e indiretas”, que explica ambos os tipos de citações.</p><p>Pode haver uma nota sobre citações diretas e indiretas quando uma citação contém outra citação dentro dela, pois isso pode ser confuso. Em alguns idiomas, pode ser mais natural traduzir uma dessas citações como uma citação direta e a outra como uma citação indireta. A nota terminará com um link para a página de informações chamada “<span data-bnType=\"resourceReference\" data-resourceId=\"26721\" data-resourceType=\"UWTranslationManual\">Citações dentro de citações</span>”.</p><h3>Exemplos de notas de tradução</h3><p>Ele ordenou-lhe <strong>que não contasse a ninguém</strong> (Lucas 5.14a).</p><ul><li><p><strong>não contasse a ninguém</strong> — Isso pode ser traduzido como uma citação direta: “Não conte a ninguém”. Há informações implícitas que também podem ser declaradas explicitamente (Tradução alternativa): “não conte a ninguém que você foi curado” (Veja: <em>Citações diretas e indiretas</em> e <em>Elipse</em>)</p></li></ul><p>Aqui, a nota de tradução mostra como transformar uma citação indireta em uma citação direta, caso isso seja mais claro ou natural no idioma de destino.</p><p>Na época da colheita <strong>direi aos ceifeiros: &quot;Primeiro arranquem o joio e amarrem-no em feixes para queimá-lo, mas recolham o trigo no meu celeiro</strong>”. (Mateus 13.30)</p><ul><li><p><strong>Direi aos ceifeiros: “Primeiro arranquem o joio e amarrem em feixes para queimá-los, mas recolham o trigo no meu celeiro”</strong> — Você pode traduzir isso como uma citação indireta: “Direi aos ceifeiros para primeiro recolherem o joio e amarrarem em feixes para queimá-los, mas recolherem o trigo no meu celeiro”. (Veja: <em>Citações diretas e indiretas</em>)</p></li></ul><p>Aqui, a nota de tradução demonstra como transformar uma citação direta em uma citação indireta, caso isso seja mais claro ou natural no idioma de destino. Não use aspas em torno de citações indiretas. Elas foram usadas aqui apenas para esclarecer o que você poderia expressar como uma citação indireta.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26719,
+          "content_id": 800084,
+          "label": "Citações diretas e indiretas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26721,
+          "content_id": 800086,
+          "label": "Citações dentro de citações",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

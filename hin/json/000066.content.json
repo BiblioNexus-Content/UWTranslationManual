@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 799943,
+    "reference_id": 26722,
+    "title": "पुनरावृत्ति",
+    "media_type": "Text",
+    "index_reference": "पुनरावृत्ति",
+    "language": "hin",
+    "content": "<p>यह बाइबल पाठ में पुनरावृत्ति के बारे में लिखे जाने वाले लेख के लिए एक स्थानधारक है, जैसे कि इनफिनिटिव-एब्सोल्यूट + संकेतक या अन्य दोहराए गए शब्द।</p><h3>विवरण</h3><h3>कारण यह एक अनुवाद मुद्दा है</h3><h3>बाइबल से उदाहरण</h3><p>शुरू करो, कब्ज़ा करो, उसकी ज़मीन पर कब्ज़ा करो। (व्यवस्थाविवरण 2:31 अनफोल्डिंग वर्ड लिट्रल ट्रान्सलेशन का हिन्दी अनुवाद)</p><h3>अनुवाद की रणनीतियाँ</h3><h3>अनुवाद रणनीतियों के लागू किए गए उदाहरण</h3>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118731,
+          "content_id": 769144,
+          "label": "मरकुस 15:34 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144543,
+          "content_id": 406485,
+          "label": "लूका 10:41 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 167458,
+          "content_id": 380134,
+          "label": "प्रकाशितवाक्य 8:13 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148166,
+          "content_id": 678543,
+          "label": "मत्ती 7:21 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 148175,
+          "content_id": 678552,
+          "label": "मत्ती 7:22 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 149258,
+          "content_id": 679635,
+          "label": "मत्ती 13:14 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 167969,
+          "content_id": 380645,
+          "label": "प्रकाशितवाक्य 18:10 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 175951,
+          "content_id": 655302,
+          "label": "Job 6:2 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 176504,
+          "content_id": 655855,
+          "label": "अय्यूब 13:5 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 176515,
+          "content_id": 655866,
+          "label": "अय्यूब 13:10 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 176532,
+          "content_id": 655883,
+          "label": "अय्यूब 13:17 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 176966,
+          "content_id": 656317,
+          "label": "अय्यूब 19:21 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 177092,
+          "content_id": 656443,
+          "label": "अय्यूब 21:2 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 177591,
+          "content_id": 656942,
+          "label": "अय्यूब 27:22 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 177718,
+          "content_id": 657069,
+          "label": "अय्यूब 29:14 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 178375,
+          "content_id": 657726,
+          "label": "अय्यूब 37:2 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 183717,
+          "content_id": 712460,
+          "label": "नीतिवचन 23:5 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 183796,
+          "content_id": 712539,
+          "label": "नीतिवचन 23:24 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 185719,
+          "content_id": 765256,
+          "label": "सपन्याह 1:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 185794,
+          "content_id": 765331,
+          "label": "सपन्याह 1:14 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 185819,
+          "content_id": 765356,
+          "label": "सपन्याह 2:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 185920,
+          "content_id": 765457,
+          "label": "सपन्याह 3:5 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 202819,
+          "content_id": 788189,
+          "label": "योएल 1:7 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 202986,
+          "content_id": 788356,
+          "label": "योएल 2:26 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 203065,
+          "content_id": 788435,
+          "label": "योएल 3:14 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 184981,
+          "content_id": 799574,
+          "label": "रूत 2:11 (#2)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

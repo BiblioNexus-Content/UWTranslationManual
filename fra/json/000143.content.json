@@ -1,0 +1,640 @@
+[
+  {
+    "content_id": 33385,
+    "reference_id": 26799,
+    "title": "Kinship",
+    "media_type": "Text",
+    "index_reference": "kinship",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Kinship terms refer to those words used to describe people related to one another in familial relationships. These terms vary widely in their specificity from language to language. They range from the (Western) nuclear or immediate family (father-son, husband-wife) out to broad clan relationships in other cultures.</p><h1>Reason This Is a Translation Issue</h1><p>Depending on the language translators may need to use specific terms to designate the accurate kinship relationship. In some languages a different term may be used based on siblings’ birth order. In others, the side of the family (father’s or mother’s), age, marital status, etc. may determine the term used. Different terms may be used based on the gender of the speaker and/or addressee. Translators may need to make sure they know the exact relationship between two related people in the Bible to find the correct term. Sometimes these terms are difficult even for native speakers to remember and translators may need to seek community help in finding the correct term. Another complicating issue is that the Bible may not give enough information about the relationship for translators to determine the correct term in the language being translated into. In this case, translators will have to use a more general term or simply pick a satisfactory term based on the limited information available.</p><p>Sometimes terms that seem like kinship terms are used for people who are not necessarily related. For instance, an older person may refer to a younger man or woman as “my son” or “my daughter.”</p><h3>Examples from the Bible</h3><p>Then Yahweh said to Cain, “Where is Abel <strong>your brother</strong>?” He said, “I do not know. Am I <strong>my brother’s</strong> keeper?” (Genesis 4:9 ULT)</p><p>Abel was Cain’s younger brother.</p><p>Jacob sent and called Rachel and Leah to the field to his flock and said to them, “I see <strong>your father’s</strong> attitude toward me has changed, but the God of my father has been with me.” (Genesis 31:4–5 ULT)</p><p>Jacob is referring here to his father-in-law. In some languages there may be a specific term for a man’s father-in-law, however, in this case it is better to retain the form <strong>your father</strong> as Jacob may be using it to distance himself from Laban.</p><p>And Moses was shepherding the flock of Jethro <strong>his father-in-law</strong>, the priest of Midian. (Exodus3:1a ULT)</p><p>Unlike the previous instance, if your language has a term for a man’s father-in-law this is a good place to use it.</p><p>And <strong>his sister</strong> stationed herself at a distance to know what would be done to him. (Exodus 2:4 ULT)</p><p>From context we know that this was Miriam, Moses’s older sister. In some languages this may require a specific term. In others, the term for older sister may be only used when the younger sibling is addressing and/or referring to his or her sister.</p><p>Then she and <strong>her daughters-in-law</strong> arose to return from the fields of Moab (Ruth 1:6a ULT)</p><p>Ruth &amp; Orpah are Naomi’s daughters-in-law.</p><p>Then she said, “Look, your sister-in-law has turned back to her people and to her gods.” (Ruth 1:15 ULT)</p><p>Orpah had been the wife of Ruth’s husband’s brother. This may be a different term in your language than if she had been Ruth’s husband’s sister.</p><p>Then Boaz said to Ruth, “Will you not listen to me, <strong>my daughter</strong>?” (Ruth 2:8a ULT)</p><p>Boaz is not Ruth’s father; he is simply using the term to address a younger woman.</p><p>And behold, <strong>your relative</strong> Elizabeth—she also has conceived a son in her old age, and this is the sixth month for her who was called barren. (Luke 1:36 ULT)</p><p>While the KJV translated this as <strong>cousin</strong>, the term simply means a related woman.</p><h3>Translation Strategies</h3><p>(1) Find out the exact relationship specified and translate using the term your language uses.</p><p>(2) If the text does not specify the relationship as clearly as your language would, either:</p><p>(a) settle on a more general term.</p><p>(b) use a specific term if required by your language, choosing the one that is most likely to be correct.</p><h3>Translation Strategies Applied</h3><p>This is not an issue in English, so the following illustrations draw on other languages.</p><p>In Korean, there are several terms for brother and sister, the use of them depends on the speaker’s (or referent’s) sex and birth order. Examples are from the Korean Living Bible, found on biblegateway.com</p><p>Genesis 30:1 Rachel is jealous of her “eonni,” which is the term a woman uses for her older sister.</p><p>Genesis 34:31 Simeon and Levi refer to Dinah as “nui,” a general term for sister.</p><p>Genesis 37:16 Joseph refers to his brothers as “hyeong,” which is the term a man uses for his older brother(s).</p><p>Genesis 45:12 Joseph refers to Benjamin as “dongsaeng,” which roughly means sibling, usually younger.</p><p>In Russian, in-law terms are complex. For instance, “nevéstka” is the term for a brother’s (or brother-in-law’s) wife; a woman uses the same term for her daughter-in-law but her husband would call the same daughter-in-law “snoxá.” Examples from the Russian Synodal Version.</p><p>Genesis 38:25 Tamar sends a message to her father-in-law, Judah. The term used is “svekor.” This is used for a woman’s husband’s father.</p><p>Exodus 3:1 Moses is watching his father-in-law’s herd. The term used is “test’.” This is used for a man’s wife’s father.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115804,
+          "content_id": 141016,
+          "label": "Mark 1:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115816,
+          "content_id": 141028,
+          "label": "Mark 1:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115860,
+          "content_id": 141072,
+          "label": "Mark 1:30 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116097,
+          "content_id": 141309,
+          "label": "Mark 3:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116162,
+          "content_id": 141374,
+          "label": "Mark 3:31 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116168,
+          "content_id": 141380,
+          "label": "Mark 3:32 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136710,
+          "content_id": 207237,
+          "label": "Acts 1:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116172,
+          "content_id": 141384,
+          "label": "Mark 3:33 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116175,
+          "content_id": 141387,
+          "label": "Mark 3:34 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116514,
+          "content_id": 141726,
+          "label": "Mark 5:37 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116552,
+          "content_id": 141764,
+          "label": "Mark 6:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116554,
+          "content_id": 141766,
+          "label": "Mark 6:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116624,
+          "content_id": 141836,
+          "label": "Mark 6:17 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116628,
+          "content_id": 141840,
+          "label": "Mark 6:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137564,
+          "content_id": 208091,
+          "label": "Acts 7:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139707,
+          "content_id": 210234,
+          "label": "Acts 23:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141063,
+          "content_id": 211590,
+          "label": "John 7:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141070,
+          "content_id": 211597,
+          "label": "John 7:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141080,
+          "content_id": 211607,
+          "label": "John 7:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141595,
+          "content_id": 212122,
+          "label": "John 11:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141597,
+          "content_id": 212124,
+          "label": "John 11:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141609,
+          "content_id": 212136,
+          "label": "John 11:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141634,
+          "content_id": 212161,
+          "label": "John 11:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141637,
+          "content_id": 212164,
+          "label": "John 11:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141640,
+          "content_id": 212167,
+          "label": "John 11:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141655,
+          "content_id": 212182,
+          "label": "John 11:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141675,
+          "content_id": 212202,
+          "label": "John 11:39 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144028,
+          "content_id": 214555,
+          "label": "Luke 8:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147189,
+          "content_id": 217716,
+          "label": "Matthew 1:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147210,
+          "content_id": 217737,
+          "label": "Matthew 1:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147544,
+          "content_id": 218071,
+          "label": "Matthew 4:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147556,
+          "content_id": 218083,
+          "label": "Matthew 4:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148267,
+          "content_id": 218794,
+          "label": "Matthew 8:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148573,
+          "content_id": 219100,
+          "label": "Matthew 10:2 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148574,
+          "content_id": 219101,
+          "label": "Matthew 10:2 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149184,
+          "content_id": 219711,
+          "label": "Matthew 12:46 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149191,
+          "content_id": 219718,
+          "label": "Matthew 12:47 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149195,
+          "content_id": 219722,
+          "label": "Matthew 12:48 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149199,
+          "content_id": 219726,
+          "label": "Matthew 12:49 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149497,
+          "content_id": 220024,
+          "label": "Matthew 13:55 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149526,
+          "content_id": 220053,
+          "label": "Matthew 14:3 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149539,
+          "content_id": 220066,
+          "label": "Matthew 14:6 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150017,
+          "content_id": 220544,
+          "label": "Matthew 17:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155757,
+          "content_id": 241016,
+          "label": "1 Corinthians 5:1 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156316,
+          "content_id": 241575,
+          "label": "1 Corinthians 9:5 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156461,
+          "content_id": 241720,
+          "label": "1 Corinthians 10:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158012,
+          "content_id": 243271,
+          "label": "2 Corinthians 3:7 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158055,
+          "content_id": 243314,
+          "label": "2 Corinthians 3:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159745,
+          "content_id": 245004,
+          "label": "Colossians 4:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162088,
+          "content_id": 247347,
+          "label": "2 Timothy 1:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164431,
+          "content_id": 258011,
+          "label": "Hebrews 1:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164455,
+          "content_id": 258035,
+          "label": "Hebrews 1:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164591,
+          "content_id": 258171,
+          "label": "Hebrews 2:10 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164603,
+          "content_id": 258183,
+          "label": "Hebrews 2:11 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164609,
+          "content_id": 258189,
+          "label": "Hebrews 2:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164613,
+          "content_id": 258193,
+          "label": "Hebrews 2:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164615,
+          "content_id": 258195,
+          "label": "Hebrews 2:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164629,
+          "content_id": 258209,
+          "label": "Hebrews 2:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164633,
+          "content_id": 258213,
+          "label": "Hebrews 2:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164682,
+          "content_id": 258262,
+          "label": "Hebrews 3:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165026,
+          "content_id": 258606,
+          "label": "Hebrews 7:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165030,
+          "content_id": 258610,
+          "label": "Hebrews 7:5 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165211,
+          "content_id": 258791,
+          "label": "Hebrews 8:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165747,
+          "content_id": 259327,
+          "label": "Hebrews 11:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169779,
+          "content_id": 263359,
+          "label": "Genesis 4:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169870,
+          "content_id": 263450,
+          "label": "Genesis 4:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172514,
+          "content_id": 266094,
+          "label": "Genesis 27:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172679,
+          "content_id": 266259,
+          "label": "Genesis 28:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172701,
+          "content_id": 266281,
+          "label": "Genesis 28:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173519,
+          "content_id": 267099,
+          "label": "Genesis 34:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173651,
+          "content_id": 267231,
+          "label": "Genesis 36:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173699,
+          "content_id": 267279,
+          "label": "Genesis 36:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174371,
+          "content_id": 267951,
+          "label": "Genesis 42:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174372,
+          "content_id": 267952,
+          "label": "Genesis 42:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174511,
+          "content_id": 268091,
+          "label": "Genesis 42:38 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174579,
+          "content_id": 268159,
+          "label": "Genesis 43:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174635,
+          "content_id": 268215,
+          "label": "Genesis 43:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174735,
+          "content_id": 268315,
+          "label": "Genesis 44:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174788,
+          "content_id": 268368,
+          "label": "Genesis 45:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174835,
+          "content_id": 268415,
+          "label": "Genesis 45:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174915,
+          "content_id": 268495,
+          "label": "Genesis 46:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178853,
+          "content_id": 272433,
+          "label": "Job 42:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184950,
+          "content_id": 278530,
+          "label": "Ruth 2:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184954,
+          "content_id": 278534,
+          "label": "Ruth 2:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184956,
+          "content_id": 278536,
+          "label": "Ruth 2:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184962,
+          "content_id": 278542,
+          "label": "Ruth 2:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185027,
+          "content_id": 278607,
+          "label": "Ruth 3:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185028,
+          "content_id": 278608,
+          "label": "Ruth 3:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185030,
+          "content_id": 278610,
+          "label": "Ruth 3:1 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185054,
+          "content_id": 278634,
+          "label": "Ruth 3:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185066,
+          "content_id": 278646,
+          "label": "Ruth 3:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185079,
+          "content_id": 278659,
+          "label": "Ruth 3:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185092,
+          "content_id": 278672,
+          "label": "Ruth 4:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185096,
+          "content_id": 278676,
+          "label": "Ruth 4:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185154,
+          "content_id": 278734,
+          "label": "Ruth 4:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187976,
+          "content_id": 392143,
+          "label": "Exodus 1:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188055,
+          "content_id": 392222,
+          "label": "Exodus 2:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188276,
+          "content_id": 392443,
+          "label": "Exodus 4:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188290,
+          "content_id": 392457,
+          "label": "Exodus 4:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188480,
+          "content_id": 392647,
+          "label": "Exodus 6:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188501,
+          "content_id": 392668,
+          "label": "Exodus 7:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189223,
+          "content_id": 393390,
+          "label": "Exodus 18:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189709,
+          "content_id": 393876,
+          "label": "Exodus 28:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189787,
+          "content_id": 393954,
+          "label": "Exodus 28:41 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

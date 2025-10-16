@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 727254,
+    "reference_id": 209458,
+    "title": "संरूपण जाँच कैसे करें",
+    "media_type": "Text",
+    "index_reference": "संरूपण जाँच कैसे करें",
+    "language": "hin",
+    "content": "<p>कुछ ऐसी भी जाँचें हैं जिन्हे आप बाइबल के एक पुस्तक के अनुवाद से पहले, उसके दौरान या बाद में कर सकते हैं जिससे अनुवाद को और आसान, दिखने में अच्छा और पढ़ने में अधिक से अधिक सरल बनाया जा सकता है। इस भाग के मापदण्ड निम्न विषयों पर अधिक जानकारी प्रदान करते हैं:</p><h3>अनुवाद से पहले</h3><p>अनुवादक दल अनुवाद शुरू करने से पहले निम्न निर्णय ले</p><ol><li><p>अक्षर (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209451\" data-resourceType=\"UWTranslationManual\">उचित अक्षर</span>)</p></li><li><p>स्पेलिंग (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209486\" data-resourceType=\"UWTranslationManual\">सही स्पेलिंग</span>)</p></li><li><p>विराम चिन्ह (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209480\" data-resourceType=\"UWTranslationManual\">सही विराम चिन्ह</span>)</p></li></ol><h3>अनुवाद के दौरान</h3><p>कुछ अध्यायों का अनुवाद कर लेने के बाद, अनुवादक दल अनुवाद के दौरान दिखीं समस्याओं के आधार पर इन निर्णयों में फेरबदल कर सकते हैं। आप लेख में निरंतरता की जाँच कर सकते और पता लगा सकते हैं कि स्पेलिंग या विराम चिन्हों के बारे में निर्णयों में फेरबदल की जरूरत है या नही।</p><h3>पुस्तक को समाप्त करने के पश्चात</h3><p>पुस्तक को समाप्त कर लेने के पश्चात, आप यह निश्चित करने के लिए जाँच कर सकते हैं कि सभी आयत सही हैं और उस दौरान आप भागों के शीर्षकों को भी निर्धारित कर सकते हैं। अनुवाद के दौरान की, शीर्षक के लिए विचारों को आप लिख सकते हैं।</p><ol><li><p>छंद रचना (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209495\" data-resourceType=\"UWTranslationManual\">उचित छंद रचना</span>)</p></li><li><p>भाग के शीर्षक (देखें <span data-bnType=\"resourceReference\" data-resourceId=\"209462\" data-resourceType=\"UWTranslationManual\">भाग के शीर्षक</span>)</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209451,
+          "content_id": 727248,
+          "label": "उचित अक्षरमाला",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209462,
+          "content_id": 727257,
+          "label": "भागों के शीर्षक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209480,
+          "content_id": 727267,
+          "label": "सतत विराम चिन्ह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209486,
+          "content_id": 727269,
+          "label": "सतत अक्षरमाला",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209495,
+          "content_id": 727270,
+          "label": "संपूर्ण छंद रचना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

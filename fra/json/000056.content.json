@@ -1,0 +1,448 @@
+[
+  {
+    "content_id": 33298,
+    "reference_id": 26712,
+    "title": "Parables",
+    "media_type": "Text",
+    "index_reference": "parables",
+    "language": "fra",
+    "content": "<p>A parable is a short story that teaches something(s) that is true, and delivers the lesson in a way that is easy to understand and hard to forget.</p><h3>Description</h3><p>A parable is a short story that is told to teach something(s) that is true. Though the events in a parable could happen, they did not actually happen. They are told only to teach the lesson(s) that the listener is meant to learn. Parables rarely contain the names of specific people. (This may help you identify what is a parable and what is an account of a real event.) Parables often use figures of speech such as <span resourceId=\"26728\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">simile</span> and <span resourceId=\"26728\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">metaphor</span>.</p><p>Then he also told them a parable. “A blind man is not able to guide a blind man, is he? Would not both fall into a pit?” (Luke 6:39 ULT)</p><p>This parable teaches that if a person does not have spiritual understanding, he cannot help someone else to understand spiritual things.</p><h3>Examples From the Bible</h3><p>Neither do people light a lamp and put it under a basket but, rather, on the lampstand, and it shines for everyone in the house. Let your light shine before people in such a way that they see your good deeds and praise your Father who is in heaven. (Matthew 5:15–16 ULT)</p><p>This parable teaches us not to hide the way we live for God from other people.</p><p>Then Jesus presented another parable to them. He said, “The kingdom of heaven is like a mustard seed which a man took and sowed in his field. This seed is indeed the smallest of all other seeds. But when it has grown, it is greater than the garden plants and becomes a tree, so that the birds of the air come and nest in its branches.” (Matthew 13:31–32 ULT)</p><p>This parable teaches that the kingdom of God may seem small at first, but it will grow and spread throughout the world.</p><h3>Translation Strategies</h3><p>(1) If a parable is hard to understand because it has unknown objects in it, you can replace the unknown objects with objects that people in your culture know. However, be careful to keep the lesson the same. (2) If the teaching of the parable is unclear, consider telling a little about what it teaches in the introduction, such as “Jesus told this story about being generous.”</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If a parable is hard to understand because it has unknown objects in it, you can replace the unknown objects with objects that people in your culture know. However, be careful to keep the lesson the same.</p><p>Jesus also said to them, “The lamp is not brought in order to put it under a basket, or under the bed, is it? Is it not so that it might be put on the <strong>lampstand</strong>?” (Mark 4:21 ULT)</p><p>If people do not know what a lampstand is, you could substitute something else that people put a light on so it can give light to the house.</p><p>Jesus also said to them, “The lamp is not brought in order to put it under a basket, or under the bed, is it? Is it not so that it might be put on <strong>a high shelf?</strong>”</p><p>Then Jesus presented another parable to them. He said, “The kingdom of heaven is like a mustard seed which a man took and <strong>sowed</strong> in his field. It is indeed the smallest of all the seeds. But when it has grown, it is greater than the garden plants. It becomes a tree, so that the birds of the air come and nest in its branches.” (Matthew 13:31–32 ULT)</p><p>To sow seeds means to toss them so that they scatter on the ground. If people are not familiar with sowing, you can substitute planting.</p><p>Then Jesus presented another parable to them. He said, “The kingdom of heaven is like a mustard seed which a man took and <strong>planted</strong> in his field. This seed is indeed the smallest of all the seeds. But when it has grown, it is greater than the garden plants. It becomes a tree, so that the birds of the air come and nest in its branches.”</p><p>(2) If the teaching of the parable is unclear, consider telling a little about what it teaches in the introduction, such as “Jesus told this story about being generous.”</p><p><strong>Jesus also said to them</strong>, “The lamp is not brought in order to put it under a basket, or under the bed, is it? Is it not so that it might be put on the lampstand?” (Mark 4:21 ULT)</p><p><strong>Jesus told them a parable about why they should witness openly.</strong> Jesus also said to them, “The lamp is not brought in order to put it under a basket, or under the bed, is it? Is it not so that it might be put on the lampstand?” (Mark 4:21 ULT)</p><p><strong>Then Jesus presented another parable to them.</strong> He said, “The kingdom of heaven is like a mustard seed which a man took and sowed in his field. It is indeed the smallest of all the seeds. But when it has grown, it is greater than the garden plants. It becomes a tree, so that the birds of the air come and nest in its branches.” (Matthew 13:31–32 ULT)</p><p><strong>Then Jesus presented another parable to them about how the kingdom of God grows</strong>. He said, “The kingdom of heaven is like a mustard seed which a man took and sowed in his field. This seed is indeed the smallest of all the seeds. But when it has grown, it is greater than the garden plants. It becomes a tree, so that the birds of the air come and nest in its branches.”</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26728,
+          "content_id": 33314,
+          "label": "Simile",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115999,
+          "content_id": 141211,
+          "label": "Mark 2:19-20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116005,
+          "content_id": 141217,
+          "label": "Mark 2:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116010,
+          "content_id": 141222,
+          "label": "Mark 2:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116125,
+          "content_id": 141337,
+          "label": "Mark 3:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116130,
+          "content_id": 141342,
+          "label": "Mark 3:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116142,
+          "content_id": 141354,
+          "label": "Mark 3:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116186,
+          "content_id": 141398,
+          "label": "Mark 4:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116307,
+          "content_id": 141519,
+          "label": "Mark 4:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116331,
+          "content_id": 141543,
+          "label": "Mark 4:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116926,
+          "content_id": 142138,
+          "label": "Mark 7:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116936,
+          "content_id": 142148,
+          "label": "Mark 7:28 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117389,
+          "content_id": 142601,
+          "label": "Mark 9:50 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117788,
+          "content_id": 143000,
+          "label": "Mark 12:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141455,
+          "content_id": 211982,
+          "label": "John 10:1-5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141468,
+          "content_id": 211995,
+          "label": "John 10:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142235,
+          "content_id": 212762,
+          "label": "John 16:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142247,
+          "content_id": 212774,
+          "label": "John 16:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143590,
+          "content_id": 214117,
+          "label": "Luke 5:36 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143723,
+          "content_id": 214250,
+          "label": "Luke 6:39 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143923,
+          "content_id": 214450,
+          "label": "Luke 7:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143972,
+          "content_id": 214499,
+          "label": "Luke 8:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144016,
+          "content_id": 214543,
+          "label": "Luke 8:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144499,
+          "content_id": 215026,
+          "label": "Luke 10:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144629,
+          "content_id": 215156,
+          "label": "Luke 11:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144691,
+          "content_id": 215218,
+          "label": "Luke 11:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144844,
+          "content_id": 215371,
+          "label": "Luke 12:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144913,
+          "content_id": 215440,
+          "label": "Luke 12:35 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118215,
+          "content_id": 143427,
+          "label": "Mark 13:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118243,
+          "content_id": 143455,
+          "label": "Mark 13:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144935,
+          "content_id": 215462,
+          "label": "Luke 12:39 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144948,
+          "content_id": 215475,
+          "label": "Luke 12:42 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145011,
+          "content_id": 215538,
+          "label": "Luke 12:58 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145041,
+          "content_id": 215568,
+          "label": "Luke 13:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145090,
+          "content_id": 215617,
+          "label": "Luke 13:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145098,
+          "content_id": 215625,
+          "label": "Luke 13:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145206,
+          "content_id": 215733,
+          "label": "Luke 14:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145250,
+          "content_id": 215777,
+          "label": "Luke 14:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145319,
+          "content_id": 215846,
+          "label": "Luke 14:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145336,
+          "content_id": 215863,
+          "label": "Luke 15:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145357,
+          "content_id": 215884,
+          "label": "Luke 15:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145456,
+          "content_id": 215983,
+          "label": "Luke 16:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145537,
+          "content_id": 216064,
+          "label": "Luke 16:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145776,
+          "content_id": 216303,
+          "label": "Luke 18:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145809,
+          "content_id": 216336,
+          "label": "Luke 18:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145971,
+          "content_id": 216498,
+          "label": "Luke 19:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146162,
+          "content_id": 216689,
+          "label": "Luke 20:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146446,
+          "content_id": 216973,
+          "label": "Luke 21:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148442,
+          "content_id": 218969,
+          "label": "Matthew 9:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148448,
+          "content_id": 218975,
+          "label": "Matthew 9:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148451,
+          "content_id": 218978,
+          "label": "Matthew 9:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149081,
+          "content_id": 219608,
+          "label": "Matthew 12:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149167,
+          "content_id": 219694,
+          "label": "Matthew 12:43 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149214,
+          "content_id": 219741,
+          "label": "Matthew 13:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149328,
+          "content_id": 219855,
+          "label": "Matthew 13:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149373,
+          "content_id": 219900,
+          "label": "Matthew 13:31 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149382,
+          "content_id": 219909,
+          "label": "Matthew 13:33 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149442,
+          "content_id": 219969,
+          "label": "Matthew 13:44 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149451,
+          "content_id": 219978,
+          "label": "Matthew 13:45 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149458,
+          "content_id": 219985,
+          "label": "Matthew 13:47 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149799,
+          "content_id": 220326,
+          "label": "Matthew 15:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149806,
+          "content_id": 220333,
+          "label": "Matthew 15:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150227,
+          "content_id": 220754,
+          "label": "Matthew 18:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150295,
+          "content_id": 220822,
+          "label": "Matthew 18:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150506,
+          "content_id": 221033,
+          "label": "Matthew 20:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150813,
+          "content_id": 221340,
+          "label": "Matthew 21:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150848,
+          "content_id": 221375,
+          "label": "Matthew 21:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150911,
+          "content_id": 221438,
+          "label": "Matthew 22:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151460,
+          "content_id": 221987,
+          "label": "Matthew 24:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151523,
+          "content_id": 222050,
+          "label": "Matthew 24:43 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151553,
+          "content_id": 222080,
+          "label": "Matthew 25:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151610,
+          "content_id": 222137,
+          "label": "Matthew 25:14 (#2)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

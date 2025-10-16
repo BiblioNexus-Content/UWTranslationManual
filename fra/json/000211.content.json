@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 689653,
+    "reference_id": 209473,
+    "title": "Other Methods",
+    "media_type": "Text",
+    "index_reference": "other methods",
+    "language": "fra",
+    "content": "<h3>Other Checking Methods</h3><p>As well as asking questions, there are other checking methods that you may also use to ensure that the translation is <span resourceId=\"209454\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">clear</span>, easy to read, and sounds <span resourceId=\"209471\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">natural</span> to the listeners. Here are some other methods that you may like to try:</p><ul><li><p><strong>Retell Method</strong>: You (the translator or checker) can read a passage or story and ask someone else to retell what was said. If the person can easily retell the passage, then the passage was clear. Make a note of any place that the person left out or told incorrectly, along with the chapter and verse. The translation team may need to revise those places in the translation to make them more clear. Also make note of any different ways that the person said things that mean the same thing as in the translation. It may be that these ways of saying things are more natural than the ways in the translation. The translation team can use these ways of saying the same thing to make the translation more natural.</p></li><li><p><strong>Reading Method</strong>: Someone other than you (the translator or checker) can read aloud a passage of the translation while you listen and take notes of where the person pauses or makes mistakes. This will show how easy or how difficult it is to read and understand the translation. Look at the places in the translation where the reader paused or made mistakes and consider what made that part of the translation difficult. The translation team may need to revise the translation at those points so that it is easier to read and understand.</p></li><li><p><strong>Offer Alternate Translations</strong>: At some places in the translation, the translation team may not be sure of the best way to express a source word or phrase. In this case, ask other people how they would translate it. For those who do not understand the source language, describe what you are trying to say and ask how they would say it. If different translations seem equally good, offer people a choice between two translations of the same idea and ask them which alternative translation they think is the most clear.</p></li><li><p><strong>Reviewer Input</strong>: Let others whom you respect read your translation. Ask them to take notes and tell you where it might be improved. Look for better word choices, more natural expressions, and also spelling adjustments.</p></li><li><p><strong>Discussion Groups</strong>: Ask people to read the translation out loud in a group of people and allow the people to ask questions for clarification. Pay attention to the words they use, since alternate words and expressions come up when someone is trying to make sense of a difficult point. These alternate words and expressions might be better than the ones in the translation. Write them down, along with the chapter and verse that they are about. The translation team can use these to improve the translation. Also make note of the places where people do not understand the translation so that the translation team can make those places clearer.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209454,
+          "content_id": 689634,
+          "label": "Clear Translation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209471,
+          "content_id": 689651,
+          "label": "Natural Translation",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

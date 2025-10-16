@@ -1,0 +1,370 @@
+[
+  {
+    "content_id": 33410,
+    "reference_id": 26824,
+    "title": "Verse Bridges",
+    "media_type": "Text",
+    "index_reference": "verse bridges",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>In some cases, you will see in the unfoldingWord® Simplified Text (UST) that two or more verse numbers are combined, such as 17–18. This is called a verse bridge. This means that the information in the verses was rearranged so that the story or message could be more easily understood.</p><p>29 These were the clans of the Horites: Lotan, Shobal, Zibeon, and Anah, 30 Dishon, Ezer, Dishan: these are clans of the Horites, according to their clan lists in the land of Seir. (Genesis 36:29–30 ULT)</p><p>29–30 The people groups who were descendants of Hor lived in Seir land. The names of the people groups are Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. (Genesis 36:29–30 UST)</p><p>In the ULT text, verses 29 and 30 are separate, and the information about the people living in Seir is at the end of verse 30. In the UST text, the verses are joined, and the information about them living in Seir is at the beginning. For many languages, this is a more logical order of information.</p><h3>Examples From the Bible</h3><p>Where the UST has a verse bridge, the ULT will have separate verses.</p><p>4–5 Yahweh our God will bless you in the land that he is giving to you. If you obey Yahweh our God and obey all the commandments that I am giving to you today, there will not be any poor people among you. (Deuteronomy 15:4–5 UST)</p><p>4 However, there should be no poor among you (for Yahweh will surely bless you in the land that he gives you as an inheritance to possess), 5 if only you diligently listen to the voice of Yahweh your God, to keep all these commandments that I am commanding you today. (Deuteronomy 15:4–5 ULT)</p><p>16–17 But Yahweh said to him, “I will not permit you to eat the fruit of the tree that will enable you to know what actions are good to do and what actions are evil to do. If you eat any fruit from that tree, on the day you eat it you will surely die. But I will permit you to eat the fruit of any of the other trees in the park.” (Genesis 2:16–17 UST)</p><p>16 Yahweh God commanded the man, saying, “From every tree in the garden you may freely eat. 17 But from the tree of the knowledge of good and evil you may not eat, for on the day that you eat from it, you will surely die.” (Genesis 2:16–17 ULT)</p><h3>Translation Strategies</h3><p>Order the information in a way that will be clear to your readers. If the order of information is clear as it is in the ULT, then use that order. But if the order is confusing or gives the wrong meaning, then change the order so that it is more clear.</p><p>(1) If you put information from one verse before information from an earlier verse, then combine the verses and put a hyphen between the two verse numbers.</p><p>See how to mark verses in <a href=\"https://help.door43.org/en/knowledgebase/13-translationstudio-android/docs/24-marking-verses-in-translationstudio\" target=\"_blank\" rel=\"noopener nofollow\">translationStudio</a>.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If information from one verse is put before information from an earlier verse, then combine the verses and put the verse numbers before the first verse with a hyphen between them.</p><p>2 You must select three cities for yourself in the middle of your land that Yahweh your God is giving you to possess. 3 You must build a road and divide the borders of your land into three parts, the land that Yahweh your God is causing you to inherit, so that everyone who kills another person may flee there. (Deuteronomy 19:2–3 ULT)</p><p>2–3 You must divide into three parts the land that he is giving to you. Then select a city in each part. You must make good roads in order that people can get to those cities easily. Someone who kills another person can escape to one of those cities to be safe. (Deuteronomy 19:2–3 UST)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116071,
+          "content_id": 141283,
+          "label": "Mark 3:9-10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116378,
+          "content_id": 141590,
+          "label": "Mark 5:3-4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116390,
+          "content_id": 141602,
+          "label": "Mark 5:7-8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116465,
+          "content_id": 141677,
+          "label": "Mark 5:27-28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116573,
+          "content_id": 141785,
+          "label": "Mark 6:8-9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116616,
+          "content_id": 141828,
+          "label": "Mark 6:17-18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116629,
+          "content_id": 141841,
+          "label": "Mark 6:19-20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116749,
+          "content_id": 141961,
+          "label": "Mark 6:49-50 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116916,
+          "content_id": 142128,
+          "label": "Mark 7:25-26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117322,
+          "content_id": 142534,
+          "label": "Mark 9:39-40 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118044,
+          "content_id": 143256,
+          "label": "Mark 12:43-44 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118162,
+          "content_id": 143374,
+          "label": "Mark 13:18-19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118180,
+          "content_id": 143392,
+          "label": "Mark 13:21-22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118760,
+          "content_id": 143972,
+          "label": "Mark 15:42-43 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136755,
+          "content_id": 207282,
+          "label": "Acts 1:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136771,
+          "content_id": 207298,
+          "label": "Acts 1:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137283,
+          "content_id": 207810,
+          "label": "Acts 4:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137803,
+          "content_id": 208330,
+          "label": "Acts 8:1-2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138545,
+          "content_id": 209072,
+          "label": "Acts 13:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138790,
+          "content_id": 209317,
+          "label": "Acts 15:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139301,
+          "content_id": 209828,
+          "label": "Acts 19:37 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139398,
+          "content_id": 209925,
+          "label": "Acts 20:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139535,
+          "content_id": 210062,
+          "label": "Acts 21:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142963,
+          "content_id": 213490,
+          "label": "Luke 1:54 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144071,
+          "content_id": 214598,
+          "label": "Luke 8:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146380,
+          "content_id": 216907,
+          "label": "Luke 21:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146534,
+          "content_id": 217061,
+          "label": "Luke 22:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146541,
+          "content_id": 217068,
+          "label": "Luke 22:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146561,
+          "content_id": 217088,
+          "label": "Luke 22:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146623,
+          "content_id": 217150,
+          "label": "Luke 22:37 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146839,
+          "content_id": 217366,
+          "label": "Luke 23:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148134,
+          "content_id": 218661,
+          "label": "Matthew 7:13-14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148469,
+          "content_id": 218996,
+          "label": "Matthew 9:20-21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149519,
+          "content_id": 220046,
+          "label": "Matthew 14:3-4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151406,
+          "content_id": 221933,
+          "label": "Matthew 24:23-24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151491,
+          "content_id": 222018,
+          "label": "Matthew 24:38-39 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160839,
+          "content_id": 246098,
+          "label": "1 Thessalonians 2:14-15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162877,
+          "content_id": 256457,
+          "label": "1 John 2:5-6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162952,
+          "content_id": 256532,
+          "label": "1 John 2:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163134,
+          "content_id": 256714,
+          "label": "1 John 3:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163303,
+          "content_id": 256883,
+          "label": "1 John 5:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164650,
+          "content_id": 258230,
+          "label": "Hebrews 3:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165104,
+          "content_id": 258684,
+          "label": "Hebrews 7:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166723,
+          "content_id": 260303,
+          "label": "James 5:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166959,
+          "content_id": 260539,
+          "label": "Jude 1:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167011,
+          "content_id": 260591,
+          "label": "Revelation 1:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 169663,
+          "content_id": 263243,
+          "label": "Genesis 3:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171658,
+          "content_id": 265238,
+          "label": "Genesis 20:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172105,
+          "content_id": 265685,
+          "label": "Genesis 24:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173663,
+          "content_id": 267243,
+          "label": "Genesis 36:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174076,
+          "content_id": 267656,
+          "label": "Genesis 40:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176003,
+          "content_id": 269583,
+          "label": "Job 6:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176432,
+          "content_id": 270012,
+          "label": "Job 12:7-8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176588,
+          "content_id": 270168,
+          "label": "Job 14:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176612,
+          "content_id": 270192,
+          "label": "Job 14:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177338,
+          "content_id": 270918,
+          "label": "Job 23:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177875,
+          "content_id": 271455,
+          "label": "Job 31:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184187,
+          "content_id": 277767,
+          "label": "Proverbs 26:18-19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190054,
+          "content_id": 394221,
+          "label": "Exodus 33:4 (#3)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]
