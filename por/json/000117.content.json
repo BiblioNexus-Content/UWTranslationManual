@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800138,
+    "reference_id": 26773,
+    "title": "Notas com links",
+    "media_type": "Text",
+    "index_reference": "notas com links",
+    "language": "por",
+    "content": "<p>Existem dois tipos de links nas notas de tradução: links para uma página de tópico da Academia de Tradução unfoldingWord® e links para palavras ou frases que se repetem dentro do mesmo livro.</p><h3>Tópicos da Academia de Tradução unfoldingWord®</h3><p>Os tópicos da Academia de Tradução unfoldingWord® têm como objetivo capacitar qualquer pessoa, em qualquer lugar, a aprender o básico sobre como traduzir a Bíblia para seu próprio idioma. Eles são projetados para serem altamente flexíveis para aprendizado sob demanda, tanto em formatos de vídeo móvel online quanto offline.</p><p>Cada nota de tradução segue uma frase da tradução literal livre e fornece ajuda imediata sobre como traduzir essa frase. Às vezes, haverá uma declaração entre parênteses no final da tradução sugerida que pode parecer com isso: (Veja: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\"><em>Metáfora</em></span>). A palavra ou palavras em azul ou verde são um link para um tópico da Academia de Tradução unfoldingWord®. Na nota de tradução, você pode clicar no link para saber mais sobre o tópico.</p><p>Existem várias razões para ler as informações sobre o tópico da Academia de Tradução unfoldingWord®:</p><ul><li><p>Aprender sobre o tópico ajudará o tradutor a realizar traduções mais precisas.</p></li><li><p>Os tópicos foram selecionados para oferecer uma compreensão básica dos princípios e estratégias de tradução.</p></li></ul><h1>Exemplos</h1><ul><li><p><strong>Noite e manhã</strong> — Isso se refere ao dia inteiro. Duas partes do dia são usadas para representar o dia todo. Na cultura judaica, um dia começa quando o sol se põe (Veja: <span data-bnType=\"resourceReference\" data-resourceId=\"26705\" data-resourceType=\"UWTranslationManual\"><em>Merismo</em></span>).</p></li><li><p><strong>andando</strong> — “obedecendo” (Veja: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\"><em>Metáfora</em></span>)</p></li><li><p><strong>tornou conhecido</strong> — “comunicou” (Veja: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\"><em>Expressão Idiomática</em></span>)</p></li></ul><h3>Frases repetidas em um livro</h3><p>Às vezes, uma frase é usada várias vezes em um livro. Quando isso acontece, haverá um link nas notas de tradução (os números de capítulos e versículos azuis ou verdes nos quais você pode clicar) que o levará de volta ao local onde você traduziu essa frase anteriormente. Existem várias razões pelas quais você vai querer ir ao local onde a palavra ou frase foi traduzida antes:</p><ul><li><p>Isso facilitará para você traduzir esta frase ao lembrar de como já a traduziu.</p></li><li><p>Isso tornará sua tradução mais rápida e consistente, pois você será lembrado de traduzir essa frase da mesma forma todas as vezes.</p></li></ul><p>Se uma tradução que você usou anteriormente para a mesma frase não se adequar a um novo contexto, será necessário pensar em uma nova maneira de traduzi-la. Nesse caso, você deve fazer uma anotação e discuti-la com os outros membros da equipe de tradução.</p><p>Esses links apenas o levarão de volta para notas no mesmo livro em que você está trabalhando, não para notas em outros livros. (Os links nos exemplos abaixo não são funcionais).</p><h1>Exemplos</h1><ul><li><p><strong>Sejam fecundos e multipliquem-se</strong> — Veja como você traduziu esses comandos em Gênesis 1.28.</p></li><li><p><strong>tudo o que rasteja sobre a terra</strong> — Isso inclui todos os tipos de pequenos animais. Veja como você traduziu isso em Gênesis 1.25.</p></li><li><p><strong>serão abençoados nele</strong> — Tradução Alternativa: “serão abençoados por causa de Abraão” ou “serão abençoados porque eu abençoei Abraão”. Para traduzir “nele”, veja como você traduziu “por meio de você” em Gênesis 12.3.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 800062,
+          "label": "Expressão idiomática",
+          "language": "por"
+        },
+        {
+          "reference_id": 26705,
+          "content_id": 800070,
+          "label": "Merismo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26706,
+          "content_id": 800071,
+          "label": "Metáfora",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

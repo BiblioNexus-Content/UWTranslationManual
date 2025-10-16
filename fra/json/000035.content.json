@@ -1,0 +1,4072 @@
+[
+  {
+    "content_id": 33277,
+    "reference_id": 26691,
+    "title": "Generic Noun Phrases",
+    "media_type": "Text",
+    "index_reference": "generic noun phrases",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Generic noun phrases refer to people or things in general rather than to specific individuals or things. This happens frequently in proverbs, because proverbs tell about things that are true about people in general.</p><p>Can <strong>a man</strong> walk on hot coals without scorching his feet? So is <strong>the man who goes in to his neighbor’s wife</strong>; <strong>the one who touches her</strong> will not go unpunished. (Proverbs 6:28–29 ULT)</p><p>The phrases in bold above do not refer to a specific man. They refer to any man who does these things.</p><h1>Reason This Is a Translation Issue</h1><p>Different languages have different ways of showing that noun phrases refer to something in general. You (the translator) should refer to these general ideas in ways that are natural in your language.</p><h3>Examples From the Bible</h3><p>The <strong>righteous person</strong> is kept away from trouble and it comes upon <strong>the wicked</strong> instead. (Proverbs 11:8 ULT)</p><p>The bold phrases above do not refer to a specific person but to anyone who does what is right or anyone who is wicked.</p><p>People curse <strong>the man who refuses to sell grain</strong>. (Proverbs 11:26 ULT)</p><p>This does not refer to a particular man, but to any person who refuses to sell grain.</p><p>Yahweh gives favor to <strong>a good man</strong>, but he condemns <strong>a man who makes evil plans</strong>. (Proverbs 12:2 ULT)</p><p>The phrase “a good man” does not refer to a particular man, but to any person who is good. The phrase “a man who makes evil plans” does not refer to a particular man, but to any person who makes evil plans.</p><h3>Translation Strategies</h3><p>If your language can use the same wording as in the ULT to refer to people or things in general rather than to specific individuals or things, consider using the same wording. If not, here are some strategies you might use.</p><p>(1) Use the word “the” in the noun phrase. (2) Use the word “a” in the noun phrase. (3) Use the word “any,” as in “any person” or “anyone.” (4) Use the plural form, as in “people.” (5) Use any other way that is natural in your language.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) Use the word “the” in the noun phrase.</p><p>Yahweh gives favor to <strong>a good man</strong>, but he condemns <strong>a man who makes evil plans</strong>. (Proverbs 12:2 ULT)</p><p>“Yahweh gives favor to <strong>the good man</strong>, but he condemns <strong>the man who makes evil plans</strong>.” (Proverbs 12:2)</p><p>(2) Use the word “a” in the noun phrase.</p><p>People curse <strong>the man</strong> who refuses to sell grain. (Proverbs 11:26 ULT)</p><p>“People curse <strong>a man</strong> who refuses to sell grain.”</p><p>(3) Use the word “any,” as in “any person” or “anyone.”</p><p>People curse <strong>the man</strong> who refuses to sell grain. (Proverbs 11:26 ULT)</p><p>“People curse <strong>any man</strong> who refuses to sell grain.”</p><p>(4) Use the plural form, as in “people” (or in this sentence, “men”).</p><p>People curse <strong>the man</strong> who refuses to sell grain. (Proverbs 11:26 ULT)</p><p>“People curse <strong>men</strong> who refuse to sell grain”</p><p>(5) Use any other way that is natural in your language.</p><p>People curse <strong>the man</strong> who refuses to sell grain. (Proverbs 11:26 ULT)</p><p>“People curse <strong>whoever</strong> refuses to sell grain.”</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116036,
+          "content_id": 141248,
+          "label": "Mark 2:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116145,
+          "content_id": 141357,
+          "label": "Mark 3:27 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116193,
+          "content_id": 141405,
+          "label": "Mark 4:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116278,
+          "content_id": 141490,
+          "label": "Mark 4:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116580,
+          "content_id": 141792,
+          "label": "Mark 6:8 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116683,
+          "content_id": 141895,
+          "label": "Mark 6:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116868,
+          "content_id": 142080,
+          "label": "Mark 7:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116880,
+          "content_id": 142092,
+          "label": "Mark 7:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116883,
+          "content_id": 142095,
+          "label": "Mark 7:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116894,
+          "content_id": 142106,
+          "label": "Mark 7:20 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116909,
+          "content_id": 142121,
+          "label": "Mark 7:23 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117003,
+          "content_id": 142215,
+          "label": "Mark 8:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117043,
+          "content_id": 142255,
+          "label": "Mark 8:17 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117422,
+          "content_id": 142634,
+          "label": "Mark 10:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140389,
+          "content_id": 210916,
+          "label": "John 2:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140501,
+          "content_id": 211028,
+          "label": "John 3:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140526,
+          "content_id": 211053,
+          "label": "John 3:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140536,
+          "content_id": 211063,
+          "label": "John 3:36 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140538,
+          "content_id": 211065,
+          "label": "John 3:36 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140791,
+          "content_id": 211318,
+          "label": "John 5:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141116,
+          "content_id": 211643,
+          "label": "John 7:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141118,
+          "content_id": 211645,
+          "label": "John 7:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141197,
+          "content_id": 211724,
+          "label": "John 7:51 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141236,
+          "content_id": 211763,
+          "label": "John 8:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118090,
+          "content_id": 143302,
+          "label": "Mark 13:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118133,
+          "content_id": 143345,
+          "label": "Mark 13:13 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118147,
+          "content_id": 143359,
+          "label": "Mark 13:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118153,
+          "content_id": 143365,
+          "label": "Mark 13:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118216,
+          "content_id": 143428,
+          "label": "Mark 13:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118438,
+          "content_id": 143650,
+          "label": "Mark 14:38 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141278,
+          "content_id": 211805,
+          "label": "John 8:35 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141486,
+          "content_id": 212013,
+          "label": "John 10:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141991,
+          "content_id": 212518,
+          "label": "John 13:38 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142225,
+          "content_id": 212752,
+          "label": "John 16:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142379,
+          "content_id": 212906,
+          "label": "John 18:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142545,
+          "content_id": 213072,
+          "label": "John 19:31 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146359,
+          "content_id": 216886,
+          "label": "Luke 21:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146363,
+          "content_id": 216890,
+          "label": "Luke 21:10 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146419,
+          "content_id": 216946,
+          "label": "Luke 21:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146447,
+          "content_id": 216974,
+          "label": "Luke 21:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146614,
+          "content_id": 217141,
+          "label": "Luke 22:34 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146620,
+          "content_id": 217147,
+          "label": "Luke 22:36 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147474,
+          "content_id": 218001,
+          "label": "Matthew 4:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147839,
+          "content_id": 218366,
+          "label": "Matthew 5:43 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147959,
+          "content_id": 218486,
+          "label": "Matthew 6:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147969,
+          "content_id": 218496,
+          "label": "Matthew 6:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148000,
+          "content_id": 218527,
+          "label": "Matthew 6:25 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148017,
+          "content_id": 218544,
+          "label": "Matthew 6:28 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148028,
+          "content_id": 218555,
+          "label": "Matthew 6:30 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148157,
+          "content_id": 218684,
+          "label": "Matthew 7:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148168,
+          "content_id": 218695,
+          "label": "Matthew 7:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148585,
+          "content_id": 219112,
+          "label": "Matthew 10:5 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148666,
+          "content_id": 219193,
+          "label": "Matthew 10:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148670,
+          "content_id": 219197,
+          "label": "Matthew 10:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148683,
+          "content_id": 219210,
+          "label": "Matthew 10:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149084,
+          "content_id": 219611,
+          "label": "Matthew 12:29 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149105,
+          "content_id": 219632,
+          "label": "Matthew 12:33 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149113,
+          "content_id": 219640,
+          "label": "Matthew 12:34 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149118,
+          "content_id": 219645,
+          "label": "Matthew 12:35 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149220,
+          "content_id": 219747,
+          "label": "Matthew 13:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149719,
+          "content_id": 220246,
+          "label": "Matthew 15:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149748,
+          "content_id": 220275,
+          "label": "Matthew 15:17 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149754,
+          "content_id": 220281,
+          "label": "Matthew 15:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149758,
+          "content_id": 220285,
+          "label": "Matthew 15:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149763,
+          "content_id": 220290,
+          "label": "Matthew 15:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150081,
+          "content_id": 220608,
+          "label": "Matthew 17:15 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150187,
+          "content_id": 220714,
+          "label": "Matthew 18:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150224,
+          "content_id": 220751,
+          "label": "Matthew 18:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150268,
+          "content_id": 220795,
+          "label": "Matthew 18:17 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150406,
+          "content_id": 220933,
+          "label": "Matthew 19:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150568,
+          "content_id": 221095,
+          "label": "Matthew 20:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151236,
+          "content_id": 221763,
+          "label": "Matthew 23:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151330,
+          "content_id": 221857,
+          "label": "Matthew 24:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151377,
+          "content_id": 221904,
+          "label": "Matthew 24:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151382,
+          "content_id": 221909,
+          "label": "Matthew 24:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151461,
+          "content_id": 221988,
+          "label": "Matthew 24:32 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151671,
+          "content_id": 222198,
+          "label": "Matthew 25:29 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151688,
+          "content_id": 222215,
+          "label": "Matthew 25:32 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151926,
+          "content_id": 222453,
+          "label": "Matthew 26:41 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152297,
+          "content_id": 222824,
+          "label": "Matthew 27:51 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152299,
+          "content_id": 222826,
+          "label": "Matthew 27:52 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152550,
+          "content_id": 223077,
+          "label": "Romans 1:16 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152628,
+          "content_id": 223155,
+          "label": "Romans 1:27 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152641,
+          "content_id": 223168,
+          "label": "Romans 1:28 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152668,
+          "content_id": 223195,
+          "label": "Romans 2:1 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152755,
+          "content_id": 223282,
+          "label": "Romans 2:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152941,
+          "content_id": 223468,
+          "label": "Romans 3:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152950,
+          "content_id": 223477,
+          "label": "Romans 3:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153022,
+          "content_id": 223549,
+          "label": "Romans 3:26 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153104,
+          "content_id": 223631,
+          "label": "Romans 4:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153116,
+          "content_id": 223643,
+          "label": "Romans 4:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153491,
+          "content_id": 224018,
+          "label": "Romans 6:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153583,
+          "content_id": 224110,
+          "label": "Romans 7:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153590,
+          "content_id": 224117,
+          "label": "Romans 7:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153825,
+          "content_id": 224352,
+          "label": "Romans 8:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153850,
+          "content_id": 224377,
+          "label": "Romans 8:13 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153916,
+          "content_id": 224443,
+          "label": "Romans 8:23 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154762,
+          "content_id": 225289,
+          "label": "Romans 13:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154819,
+          "content_id": 225346,
+          "label": "Romans 14:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155303,
+          "content_id": 240562,
+          "label": "1 Corinthians 1:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155446,
+          "content_id": 240705,
+          "label": "1 Corinthians 2:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155467,
+          "content_id": 240726,
+          "label": "1 Corinthians 2:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155473,
+          "content_id": 240732,
+          "label": "1 Corinthians 2:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155524,
+          "content_id": 240783,
+          "label": "1 Corinthians 3:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155531,
+          "content_id": 240790,
+          "label": "1 Corinthians 3:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155620,
+          "content_id": 240879,
+          "label": "1 Corinthians 4:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155928,
+          "content_id": 241187,
+          "label": "1 Corinthians 6:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155958,
+          "content_id": 241217,
+          "label": "1 Corinthians 7:1 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155965,
+          "content_id": 241224,
+          "label": "1 Corinthians 7:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155969,
+          "content_id": 241228,
+          "label": "1 Corinthians 7:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156003,
+          "content_id": 241262,
+          "label": "1 Corinthians 7:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156007,
+          "content_id": 241266,
+          "label": "1 Corinthians 7:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156023,
+          "content_id": 241282,
+          "label": "1 Corinthians 7:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156034,
+          "content_id": 241293,
+          "label": "1 Corinthians 7:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156045,
+          "content_id": 241304,
+          "label": "1 Corinthians 7:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156144,
+          "content_id": 241403,
+          "label": "1 Corinthians 7:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156149,
+          "content_id": 241408,
+          "label": "1 Corinthians 7:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156152,
+          "content_id": 241411,
+          "label": "1 Corinthians 7:33 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156155,
+          "content_id": 241414,
+          "label": "1 Corinthians 7:33 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156163,
+          "content_id": 241422,
+          "label": "1 Corinthians 7:34 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156195,
+          "content_id": 241454,
+          "label": "1 Corinthians 7:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156270,
+          "content_id": 241529,
+          "label": "1 Corinthians 8:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156286,
+          "content_id": 241545,
+          "label": "1 Corinthians 8:13 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156345,
+          "content_id": 241604,
+          "label": "1 Corinthians 9:10 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156569,
+          "content_id": 241828,
+          "label": "1 Corinthians 10:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156628,
+          "content_id": 241887,
+          "label": "1 Corinthians 11:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156655,
+          "content_id": 241914,
+          "label": "1 Corinthians 11:7 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156665,
+          "content_id": 241924,
+          "label": "1 Corinthians 11:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156673,
+          "content_id": 241932,
+          "label": "1 Corinthians 11:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156674,
+          "content_id": 241933,
+          "label": "1 Corinthians 11:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156847,
+          "content_id": 242106,
+          "label": "1 Corinthians 12:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156859,
+          "content_id": 242118,
+          "label": "1 Corinthians 12:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156861,
+          "content_id": 242120,
+          "label": "1 Corinthians 12:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156868,
+          "content_id": 242127,
+          "label": "1 Corinthians 12:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156875,
+          "content_id": 242134,
+          "label": "1 Corinthians 12:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156890,
+          "content_id": 242149,
+          "label": "1 Corinthians 12:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156906,
+          "content_id": 242165,
+          "label": "1 Corinthians 12:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157011,
+          "content_id": 242270,
+          "label": "1 Corinthians 14:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157016,
+          "content_id": 242275,
+          "label": "1 Corinthians 14:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157021,
+          "content_id": 242280,
+          "label": "1 Corinthians 14:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157024,
+          "content_id": 242283,
+          "label": "1 Corinthians 14:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157077,
+          "content_id": 242336,
+          "label": "1 Corinthians 14:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157094,
+          "content_id": 242353,
+          "label": "1 Corinthians 14:16 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157101,
+          "content_id": 242360,
+          "label": "1 Corinthians 14:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157838,
+          "content_id": 243097,
+          "label": "2 Corinthians 2:2 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158440,
+          "content_id": 243699,
+          "label": "2 Corinthians 6:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158634,
+          "content_id": 243893,
+          "label": "2 Corinthians 8:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159589,
+          "content_id": 244848,
+          "label": "Colossians 3:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159682,
+          "content_id": 244941,
+          "label": "Colossians 3:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161403,
+          "content_id": 246662,
+          "label": "1 Timothy 2:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161410,
+          "content_id": 246669,
+          "label": "1 Timothy 2:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161440,
+          "content_id": 246699,
+          "label": "1 Timothy 3:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161630,
+          "content_id": 246889,
+          "label": "1 Timothy 5:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161635,
+          "content_id": 246894,
+          "label": "1 Timothy 5:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162186,
+          "content_id": 247445,
+          "label": "2 Timothy 2:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162288,
+          "content_id": 247547,
+          "label": "2 Timothy 2:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162308,
+          "content_id": 247567,
+          "label": "2 Timothy 3:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162382,
+          "content_id": 247641,
+          "label": "2 Timothy 3:17 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162859,
+          "content_id": 256439,
+          "label": "1 John 2:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162900,
+          "content_id": 256480,
+          "label": "1 John 2:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162904,
+          "content_id": 256484,
+          "label": "1 John 2:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162963,
+          "content_id": 256543,
+          "label": "1 John 2:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162993,
+          "content_id": 256573,
+          "label": "1 John 2:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163288,
+          "content_id": 256868,
+          "label": "1 John 4:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163337,
+          "content_id": 256917,
+          "label": "1 John 5:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163527,
+          "content_id": 257107,
+          "label": "1 Peter 1:24 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163601,
+          "content_id": 257181,
+          "label": "1 Peter 2:11 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163677,
+          "content_id": 257257,
+          "label": "1 Peter 3:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163704,
+          "content_id": 257284,
+          "label": "1 Peter 3:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163822,
+          "content_id": 257402,
+          "label": "1 Peter 4:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163935,
+          "content_id": 257515,
+          "label": "2 John 1:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163944,
+          "content_id": 257524,
+          "label": "2 John 1:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164029,
+          "content_id": 257609,
+          "label": "2 Peter 1:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164170,
+          "content_id": 257750,
+          "label": "2 Peter 2:6 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164301,
+          "content_id": 257881,
+          "label": "2 Peter 2:21 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164320,
+          "content_id": 257900,
+          "label": "2 Peter 3:2 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164809,
+          "content_id": 258389,
+          "label": "Hebrews 4:12 (#12)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165305,
+          "content_id": 258885,
+          "label": "Hebrews 9:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165607,
+          "content_id": 259187,
+          "label": "Hebrews 10:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 165622,
+          "content_id": 259202,
+          "label": "Hebrews 10:39 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166067,
+          "content_id": 259647,
+          "label": "Hebrews 13:6 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166085,
+          "content_id": 259665,
+          "label": "Hebrews 13:9 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166100,
+          "content_id": 259680,
+          "label": "Hebrews 13:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166754,
+          "content_id": 260334,
+          "label": "James 5:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166761,
+          "content_id": 260341,
+          "label": "James 5:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166995,
+          "content_id": 260575,
+          "label": "Revelation 1:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167097,
+          "content_id": 260677,
+          "label": "Revelation 2:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167101,
+          "content_id": 260681,
+          "label": "Revelation 2:7 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167173,
+          "content_id": 260753,
+          "label": "Revelation 2:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167451,
+          "content_id": 261031,
+          "label": "Revelation 8:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168127,
+          "content_id": 261707,
+          "label": "Revelation 20:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168188,
+          "content_id": 261768,
+          "label": "Revelation 21:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168259,
+          "content_id": 261839,
+          "label": "Revelation 22:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168282,
+          "content_id": 261862,
+          "label": "Revelation 22:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175455,
+          "content_id": 269035,
+          "label": "Haggai 1:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175471,
+          "content_id": 269051,
+          "label": "Haggai 1:11 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175566,
+          "content_id": 269146,
+          "label": "Haggai 2:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175679,
+          "content_id": 269259,
+          "label": "Job 2:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175757,
+          "content_id": 269337,
+          "label": "Job 3:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175793,
+          "content_id": 269373,
+          "label": "Job 4:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175851,
+          "content_id": 269431,
+          "label": "Job 5:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175869,
+          "content_id": 269449,
+          "label": "Job 5:5 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175906,
+          "content_id": 269486,
+          "label": "Job 5:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175921,
+          "content_id": 269501,
+          "label": "Job 5:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175932,
+          "content_id": 269512,
+          "label": "Job 5:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175936,
+          "content_id": 269516,
+          "label": "Job 5:23 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176061,
+          "content_id": 269641,
+          "label": "Job 7:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176583,
+          "content_id": 270163,
+          "label": "Job 14:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176615,
+          "content_id": 270195,
+          "label": "Job 14:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176852,
+          "content_id": 270432,
+          "label": "Job 17:14 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176909,
+          "content_id": 270489,
+          "label": "Job 18:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176956,
+          "content_id": 270536,
+          "label": "Job 19:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176963,
+          "content_id": 270543,
+          "label": "Job 19:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177016,
+          "content_id": 270596,
+          "label": "Job 20:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177018,
+          "content_id": 270598,
+          "label": "Job 20:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177046,
+          "content_id": 270626,
+          "label": "Job 20:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177089,
+          "content_id": 270669,
+          "label": "Job 20:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177121,
+          "content_id": 270701,
+          "label": "Job 21:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177127,
+          "content_id": 270707,
+          "label": "Job 21:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177178,
+          "content_id": 270758,
+          "label": "Job 21:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177187,
+          "content_id": 270767,
+          "label": "Job 21:28 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177192,
+          "content_id": 270772,
+          "label": "Job 21:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177347,
+          "content_id": 270927,
+          "label": "Job 23:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177374,
+          "content_id": 270954,
+          "label": "Job 24:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177376,
+          "content_id": 270956,
+          "label": "Job 24:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177384,
+          "content_id": 270964,
+          "label": "Job 24:5 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177388,
+          "content_id": 270968,
+          "label": "Job 24:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177392,
+          "content_id": 270972,
+          "label": "Job 24:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177400,
+          "content_id": 270980,
+          "label": "Job 24:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177416,
+          "content_id": 270996,
+          "label": "Job 24:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177421,
+          "content_id": 271001,
+          "label": "Job 24:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177449,
+          "content_id": 271029,
+          "label": "Job 24:21 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177450,
+          "content_id": 271030,
+          "label": "Job 24:21 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177515,
+          "content_id": 271095,
+          "label": "Job 26:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177518,
+          "content_id": 271098,
+          "label": "Job 26:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177606,
+          "content_id": 271186,
+          "label": "Job 28:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177611,
+          "content_id": 271191,
+          "label": "Job 28:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177623,
+          "content_id": 271203,
+          "label": "Job 28:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177627,
+          "content_id": 271207,
+          "label": "Job 28:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177696,
+          "content_id": 271276,
+          "label": "Job 29:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177715,
+          "content_id": 271295,
+          "label": "Job 29:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177779,
+          "content_id": 271359,
+          "label": "Job 30:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177908,
+          "content_id": 271488,
+          "label": "Job 31:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177910,
+          "content_id": 271490,
+          "label": "Job 31:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177915,
+          "content_id": 271495,
+          "label": "Job 31:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177948,
+          "content_id": 271528,
+          "label": "Job 31:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177970,
+          "content_id": 271550,
+          "label": "Job 31:40 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178154,
+          "content_id": 271734,
+          "label": "Job 34:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178280,
+          "content_id": 271860,
+          "label": "Job 36:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178403,
+          "content_id": 271983,
+          "label": "Job 37:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178411,
+          "content_id": 271991,
+          "label": "Job 37:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178427,
+          "content_id": 272007,
+          "label": "Job 37:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178430,
+          "content_id": 272010,
+          "label": "Job 37:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178490,
+          "content_id": 272070,
+          "label": "Job 38:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178567,
+          "content_id": 272147,
+          "label": "Job 38:34 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178580,
+          "content_id": 272160,
+          "label": "Job 38:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178592,
+          "content_id": 272172,
+          "label": "Job 39:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178593,
+          "content_id": 272173,
+          "label": "Job 39:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178611,
+          "content_id": 272191,
+          "label": "Job 39:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178628,
+          "content_id": 272208,
+          "label": "Job 39:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178638,
+          "content_id": 272218,
+          "label": "Job 39:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178651,
+          "content_id": 272231,
+          "label": "Job 39:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178803,
+          "content_id": 272383,
+          "label": "Job 41:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180893,
+          "content_id": 274473,
+          "label": "Proverbs 1:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180898,
+          "content_id": 274478,
+          "label": "Proverbs 1:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180927,
+          "content_id": 274507,
+          "label": "Proverbs 1:11 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181076,
+          "content_id": 274656,
+          "label": "Proverbs 2:12 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181088,
+          "content_id": 274668,
+          "label": "Proverbs 2:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181142,
+          "content_id": 274722,
+          "label": "Proverbs 3:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181174,
+          "content_id": 274754,
+          "label": "Proverbs 3:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181239,
+          "content_id": 274819,
+          "label": "Proverbs 3:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181243,
+          "content_id": 274823,
+          "label": "Proverbs 3:31 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181254,
+          "content_id": 274834,
+          "label": "Proverbs 3:33 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181493,
+          "content_id": 275073,
+          "label": "Proverbs 6:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181568,
+          "content_id": 275148,
+          "label": "Proverbs 6:23 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181592,
+          "content_id": 275172,
+          "label": "Proverbs 6:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181597,
+          "content_id": 275177,
+          "label": "Proverbs 6:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181604,
+          "content_id": 275184,
+          "label": "Proverbs 6:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181607,
+          "content_id": 275187,
+          "label": "Proverbs 6:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181676,
+          "content_id": 275256,
+          "label": "Proverbs 7:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181723,
+          "content_id": 275303,
+          "label": "Proverbs 7:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181748,
+          "content_id": 275328,
+          "label": "Proverbs 8:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181859,
+          "content_id": 275439,
+          "label": "Proverbs 8:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181897,
+          "content_id": 275477,
+          "label": "Proverbs 9:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181904,
+          "content_id": 275484,
+          "label": "Proverbs 9:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181908,
+          "content_id": 275488,
+          "label": "Proverbs 9:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181933,
+          "content_id": 275513,
+          "label": "Proverbs 9:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181958,
+          "content_id": 275538,
+          "label": "Proverbs 10:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181960,
+          "content_id": 275540,
+          "label": "Proverbs 10:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181999,
+          "content_id": 275579,
+          "label": "Proverbs 10:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182020,
+          "content_id": 275600,
+          "label": "Proverbs 10:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182025,
+          "content_id": 275605,
+          "label": "Proverbs 10:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182036,
+          "content_id": 275616,
+          "label": "Proverbs 10:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182043,
+          "content_id": 275623,
+          "label": "Proverbs 10:25 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182047,
+          "content_id": 275627,
+          "label": "Proverbs 10:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182060,
+          "content_id": 275640,
+          "label": "Proverbs 10:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182093,
+          "content_id": 275673,
+          "label": "Proverbs 11:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182096,
+          "content_id": 275676,
+          "label": "Proverbs 11:5 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182107,
+          "content_id": 275687,
+          "label": "Proverbs 11:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182113,
+          "content_id": 275693,
+          "label": "Proverbs 11:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182141,
+          "content_id": 275721,
+          "label": "Proverbs 11:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182150,
+          "content_id": 275730,
+          "label": "Proverbs 11:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182151,
+          "content_id": 275731,
+          "label": "Proverbs 11:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182168,
+          "content_id": 275748,
+          "label": "Proverbs 11:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182183,
+          "content_id": 275763,
+          "label": "Proverbs 11:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182187,
+          "content_id": 275767,
+          "label": "Proverbs 11:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182194,
+          "content_id": 275774,
+          "label": "Proverbs 11:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182198,
+          "content_id": 275778,
+          "label": "Proverbs 11:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182203,
+          "content_id": 275783,
+          "label": "Proverbs 11:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182208,
+          "content_id": 275788,
+          "label": "Proverbs 11:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182214,
+          "content_id": 275794,
+          "label": "Proverbs 11:30 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182219,
+          "content_id": 275799,
+          "label": "Proverbs 11:31 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182225,
+          "content_id": 275805,
+          "label": "Proverbs 12:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182256,
+          "content_id": 275836,
+          "label": "Proverbs 12:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182265,
+          "content_id": 275845,
+          "label": "Proverbs 12:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182272,
+          "content_id": 275852,
+          "label": "Proverbs 12:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182294,
+          "content_id": 275874,
+          "label": "Proverbs 12:17 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182296,
+          "content_id": 275876,
+          "label": "Proverbs 12:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182298,
+          "content_id": 275878,
+          "label": "Proverbs 12:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182300,
+          "content_id": 275880,
+          "label": "Proverbs 12:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182313,
+          "content_id": 275893,
+          "label": "Proverbs 12:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182324,
+          "content_id": 275904,
+          "label": "Proverbs 12:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182330,
+          "content_id": 275910,
+          "label": "Proverbs 12:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182335,
+          "content_id": 275915,
+          "label": "Proverbs 12:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182338,
+          "content_id": 275918,
+          "label": "Proverbs 12:27 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182349,
+          "content_id": 275929,
+          "label": "Proverbs 13:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182354,
+          "content_id": 275934,
+          "label": "Proverbs 13:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182361,
+          "content_id": 275941,
+          "label": "Proverbs 13:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182367,
+          "content_id": 275947,
+          "label": "Proverbs 13:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182370,
+          "content_id": 275950,
+          "label": "Proverbs 13:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182376,
+          "content_id": 275956,
+          "label": "Proverbs 13:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182380,
+          "content_id": 275960,
+          "label": "Proverbs 13:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182383,
+          "content_id": 275963,
+          "label": "Proverbs 13:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182391,
+          "content_id": 275971,
+          "label": "Proverbs 13:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182398,
+          "content_id": 275978,
+          "label": "Proverbs 13:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182423,
+          "content_id": 276003,
+          "label": "Proverbs 13:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182429,
+          "content_id": 276009,
+          "label": "Proverbs 13:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182434,
+          "content_id": 276014,
+          "label": "Proverbs 13:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182443,
+          "content_id": 276023,
+          "label": "Proverbs 13:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182447,
+          "content_id": 276027,
+          "label": "Proverbs 13:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182448,
+          "content_id": 276028,
+          "label": "Proverbs 13:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182450,
+          "content_id": 276030,
+          "label": "Proverbs 14:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182453,
+          "content_id": 276033,
+          "label": "Proverbs 14:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182456,
+          "content_id": 276036,
+          "label": "Proverbs 14:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182468,
+          "content_id": 276048,
+          "label": "Proverbs 14:4 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182472,
+          "content_id": 276052,
+          "label": "Proverbs 14:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182479,
+          "content_id": 276059,
+          "label": "Proverbs 14:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182483,
+          "content_id": 276063,
+          "label": "Proverbs 14:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182495,
+          "content_id": 276075,
+          "label": "Proverbs 14:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182501,
+          "content_id": 276081,
+          "label": "Proverbs 14:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182507,
+          "content_id": 276087,
+          "label": "Proverbs 14:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182510,
+          "content_id": 276090,
+          "label": "Proverbs 14:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182514,
+          "content_id": 276094,
+          "label": "Proverbs 14:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182525,
+          "content_id": 276105,
+          "label": "Proverbs 14:19 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182526,
+          "content_id": 276106,
+          "label": "Proverbs 14:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182528,
+          "content_id": 276108,
+          "label": "Proverbs 14:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182547,
+          "content_id": 276127,
+          "label": "Proverbs 14:26 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182555,
+          "content_id": 276135,
+          "label": "Proverbs 14:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182557,
+          "content_id": 276137,
+          "label": "Proverbs 14:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182564,
+          "content_id": 276144,
+          "label": "Proverbs 14:30 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182568,
+          "content_id": 276148,
+          "label": "Proverbs 14:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182573,
+          "content_id": 276153,
+          "label": "Proverbs 14:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182580,
+          "content_id": 276160,
+          "label": "Proverbs 14:33 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182588,
+          "content_id": 276168,
+          "label": "Proverbs 14:35 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182590,
+          "content_id": 276170,
+          "label": "Proverbs 15:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182594,
+          "content_id": 276174,
+          "label": "Proverbs 15:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182601,
+          "content_id": 276181,
+          "label": "Proverbs 15:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182606,
+          "content_id": 276186,
+          "label": "Proverbs 15:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182609,
+          "content_id": 276189,
+          "label": "Proverbs 15:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182616,
+          "content_id": 276196,
+          "label": "Proverbs 15:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182622,
+          "content_id": 276202,
+          "label": "Proverbs 15:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182626,
+          "content_id": 276206,
+          "label": "Proverbs 15:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182632,
+          "content_id": 276212,
+          "label": "Proverbs 15:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182639,
+          "content_id": 276219,
+          "label": "Proverbs 15:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182645,
+          "content_id": 276225,
+          "label": "Proverbs 15:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182664,
+          "content_id": 276244,
+          "label": "Proverbs 15:18 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182667,
+          "content_id": 276247,
+          "label": "Proverbs 15:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182675,
+          "content_id": 276255,
+          "label": "Proverbs 15:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182683,
+          "content_id": 276263,
+          "label": "Proverbs 15:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182690,
+          "content_id": 276270,
+          "label": "Proverbs 15:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182697,
+          "content_id": 276277,
+          "label": "Proverbs 15:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182705,
+          "content_id": 276285,
+          "label": "Proverbs 15:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182710,
+          "content_id": 276290,
+          "label": "Proverbs 15:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182717,
+          "content_id": 276297,
+          "label": "Proverbs 15:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182720,
+          "content_id": 276300,
+          "label": "Proverbs 15:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182726,
+          "content_id": 276306,
+          "label": "Proverbs 15:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182732,
+          "content_id": 276312,
+          "label": "Proverbs 15:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182742,
+          "content_id": 276322,
+          "label": "Proverbs 16:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182762,
+          "content_id": 276342,
+          "label": "Proverbs 16:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182767,
+          "content_id": 276347,
+          "label": "Proverbs 16:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182789,
+          "content_id": 276369,
+          "label": "Proverbs 16:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182809,
+          "content_id": 276389,
+          "label": "Proverbs 16:13 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182810,
+          "content_id": 276390,
+          "label": "Proverbs 16:13 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182812,
+          "content_id": 276392,
+          "label": "Proverbs 16:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182819,
+          "content_id": 276399,
+          "label": "Proverbs 16:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182828,
+          "content_id": 276408,
+          "label": "Proverbs 16:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182843,
+          "content_id": 276423,
+          "label": "Proverbs 16:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182848,
+          "content_id": 276428,
+          "label": "Proverbs 16:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182854,
+          "content_id": 276434,
+          "label": "Proverbs 16:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182864,
+          "content_id": 276444,
+          "label": "Proverbs 16:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182870,
+          "content_id": 276450,
+          "label": "Proverbs 16:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182875,
+          "content_id": 276455,
+          "label": "Proverbs 16:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182882,
+          "content_id": 276462,
+          "label": "Proverbs 16:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182887,
+          "content_id": 276467,
+          "label": "Proverbs 16:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182896,
+          "content_id": 276476,
+          "label": "Proverbs 16:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182903,
+          "content_id": 276483,
+          "label": "Proverbs 16:33 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182913,
+          "content_id": 276493,
+          "label": "Proverbs 17:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182918,
+          "content_id": 276498,
+          "label": "Proverbs 17:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182924,
+          "content_id": 276504,
+          "label": "Proverbs 17:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182930,
+          "content_id": 276510,
+          "label": "Proverbs 17:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182938,
+          "content_id": 276518,
+          "label": "Proverbs 17:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182945,
+          "content_id": 276525,
+          "label": "Proverbs 17:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182951,
+          "content_id": 276531,
+          "label": "Proverbs 17:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182955,
+          "content_id": 276535,
+          "label": "Proverbs 17:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182963,
+          "content_id": 276543,
+          "label": "Proverbs 17:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182969,
+          "content_id": 276549,
+          "label": "Proverbs 17:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182977,
+          "content_id": 276557,
+          "label": "Proverbs 17:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182981,
+          "content_id": 276561,
+          "label": "Proverbs 17:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182986,
+          "content_id": 276566,
+          "label": "Proverbs 17:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182991,
+          "content_id": 276571,
+          "label": "Proverbs 17:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182995,
+          "content_id": 276575,
+          "label": "Proverbs 17:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 182999,
+          "content_id": 276579,
+          "label": "Proverbs 17:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183006,
+          "content_id": 276586,
+          "label": "Proverbs 17:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183013,
+          "content_id": 276593,
+          "label": "Proverbs 17:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183018,
+          "content_id": 276598,
+          "label": "Proverbs 17:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183021,
+          "content_id": 276601,
+          "label": "Proverbs 17:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183030,
+          "content_id": 276610,
+          "label": "Proverbs 17:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183035,
+          "content_id": 276615,
+          "label": "Proverbs 17:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183039,
+          "content_id": 276619,
+          "label": "Proverbs 18:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183044,
+          "content_id": 276624,
+          "label": "Proverbs 18:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183054,
+          "content_id": 276634,
+          "label": "Proverbs 18:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183061,
+          "content_id": 276641,
+          "label": "Proverbs 18:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183068,
+          "content_id": 276648,
+          "label": "Proverbs 18:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183081,
+          "content_id": 276661,
+          "label": "Proverbs 18:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183087,
+          "content_id": 276667,
+          "label": "Proverbs 18:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183098,
+          "content_id": 276678,
+          "label": "Proverbs 18:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183108,
+          "content_id": 276688,
+          "label": "Proverbs 18:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183113,
+          "content_id": 276693,
+          "label": "Proverbs 18:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183119,
+          "content_id": 276699,
+          "label": "Proverbs 18:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183122,
+          "content_id": 276702,
+          "label": "Proverbs 18:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183142,
+          "content_id": 276722,
+          "label": "Proverbs 18:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183146,
+          "content_id": 276726,
+          "label": "Proverbs 18:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183149,
+          "content_id": 276729,
+          "label": "Proverbs 18:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183155,
+          "content_id": 276735,
+          "label": "Proverbs 19:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183159,
+          "content_id": 276739,
+          "label": "Proverbs 19:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183173,
+          "content_id": 276753,
+          "label": "Proverbs 19:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183178,
+          "content_id": 276758,
+          "label": "Proverbs 19:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183185,
+          "content_id": 276765,
+          "label": "Proverbs 19:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183192,
+          "content_id": 276772,
+          "label": "Proverbs 19:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183197,
+          "content_id": 276777,
+          "label": "Proverbs 19:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183209,
+          "content_id": 276789,
+          "label": "Proverbs 19:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183215,
+          "content_id": 276795,
+          "label": "Proverbs 19:11 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183218,
+          "content_id": 276798,
+          "label": "Proverbs 19:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183228,
+          "content_id": 276808,
+          "label": "Proverbs 19:13 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183229,
+          "content_id": 276809,
+          "label": "Proverbs 19:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183236,
+          "content_id": 276816,
+          "label": "Proverbs 19:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183241,
+          "content_id": 276821,
+          "label": "Proverbs 19:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183249,
+          "content_id": 276829,
+          "label": "Proverbs 19:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183263,
+          "content_id": 276843,
+          "label": "Proverbs 19:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183268,
+          "content_id": 276848,
+          "label": "Proverbs 19:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183274,
+          "content_id": 276854,
+          "label": "Proverbs 19:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183278,
+          "content_id": 276858,
+          "label": "Proverbs 19:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183282,
+          "content_id": 276862,
+          "label": "Proverbs 19:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183292,
+          "content_id": 276872,
+          "label": "Proverbs 19:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183298,
+          "content_id": 276878,
+          "label": "Proverbs 19:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183305,
+          "content_id": 276885,
+          "label": "Proverbs 20:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183309,
+          "content_id": 276889,
+          "label": "Proverbs 20:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183311,
+          "content_id": 276891,
+          "label": "Proverbs 20:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183326,
+          "content_id": 276906,
+          "label": "Proverbs 20:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183331,
+          "content_id": 276911,
+          "label": "Proverbs 20:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183347,
+          "content_id": 276927,
+          "label": "Proverbs 20:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183349,
+          "content_id": 276929,
+          "label": "Proverbs 20:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183359,
+          "content_id": 276939,
+          "label": "Proverbs 20:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183367,
+          "content_id": 276947,
+          "label": "Proverbs 20:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183382,
+          "content_id": 276962,
+          "label": "Proverbs 20:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183386,
+          "content_id": 276966,
+          "label": "Proverbs 20:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183408,
+          "content_id": 276988,
+          "label": "Proverbs 20:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183417,
+          "content_id": 276997,
+          "label": "Proverbs 20:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183421,
+          "content_id": 277001,
+          "label": "Proverbs 20:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183430,
+          "content_id": 277010,
+          "label": "Proverbs 20:28 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183443,
+          "content_id": 277023,
+          "label": "Proverbs 21:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183457,
+          "content_id": 277037,
+          "label": "Proverbs 21:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183470,
+          "content_id": 277050,
+          "label": "Proverbs 21:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183475,
+          "content_id": 277055,
+          "label": "Proverbs 21:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183479,
+          "content_id": 277059,
+          "label": "Proverbs 21:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183487,
+          "content_id": 277067,
+          "label": "Proverbs 21:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183490,
+          "content_id": 277070,
+          "label": "Proverbs 21:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183502,
+          "content_id": 277082,
+          "label": "Proverbs 21:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183505,
+          "content_id": 277085,
+          "label": "Proverbs 21:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183509,
+          "content_id": 277089,
+          "label": "Proverbs 21:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183514,
+          "content_id": 277094,
+          "label": "Proverbs 21:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183516,
+          "content_id": 277096,
+          "label": "Proverbs 21:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183520,
+          "content_id": 277100,
+          "label": "Proverbs 21:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183522,
+          "content_id": 277102,
+          "label": "Proverbs 21:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183526,
+          "content_id": 277106,
+          "label": "Proverbs 21:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183531,
+          "content_id": 277111,
+          "label": "Proverbs 21:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183536,
+          "content_id": 277116,
+          "label": "Proverbs 21:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183540,
+          "content_id": 277120,
+          "label": "Proverbs 21:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183544,
+          "content_id": 277124,
+          "label": "Proverbs 21:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183546,
+          "content_id": 277126,
+          "label": "Proverbs 21:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183552,
+          "content_id": 277132,
+          "label": "Proverbs 21:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183555,
+          "content_id": 277135,
+          "label": "Proverbs 21:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183562,
+          "content_id": 277142,
+          "label": "Proverbs 21:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183574,
+          "content_id": 277154,
+          "label": "Proverbs 22:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183576,
+          "content_id": 277156,
+          "label": "Proverbs 22:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183586,
+          "content_id": 277166,
+          "label": "Proverbs 22:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183592,
+          "content_id": 277172,
+          "label": "Proverbs 22:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183595,
+          "content_id": 277175,
+          "label": "Proverbs 22:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183597,
+          "content_id": 277177,
+          "label": "Proverbs 22:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181949,
+          "content_id": 275529,
+          "label": "Proverbs 10:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183602,
+          "content_id": 277182,
+          "label": "Proverbs 22:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183607,
+          "content_id": 277187,
+          "label": "Proverbs 22:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183611,
+          "content_id": 277191,
+          "label": "Proverbs 22:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183618,
+          "content_id": 277198,
+          "label": "Proverbs 22:12 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183619,
+          "content_id": 277199,
+          "label": "Proverbs 22:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183624,
+          "content_id": 277204,
+          "label": "Proverbs 22:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183632,
+          "content_id": 277212,
+          "label": "Proverbs 22:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183636,
+          "content_id": 277216,
+          "label": "Proverbs 22:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183668,
+          "content_id": 277248,
+          "label": "Proverbs 22:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183678,
+          "content_id": 277258,
+          "label": "Proverbs 22:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183700,
+          "content_id": 277280,
+          "label": "Proverbs 22:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183703,
+          "content_id": 277283,
+          "label": "Proverbs 23:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183722,
+          "content_id": 277302,
+          "label": "Proverbs 23:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183737,
+          "content_id": 277317,
+          "label": "Proverbs 23:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183758,
+          "content_id": 277338,
+          "label": "Proverbs 23:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183785,
+          "content_id": 277365,
+          "label": "Proverbs 23:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183795,
+          "content_id": 277375,
+          "label": "Proverbs 23:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183807,
+          "content_id": 277387,
+          "label": "Proverbs 23:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183870,
+          "content_id": 277450,
+          "label": "Proverbs 24:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183874,
+          "content_id": 277454,
+          "label": "Proverbs 24:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183877,
+          "content_id": 277457,
+          "label": "Proverbs 24:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183880,
+          "content_id": 277460,
+          "label": "Proverbs 24:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183883,
+          "content_id": 277463,
+          "label": "Proverbs 24:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183914,
+          "content_id": 277494,
+          "label": "Proverbs 24:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183916,
+          "content_id": 277496,
+          "label": "Proverbs 24:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183933,
+          "content_id": 277513,
+          "label": "Proverbs 24:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183937,
+          "content_id": 277517,
+          "label": "Proverbs 24:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183947,
+          "content_id": 277527,
+          "label": "Proverbs 24:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183987,
+          "content_id": 277567,
+          "label": "Proverbs 25:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183992,
+          "content_id": 277572,
+          "label": "Proverbs 25:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184000,
+          "content_id": 277580,
+          "label": "Proverbs 25:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184022,
+          "content_id": 277602,
+          "label": "Proverbs 25:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184040,
+          "content_id": 277620,
+          "label": "Proverbs 25:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184044,
+          "content_id": 277624,
+          "label": "Proverbs 25:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184048,
+          "content_id": 277628,
+          "label": "Proverbs 25:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184057,
+          "content_id": 277637,
+          "label": "Proverbs 25:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184067,
+          "content_id": 277647,
+          "label": "Proverbs 25:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184070,
+          "content_id": 277650,
+          "label": "Proverbs 25:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184077,
+          "content_id": 277657,
+          "label": "Proverbs 25:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184096,
+          "content_id": 277676,
+          "label": "Proverbs 25:26 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184109,
+          "content_id": 277689,
+          "label": "Proverbs 26:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184113,
+          "content_id": 277693,
+          "label": "Proverbs 26:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184119,
+          "content_id": 277699,
+          "label": "Proverbs 26:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184123,
+          "content_id": 277703,
+          "label": "Proverbs 26:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184127,
+          "content_id": 277707,
+          "label": "Proverbs 26:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184131,
+          "content_id": 277711,
+          "label": "Proverbs 26:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184141,
+          "content_id": 277721,
+          "label": "Proverbs 26:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184147,
+          "content_id": 277727,
+          "label": "Proverbs 26:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184151,
+          "content_id": 277731,
+          "label": "Proverbs 26:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184155,
+          "content_id": 277735,
+          "label": "Proverbs 26:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184157,
+          "content_id": 277737,
+          "label": "Proverbs 26:11 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184162,
+          "content_id": 277742,
+          "label": "Proverbs 26:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184166,
+          "content_id": 277746,
+          "label": "Proverbs 26:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184171,
+          "content_id": 277751,
+          "label": "Proverbs 26:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184173,
+          "content_id": 277753,
+          "label": "Proverbs 26:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184174,
+          "content_id": 277754,
+          "label": "Proverbs 26:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184200,
+          "content_id": 277780,
+          "label": "Proverbs 26:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184214,
+          "content_id": 277794,
+          "label": "Proverbs 26:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184219,
+          "content_id": 277799,
+          "label": "Proverbs 26:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184233,
+          "content_id": 277813,
+          "label": "Proverbs 26:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184245,
+          "content_id": 277825,
+          "label": "Proverbs 27:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184261,
+          "content_id": 277841,
+          "label": "Proverbs 27:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184266,
+          "content_id": 277846,
+          "label": "Proverbs 27:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184280,
+          "content_id": 277860,
+          "label": "Proverbs 27:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184289,
+          "content_id": 277869,
+          "label": "Proverbs 27:11 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184290,
+          "content_id": 277870,
+          "label": "Proverbs 27:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184292,
+          "content_id": 277872,
+          "label": "Proverbs 27:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184300,
+          "content_id": 277880,
+          "label": "Proverbs 27:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184308,
+          "content_id": 277888,
+          "label": "Proverbs 27:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184313,
+          "content_id": 277893,
+          "label": "Proverbs 27:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184324,
+          "content_id": 277904,
+          "label": "Proverbs 27:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184329,
+          "content_id": 277909,
+          "label": "Proverbs 27:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184355,
+          "content_id": 277935,
+          "label": "Proverbs 28:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184363,
+          "content_id": 277943,
+          "label": "Proverbs 28:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184371,
+          "content_id": 277951,
+          "label": "Proverbs 28:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184376,
+          "content_id": 277956,
+          "label": "Proverbs 28:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184380,
+          "content_id": 277960,
+          "label": "Proverbs 28:8 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184385,
+          "content_id": 277965,
+          "label": "Proverbs 28:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184390,
+          "content_id": 277970,
+          "label": "Proverbs 28:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184397,
+          "content_id": 277977,
+          "label": "Proverbs 28:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184405,
+          "content_id": 277985,
+          "label": "Proverbs 28:12 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184407,
+          "content_id": 277987,
+          "label": "Proverbs 28:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184412,
+          "content_id": 277992,
+          "label": "Proverbs 28:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184418,
+          "content_id": 277998,
+          "label": "Proverbs 28:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184421,
+          "content_id": 278001,
+          "label": "Proverbs 28:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184427,
+          "content_id": 278007,
+          "label": "Proverbs 28:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184435,
+          "content_id": 278015,
+          "label": "Proverbs 28:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184445,
+          "content_id": 278025,
+          "label": "Proverbs 28:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184454,
+          "content_id": 278034,
+          "label": "Proverbs 28:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184459,
+          "content_id": 278039,
+          "label": "Proverbs 28:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184464,
+          "content_id": 278044,
+          "label": "Proverbs 28:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184469,
+          "content_id": 278049,
+          "label": "Proverbs 28:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184475,
+          "content_id": 278055,
+          "label": "Proverbs 28:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184481,
+          "content_id": 278061,
+          "label": "Proverbs 28:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184487,
+          "content_id": 278067,
+          "label": "Proverbs 28:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184488,
+          "content_id": 278068,
+          "label": "Proverbs 29:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184494,
+          "content_id": 278074,
+          "label": "Proverbs 29:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184496,
+          "content_id": 278076,
+          "label": "Proverbs 29:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184500,
+          "content_id": 278080,
+          "label": "Proverbs 29:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184507,
+          "content_id": 278087,
+          "label": "Proverbs 29:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184512,
+          "content_id": 278092,
+          "label": "Proverbs 29:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184514,
+          "content_id": 278094,
+          "label": "Proverbs 29:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184523,
+          "content_id": 278103,
+          "label": "Proverbs 29:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184529,
+          "content_id": 278109,
+          "label": "Proverbs 29:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184531,
+          "content_id": 278111,
+          "label": "Proverbs 29:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184534,
+          "content_id": 278114,
+          "label": "Proverbs 29:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184537,
+          "content_id": 278117,
+          "label": "Proverbs 29:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184541,
+          "content_id": 278121,
+          "label": "Proverbs 29:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184550,
+          "content_id": 278130,
+          "label": "Proverbs 29:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184564,
+          "content_id": 278144,
+          "label": "Proverbs 29:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184566,
+          "content_id": 278146,
+          "label": "Proverbs 29:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184574,
+          "content_id": 278154,
+          "label": "Proverbs 29:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184581,
+          "content_id": 278161,
+          "label": "Proverbs 29:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184586,
+          "content_id": 278166,
+          "label": "Proverbs 29:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184591,
+          "content_id": 278171,
+          "label": "Proverbs 29:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184598,
+          "content_id": 278178,
+          "label": "Proverbs 29:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184605,
+          "content_id": 278185,
+          "label": "Proverbs 29:26 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184609,
+          "content_id": 278189,
+          "label": "Proverbs 29:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184622,
+          "content_id": 278202,
+          "label": "Proverbs 30:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184663,
+          "content_id": 278243,
+          "label": "Proverbs 30:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184682,
+          "content_id": 278262,
+          "label": "Proverbs 30:14 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184689,
+          "content_id": 278269,
+          "label": "Proverbs 30:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184703,
+          "content_id": 278283,
+          "label": "Proverbs 30:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184710,
+          "content_id": 278290,
+          "label": "Proverbs 30:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184719,
+          "content_id": 278299,
+          "label": "Proverbs 30:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184723,
+          "content_id": 278303,
+          "label": "Proverbs 30:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184733,
+          "content_id": 278313,
+          "label": "Proverbs 30:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184735,
+          "content_id": 278315,
+          "label": "Proverbs 30:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184737,
+          "content_id": 278317,
+          "label": "Proverbs 30:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184742,
+          "content_id": 278322,
+          "label": "Proverbs 30:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184772,
+          "content_id": 278352,
+          "label": "Proverbs 31:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184774,
+          "content_id": 278354,
+          "label": "Proverbs 31:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184781,
+          "content_id": 278361,
+          "label": "Proverbs 31:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184788,
+          "content_id": 278368,
+          "label": "Proverbs 31:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184790,
+          "content_id": 278370,
+          "label": "Proverbs 31:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184825,
+          "content_id": 278405,
+          "label": "Proverbs 31:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184839,
+          "content_id": 278419,
+          "label": "Proverbs 31:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184862,
+          "content_id": 278442,
+          "label": "Proverbs 31:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184866,
+          "content_id": 278446,
+          "label": "Proverbs 31:30 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185797,
+          "content_id": 279377,
+          "label": "Zephaniah 1:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185871,
+          "content_id": 279451,
+          "label": "Zephaniah 2:9 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185890,
+          "content_id": 279470,
+          "label": "Zephaniah 2:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185891,
+          "content_id": 279471,
+          "label": "Zephaniah 2:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185901,
+          "content_id": 279481,
+          "label": "Zephaniah 2:15 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187479,
+          "content_id": 391646,
+          "label": "Galatians 3:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187811,
+          "content_id": 391978,
+          "label": "Galatians 5:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187883,
+          "content_id": 392050,
+          "label": "Galatians 6:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187967,
+          "content_id": 392134,
+          "label": "Galatians 6:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189073,
+          "content_id": 393240,
+          "label": "Exodus 15:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189167,
+          "content_id": 393334,
+          "label": "Exodus 16:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190318,
+          "content_id": 394485,
+          "label": "Exodus 36:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190324,
+          "content_id": 394491,
+          "label": "Exodus 36:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202802,
+          "content_id": 499737,
+          "label": "Joel 1:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202832,
+          "content_id": 499767,
+          "label": "Joel 1:10 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202837,
+          "content_id": 499772,
+          "label": "Joel 1:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202838,
+          "content_id": 499773,
+          "label": "Joel 1:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202864,
+          "content_id": 499799,
+          "label": "Joel 1:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202870,
+          "content_id": 499805,
+          "label": "Joel 1:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202876,
+          "content_id": 499811,
+          "label": "Joel 2:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202910,
+          "content_id": 499845,
+          "label": "Joel 2:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202973,
+          "content_id": 499908,
+          "label": "Joel 2:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202979,
+          "content_id": 499914,
+          "label": "Joel 2:23 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203027,
+          "content_id": 499962,
+          "label": "Joel 3:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203028,
+          "content_id": 499963,
+          "label": "Joel 3:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203061,
+          "content_id": 499996,
+          "label": "Joel 3:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184745,
+          "content_id": 278325,
+          "label": "Proverbs 30:31 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

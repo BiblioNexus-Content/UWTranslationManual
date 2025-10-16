@@ -1,0 +1,328 @@
+[
+  {
+    "content_id": 33371,
+    "reference_id": 26785,
+    "title": "Blessings",
+    "media_type": "Text",
+    "index_reference": "blessings",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Blessings are short sayings that people use to ask God to do something good for another person. In the Bible, the person saying the blessing speaks or writes directly to the person who will receive the blessing. The person who says the blessing does not directly speak to God, but it is understood that God is the one who will do the good thing mentioned. It is also understood that God hears the blessing, whether he is mentioned by name or not.</p><h3>Reason This Is a Translation Issue</h3><p>Each language has its own ways of saying blessings. There are many blessings in the Bible. They need to be translated in the way that people say blessings in your language, so that people recognize them as blessings and understand what one person wants God to do for another.</p><h3>Examples From the Bible</h3><p>In the Bible, people often said a blessing when they met someone or when they were leaving someone or sending someone off.</p><p>In the book of Ruth, when Boaz meets his workers in the fields, he greets them with a blessing:</p><p>Then behold, Boaz coming from Bethlehem! And he said to the reapers, “Yahweh be with you.” And they said to him, “May Yahweh bless you.” (Ruth 2:4 ULT)</p><p>Similarly, when Rebekah leaves her family, they say farewell with a blessing:</p><p>They blessed Rebekah, and said to her, “Our sister, may you be the mother of thousands of ten thousands, and may your descendants possess the gate of those who hate them.” (Genesis 24:60 ULT)</p><p>In a similar way, the writers of letters in the New Testament often wrote a blessing at the beginning of their letters as well as at the end. Here are examples from the beginning and end of Paul’s second letter to Timothy:</p><p>Grace, mercy, and peace from God the Father and Christ Jesus our Lord. (2 Tim 1:2 ULT) The Lord be with your spirit. Grace be with you. (2 Tim 4:22 ULT)</p><h3>Translation Strategies</h3><p>Find out how people say blessings in your language. Collect a list of common blessings, noting the form of the verb, the use of certain words, and the words that are not used in a blessing but would normally be in a sentence. Also find out what differences there might be between blessings that people use when they are speaking to each other and when they are writing to each other.</p><p>If translating a blessing literally would be natural and give the right meaning in your language, consider doing that. If not, here are some options:</p><ol start=\"1\"><li><p>Add a verb if that is natural in your language.</p></li><li><p>Mention God as the subject of a blessing if that is natural in your language.</p></li><li><p>Translate the blessing in a form that is natural and clear in your language.</p></li></ol><h3>Examples of Translation Strategies Applied</h3><p>(1) Add a verb if that is natural in your language.</p><p>The Lord with your spirit. The grace with you. (2 Tim 4:22, literal from the Greek)</p><p>In the Greek of this verse, there is no verb ‘be.’ However, in blessings in English, it is natural to use a verb. The idea that the ‘grace’ from God will be or remain with the person is implied in Greek.</p><p>The Lord <strong>be</strong> with your spirit. Grace <strong>be</strong> with you. (2 Tim 4:22 ULT)</p><p>(2) Mention God as the subject of a blessing if that is natural in your language.</p><p>If people expect a blessing to refer to God in your language, you might have to provide ‘God’ as the subject or as the source of the blessing. In Greek and Hebrew, usually God is not explicitly mentioned in the blessing, but it is implied that God is the one acting to show his kindness to the person being addressed.</p><p>The Lord be with your spirit. Grace be with you. (2 Tim 4:22 ULT)</p><p>The Lord be with your spirit. <strong>May God give</strong> grace to you.</p><p>They blessed Rebekah, and said to her, “Our sister, may you be the mother of thousands of ten thousands, and may your descendants possess the gate of those who hate them.” (Genesis 24:60 ULT)</p><p>They blessed Rebekah, and said to her, “Our sister, may <strong>God grant that</strong> you be the mother of thousands of ten thousands, and may <strong>God empower</strong> your descendants <strong>to</strong> possess the gate of those who hate them.”</p><p>(3) Translate the blessing in a form that is natural and clear in your language.</p><p>Here are some ideas for ways that people might say a blessing in their language.</p><p>The Lord be with your spirit. Grace be with you. (2 Tim 4:22 ULT)</p><p>May the Lord be with your spirit. May God cause his grace to be with you.</p><p>May you have God’s presence with you. May you experience grace from God.</p><p>“Our sister, may you be the mother of thousands of ten thousands, and may your descendants possess the gate of those who hate them.” (Genesis 24:60 ULT)</p><p>“Our sister, we pray to God that you may be the mother of thousands of ten thousands, and appeal to him that your descendants may possess the gate of those who hate them.”</p><p>“Our sister, by God’s power you will be the mother of thousands of ten thousands, and your descendants will possess the gate of those who hate them.”</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115726,
+          "content_id": 140938,
+          "label": "Titus 3:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 134086,
+          "content_id": 179501,
+          "label": "3 John 1:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152502,
+          "content_id": 223029,
+          "label": "Romans 1:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152615,
+          "content_id": 223142,
+          "label": "Romans 1:25 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155168,
+          "content_id": 225695,
+          "label": "Romans 16:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155214,
+          "content_id": 240473,
+          "label": "1 Corinthians 1:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157704,
+          "content_id": 242963,
+          "label": "1 Corinthians 16:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157714,
+          "content_id": 242973,
+          "label": "2 Corinthians 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157717,
+          "content_id": 242976,
+          "label": "2 Corinthians 1:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159213,
+          "content_id": 244472,
+          "label": "2 Corinthians 13:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159221,
+          "content_id": 244480,
+          "label": "Colossians 1:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159795,
+          "content_id": 245054,
+          "label": "Colossians 4:18 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160260,
+          "content_id": 245519,
+          "label": "Philippians 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160711,
+          "content_id": 245970,
+          "label": "1 Thessalonians 1:1 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160959,
+          "content_id": 246218,
+          "label": "1 Thessalonians 3:11-13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161206,
+          "content_id": 246465,
+          "label": "1 Thessalonians 5:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161225,
+          "content_id": 246484,
+          "label": "1 Thessalonians 5:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161239,
+          "content_id": 246498,
+          "label": "1 Timothy 1:2 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161862,
+          "content_id": 247121,
+          "label": "1 Timothy 6:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161870,
+          "content_id": 247129,
+          "label": "2 Thessalonians 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161999,
+          "content_id": 247258,
+          "label": "2 Thessalonians 2:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162053,
+          "content_id": 247312,
+          "label": "2 Thessalonians 3:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162058,
+          "content_id": 247317,
+          "label": "2 Thessalonians 3:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162069,
+          "content_id": 247328,
+          "label": "2 Timothy 1:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162147,
+          "content_id": 247406,
+          "label": "2 Timothy 1:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162155,
+          "content_id": 247414,
+          "label": "2 Timothy 1:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162485,
+          "content_id": 247744,
+          "label": "2 Timothy 4:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162488,
+          "content_id": 247747,
+          "label": "2 Timothy 4:22 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 162508,
+          "content_id": 247767,
+          "label": "Philemon 1:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163419,
+          "content_id": 256999,
+          "label": "1 Peter 1:2 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163891,
+          "content_id": 257471,
+          "label": "1 Peter 5:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163967,
+          "content_id": 257547,
+          "label": "2 Peter 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166164,
+          "content_id": 259744,
+          "label": "Hebrews 13:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166194,
+          "content_id": 259774,
+          "label": "Hebrews 13:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166833,
+          "content_id": 260413,
+          "label": "Jude 1:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167001,
+          "content_id": 260581,
+          "label": "Revelation 1:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 168293,
+          "content_id": 261873,
+          "label": "Revelation 22:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184894,
+          "content_id": 278474,
+          "label": "Ruth 1:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184897,
+          "content_id": 278477,
+          "label": "Ruth 1:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184959,
+          "content_id": 278539,
+          "label": "Ruth 2:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184960,
+          "content_id": 278540,
+          "label": "Ruth 2:4 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185007,
+          "content_id": 278587,
+          "label": "Ruth 2:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185011,
+          "content_id": 278591,
+          "label": "Ruth 2:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185055,
+          "content_id": 278635,
+          "label": "Ruth 3:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185130,
+          "content_id": 278710,
+          "label": "Ruth 4:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185136,
+          "content_id": 278716,
+          "label": "Ruth 4:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185141,
+          "content_id": 278721,
+          "label": "Ruth 4:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185143,
+          "content_id": 278723,
+          "label": "Ruth 4:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187144,
+          "content_id": 391311,
+          "label": "Galatians 1:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187957,
+          "content_id": 392124,
+          "label": "Galatians 6:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187965,
+          "content_id": 392132,
+          "label": "Galatians 6:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188295,
+          "content_id": 392462,
+          "label": "Exodus 4:18 (#8)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

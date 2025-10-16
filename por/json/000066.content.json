@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 800087,
+    "reference_id": 26722,
+    "title": "Reduplicação",
+    "media_type": "Text",
+    "index_reference": "reduplicação",
+    "language": "por",
+    "content": "<p>Este é um espaço reservado para um artigo que será escrito sobre Reduplicação no texto bíblico, como infinitivo absoluto + indicativo ou outras palavras repetidas.</p><h3>Descrição</h3><h3>Razão pela qual este é um problema de tradução</h3><h3>Exemplos da Bíblia</h3><p>Comece a possuir a sua terra (Dt 2.31)</p><h3>Estratégias de tradução</h3><h3>Exemplos de estratégias aplicadas na tradução</h3>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118731,
+          "content_id": 237460,
+          "label": "Marcos 15.34 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144543,
+          "content_id": 304466,
+          "label": "Lucas 10.41 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148166,
+          "content_id": 298395,
+          "label": "Mateus 7.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148175,
+          "content_id": 298404,
+          "label": "Mateus 7.22 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149258,
+          "content_id": 299487,
+          "label": "Mateus 13.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175951,
+          "content_id": 583972,
+          "label": "Jó 6.2 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176504,
+          "content_id": 584525,
+          "label": "Jó 13.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176515,
+          "content_id": 584536,
+          "label": "Jó 13.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176532,
+          "content_id": 584553,
+          "label": "Jó 13.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176966,
+          "content_id": 584987,
+          "label": "Jó 19.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177092,
+          "content_id": 585113,
+          "label": "Jó 21.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177591,
+          "content_id": 585612,
+          "label": "Jó 27.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177718,
+          "content_id": 585739,
+          "label": "Jó 29.14 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178375,
+          "content_id": 586396,
+          "label": "Jó 37.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 184981,
+          "content_id": 806402,
+          "label": "Rute 2.11 (#2)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

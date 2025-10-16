@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 727392,
+    "reference_id": 209475,
+    "title": "एक मंच चुनना",
+    "media_type": "Text",
+    "index_reference": "एक मंच चुनना",
+    "language": "hin",
+    "content": "<h3>अनुशंसित मंच</h3><p>Door43 इको सिस्टम में अनुवाद करने का अंनुशंसित मंच अथवा स्थल ट्रासलेशन स्टूडियो (translationStudio) है। इसी जगह पर अनुवाद और जाँच दल दोनों अपना कार्य करेंगे। आप एंड्रोयड, विन्डोज़, मैक, या लाइनक्स यंत्रों पर इसे सेटअप कर सकते हैं (अधिक जानकारी के लिए, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ufw.io/ts/\">Setting up translationStudio</a> देखें)।</p><h3>अन्य विकल्प</h3><p>यदि आपका दल TranslationStudio का उपयोग नही करना चाहता है, तो आप ऑनलाइन या ऑफलाइन के औजारों का उपयोग कर सकते हैं। ध्यान दें कि USFM या मार्कडाऊन फॉर्मेट में सामग्र को परिवर्तित करने की जिम्मेदारी आपकी होगी यदि आप TranslationStudio का उपयोग नही करते हैं (अधिक जानकारी के लिए, <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">File Formats</span> देखें)।</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26736,
+          "content_id": 727361,
+          "label": "फाइल प्रारूप",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 727413,
+          "label": "अनुवाद स्टूडियो स्थापित करना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

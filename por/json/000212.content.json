@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800233,
+    "reference_id": 209474,
+    "title": "Verificação oral com um parceiro",
+    "media_type": "Text",
+    "index_reference": "verificação oral com um parceiro",
+    "language": "por",
+    "content": "<h3>Como realizar uma verificação oral com um parceiro</h3><p>Neste ponto, você (o tradutor) já deve ter concluído a elaboração de pelo menos um capítulo da sua tradução, seguindo as diretrizes do módulo chamado <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">Primeiro rascunho</span>. Agora você está pronto para que outros o ajudem a revisá-lo, identificar quaisquer erros ou problemas e melhorá-lo. Você (ou sua equipe de tradução) deve revisar sua tradução antes de traduzir muitas histórias ou capítulos da Bíblia, para que possa corrigir erros o mais cedo possível no processo de tradução. Muitas das etapas deste processo precisarão ser realizadas várias vezes antes que a tradução esteja concluída. Para realizar uma Verificação oral com um parceiro, siga estas etapas.</p><ul><li><p>Leia sua tradução para um parceiro (um membro da equipe de tradução) que não trabalhou nesta passagem.</p></li><li><p>O parceiro pode ouvir primeiro para avaliar a naturalidade (sem olhar para o texto original) e identificar quais partes não soam naturais no seu idioma. Juntos, vocês podem pensar em como alguém diria isso de forma mais natural.</p></li><li><p>Use essas ideias para modificar as partes que não estão naturais em sua tradução, tornando-as mais naturais. Para mais informações, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209471\" data-resourceType=\"UWTranslationManual\">Natural</span>.</p></li><li><p>Em seguida, leia a passagem para o seu parceiro novamente. Desta vez, o parceiro pode verificar a precisão ouvindo a tradução enquanto acompanha o texto original. O objetivo desta etapa é garantir que a tradução comunique com precisão o significado da história original ou da passagem bíblica.</p></li><li><p>Seu parceiro pode informar se há alguma parte onde algo foi adicionado, estava faltando ou foi alterado em comparação com o texto original.</p></li><li><p>Corrija estas partes da tradução.</p></li><li><p>Também pode ser útil realizar verificações de precisão com membros da comunidade que não fazem parte da equipe de tradução. Eles devem ser falantes do idioma da tradução, respeitados na comunidade e, se possível, conhecer bem a Bíblia no idioma original. Esses revisores podem ajudar a equipe de tradução a encontrar a melhor maneira de traduzir o significado da história ou passagem bíblica em seu próprio idioma. Ter mais de uma pessoa revisando uma passagem bíblica dessa forma pode ser vantajoso, pois frequentemente diferentes revisores notarão aspectos distintos.</p></li><li><p>Para mais ajuda com a verificação de precisão, veja <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">Verificação de precisão</span>.</p></li><li><p>Se estiver em dúvida sobre algo, pergunte a outros membros da equipe de tradução.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 800102,
+          "label": "Primeiro rascunho",
+          "language": "por"
+        },
+        {
+          "reference_id": 209449,
+          "content_id": 800208,
+          "label": "Verificando a precisão da tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209471,
+          "content_id": 800230,
+          "label": "Tradução natural",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800216,
+    "reference_id": 209457,
+    "title": "Encontrando respostas",
+    "media_type": "Text",
+    "index_reference": "encontrando respostas",
+    "language": "por",
+    "content": "<h3>Como conseguir respostas</h3><p>Existem vários recursos disponíveis para encontrar respostas para perguntas:</p><ul><li><p><strong>Academia de Tradução unfoldingWord®</strong> — Este manual de treinamento está disponível em https://ufw.io/ta e contém muitas informações, incluindo:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Introdução</span> — apresenta este recurso, a estratégia de Idiomas de Acesso e a tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Manual de Processos</span> — responde à pergunta “o que vem depois”?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Manual de Tradução</span> — explica os fundamentos da teoria da tradução e oferece ajuda prática para tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Manual de Verificação</span> — explica os fundamentos da teoria de verificação e as melhores práticas</p></li></ul></li><li><p><strong>Fórum Door43</strong> — Um lugar para fazer perguntas e obter respostas sobre questões técnicas, estratégicas, de tradução e verificação: https://forum.door43.org/</p></li><li><p><strong>Canal de Ajuda</strong> — envie um e-mail para <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:help@door43.org\">help@door43.org</a> com suas perguntas</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 800167,
+          "label": "Introdução ao Manual de Tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 800223,
+          "label": "Introdução ao Manual de Verificação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 800237,
+          "label": "Introdução ao Manual de Processos",
+          "language": "por"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 800247,
+          "label": "Introdução à Academia de Tradução unfoldingWord®",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

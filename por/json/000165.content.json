@@ -1,0 +1,238 @@
+[
+  {
+    "content_id": 800186,
+    "reference_id": 26821,
+    "title": "Copiar ou emprestar palavras",
+    "media_type": "Text",
+    "index_reference": "copiar ou emprestar palavras",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Às vezes, a Bíblia inclui elementos que não fazem parte da sua cultura e para os quais seu idioma pode não ter uma palavra. A Bíblia também menciona pessoas e lugares para os quais você pode não ter nomes.</p><p>Quando isso acontece, você pode &quot;emprestar&quot; a palavra da Bíblia em um idioma familiar e usá-la na sua tradução no seu próprio idioma. Isso significa que você basicamente a copia do outro idioma. Esta página explica como &quot;emprestar&quot; palavras. (Existem também outras maneiras de traduzir palavras para conceitos que não estão no seu idioma. Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26822\" data-resourceType=\"UWTranslationManual\">Traduzir desconhecidos</span>).</p><h3>Exemplos na Bíblia</h3><p>Vendo uma figueira à beira da estrada, ele se aproximou dela (Mt 21.19a).</p><p>Se não houver figueiras onde seu idioma é falado, pode ser que não exista um nome para esse tipo de árvore em seu idioma.</p><p>Acima dele estavam os <strong>serafins</strong>; cada um tinha seis asas: com duas cobriam o rosto, com duas cobriam os pés e com duas voavam (Is 6.2).</p><p>Seu idioma pode não ter um nome para este tipo de criatura.</p><p>A declaração da palavra de Yahweh a Israel por meio de <strong>Malaquias</strong> (Ml 1.1).</p><p>Malaquias pode não ser um nome comum no seu idioma.</p><h3>Estratégias de tradução</h3><p>Existem várias coisas a serem consideradas ao tomar emprestadas palavras de outro idioma:</p><ul><li><p>Diferentes idiomas utilizam diferentes sistemas de escrita, como os sistemas hebraico, grego, latino, cirílico, devanágari e coreano. Esses sistemas empregam formas distintas para representar as letras em seus alfabetos;</p></li><li><p>Línguas que utilizam o mesmo alfabeto podem pronunciar as letras desse alfabeto de forma diferente. Ao falar alemão, as pessoas pronunciam a letra &quot;j&quot; da mesma maneira que as pessoas pronunciam a letra &quot;y&quot; ao falar português;</p></li><li><p>Os idiomas não possuem todos os mesmos sons ou combinações de sons. Muitos idiomas não têm, por exemplo, o son de &quot;f&quot; ou diferenciam entre &quot;m&quot; e &quot;n&quot;, e alguns idiomas não podem iniciar uma palavra com uma combinação de sons como &quot;st&quot;, como em &quot;stop&quot; da língua inglesa.</p></li></ul><p>Existem várias maneiras de adotar uma palavra emprestada:</p><p>(1) Se o seu idioma usa um alfabeto diferente do idioma do qual você está traduzindo, você pode simplesmente substituir cada letra pela forma correspondente do alfabeto do seu idioma; (2) Você pode soletrar a palavra como o outro idioma a soletra e pronunciá-la da maneira que seu idioma normalmente pronuncia essas letras. (3) Você pode pronunciar a palavra de forma semelhante à do Outro Idioma e ajustar a ortografia para se adequar às regras do seu idioma.</p><h3>Exemplos de estratégias aplicadas de tradução</h3><p>(1) Se o seu idioma utiliza um alfabeto diferente do idioma de origem, você pode simplesmente substituir cada letra pela forma correspondente no alfabeto do seu idioma</p><p>צְפַנְיָ֤ה — Um nome masculino em hebraico.</p><p>“Sofonias” — O mesmo nome em letras romanas;</p><p>(2) Você pode soletrar a palavra como a outra língua a soletra e pronunciá-la da maneira que sua língua normalmente pronuncia essas letras.</p><p>Sofonias — Este é o nome de uma pessoa.</p><p>“Sofonias” — O nome como é escrito em português, mas você pode pronunciá-lo conforme as regras do seu idioma;</p><p>(3) Você pode pronunciar a palavra de forma semelhante à do outro idioma e ajustar a ortografia para se adequar às regras do seu idioma.</p><p>Sofonias — Se o seu idioma não tem o “s”, você pode usar “z”. Se o seu sistema de escrita não usa “f”, você pode usar “p” talvez ou um som mais próximo do &quot;f&quot;. Além disso, observando o nome original em hebraico vemos que não há um som de &quot;s&quot; no final do nome &quot;Sofonias&quot;, há na verdade um som gutural (na garganta), soprado, geralmente escrito com &quot;h&quot; em português. Ou seja, o nome Sofonias poderia ser escrito &quot;Sofoniah&quot;. Assim, sendo mais comum no idioma alvo esse tipo de final de um nome próprio, ele pode ser adotado.</p><p>&quot;Soponias&quot;</p><p>“Sofoniah”</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 800187,
+          "label": "Traduzir desconhecidos",
+          "language": "por"
+        },
+        {
+          "reference_id": 116098,
+          "content_id": 234827,
+          "label": "Marcos 3.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116101,
+          "content_id": 234830,
+          "label": "Marcos 3.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116525,
+          "content_id": 235254,
+          "label": "Marcos 5.41 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116857,
+          "content_id": 235586,
+          "label": "Marcos 7.11 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116960,
+          "content_id": 235689,
+          "label": "Marcos 7.34 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117659,
+          "content_id": 236388,
+          "label": "Marcos 11.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117669,
+          "content_id": 236398,
+          "label": "Marcos 11.10 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118424,
+          "content_id": 237153,
+          "label": "Marcos 14.36 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118686,
+          "content_id": 237415,
+          "label": "Marcos 15.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 136742,
+          "content_id": 309833,
+          "label": "Atos 1.19 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138447,
+          "content_id": 311538,
+          "label": "Atos 13.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139031,
+          "content_id": 312122,
+          "label": "Atos 17.19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118729,
+          "content_id": 237458,
+          "label": "Marcos 15.34 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147255,
+          "content_id": 297484,
+          "label": "Mateus 1.23 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147701,
+          "content_id": 297930,
+          "label": "Mateus 5.22 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148577,
+          "content_id": 298806,
+          "label": "Mateus 10.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149934,
+          "content_id": 300163,
+          "label": "Mateus 16.17 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150708,
+          "content_id": 300937,
+          "label": "Mateus 21.9 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150739,
+          "content_id": 300968,
+          "label": "Mateus 21.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152231,
+          "content_id": 302460,
+          "label": "Mateus 27.33 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152279,
+          "content_id": 302508,
+          "label": "Mateus 27.46 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139567,
+          "content_id": 312658,
+          "label": "Atos 21.38 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139975,
+          "content_id": 313066,
+          "label": "Atos 27.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165273,
+          "content_id": 587722,
+          "label": "Hebreus 9.4 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165278,
+          "content_id": 587727,
+          "label": "Hebreus 9.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157703,
+          "content_id": 642948,
+          "label": "1 Coríntios 16.22 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157710,
+          "content_id": 642955,
+          "label": "1 Coríntios 16.24 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 167022,
+          "content_id": 816176,
+          "label": "Apocalipse 1.6 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 167076,
+          "content_id": 816230,
+          "label": "Apocalipse 1.18 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170045,
+          "content_id": 482278,
+          "label": "Gênesis 6.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188440,
+          "content_id": 488132,
+          "label": "Êxodo 6.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189762,
+          "content_id": 489454,
+          "label": "Êxodo 28.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187157,
+          "content_id": 723766,
+          "label": "Gálatas 1.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187628,
+          "content_id": 724237,
+          "label": "Gálatas 4.6 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185338,
+          "content_id": 745450,
+          "label": "Cântico dos cânticos 2.17 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 167864,
+          "content_id": 817018,
+          "label": "Apocalipse 16.16 (#3)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800219,
+    "reference_id": 209460,
+    "title": "O objetivo da verificação",
+    "media_type": "Text",
+    "index_reference": "o objetivo da verificação",
+    "language": "por",
+    "content": "<h3>Por que verificar?</h3><p>O objetivo da verificação é ajudar a equipe de tradução a produzir uma tradução precisa, natural, clara e aceita pela igreja. A equipe de tradução também deseja alcançar esse objetivo. Isso pode parecer fácil, mas na verdade é muito difícil, e alcançá-lo requer muitas pessoas e inúmeras revisões da tradução. Por essa razão, os verificadores desempenham um papel muito importante em ajudar a equipe de tradução a produzir uma tradução que atenda a esses critérios.</p><h4>Eu preciso</h4><p>Os verificadores, que são pastores, líderes de igrejas e líderes de redes de igrejas, ajudarão a equipe de tradução a produzir uma tradução precisa. Eles farão isso comparando a tradução com o idioma de origem e, quando possível, também com os idiomas originais da Bíblia. (Para mais informações sobre traduções precisas, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">Criar traduções precisas</span>.)</p><h4>Clara</h4><p>Os revisores que são membros da comunidade do idioma ajudarão a equipe de tradução a produzir uma tradução clara. Eles farão isso revisando a tradução e indicando os pontos onde ela está confusa ou não faz sentido para eles. Em seguida, a equipe de tradução pode corrigir esses pontos para que fiquem claros. Para mais informações sobre traduções claras, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">Criar traduções claras</span>.</p><h4>Natural</h4><p>Os revisores que são membros da comunidade linguística também ajudarão a equipe de tradução a produzir uma tradução que soe natural. Eles farão isso ao ouvir a tradução e indicar os pontos onde a tradução soa estranha e não parece algo que alguém que fala a língua deles diria. Assim, a equipe de tradução pode corrigir esses pontos para que fiquem naturais. Para mais informações sobre traduções naturais, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">Criar traduções naturais</span>.</p><h4>Aprovado pela igreja</h4><p>Os revisores que são membros de uma igreja na comunidade linguística ajudarão a equipe de tradução a produzir uma tradução que seja aprovada e aceita pela igreja nessa comunidade. Eles farão isso trabalhando em conjunto com membros e líderes de outras igrejas da comunidade linguística. Quando membros e líderes que representam as igrejas de uma comunidade linguística trabalham juntos e concordam que a tradução é boa, então ela será aceita e utilizada pelas igrejas nessa comunidade. Para mais informações sobre traduções aprovadas pela igreja, veja <span data-bnType=\"resourceReference\" data-resourceId=\"26753\" data-resourceType=\"UWTranslationManual\">Criar traduções aprovadas pela Igreja</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 800116,
+          "label": "Criar traduções precisas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26753,
+          "content_id": 800118,
+          "label": "Criar traduções aprovadas pela Igreja",
+          "language": "por"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 800119,
+          "label": "Criar traduções claras",
+          "language": "por"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 800125,
+          "label": "Criar traduções naturais",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

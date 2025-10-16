@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 689647,
+    "reference_id": 209467,
+    "title": "Introduction to Distribution",
+    "media_type": "Text",
+    "index_reference": "introduction to distribution",
+    "language": "fra",
+    "content": "<h3>Distribution Overview</h3><p>Biblical content is worthless unless it is distributed and used. One advantage of using the Door43 translation and publishing platform is that it provides multiple, simple ways of distributing content. On Door43:</p><ul><li><p>You can safely store your translation</p></li><li><p>People can see your translation</p></li><li><p>People can leave comments and suggestions to improve your translation</p></li><li><p>People can download your translation to read, print, and share with others</p></li></ul><h3>Open License</h3><p>The biggest factor that enables distribution of content is the <span resourceId=\"209472\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Open License</span> that is used for all content on Door43. This license gives everybody the freedom they need to:</p><ul><li><p><strong>Share</strong> — copy and redistribute the material in any medium or format</p></li><li><p><strong>Adapt</strong> — remix, transform, and build upon the material</p></li></ul><p>for any purpose, even commercial, without cost. “Freely you have received; freely give.” (Matthew 10:8b)</p><p>For ways to share your translations both online and offline, see <span resourceId=\"209485\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Sharing Content</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209472,
+          "content_id": 689652,
+          "label": "Open License",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209485,
+          "content_id": 689665,
+          "label": "How to Share Content",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

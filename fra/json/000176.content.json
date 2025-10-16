@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 33418,
+    "reference_id": 26832,
+    "title": "Writing Styles",
+    "media_type": "Text",
+    "index_reference": "writing styles",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>There are different kinds or types of writing, and each type of writing has its own purpose. Because these purposes are different, the different kinds of writing are organized in different ways. They use different verbs, different kinds of sentences, and refer to the people and things that they write about in different ways. These differences help the reader to quickly know the purpose of the writing, and they work to communicate the author’s meaning in the best way.</p><h3>Types of Writing</h3><p>These four basic types of writing exist in every language. Each of them has a different purpose:</p><ul><li><p><strong>Narrative</strong> or <strong><span resourceId=\"26712\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Parable</span></strong> — tells a story or event</p></li><li><p><strong>Explanatory</strong> — explains facts or teaches principles</p></li><li><p><strong>Procedural</strong> — tells how to do something</p></li><li><p><strong>Argumentative</strong> — tries to persuade someone to do something</p></li></ul><h3>Reason This Is a Translation Issue</h3><p>Every language has its own way of organizing these different types of writing. You (the translator) must understand the type of writing that you are translating, understand how it is organized in the source language, and also know how your language organizes this kind of writing. You must put the writing into the form that your language uses for that type of writing so that people will understand it correctly. In every translation, the way that words, sentences, and paragraphs are arranged will affect how people will understand the message.</p><h3>Writing Styles</h3><p>The following are ways of writing that may combine with the four basic types above. These writing styles often present challenges in translation.</p><ul><li><p><strong><span resourceId=\"26836\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Poetry</span></strong> — expresses ideas and feelings in a beautiful way</p></li><li><p><strong><span resourceId=\"26839\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Proverbs</span></strong> — briefly teaches a truth or gives wise advice</p></li><li><p><strong><span resourceId=\"26841\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Symbolic Language</span></strong> — uses symbols to represent things and events</p></li><li><p><strong><span resourceId=\"UW_TXManual_writing-apocalypticwriting\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Symbolic Prophecy</span></strong> — uses symbolic language to show what will happen in the future</p></li><li><p><strong><span resourceId=\"26696\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Hypothetical Situations</span></strong> — tells about what would happen if something were real or expresses an emotion about something that is not real</p></li></ul><h3>Discourse Features</h3><p>The differences between the different types of writing in a language can be called their discourse features. The purpose of a particular text will influence what kinds of discourse features are used. For example, in a narrative, discourse features would include:</p><ul><li><p>telling about events that happen before and after other events</p></li><li><p>introducing people in the story</p></li><li><p>introducing new events in the story</p></li><li><p>conversation and the use of quotes</p></li><li><p>referring to people and things with nouns or pronouns</p></li></ul><p>Languages have different ways of using these different discourse features. The translator will need to study the way his language does each of these things, so that his translation communicates the right message in a clear and natural way. Other types of writing have other discourse features.</p><h3>Specific Discourse Topics</h3><ol start=\"1\"><li><p><strong><span resourceId=\"26833\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Introduction of a New Event</span></strong> — Phrases like “One day” or “It came about that” or “This is how it happened” or “Sometime after that” signal to the reader that a new event is about to be told.</p></li><li><p><strong><span resourceId=\"26835\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Introduction of New and Old Participants</span></strong> — Languages have ways of introducing new people and of referring to those people again.</p></li><li><p><strong><span resourceId=\"26829\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Background Information</span></strong> — An author may use background information for several reasons: (1) to add interest to the story, (2) to provide information that is important for understanding the story or (3) to explain why something in the story is important.</p></li><li><p><strong><span resourceId=\"26838\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Pronouns — When to Use Them</span></strong> — Languages have patterns for how frequently to use pronouns. If that pattern is not followed, wrong meaning can result.</p></li><li><p><strong><span resourceId=\"26831\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">End of Story</span></strong> — Stories can end with various kinds of information. Languages have different ways of showing how that information is related to the story.</p></li><li><p><strong><span resourceId=\"26840\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Quotations and Quote Margins</span></strong> — Languages have different ways of reporting what someone said.</p></li><li><p><strong><span resourceId=\"26749\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Connecting Words</span></strong> — Languages have patterns for how to use connecting words (such as “and,” “but,” or “then”).</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26696,
+          "content_id": 33282,
+          "label": "Hypothetical Situations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26712,
+          "content_id": 33298,
+          "label": "Parables",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26749,
+          "content_id": 33335,
+          "label": "Connecting Words and Phrases",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26829,
+          "content_id": 33415,
+          "label": "Background Information",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26831,
+          "content_id": 33417,
+          "label": "End of Story",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26833,
+          "content_id": 33419,
+          "label": "Introduction of a New Event",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26835,
+          "content_id": 33421,
+          "label": "Introduction of New and Old Participants",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26836,
+          "content_id": 33422,
+          "label": "Poetry",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26839,
+          "content_id": 33425,
+          "label": "Proverbs",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26840,
+          "content_id": 33426,
+          "label": "Quotations and Quote Margins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26841,
+          "content_id": 33427,
+          "label": "Symbolic Language",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

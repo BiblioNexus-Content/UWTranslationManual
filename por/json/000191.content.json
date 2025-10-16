@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 800212,
+    "reference_id": 209453,
+    "title": "Verificação de Precisão por líderes de igreja",
+    "media_type": "Text",
+    "index_reference": "verificação de precisão por líderes de igreja",
+    "language": "por",
+    "content": "<h3>Verificação de Precisão pelos líderes de igreja</h3><p>Após a tradução ser verificada por membros da comunidade quanto à clareza e naturalidade, ela será revisada por líderes da igreja para garantir a precisão. Estas são as diretrizes para esses líderes da igreja que fazem a verificação de precisão. Eles devem ser falantes nativos do idioma alvo e também ter um bom entendimento de uma das línguas nas quais o texto original está disponível. Não devem ser as mesmas pessoas que fizeram a tradução. Devem ser líderes da igreja que conhecem bem a Bíblia. Geralmente, esses revisores serão pastores. Esses líderes de igreja devem representar o maior número possível de diferentes redes de igrejas na comunidade linguística.</p><p>Esses revisores devem seguir estas etapas:</p><ol><li><p>Ler as <span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\">Diretrizes de Tradução</span> para garantir que a tradução esteja de acordo com elas enquanto revisa a tradução.</p></li><li><p>Responder às perguntas sobre o tradutor ou equipe de tradução que estão localizadas em <span data-bnType=\"resourceReference\" data-resourceId=\"26764\" data-resourceType=\"UWTranslationManual\">Qualificações do tradutor</span>.</p></li><li><p>Verifique se a tradução foi realizada de maneira adequada para o público-alvo, fazendo as perguntas em <span data-bnType=\"resourceReference\" data-resourceId=\"209448\" data-resourceType=\"UWTranslationManual\">Estilo aceitável</span>.</p></li><li><p>Verifique se a tradução comunica com precisão o significado do texto original seguindo as diretrizes em <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">Verificação de Precisão</span>.</p></li><li><p>Verifique se a tradução está completa seguindo as diretrizes em <span data-bnType=\"resourceReference\" data-resourceId=\"209456\" data-resourceType=\"UWTranslationManual\">Tradução completa</span>.</p></li><li><p>Após revisar vários capítulos ou um livro da Bíblia, encontre-se com a equipe de tradução e questione sobre cada problema identificado. Converse com a equipe sobre como podem ajustar a tradução para corrigir cada questão. Planeje uma nova reunião com a equipe de tradução em um momento posterior, depois que eles tiverem tempo para ajustar a tradução e testá-la com a comunidade.</p></li><li><p>Reunir-se novamente com a equipe de tradução para verificar se eles corrigiram os problemas.</p></li><li><p>Confirme que a tradução está correta na página de <span data-bnType=\"resourceReference\" data-resourceId=\"209461\" data-resourceType=\"UWTranslationManual\">Afirmação de Precisão</span>.</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26764,
+          "content_id": 800129,
+          "label": "Qualificações do tradutor",
+          "language": "por"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 800207,
+          "label": "Estilo aceitável",
+          "language": "por"
+        },
+        {
+          "reference_id": 209449,
+          "content_id": 800208,
+          "label": "Verificando a precisão da tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209456,
+          "content_id": 800215,
+          "label": "Tradução completa",
+          "language": "por"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 800220,
+          "label": "Afirmação de precisão e aceitação pela comunidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 800251,
+          "label": "Orientações de tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

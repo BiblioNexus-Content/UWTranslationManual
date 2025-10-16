@@ -1,0 +1,1144 @@
+[
+  {
+    "content_id": 800047,
+    "reference_id": 26682,
+    "title": "Eufemismo",
+    "media_type": "Text",
+    "index_reference": "eufemismo",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Um eufemismo é uma forma suave ou educada de se referir a algo que é desagradável, embaraçoso ou socialmente inaceitável, como a morte ou atividades geralmente realizadas em particular.</p><p>...encontraram Saul e seus filhos <strong>caídos</strong> no Monte de Gilboa (1Cr 10.8b).</p><p>Isso significa que Saul e seus filhos “estavam mortos”. É um eufemismo, pois o importante não era que Saul e seus filhos tivessem caído, mas que estavam mortos. Às vezes, as pessoas não gostam de falar diretamente sobre a morte porque é desagradável.</p><h3>Por que isso é um problema de tradução</h3><p>Diferentes idiomas utilizam eufemismos distintos. Se o idioma de destino não empregar o mesmo eufemismo que o idioma de origem, os leitores podem não compreender o significado e podem pensar que o escritor está se referindo apenas ao sentido literal das palavras.</p><h3>Exemplos na Bíblia</h3><p>...onde havia uma caverna. Saul entrou para <strong>aliviar-se</strong> (1Sm 24.3b).</p><p>Os ouvintes originais teriam entendido que Saul entrou na caverna para usá-la como banheiro, mas o escritor quis evitar ofender ou distrair, então <strong>ele não especificou</strong> o que Saul fez ou deixou na caverna.</p><p>Mas Maria disse ao anjo: “Como isso acontecerá, se eu não <strong>conheço homem</strong>?” (Lc 1.34).</p><p>Para <strong>ser educada</strong>, Maria usa um eufemismo para dizer que nunca teve relações íntimas com um homem.</p><h3>Estratégias de tradução</h3><p>Se o eufemismo for natural e transmitir o significado correto em seu idioma, considere usá-lo. Caso contrário, aqui estão outras opções:</p><p>(1) Use um eufemismo da sua própria cultura; (2) Declare a informação de forma direta sem um eufemismo, se não for ofensivo.</p><h3>Exemplos de estratégias aplicadas de tradução</h3><p>(1) Utilize um eufemismo da sua própria cultura:</p><p>... onde havia uma caverna. Saul entrou para <strong>aliviar-se</strong> (1Sm 24.3b) — Algumas línguas podem usar eufemismos como estes:</p><p>“… onde havia uma caverna. Saul entrou na caverna para <strong>fazer suas necessidades</strong>” “… onde havia uma caverna. Saul entrou na caverna para <strong>ter um tempo sozinho</strong>”.</p><p>Mas Maria disse ao anjo: “Como isso acontecerá, se eu não <strong>conheço um homem</strong>?” (Lc 1.34).</p><p>Mas Maria disse ao anjo: “Como isso acontecerá, se eu não <strong>tive relações com um homem</strong>?”;</p><p>(2) Declare a informação de forma clara, sem usar eufemismos, a menos que seja ofensiva:</p><p>Encontraram Saul e seus filhos <strong>caídos</strong> no Monte de Gilboa (1Cr 10.8b).</p><p>“Eles encontraram Saul e seus filhos <strong>mortos</strong> no Monte Gilboa&quot;.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116453,
+          "content_id": 235182,
+          "label": "Marcos 5.23 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116459,
+          "content_id": 235188,
+          "label": "Marcos 5.25 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116886,
+          "content_id": 235615,
+          "label": "Marcos 7.19 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117363,
+          "content_id": 236092,
+          "label": "Marcos 9.44 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117382,
+          "content_id": 236111,
+          "label": "Marcos 9.48 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118224,
+          "content_id": 236953,
+          "label": "Marcos 13.30 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118355,
+          "content_id": 237084,
+          "label": "Marcos 14.21 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118536,
+          "content_id": 237265,
+          "label": "Marcos 14.61 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118743,
+          "content_id": 237472,
+          "label": "Marcos 15.37 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118749,
+          "content_id": 237478,
+          "label": "Marcos 15.39 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 136780,
+          "content_id": 309871,
+          "label": "Atos 1.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137325,
+          "content_id": 310416,
+          "label": "Atos 5.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137346,
+          "content_id": 310437,
+          "label": "Atos 5.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137796,
+          "content_id": 310887,
+          "label": "Atos 7.60 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142899,
+          "content_id": 302822,
+          "label": "Lucas 1.34 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143158,
+          "content_id": 303081,
+          "label": "Lucas 2.29 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144122,
+          "content_id": 304045,
+          "label": "Lucas 8.43 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141495,
+          "content_id": 308461,
+          "label": "João 10.11 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141506,
+          "content_id": 308472,
+          "label": "João 10.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141517,
+          "content_id": 308483,
+          "label": "João 10.17 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141520,
+          "content_id": 308486,
+          "label": "João 10.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141618,
+          "content_id": 308584,
+          "label": "João 11.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141620,
+          "content_id": 308586,
+          "label": "João 11.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141667,
+          "content_id": 308633,
+          "label": "João 11.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141985,
+          "content_id": 308951,
+          "label": "João 13.37 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142135,
+          "content_id": 309101,
+          "label": "João 15.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142581,
+          "content_id": 309547,
+          "label": "João 19.42 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138081,
+          "content_id": 311172,
+          "label": "Atos 9.39 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138566,
+          "content_id": 311657,
+          "label": "Atos 13.36 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139561,
+          "content_id": 312652,
+          "label": "Atos 21.36 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147228,
+          "content_id": 297457,
+          "label": "Mateus 1.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147261,
+          "content_id": 297490,
+          "label": "Mateus 1.25 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147343,
+          "content_id": 297572,
+          "label": "Mateus 2.18 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148472,
+          "content_id": 298701,
+          "label": "Mateus 9.20 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148714,
+          "content_id": 298943,
+          "label": "Mateus 10.29 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149749,
+          "content_id": 299978,
+          "label": "Mateus 15.17 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151469,
+          "content_id": 301698,
+          "label": "Mateus 24.34 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151499,
+          "content_id": 301728,
+          "label": "Mateus 24.39 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151837,
+          "content_id": 302066,
+          "label": "Mateus 26.24 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152293,
+          "content_id": 302522,
+          "label": "Mateus 27.50 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152302,
+          "content_id": 302531,
+          "label": "Mateus 27.52 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144256,
+          "content_id": 304179,
+          "label": "Lucas 9.31 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144858,
+          "content_id": 304781,
+          "label": "Lucas 12.20 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145384,
+          "content_id": 305307,
+          "label": "Lucas 15.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145397,
+          "content_id": 305320,
+          "label": "Lucas 15.21 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146145,
+          "content_id": 306068,
+          "label": "Lucas 20.4 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146150,
+          "content_id": 306073,
+          "label": "Lucas 20.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146298,
+          "content_id": 306221,
+          "label": "Lucas 20.42 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146456,
+          "content_id": 306379,
+          "label": "Lucas 21.32 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146564,
+          "content_id": 306487,
+          "label": "Lucas 22.22 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146932,
+          "content_id": 306855,
+          "label": "Lucas 23.46 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155756,
+          "content_id": 641001,
+          "label": "1 Coríntios 5.1 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155769,
+          "content_id": 641014,
+          "label": "1 Coríntios 5.3 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155926,
+          "content_id": 641171,
+          "label": "1 Coríntios 6.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155959,
+          "content_id": 641204,
+          "label": "1 Coríntios 7.1 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152608,
+          "content_id": 683983,
+          "label": "Romanos 1.24 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152622,
+          "content_id": 683997,
+          "label": "Romanos 1.26 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152623,
+          "content_id": 683998,
+          "label": "Romanos 1.26 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152626,
+          "content_id": 684001,
+          "label": "Romanos 1.27 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152631,
+          "content_id": 684006,
+          "label": "Romanos 1.27 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155058,
+          "content_id": 686433,
+          "label": "Romanos 15.24 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155084,
+          "content_id": 686459,
+          "label": "Romanos 15.31 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169771,
+          "content_id": 482004,
+          "label": "Gênesis 4.1 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169847,
+          "content_id": 482080,
+          "label": "Gênesis 4.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169886,
+          "content_id": 482119,
+          "label": "Gênesis 4.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170002,
+          "content_id": 482235,
+          "label": "Gênesis 6.4 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170995,
+          "content_id": 483228,
+          "label": "Gênesis 15.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171026,
+          "content_id": 483259,
+          "label": "Gênesis 16.2 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171035,
+          "content_id": 483268,
+          "label": "Gênesis 16.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171042,
+          "content_id": 483275,
+          "label": "Gênesis 16.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171263,
+          "content_id": 483496,
+          "label": "Gênesis 18.11 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171409,
+          "content_id": 483642,
+          "label": "Gênesis 19.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171416,
+          "content_id": 483649,
+          "label": "Gênesis 19.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171535,
+          "content_id": 483768,
+          "label": "Gênesis 19.31 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171539,
+          "content_id": 483772,
+          "label": "Gênesis 19.32 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171544,
+          "content_id": 483777,
+          "label": "Gênesis 19.33 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171546,
+          "content_id": 483779,
+          "label": "Gênesis 19.33 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171550,
+          "content_id": 483783,
+          "label": "Gênesis 19.34 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171552,
+          "content_id": 483785,
+          "label": "Gênesis 19.34 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171556,
+          "content_id": 483789,
+          "label": "Gênesis 19.35 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171558,
+          "content_id": 483791,
+          "label": "Gênesis 19.35 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171560,
+          "content_id": 483793,
+          "label": "Gênesis 19.36 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171585,
+          "content_id": 483818,
+          "label": "Gênesis 20.4 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171685,
+          "content_id": 483918,
+          "label": "Gênesis 21.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172277,
+          "content_id": 484510,
+          "label": "Gênesis 25.8 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172408,
+          "content_id": 484641,
+          "label": "Gênesis 26.10 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172832,
+          "content_id": 485065,
+          "label": "Gênesis 29.23 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172856,
+          "content_id": 485089,
+          "label": "Gênesis 29.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172898,
+          "content_id": 485131,
+          "label": "Gênesis 30.3 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172904,
+          "content_id": 485137,
+          "label": "Gênesis 30.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172938,
+          "content_id": 485171,
+          "label": "Gênesis 30.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172943,
+          "content_id": 485176,
+          "label": "Gênesis 30.16 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172945,
+          "content_id": 485178,
+          "label": "Gênesis 30.16 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173182,
+          "content_id": 485415,
+          "label": "Gênesis 31.35 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173454,
+          "content_id": 485687,
+          "label": "Gênesis 34.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173486,
+          "content_id": 485719,
+          "label": "Gênesis 34.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173594,
+          "content_id": 485827,
+          "label": "Gênesis 35.11 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173624,
+          "content_id": 485857,
+          "label": "Gênesis 35.22 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173637,
+          "content_id": 485870,
+          "label": "Gênesis 35.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173884,
+          "content_id": 486117,
+          "label": "Gênesis 38.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173900,
+          "content_id": 486133,
+          "label": "Gênesis 38.9 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164445,
+          "content_id": 586894,
+          "label": "Hebreus 1.3 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164717,
+          "content_id": 587166,
+          "label": "Hebreus 3.14 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165161,
+          "content_id": 587610,
+          "label": "Hebreus 8.1 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165744,
+          "content_id": 588193,
+          "label": "Hebreus 11.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166050,
+          "content_id": 588499,
+          "label": "Hebreus 13.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155967,
+          "content_id": 641212,
+          "label": "1 Coríntios 7.3 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155972,
+          "content_id": 641217,
+          "label": "1 Coríntios 7.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155979,
+          "content_id": 641224,
+          "label": "1 Coríntios 7.5 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156478,
+          "content_id": 641723,
+          "label": "1 Coríntios 10.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156488,
+          "content_id": 641733,
+          "label": "1 Coríntios 10.7 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156493,
+          "content_id": 641738,
+          "label": "1 Coríntios 10.8 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156771,
+          "content_id": 642016,
+          "label": "1 Coríntios 11.30 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156901,
+          "content_id": 642146,
+          "label": "1 Coríntios 12.23 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157267,
+          "content_id": 642512,
+          "label": "1 Coríntios 15.6 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157332,
+          "content_id": 642577,
+          "label": "1 Coríntios 15.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157345,
+          "content_id": 642590,
+          "label": "1 Coríntios 15.20 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157538,
+          "content_id": 642783,
+          "label": "1 Coríntios 15.51 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157785,
+          "content_id": 658829,
+          "label": "2 Coríntios 1.16 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160998,
+          "content_id": 683419,
+          "label": "1 Tessalonicenses 4.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161050,
+          "content_id": 683471,
+          "label": "1 Tessalonicenses 4.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161065,
+          "content_id": 683486,
+          "label": "1 Tessalonicenses 4.14 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161077,
+          "content_id": 683498,
+          "label": "1 Tessalonicenses 4.15 (#10)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160341,
+          "content_id": 723374,
+          "label": "Filipenses 1.23 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 162419,
+          "content_id": 760436,
+          "label": "2 Timóteo 4.6 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166237,
+          "content_id": 760641,
+          "label": "Tiago 1.10 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173922,
+          "content_id": 486155,
+          "label": "Gênesis 38.16 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173934,
+          "content_id": 486167,
+          "label": "Gênesis 38.18 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173972,
+          "content_id": 486205,
+          "label": "Gênesis 38.26 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174011,
+          "content_id": 486244,
+          "label": "Gênesis 39.7 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174029,
+          "content_id": 486262,
+          "label": "Gênesis 39.12 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174411,
+          "content_id": 486644,
+          "label": "Gênesis 42.13 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174486,
+          "content_id": 486719,
+          "label": "Gênesis 42.32 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174903,
+          "content_id": 487136,
+          "label": "Gênesis 46.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174947,
+          "content_id": 487180,
+          "label": "Gênesis 46.26 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175108,
+          "content_id": 487341,
+          "label": "Gênesis 47.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175220,
+          "content_id": 487453,
+          "label": "Gênesis 49.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175225,
+          "content_id": 487458,
+          "label": "Gênesis 49.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175337,
+          "content_id": 487570,
+          "label": "Gênesis 49.33 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188330,
+          "content_id": 488022,
+          "label": "Êxodo 4.25 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188414,
+          "content_id": 488106,
+          "label": "Êxodo 5.16 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189291,
+          "content_id": 488983,
+          "label": "Êxodo 19.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189299,
+          "content_id": 488991,
+          "label": "Êxodo 19.21 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189362,
+          "content_id": 489054,
+          "label": "Êxodo 21.10 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189451,
+          "content_id": 489143,
+          "label": "Êxodo 22.16 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189454,
+          "content_id": 489146,
+          "label": "Êxodo 22.19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189790,
+          "content_id": 489482,
+          "label": "Êxodo 28.42 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189981,
+          "content_id": 489673,
+          "label": "Êxodo 32.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175593,
+          "content_id": 583614,
+          "label": "Jó 1.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175619,
+          "content_id": 583640,
+          "label": "Jó 1.11 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175665,
+          "content_id": 583686,
+          "label": "Jó 2.5 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175677,
+          "content_id": 583698,
+          "label": "Jó 2.9 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175739,
+          "content_id": 583760,
+          "label": "Jó 3.11 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175747,
+          "content_id": 583768,
+          "label": "Jó 3.13 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 175944,
+          "content_id": 583965,
+          "label": "Jó 5.26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176113,
+          "content_id": 584134,
+          "label": "Jó 7.20 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176338,
+          "content_id": 584359,
+          "label": "Jó 10.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176413,
+          "content_id": 584434,
+          "label": "Jó 11.20 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176538,
+          "content_id": 584559,
+          "label": "Jó 13.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176586,
+          "content_id": 584607,
+          "label": "Jó 14.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176590,
+          "content_id": 584611,
+          "label": "Jó 14.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176619,
+          "content_id": 584640,
+          "label": "Jó 14.20 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176729,
+          "content_id": 584750,
+          "label": "Jó 15.30 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176797,
+          "content_id": 584818,
+          "label": "Jó 16.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176804,
+          "content_id": 584825,
+          "label": "Jó 17.1 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176820,
+          "content_id": 584841,
+          "label": "Jó 17.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176860,
+          "content_id": 584881,
+          "label": "Jó 17.16 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177033,
+          "content_id": 585054,
+          "label": "Jó 20.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177177,
+          "content_id": 585198,
+          "label": "Jó 21.26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177542,
+          "content_id": 585563,
+          "label": "Jó 27.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177732,
+          "content_id": 585753,
+          "label": "Jó 29.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177890,
+          "content_id": 585911,
+          "label": "Jó 31.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177967,
+          "content_id": 585988,
+          "label": "Jó 31.39 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177979,
+          "content_id": 586000,
+          "label": "Jó 32.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178021,
+          "content_id": 586042,
+          "label": "Jó 32.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178066,
+          "content_id": 586087,
+          "label": "Jó 33.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178145,
+          "content_id": 586166,
+          "label": "Jó 34.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178162,
+          "content_id": 586183,
+          "label": "Jó 34.20 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178298,
+          "content_id": 586319,
+          "label": "Jó 36.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178299,
+          "content_id": 586320,
+          "label": "Jó 36.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 187910,
+          "content_id": 724519,
+          "label": "Gálatas 6.6 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185230,
+          "content_id": 745342,
+          "label": "Cântico dos cânticos 1.13 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185269,
+          "content_id": 745381,
+          "label": "Cântico dos cânticos 2.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185651,
+          "content_id": 745763,
+          "label": "Cântico dos cânticos 8.2 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 184973,
+          "content_id": 806394,
+          "label": "Rute 2.9 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185042,
+          "content_id": 806463,
+          "label": "Rute 3.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185048,
+          "content_id": 806469,
+          "label": "Rute 3.7 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185139,
+          "content_id": 806560,
+          "label": "Rute 4.13 (#3)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

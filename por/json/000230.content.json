@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800251,
+    "reference_id": 209492,
+    "title": "Orientações de tradução",
+    "media_type": "Text",
+    "index_reference": "orientações de tradução",
+    "language": "por",
+    "content": "<p><strong>A versão oficial deste documento está disponível em https://ufw.io/guidelines/.</strong></p><p>A declaração a seguir sobre os princípios e procedimentos utilizados na tradução é endossada pela unfoldingWord e seus colaboradores. Todas as atividades de tradução são realizadas de acordo com essas diretrizes comuns.</p><ol><li><p><strong>Preciso</strong> — Traduza com precisão, sem diminuir, alterar ou adicionar ao significado do texto original. O conteúdo traduzido deve comunicar fielmente e da forma mais precisa possível o significado do texto original, conforme teria sido entendido pelo público original. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">Criar traduções precisas</span>)</p></li><li><p><strong>Claro</strong> — Utilize quaisquer estruturas de linguagem necessárias para alcançar o mais alto nível de compreensão. Isso inclui reorganizar a forma de um texto e usar tantos ou tão poucos termos quanto necessário para comunicar o significado original da maneira mais clara possível. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">Criar traduções claras</span>)</p></li><li><p><strong>Natural</strong> — Utilize formas de linguagem que sejam eficazes e que reflitam a maneira como seu idioma é usado em contextos apropriados. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">Criar traduções naturais</span>)</p></li><li><p><strong>Fiel</strong> — Evite qualquer viés político, denominacional, ideológico, social, cultural ou teológico em sua tradução. Use termos-chave que sejam fiéis ao vocabulário das línguas bíblicas originais. Utilize termos equivalentes de linguagem comum para as palavras bíblicas que descrevem a relação entre Deus Pai e Deus Filho. Estes podem ser esclarecidos, conforme necessário, em notas de rodapé ou outros recursos suplementares. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26757\" data-resourceType=\"UWTranslationManual\">Criar traduções fiéis</span>)</p></li><li><p><strong>Autoritativo</strong> — Utilize os textos bíblicos originais como a autoridade máxima para a tradução de conteúdo bíblico. Conteúdo bíblico confiável em outros idiomas pode ser usado para esclarecimento e como textos-fonte intermediários. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26752\" data-resourceType=\"UWTranslationManual\">Criar traduções confiáveis</span>)</p></li><li><p><strong>Histórico</strong> — Comunique eventos e fatos históricos com precisão, fornecendo informações adicionais conforme necessário para transmitir a mensagem de forma clara a pessoas que não compartilham o mesmo contexto e cultura dos destinatários originais do conteúdo. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26758\" data-resourceType=\"UWTranslationManual\">Criar traduções históricas</span>)</p></li><li><p><strong>Igual</strong> — Comunique a mesma intenção do texto original, incluindo expressões de sentimentos e atitudes. Sempre que possível, mantenha os diferentes tipos de literatura no texto original, como narrativa, poesia, exortação e profecia, representando-os com formas correspondentes que transmitam de maneira semelhante em seu idioma. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26756\" data-resourceType=\"UWTranslationManual\">Criar traduções iguais</span>)</p></li></ol><h3>Identificação e gestão da qualidade da tradução</h3><p>A qualidade de uma tradução geralmente se refere à fidelidade ao significado do original e ao grau em que a tradução é compreensível e eficaz para os falantes do idioma de destino. A estratégia que sugerimos envolve verificar as formas e a qualidade comunicativa da tradução com a comunidade do idioma e confirmar a fidelidade da tradução com a Igreja desse grupo de pessoas.</p><p>Os passos específicos envolvidos podem variar significativamente, dependendo do idioma e do contexto do projeto de tradução. Geralmente, consideramos uma boa tradução aquela que foi revisada pelos falantes da comunidade do idioma e também pela liderança da igreja no grupo linguístico para que seja:</p><ol><li><p><strong>Preciso, Claro, Natural e Igual</strong> — Fiel ao significado pretendido do original, conforme determinado pela Igreja naquele grupo de pessoas e em alinhamento com a Igreja global e histórica, e consequentemente:</p></li><li><p><strong>Aprovado pela Igreja</strong> — Endossado e utilizado pela Igreja. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26753\" data-resourceType=\"UWTranslationManual\">Criar traduções aprovadas pela Igreja</span>)</p></li></ol><p>Também recomendamos que o trabalho de tradução seja:</p><ol><li><p><strong>Colaborativo</strong> — Sempre que possível, trabalhe em conjunto com outros crentes que falam seu idioma para traduzir, verificar e distribuir o conteúdo traduzido, garantindo que ele seja da mais alta qualidade e esteja disponível para o maior número possível de pessoas. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26755\" data-resourceType=\"UWTranslationManual\">Criar traduções colaborativas</span>)</p></li><li><p><strong>Em andamento</strong> — O trabalho de tradução nunca está completamente concluído. Incentive aqueles que são habilidosos com o idioma a sugerirem melhores maneiras de expressar as ideias quando perceberem que melhorias podem ser feitas. Quaisquer erros na tradução também devem ser corrigidos assim que forem descobertos. Além disso, incentive a revisão periódica das traduções para determinar quando uma revisão ou uma nova tradução é necessária. Recomendamos que cada comunidade linguística forme um comitê de tradução para supervisionar este trabalho contínuo. Usando as ferramentas online unfoldingWord®, essas alterações na tradução podem ser feitas de forma rápida e fácil. (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26761\" data-resourceType=\"UWTranslationManual\">Criar traduções contínuas</span>)</p></li></ol><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão&nbsp;específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 800116,
+          "label": "Criar traduções precisas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26752,
+          "content_id": 800117,
+          "label": "Criar traduções confiáveis",
+          "language": "por"
+        },
+        {
+          "reference_id": 26753,
+          "content_id": 800118,
+          "label": "Criar traduções aprovadas pela Igreja",
+          "language": "por"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 800119,
+          "label": "Criar traduções claras",
+          "language": "por"
+        },
+        {
+          "reference_id": 26755,
+          "content_id": 800120,
+          "label": "Criar traduções colaborativas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26756,
+          "content_id": 800121,
+          "label": "Criar traduções iguais",
+          "language": "por"
+        },
+        {
+          "reference_id": 26757,
+          "content_id": 800122,
+          "label": "Criar traduções fiéis",
+          "language": "por"
+        },
+        {
+          "reference_id": 26758,
+          "content_id": 800123,
+          "label": "Criar traduções históricas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 800125,
+          "label": "Criar traduções naturais",
+          "language": "por"
+        },
+        {
+          "reference_id": 26761,
+          "content_id": 800126,
+          "label": "Criar traduções contínuas",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

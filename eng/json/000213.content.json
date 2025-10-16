@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 689655,
+    "reference_id": 209475,
+    "title": "Choosing a Translation Platform",
+    "media_type": "Text",
+    "index_reference": "choosing a translation platform",
+    "language": "eng",
+    "content": "<h3>Recommended Platform</h3><p>The recommended platform for drafting Bible translations in the Door43 online community is translationStudio (https://ufw.io/ts/). The recommended platform for checking Bible translations is translationCore (https://ufw.io/tc/). You may set up translationStudio on Android, Windows, Mac, or Linux devices (see <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">Setting up translationStudio</span> for more information). You may set up translationCore on Windows, Mac, or Linux devices. These platforms are free to download and use. They import and export Bible books in USFM format.</p><h3>Other Options</h3><p>If using translationStudio is not an option for your team, then you may consider using other online or offline tools. Please note: if you do not use translationStudio but do want to use other Bible translation software, then it will be your responsibility to ensure that your translated content is in USFM format (see <span data-bnType=\"resourceReference\" data-resourceId=\"26736\" data-resourceType=\"UWTranslationManual\">File Formats</span> for more information).</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26736,
+          "content_id": 33322,
+          "label": "File Formats",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 689664,
+          "label": "Setting Up translationStudio",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

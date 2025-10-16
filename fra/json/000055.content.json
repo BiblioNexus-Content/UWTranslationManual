@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 33297,
+    "reference_id": 26711,
+    "title": "Word Order",
+    "media_type": "Text",
+    "index_reference": "word order",
+    "language": "fra",
+    "content": "<p>The normal word order for Biblical Hebrew is: <strong>Conjunction–Verb–Subject–Object</strong>.</p><p>However, there are many different reasons why a writer/speaker of Biblical Hebrew might choose a different word order. Some of the variations are important for understanding and translating the Hebrew text, and some are not. This module will briefly explain some of the most important variations in Hebrew word order and how those variations affect the meaning of the text.</p><h1><strong>Particle</strong> – Verb–Subject–Object</h1><p>A particle is a word that has a grammatical function but does not fit into the main parts of speech (i.e. noun, verb, adverb). Particles do not change. Sometimes a particle takes the place of the conjunction. Often (but not always) in these cases, the particle is functioning as a <span resourceId=\"26749\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">connecting word</span> that expresses a specific kind of logical relationship between the chunk before the particle and the chunk after the particle. NOTE: this rule does not apply to negative particles or temporal particles.</p><h1>Conjunction – <strong>Subject</strong>–Verb–Object</h1><p>Often the subject of a sentence appears before the verb instead of after it. Many of these instances have very little impact on the meaning of a sentence or paragraph. However, sometimes a writer/speaker puts the subject first in order to <span resourceId=\"26833\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">begin a new story or event</span>, to <span resourceId=\"26829\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">give background information</span>, to <span resourceId=\"26835\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">introduce a new participant (or re-introduce an old participant)</span>, or to <span resourceId=\"26831\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">end a story</span>.</p><h1>Conjunction – <strong>Temporal phrase</strong>–Verb–Subject–Object</h1><p>A temporal phrase is made of words that tell when something happens, how long it happens or how often it happens. When a temporal phrase appears before the verb, often (but not always) the temporal phrase <span resourceId=\"26833\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">introduces a new story or event</span> within the narrative. Sometimes a conjunction appears before the temporal phrase, and sometimes not.</p><h1>Conjunction – <strong>any other part of speech</strong>–Verb–Subject–Object</h1><p>When another part of speech (other than a temporal phrase or negative particle) appears before the verb, usually (but not always) it is because the writer/speaker is emphasizing that particular item as the most important information in the sentence.</p><h3>Word Order in Biblical Aramaic</h3><p>Most scholars agree that word order is so free in Biblical Aramaic that no distinct patterns of standard word order can be observed. Therefore, it is best to assume that word order has no affect on the meaning of a sentence in Aramaic.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26749,
+          "content_id": 33335,
+          "label": "Connecting Words and Phrases",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26829,
+          "content_id": 33415,
+          "label": "Background Information",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26831,
+          "content_id": 33417,
+          "label": "End of Story",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26833,
+          "content_id": 33419,
+          "label": "Introduction of a New Event",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26835,
+          "content_id": 33421,
+          "label": "Introduction of New and Old Participants",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

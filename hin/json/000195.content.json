@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 727362,
+    "reference_id": 209457,
+    "title": "उत्तरों की तलाश",
+    "media_type": "Text",
+    "index_reference": "उत्तरों की तलाश",
+    "language": "hin",
+    "content": "<h3>उत्तर कैसे पाएँ</h3><p>प्रश्नों के उत्तरों को खोजने के कर्इ सारी सामग्रियाँ उपलब्ध हैं:</p><ul><li><p><strong>translationAcademy</strong> - यह प्रशिक्षण हस्तपुस्तिका पर उपलब्ध है और इसमें निम्नलिखित बातों समेत कर्इ सारी जानकारियाँ मौजूद हैं:</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209488\" data-resourceType=\"UWTranslationManual\">Introduction</span> - यह unfoldingWord प्रोजेक्ट का परिचय करवाता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209478\" data-resourceType=\"UWTranslationManual\">Process Manual</span> - ‘‘आगे क्या’’ नामक प्रश्न का उत्तर देता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Translation Manual</span> - अनुवाद के सिद्धांतों और प्रायोगिक अनुवाद की मदद की मूलभूत बातों का वर्णन करता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209464\" data-resourceType=\"UWTranslationManual\">Checking Manual</span> - जाँचने के सिद्धांतों और बेहतर प्रयोगों का वर्णन करता है</p></li><li><p><strong>दल चैटरूम</strong> - Team43 दल में शामिल हों, ‘‘हेल्पडेस्क’’ चैनल पर अपने प्रश्न डालें और अपने प्रश्नों का उसी समय जवाब प्राप्त करें (http://ufw.io/team43 पर साइन-अप करें:)</p></li><li><p><strong>हेल्पडेस्क</strong> - अपना प्रश्न इस र्इमेल पर भेजें।</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 727438,
+          "label": "अनुवाद सहायक पुस्तिका का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209464,
+          "content_id": 727259,
+          "label": "हस्तपुस्तिका की जाँच का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 727395,
+          "label": "प्रक्रिया हस्तपुस्तिका का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 727416,
+          "label": "ट्रांसलेशन अकैडमी का परिचय",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

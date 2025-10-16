@@ -1,0 +1,226 @@
+[
+  {
+    "content_id": 800196,
+    "reference_id": 26831,
+    "title": "Fim da história",
+    "media_type": "Text",
+    "index_reference": "fim da história",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Existem diferentes tipos de informações que podem ser fornecidas no final de uma história. Muitas vezes, isso é informação de pano de fundo. Essa informação de pano de fundo é diferente das ações que compõem a parte principal da história. Um livro da Bíblia é frequentemente composto por muitas histórias menores que fazem parte da história maior do próprio livro. A história do nascimento de Jesus é uma história menor na história maior do livro de Lucas. Cada uma dessas histórias, sejam grandes ou pequenas, pode ter informação de pano de fundo no final.</p><h1>A lista mostra alguns propósitos para as informações do fim da história:</h1><ul><li><p>Resumir a história;</p></li><li><p>Comentar sobre o que ocorreu na história;</p></li><li><p>Conectar uma história menor à história maior da qual ela faz parte;</p></li><li><p>Informar ao leitor o que acontece com um personagem específico após o final da parte principal da história;</p></li><li><p>Narrar uma ação contínua que persiste após a parte principal da história terminar;</p></li><li><p>Relatar o que acontece após a história como resultado dos eventos que ocorreram na própria narrativa.</p></li></ul><h1>Por que isso é um problema de tradução</h1><p>Diferentes idiomas têm maneiras distintas de apresentar esses tipos de informações. Se você (o tradutor) não utilizar as formas adequadas do seu idioma para isso, os leitores podem não compreender:</p><ul><li><p>Que esta informação está concluindo a história;</p></li><li><p>Qual é o propósito da informação;</p></li><li><p>Como a informação se relaciona com a história.</p></li></ul><h1>Estratégias de tradução</h1><ul><li><p>Traduza o tipo específico de informação no final de uma história da maneira como seu idioma expressa esse tipo de informação;</p></li><li><p>Traduza para que as pessoas compreendam como isso se conecta com a história da qual faz parte;</p></li><li><p>Se possível, traduza o final da história de uma maneira que as pessoas saibam onde essa história termina e a próxima começa.</p></li></ul><h3>Exemplos na Bíblia</h3><ul><li><p>Resumir a história:</p></li></ul><p>Então, o restante dos homens deveria seguir, alguns em tábuas e outros em outras partes do navio. <strong>Dessa forma, aconteceu que todos nós fomos levados em segurança para a terra</strong> (At 27.44);</p><ul><li><p>Comentar sobre o que ocorreu na história:</p></li></ul><p>Muitos dos que praticavam artes mágicas trouxeram seus livros e os queimaram à vista de todos. Então calcularam o valor deles e descobriram que era de cinquenta mil peças de prata. <strong>Assim, a palavra do Senhor se espalhava e prevalecia com poder</strong> (At 19.19–20);</p><ul><li><p>Informar ao leitor o que acontece com um personagem específico após o final da parte principal da história:</p></li></ul><p>E Maria disse: “Minha alma engrandece o Senhor, e meu espírito se alegra em Deus, meu salvador”. <strong>E Maria ficou com ela cerca de três meses e depois voltou para sua casa</strong> (Lc 1.46,47,56);</p><ul><li><p>Narrar uma ação contínua que persiste após a parte principal da história terminar:</p></li></ul><p>Todos os que ouviram ficaram maravilhados com as coisas que os pastores lhes contaram. <strong>Mas Maria guardava todas essas coisas, refletindo sobre elas em seu coração</strong> (Lc 2.18,19);</p><ul><li><p>Relatar o que acontece após a história como resultado dos eventos que ocorreram na própria narrativa:</p></li></ul><p>“Ai de vocês, especialistas na lei judaica, porque tiraram a chave do conhecimento; vocês mesmos não entram e impedem os que estão entrando”. <strong>Depois que ele saiu dali, os escribas e os fariseus começaram a se opor ferozmente a ele e discutiram contra ele sobre muitas coisas, esperando pegá-lo em algo que dissesse</strong> (Lc 11.52–54).</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115849,
+          "content_id": 234578,
+          "label": "Marcos 1.28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116342,
+          "content_id": 235071,
+          "label": "Marcos 4.33-34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117002,
+          "content_id": 235731,
+          "label": "Marcos 8.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 136998,
+          "content_id": 310089,
+          "label": "Atos 2.41 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137147,
+          "content_id": 310238,
+          "label": "Atos 4.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137268,
+          "content_id": 310359,
+          "label": "Atos 4.31 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137350,
+          "content_id": 310441,
+          "label": "Atos 5.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137480,
+          "content_id": 310571,
+          "label": "Atos 5.42 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137508,
+          "content_id": 310599,
+          "label": "Atos 6.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138415,
+          "content_id": 311506,
+          "label": "Atos 12.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138841,
+          "content_id": 311932,
+          "label": "Atos 15.35 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138975,
+          "content_id": 312066,
+          "label": "Atos 16.40 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139089,
+          "content_id": 312180,
+          "label": "Atos 17.32 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139092,
+          "content_id": 312183,
+          "label": "Atos 17.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148200,
+          "content_id": 298429,
+          "label": "Mateus 7.28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148776,
+          "content_id": 299005,
+          "label": "Mateus 11.1 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149386,
+          "content_id": 299615,
+          "label": "Mateus 13.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149484,
+          "content_id": 299713,
+          "label": "Mateus 13.53 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150362,
+          "content_id": 300591,
+          "label": "Mateus 19.1 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 143458,
+          "content_id": 303381,
+          "label": "Lucas 4.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144765,
+          "content_id": 304688,
+          "label": "Lucas 11.53 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145493,
+          "content_id": 305416,
+          "label": "Lucas 16.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146481,
+          "content_id": 306404,
+          "label": "Lucas 21.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140383,
+          "content_id": 307349,
+          "label": "João 2.21,22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142679,
+          "content_id": 309645,
+          "label": "João 20.30-31 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142765,
+          "content_id": 309731,
+          "label": "João 21.24-25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139203,
+          "content_id": 312294,
+          "label": "Atos 19.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139236,
+          "content_id": 312327,
+          "label": "Atos 19.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139350,
+          "content_id": 312441,
+          "label": "Atos 20.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140134,
+          "content_id": 313225,
+          "label": "Atos 28.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151755,
+          "content_id": 301984,
+          "label": "Mateus 26.1 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188866,
+          "content_id": 488558,
+          "label": "Êxodo 11.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 190433,
+          "content_id": 490125,
+          "label": "Êxodo 39.32 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 190449,
+          "content_id": 490141,
+          "label": "Êxodo 39.43 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 184944,
+          "content_id": 806365,
+          "label": "Rute 1.22 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

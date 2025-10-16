@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 800225,
+    "reference_id": 209466,
+    "title": "Introdução a publicação",
+    "media_type": "Text",
+    "index_reference": "introdução a publicação",
+    "language": "por",
+    "content": "<h3>Visão geral sobre publicação</h3><p>Assim que um trabalho for carregado no Door43, ele estará automaticamente disponível online na sua conta de usuário. Isso é chamado de autopublicação. Você terá acesso a uma versão web do seu projeto em https://door43.org/u/nome_de_usuario/nome_do_projeto (onde nome_de_usuario é seu nome de usuário e nome_do_projeto é seu projeto de tradução). Tanto o translationStudio quanto o translationCore fornecerão o link correto quando você fizer o upload. Você também pode navegar por todos os trabalhos em https://door43.org.</p><p>Na página do seu projeto Door43, você pode:</p><ul><li><p>Ver a versão web do seu projeto com a formatação padrão</p></li><li><p>Baixar documentos do seu projeto (como um PDF)</p></li><li><p>Obter os links para os arquivos de origem (USFM ou Markdown) para o seu projeto</p></li><li><p>Interagir com outras pessoas sobre seu projeto</p></li><li><p>Continuar editando e melhorando seu projeto e mantendo o controle de todas as alterações</p></li></ul><p>Para mais informações sobre como distribuir seu projeto para outras pessoas, consulte <span data-bnType=\"resourceReference\" data-resourceId=\"209467\" data-resourceType=\"UWTranslationManual\">Distribuição</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209467,
+          "content_id": 800226,
+          "label": "Introdução à distribuição",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

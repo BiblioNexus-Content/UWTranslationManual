@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800074,
+    "reference_id": 26709,
+    "title": "Ordem das palavras",
+    "media_type": "Text",
+    "index_reference": "ordem das palavras",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>A maioria das línguas possui uma forma padrão de organizar as partes de uma frase. Isso não é igual em todas as línguas. Você, como tradutor, precisa saber qual é a ordem normal das palavras em sua língua.</p><h3>As partes principais de uma frase</h3><p>A maioria das frases possui três partes básicas importantes: sujeito, objeto e verbo. Sujeitos e objetos são geralmente substantivos (ou seja, uma pessoa, lugar, coisa ou ideia) ou pronomes. Verbos indicam ação ou estado de ser.</p><h1>Sujeito</h1><p>O sujeito geralmente é sobre o que ou quem se fala em uma frase. Normalmente, ele realiza alguma ação ou está sendo descrito. Um sujeito pode ser <strong>ativo</strong>, o que significa que ele faz algo, como cantar, trabalhar ou ensinar.</p><ul><li><p><strong>Pedro</strong> canta a música muito bem.</p></li></ul><p>Um sujeito pode ter algo feito para ele.</p><ul><li><p><strong>Pedro</strong> foi alimentado com comida boa.</p></li></ul><p>Um sujeito pode ser descrito como estando em um <strong>estado</strong>, como estar feliz, triste ou com raiva.</p><ul><li><p><strong>Ele</strong> é alto.</p></li><li><p><strong>O garoto</strong> está feliz.</p></li></ul><h1>Objeto</h1><p>O <strong>objeto</strong> é frequentemente a coisa à qual o sujeito realiza uma ação.</p><ul><li><p>Pedro acertou <strong>na bola</strong>.</p></li><li><p>Pedro leu <strong>um livro</strong>.</p></li><li><p>Pedro cantou <strong>a música</strong> muito bem.</p></li><li><p>Pedro comeu <strong>uma boa comida</strong>.</p></li></ul><h1>Verbo</h1><p>O verbo indica uma ação ou um estado de ser.</p><ul><li><p>Pedro <strong>canta</strong> a música muito bem.</p></li><li><p>Pedro <strong>canta</strong>.</p></li><li><p>Pedro <strong>é</strong> alto.</p></li></ul><h1>Ordem preferida das palavras</h1><p>Todas as línguas têm uma ordem de palavras preferida. No entanto, a ordem das palavras é mais importante em algumas línguas do que em outras. Os exemplos abaixo mostram a ordem do sujeito, objeto e verbo em “Pedro acertou a bola” para algumas línguas.</p><p>Em algumas línguas, a ordem é sujeito - verbo - objeto. Esta é a ordem normal das palavras para o português.</p><ul><li><p>Pedro acertou a bola.</p></li></ul><p>Em algumas línguas, a ordem é sujeito - objeto - verbo.</p><ul><li><p>Pedro a bola acertou.</p></li></ul><p>Em algumas línguas, a ordem é verbo - sujeito - objeto. Esta é a ordem normal das palavras para <span data-bnType=\"resourceReference\" data-resourceId=\"26711\" data-resourceType=\"UWTranslationManual\">hebraico bíblico</span>.</p><ul><li><p>Acertou Pedro a bola.</p></li></ul><p>Em algumas línguas, a ordem das palavras não é crucial para o significado da frase, pois a língua utiliza outras formas de indicar se uma palavra é o sujeito, o verbo ou o objeto. Tanto o <span data-bnType=\"resourceReference\" data-resourceId=\"26711\" data-resourceType=\"UWTranslationManual\">aramaico bíblico</span> quanto o <span data-bnType=\"resourceReference\" data-resourceId=\"26710\" data-resourceType=\"UWTranslationManual\">grego koiné</span> são exemplos de línguas assim.</p><h1>Alterações na ordem das palavras</h1><p>A ordem das palavras pode mudar se a frase:</p><ul><li><p>É uma pergunta ou uma ordem?</p></li><li><p>descreve um estado de ser (Ele está feliz. Ele é alto).</p></li><li><p>expressa uma condição, como a palavra &quot;se&quot;</p></li><li><p>possui uma localização</p></li><li><p>há um elemento de tempo</p></li><li><p>está em um poema.</p></li></ul><p>A ordem das palavras também pode ser alterada</p><ul><li><p>se houver algum tipo de ênfase em uma determinada parte da frase</p></li><li><p>se a frase realmente trata de algo diferente do assunto</p></li></ul><h3>Princípios de tradução</h3><ul><li><p>Descubra qual é a ordem de palavras preferida no seu idioma.</p></li><li><p>Use a ordem das palavras preferida do seu idioma, a menos que haja algum motivo para alterá-la.</p></li><li><p>Traduza a frase de modo que o significado seja preciso e claro, e que soe natural.</p></li></ul><p>Você também pode querer assistir ao vídeo em https://ufw.io/figs_order.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26710,
+          "content_id": 800075,
+          "label": "Ordem das palavras",
+          "language": "por"
+        },
+        {
+          "reference_id": 26711,
+          "content_id": 800076,
+          "label": "Ordem das palavras",
+          "language": "por"
+        },
+        {
+          "reference_id": 172285,
+          "content_id": 484518,
+          "label": "Gênesis 25.11 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

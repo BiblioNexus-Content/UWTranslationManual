@@ -1,0 +1,1240 @@
+[
+  {
+    "content_id": 800080,
+    "reference_id": 26715,
+    "title": "Passado preditivo",
+    "media_type": "Text",
+    "index_reference": "passado preditivo",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>O passado preditivo é uma figura de linguagem que utiliza o tempo passado para se referir a eventos que ocorrerão no futuro. Isso é feito, às vezes, em profecias para indicar que o evento certamente acontecerá. Também é chamado de perfeito profético.</p><p>Portanto, meu povo foi levado ao cativeiro por falta de entendimento; seus líderes honrados passam fome, e o povo comum não tem nada para beber (Is 5.13).</p><p>No exemplo acima, o povo de Israel ainda não tinha ido para o cativeiro, mas Deus falou sobre sua ida como se já tivesse acontecido, porque Ele havia decidido que certamente iriam.</p><h1>Razão pela qual isso é um problema de tradução:</h1><p>Leitores que não estão cientes do uso do passado em profecias para se referir a eventos futuros podem achar isso confuso.</p><h3>Exemplos da Bíblia</h3><p>Agora Jericó estava completamente fechada por causa dos filhos de Israel. Ninguém saía e ninguém entrava. Yahweh disse a Josué: “Veja, entreguei Jericó, seu rei e seus poderosos soldados em suas mãos” (Js 6.1–2).</p><p>Porque um menino nos nasceu, um filho nos foi dado; e o governo estará sobre os seus ombros (Is 9.6a).</p><p>Nos exemplos acima, Deus falou de eventos futuros como se já tivessem ocorrido.</p><p>Até Enoque, o sétimo a partir de Adão, profetizou sobre eles, dizendo: “Vejam! O Senhor veio com milhares e milhares de seus santos” (Jd 1.14).</p><p>Enoque estava falando de algo que aconteceria no futuro, mas ele usou o passado quando disse &quot;o Senhor veio&quot;.</p><h3>Estratégias de tradução</h3><p>Se o passado for natural e transmitir o significado correto em seu idioma, considere usá-lo. Caso contrário, aqui estão algumas outras opções.</p><p>(1) Use o tempo futuro para se referir a eventos que ainda vão acontecer. (2) Para se referir a algo que ocorrerá em breve, utilize uma forma que indique essa proximidade. (3) Algumas línguas podem empregar o tempo presente para indicar que algo acontecerá em breve.</p><h3>Exemplos de estratégias de tradução aplicadas</h3><p>(1) Utilize o tempo futuro para se referir a eventos que ainda irão acontecer.</p><p>Pois um menino <strong>nasceu para nós</strong>, um filho <strong>nos foi dado</strong>. (Is 9.6a)</p><p>Porque para nós uma criança <strong>nascerá</strong>, para nós um filho <strong>será entregue</strong>.</p><p>(2) Refere-se a algo que acontecerá em breve; use uma forma que demonstre isso.</p><p>Yahweh disse a Josué: &quot;Veja, entreguei Jericó, seu rei e seus poderosos soldados em suas mãos&quot; (Js 6.2).</p><p>Yahweh disse a Josué: &quot;Veja, estou <strong>entregando</strong> a você Jericó, seu rei e seus poderosos soldados&quot;.</p><p>(3) Algumas línguas podem usar o tempo presente para indicar que algo ocorrerá em breve.</p><p>Yahweh disse a Josué: &quot;Veja, entreguei Jericó, seu rei e seus poderosos soldados em suas mãos&quot; (Josué 6.2).</p><p>Yahweh disse a Josué: “Veja, eu <strong>estou entregando</strong> Jericó, seu rei e seus poderosos soldados a você”.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 140202,
+          "content_id": 307168,
+          "label": "João 1.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140232,
+          "content_id": 307198,
+          "label": "João 1.21 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140259,
+          "content_id": 307225,
+          "label": "João 1.29 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140280,
+          "content_id": 307246,
+          "label": "João 1.36 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140287,
+          "content_id": 307253,
+          "label": "João 1.38 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140290,
+          "content_id": 307256,
+          "label": "João 1.39 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140298,
+          "content_id": 307264,
+          "label": "João 1.41 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140309,
+          "content_id": 307275,
+          "label": "João 1.43 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140313,
+          "content_id": 307279,
+          "label": "João 1.45 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140317,
+          "content_id": 307283,
+          "label": "João 1.46 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140318,
+          "content_id": 307284,
+          "label": "João 1.47 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140321,
+          "content_id": 307287,
+          "label": "João 1.48 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140329,
+          "content_id": 307295,
+          "label": "João 1.51 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140338,
+          "content_id": 307304,
+          "label": "João 2.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140341,
+          "content_id": 307307,
+          "label": "João 2.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140345,
+          "content_id": 307311,
+          "label": "João 2.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140347,
+          "content_id": 307313,
+          "label": "João 2.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140350,
+          "content_id": 307316,
+          "label": "João 2.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140355,
+          "content_id": 307321,
+          "label": "João 2.9 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140411,
+          "content_id": 307377,
+          "label": "João 3.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140550,
+          "content_id": 307516,
+          "label": "João 4.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140557,
+          "content_id": 307523,
+          "label": "João 4.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140561,
+          "content_id": 307527,
+          "label": "João 4.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140570,
+          "content_id": 307536,
+          "label": "João 4.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140578,
+          "content_id": 307544,
+          "label": "João 4.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140581,
+          "content_id": 307547,
+          "label": "João 4.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140582,
+          "content_id": 307548,
+          "label": "João 4.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140585,
+          "content_id": 307551,
+          "label": "João 4.19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140591,
+          "content_id": 307557,
+          "label": "João 4.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140605,
+          "content_id": 307571,
+          "label": "João 4.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140610,
+          "content_id": 307576,
+          "label": "João 4.26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140615,
+          "content_id": 307581,
+          "label": "João 4.28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140625,
+          "content_id": 307591,
+          "label": "João 4.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140671,
+          "content_id": 307637,
+          "label": "João 4.49 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140674,
+          "content_id": 307640,
+          "label": "João 4.50 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140696,
+          "content_id": 307662,
+          "label": "João 5.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140701,
+          "content_id": 307667,
+          "label": "João 5.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140716,
+          "content_id": 307682,
+          "label": "João 5.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140835,
+          "content_id": 307801,
+          "label": "João 6.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140842,
+          "content_id": 307808,
+          "label": "João 6.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140855,
+          "content_id": 307821,
+          "label": "João 6.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140872,
+          "content_id": 307838,
+          "label": "João 6.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140873,
+          "content_id": 307839,
+          "label": "João 6.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 140883,
+          "content_id": 307849,
+          "label": "João 6.24 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141071,
+          "content_id": 308037,
+          "label": "João 7.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141194,
+          "content_id": 308160,
+          "label": "João 7.50 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141292,
+          "content_id": 308258,
+          "label": "João 8.39 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141386,
+          "content_id": 308352,
+          "label": "João 9.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141398,
+          "content_id": 308364,
+          "label": "João 9.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141611,
+          "content_id": 308577,
+          "label": "João 11.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141617,
+          "content_id": 308583,
+          "label": "João 11.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141623,
+          "content_id": 308589,
+          "label": "João 11.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141638,
+          "content_id": 308604,
+          "label": "João 11.23 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141641,
+          "content_id": 308607,
+          "label": "João 11.24 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141652,
+          "content_id": 308618,
+          "label": "João 11.27 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141674,
+          "content_id": 308640,
+          "label": "João 11.39 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141677,
+          "content_id": 308643,
+          "label": "João 11.40 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141687,
+          "content_id": 308653,
+          "label": "João 11.44 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141734,
+          "content_id": 308700,
+          "label": "João 12.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141753,
+          "content_id": 308719,
+          "label": "João 12.9 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141800,
+          "content_id": 308766,
+          "label": "João 12.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141904,
+          "content_id": 308870,
+          "label": "João 13.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141908,
+          "content_id": 308874,
+          "label": "João 13.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141910,
+          "content_id": 308876,
+          "label": "João 13.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141913,
+          "content_id": 308879,
+          "label": "João 13.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141916,
+          "content_id": 308882,
+          "label": "João 13.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141918,
+          "content_id": 308884,
+          "label": "João 13.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141957,
+          "content_id": 308923,
+          "label": "João 13.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141961,
+          "content_id": 308927,
+          "label": "João 13.27 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141964,
+          "content_id": 308930,
+          "label": "João 13.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141968,
+          "content_id": 308934,
+          "label": "João 13.31 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141969,
+          "content_id": 308935,
+          "label": "João 13.31 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141983,
+          "content_id": 308949,
+          "label": "João 13.36 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141984,
+          "content_id": 308950,
+          "label": "João 13.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142001,
+          "content_id": 308967,
+          "label": "João 14.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142003,
+          "content_id": 308969,
+          "label": "João 14.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142010,
+          "content_id": 308976,
+          "label": "João 14.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142012,
+          "content_id": 308978,
+          "label": "João 14.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142044,
+          "content_id": 309010,
+          "label": "João 14.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142047,
+          "content_id": 309013,
+          "label": "João 14.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142058,
+          "content_id": 309024,
+          "label": "João 14.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142121,
+          "content_id": 309087,
+          "label": "João 15.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142201,
+          "content_id": 309167,
+          "label": "João 16.11 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142211,
+          "content_id": 309177,
+          "label": "João 16.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142246,
+          "content_id": 309212,
+          "label": "João 16.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142251,
+          "content_id": 309217,
+          "label": "João 16.32 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142285,
+          "content_id": 309251,
+          "label": "João 17.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142292,
+          "content_id": 309258,
+          "label": "João 17.12 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142325,
+          "content_id": 309291,
+          "label": "João 17.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142340,
+          "content_id": 309306,
+          "label": "João 18.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142343,
+          "content_id": 309309,
+          "label": "João 18.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142371,
+          "content_id": 309337,
+          "label": "João 18.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142392,
+          "content_id": 309358,
+          "label": "João 18.26 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142429,
+          "content_id": 309395,
+          "label": "João 18.38 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142446,
+          "content_id": 309412,
+          "label": "João 19.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142451,
+          "content_id": 309417,
+          "label": "João 19.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142452,
+          "content_id": 309418,
+          "label": "João 19.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142461,
+          "content_id": 309427,
+          "label": "João 19.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142484,
+          "content_id": 309450,
+          "label": "João 19.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142487,
+          "content_id": 309453,
+          "label": "João 19.15 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142520,
+          "content_id": 309486,
+          "label": "João 19.26 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142523,
+          "content_id": 309489,
+          "label": "João 19.27 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142532,
+          "content_id": 309498,
+          "label": "João 19.28 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142584,
+          "content_id": 309550,
+          "label": "João 20.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142586,
+          "content_id": 309552,
+          "label": "João 20.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142599,
+          "content_id": 309565,
+          "label": "João 20.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142601,
+          "content_id": 309567,
+          "label": "João 20.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142616,
+          "content_id": 309582,
+          "label": "João 20.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142620,
+          "content_id": 309586,
+          "label": "João 20.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142623,
+          "content_id": 309589,
+          "label": "João 20.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142627,
+          "content_id": 309593,
+          "label": "João 20.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142631,
+          "content_id": 309597,
+          "label": "João 20.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142635,
+          "content_id": 309601,
+          "label": "João 20.17 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142637,
+          "content_id": 309603,
+          "label": "João 20.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142655,
+          "content_id": 309621,
+          "label": "João 20.22 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142666,
+          "content_id": 309632,
+          "label": "João 20.26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142669,
+          "content_id": 309635,
+          "label": "João 20.27 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142675,
+          "content_id": 309641,
+          "label": "João 20.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142696,
+          "content_id": 309662,
+          "label": "João 21.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142700,
+          "content_id": 309666,
+          "label": "João 21.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142701,
+          "content_id": 309667,
+          "label": "João 21.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142706,
+          "content_id": 309672,
+          "label": "João 21.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142713,
+          "content_id": 309679,
+          "label": "João 21.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142716,
+          "content_id": 309682,
+          "label": "João 21.10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142719,
+          "content_id": 309685,
+          "label": "João 21.12 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142721,
+          "content_id": 309687,
+          "label": "João 21.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151399,
+          "content_id": 301628,
+          "label": "Mateus 24.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151594,
+          "content_id": 301823,
+          "label": "Mateus 25.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151625,
+          "content_id": 301854,
+          "label": "Mateus 25.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151906,
+          "content_id": 302135,
+          "label": "Mateus 26.38 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151918,
+          "content_id": 302147,
+          "label": "Mateus 26.40 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151981,
+          "content_id": 302210,
+          "label": "Mateus 26.52 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152035,
+          "content_id": 302264,
+          "label": "Mateus 26.64 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152074,
+          "content_id": 302303,
+          "label": "Mateus 26.71 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152143,
+          "content_id": 302372,
+          "label": "Mateus 27.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152180,
+          "content_id": 302409,
+          "label": "Mateus 27.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152192,
+          "content_id": 302421,
+          "label": "Mateus 27.24 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152245,
+          "content_id": 302474,
+          "label": "Mateus 27.38 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142726,
+          "content_id": 309692,
+          "label": "João 21.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142730,
+          "content_id": 309696,
+          "label": "João 21.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142734,
+          "content_id": 309700,
+          "label": "João 21.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142743,
+          "content_id": 309709,
+          "label": "João 21.19 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142745,
+          "content_id": 309711,
+          "label": "João 21.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142750,
+          "content_id": 309716,
+          "label": "João 21.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142752,
+          "content_id": 309718,
+          "label": "João 21.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142761,
+          "content_id": 309727,
+          "label": "João 21.23 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177341,
+          "content_id": 585362,
+          "label": "Jó 23.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178023,
+          "content_id": 586044,
+          "label": "Jó 33.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178316,
+          "content_id": 586337,
+          "label": "Jó 36.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164461,
+          "content_id": 586910,
+          "label": "Hebreus 1.6 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164787,
+          "content_id": 587236,
+          "label": "Hebreus 4.10 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165559,
+          "content_id": 588008,
+          "label": "Hebreus 10.28 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165677,
+          "content_id": 588126,
+          "label": "Hebreus 11.8 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165703,
+          "content_id": 588152,
+          "label": "Hebreus 11.13 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165846,
+          "content_id": 588295,
+          "label": "Hebreus 12.2 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165900,
+          "content_id": 588349,
+          "label": "Hebreus 12.10 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166098,
+          "content_id": 588547,
+          "label": "Hebreus 13.11 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166182,
+          "content_id": 588631,
+          "label": "Hebreus 13.22 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155564,
+          "content_id": 640809,
+          "label": "1 Coríntios 3.13 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155832,
+          "content_id": 641077,
+          "label": "1 Coríntios 5.13 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155847,
+          "content_id": 641092,
+          "label": "1 Coríntios 6.2 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156194,
+          "content_id": 641439,
+          "label": "1 Coríntios 7.37 (#10)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156198,
+          "content_id": 641443,
+          "label": "1 Coríntios 7.38 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156375,
+          "content_id": 641620,
+          "label": "1 Coríntios 9.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156707,
+          "content_id": 641952,
+          "label": "1 Coríntios 11.18 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156935,
+          "content_id": 642180,
+          "label": "1 Coríntios 12.31 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157220,
+          "content_id": 642465,
+          "label": "1 Coríntios 14.37 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157353,
+          "content_id": 642598,
+          "label": "1 Coríntios 15.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157520,
+          "content_id": 642765,
+          "label": "1 Coríntios 15.49 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157618,
+          "content_id": 642863,
+          "label": "1 Coríntios 16.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157624,
+          "content_id": 642869,
+          "label": "1 Coríntios 16.7 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157655,
+          "content_id": 642900,
+          "label": "1 Coríntios 16.12 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158017,
+          "content_id": 659061,
+          "label": "2 Coríntios 3.8 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158645,
+          "content_id": 659689,
+          "label": "2 Coríntios 8.17 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158648,
+          "content_id": 659692,
+          "label": "2 Coríntios 8.18 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158669,
+          "content_id": 659713,
+          "label": "2 Coríntios 8.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158700,
+          "content_id": 659744,
+          "label": "2 Coríntios 9.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158739,
+          "content_id": 659783,
+          "label": "2 Coríntios 9.9 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159887,
+          "content_id": 660349,
+          "label": "Efésios 2.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159888,
+          "content_id": 660350,
+          "label": "Efésios 2.6 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159729,
+          "content_id": 661235,
+          "label": "Colossenses 4.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160858,
+          "content_id": 683279,
+          "label": "1 Tessalonicenses 2.16 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161108,
+          "content_id": 683529,
+          "label": "1 Tessalonicenses 5.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161944,
+          "content_id": 683728,
+          "label": "2 Tessalonicenses 2.4 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153951,
+          "content_id": 685326,
+          "label": "Romanos 8.30 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154090,
+          "content_id": 685465,
+          "label": "Romanos 9.15 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154103,
+          "content_id": 685478,
+          "label": "Romanos 9.17 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154175,
+          "content_id": 685550,
+          "label": "Romanos 9.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154184,
+          "content_id": 685559,
+          "label": "Romanos 9.27 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154256,
+          "content_id": 685631,
+          "label": "Romanos 10.5 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154268,
+          "content_id": 685643,
+          "label": "Romanos 10.6 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154283,
+          "content_id": 685658,
+          "label": "Romanos 10.8 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154309,
+          "content_id": 685684,
+          "label": "Romanos 10.11 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154344,
+          "content_id": 685719,
+          "label": "Romanos 10.16 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154376,
+          "content_id": 685751,
+          "label": "Romanos 10.19 (#9)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154385,
+          "content_id": 685760,
+          "label": "Romanos 10.20 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154390,
+          "content_id": 685765,
+          "label": "Romanos 10.20 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154396,
+          "content_id": 685771,
+          "label": "Romanos 10.21 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154415,
+          "content_id": 685790,
+          "label": "Romanos 11.2 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154426,
+          "content_id": 685801,
+          "label": "Romanos 11.4 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154454,
+          "content_id": 685829,
+          "label": "Romanos 11.9 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154988,
+          "content_id": 686363,
+          "label": "Romanos 15.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166724,
+          "content_id": 761128,
+          "label": "Tiago 5.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166728,
+          "content_id": 761132,
+          "label": "Tiago 5.3 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

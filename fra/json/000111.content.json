@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 33353,
+    "reference_id": 26767,
+    "title": "Notes that Clarify the UST Translation",
+    "media_type": "Text",
+    "index_reference": "notes that clarify the ust translation",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Sometimes a Note suggests a translation from the UST. In that case the text from the UST will be followed by “(UST).”</p><h3>Translation Notes Examples</h3><p>He who <strong>sits in the heavens</strong> will sneer at them. (Psalms 2:4a <strong>ULT</strong>)</p><p>But the one who <strong>sits on his throne in heaven</strong> laughs at them. (Psalms 2:4a <strong>UST</strong>)</p><p>The Note for this verse says:</p><ul><li><p><strong>sits in the heavens</strong> — Here, <strong>sitting</strong> represents ruling. What he sits on can be stated clearly. Alternate translation: “rules in the heavens” or “sits on his throne in heaven” (UST) (See <span resourceId=\"26707\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Metonymy</span>)</p></li></ul><p>Here there are two suggested translations for the phrase “sits in the heavens.” The first expresses clearly what “sits in the heavens” represents. The second gives a hint about the idea of ruling by stated clearly that he sits on his “throne.” This suggestion is from the UST.</p><p>And he saw Jesus, <strong>fell on his face</strong>, and begged him. (Luke 5:12b <strong>ULT</strong>)</p><p>When he saw Jesus, <strong>he bowed down to the ground</strong>. (Luke 5:12b <strong>UST</strong>)</p><p>The Note for this verse says:</p><ul><li><p><strong>he fell on his face</strong> — “he knelt and touched the ground with his face” or “he bowed down to the ground” (UST)</p></li></ul><p>Here the words from the UST are provided as another translation suggestion.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 800237,
+    "reference_id": 209478,
+    "title": "Introdução ao Manual de Processos",
+    "media_type": "Text",
+    "index_reference": "introdução ao manual de processos",
+    "language": "por",
+    "content": "<h3>Seja bem-vindo</h3><p>Bem-vindo à tradução da Bíblia! Estamos contentes que você deseje traduzir a mensagem de Deus para a língua do seu povo, seja através da tradução de histórias bíblicas ou livros das Escrituras. Este Manual de Processo é um guia passo a passo para ajudar as equipes de tradução a saberem o que precisam fazer desde o início de um projeto até sua conclusão. Este guia auxiliará uma equipe de tradução desde a configuração inicial até a publicação final do conteúdo traduzido e revisado.</p><h3>Iniciando</h3><p>A tradução é uma tarefa muito complexa que exige comprometimento, organização e planejamento. Existem muitos passos necessários para transformar uma ideia em uma tradução concluída, verificada, distribuída e em uso. As informações neste Manual de Processo ajudarão você a conhecer todos os passos necessários no processo de tradução.</p><p>Traduzir a Bíblia requer muitas habilidades, então uma das primeiras coisas que você precisa considerar é como <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">selecionar uma equipe</span> que possa realizar esse trabalho.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209483,
+          "content_id": 800242,
+          "label": "Organizando uma equipe de tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

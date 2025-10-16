@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 689668,
+    "reference_id": 209488,
+    "title": "Introduction to unfoldingWord® Translation Academy",
+    "media_type": "Text",
+    "index_reference": "introduction to unfoldingword® translation academy",
+    "language": "fra",
+    "content": "<h3>Welcome to unfoldingWord® Translation Academy</h3><p>unfoldingWord® Translation Academy is a collection of information and instruction on the topic of Bible translation. The primary users that we have in mind are church-based mother-tongue translators. It is written in simple language wherever possible and is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of biblical content into their own language.</p><p>unfoldingWord® Translation Academy is designed to be highly flexible. It is modular in structure, making possible many pathways through the material, depending on the needs and interests of the user. Although it does recommend certain steps and procedures, it seeks to be paradigm-neutral, so that it can be used in a variety of settings and processes. It can be used in systematic, in-advance approaches, or it can be used for just-in-time learning (or both, as needed).</p><p>unfoldingWord® Translation Academy is organized into the following sections:</p><ul><li><p><span resourceId=\"209488\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Introduction</span> — introduces this resource, the Gateway Languages strategy, and translation</p></li><li><p><span resourceId=\"209478\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Process Manual</span> — answers the question “what next?”</p></li><li><p><span resourceId=\"26802\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Manual</span> — explains the basics of translation theory and offers practical Bible translation helps</p></li><li><p><span resourceId=\"209465\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Checking Manual</span> — explains the basics of checking theory and best practices for checking translations</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26802,
+          "content_id": 33388,
+          "label": "Introduction to the Translation Manual",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209465,
+          "content_id": 689645,
+          "label": "Introduction to Translation Checking",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209478,
+          "content_id": 689658,
+          "label": "Introduction to the Process Manual",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209488,
+          "content_id": 689668,
+          "label": "Introduction to unfoldingWord® Translation Academy",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

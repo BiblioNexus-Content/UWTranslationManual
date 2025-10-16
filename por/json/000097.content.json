@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 800118,
+    "reference_id": 26753,
+    "title": "Criar traduções aprovadas pela Igreja",
+    "media_type": "Text",
+    "index_reference": "criar traduções aprovadas pela igreja",
+    "language": "por",
+    "content": "<h3>Traduções aprovadas pela igreja</h3><p>Uma boa tradução deve ser <strong>clara</strong> (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26754\" data-resourceType=\"UWTranslationManual\">Criar traduções claras</span>), <strong>natural</strong> (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26760\" data-resourceType=\"UWTranslationManual\">Criar traduções naturais</span>) e <strong>precisa</strong> (veja <span data-bnType=\"resourceReference\" data-resourceId=\"26751\" data-resourceType=\"UWTranslationManual\">Criar traduções precisas</span>). Todas essas três qualidades afetam diretamente as palavras e frases usadas na tradução. Se uma tradução carece de uma dessas três qualidades, simplesmente mudar ou reordenar as palavras pode muitas vezes resolver o problema. A quarta qualidade, <strong>aprovada pela igreja</strong>, tem menos a ver com as palavras usadas e mais com o processo que é utilizado.</p><h3>O objetivo da tradução</h3><p>O objetivo da tradução de conteúdo bíblico não é apenas criar uma tradução de alta qualidade, mas sim uma tradução que seja utilizada e apreciada pela igreja. Traduções de alta qualidade devem ser claras, naturais e precisas. No entanto, para que uma tradução seja utilizada e apreciada pela igreja, ela precisa ser aprovada por ela.</p><h3>Como criar uma tradução aprovada pela igreja</h3><p>Criar uma tradução aprovada pela igreja envolve todo o processo de tradução, verificação e distribuição. Quanto mais redes da igreja participarem desses processos, maior será a probabilidade de aprovação da tradução.</p><p>Antes de iniciar um projeto de tradução, é importante contatar o maior número possível de redes de igrejas e incentivá-las a se envolver no processo de tradução, incluindo o envio de algumas de suas pessoas para integrar a equipe de tradução. As redes de igrejas devem ser consultadas e convidadas a opinar sobre o projeto de tradução, seus objetivos e seu processo.</p><p>Não é necessário que a igreja lidere ativamente a tradução e coordene todos os esforços, mas é importante que as redes da igreja aprovem quem está liderando a tradução, de preferência antes mesmo de começarem.</p><h3>Aprovação da igreja e os níveis de verificação</h3><p>A necessidade de aprovação da igreja para uma tradução é claramente refletida nos Níveis de Verificação. Na verdade, os Níveis de Verificação são em grande parte uma medida de quão amplamente a igreja aprova a tradução.</p><ul><li><p>Nível 1 afirma que a equipe de tradução aprovada pela igreja validou a tradução.</p></li><li><p>Nível 2 afirma que os pastores e líderes das igrejas locais aprovam a tradução.</p></li><li><p>O Nível 3 afirma que líderes de diversas redes de igrejas aprovam a tradução.</p></li></ul><p>Em cada nível, as pessoas que lideram a tradução devem incentivar a participação e o envolvimento das redes da igreja. Ao usar este processo, esperamos promover a apropriação da tradução pela igreja entre o maior número possível de redes. Com essa aprovação, não deve haver nada que impeça a tradução de ser usada para fortalecer e encorajar a igreja.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26751,
+          "content_id": 800116,
+          "label": "Criar traduções precisas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26754,
+          "content_id": 800119,
+          "label": "Criar traduções claras",
+          "language": "por"
+        },
+        {
+          "reference_id": 26760,
+          "content_id": 800125,
+          "label": "Criar traduções naturais",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

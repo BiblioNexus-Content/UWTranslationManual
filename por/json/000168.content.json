@@ -1,0 +1,334 @@
+[
+  {
+    "content_id": 800189,
+    "reference_id": 26824,
+    "title": "Pontes de versículo",
+    "media_type": "Text",
+    "index_reference": "pontes de versículo",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Em alguns casos, você verá na NTLH que dois ou mais números de versículo estão combinados, como 17–18. Isso é chamado de ponte de versículo. Isso significa que a informação nos versículos foi reorganizada para que a história ou mensagem seja mais facilmente compreendida.</p><p>29 Estes foram os clãs dos horeus: Lotã, Sobal, Zibeão e Aná, 30 Disom, Ezer, Disã. Estes são os clãs dos horeus, de acordo com suas listas de clãs na terra de Seir (Gn 36.29–30).</p><p>29–30 Os grupos de pessoas descendentes de Hor viviam na terra de Seir. Os nomes desses grupos são Lotã, Sobal, Zibeão, Aná, Disom, Ezer e Disã (Gênesis 36.29–30 NTLH).</p><p>No texto da tradução literal livre, os versículos 29 e 30 estão separados, e a informação sobre as pessoas que vivem em Seir está no final do versículo 30. No texto da NTLH, os versículos estão unidos, e a informação sobre eles viverem em Seir está no início. Para muitos idiomas, essa é uma ordem de informação mais lógica.</p><h3>Exemplos da Bíblia</h3><p>Onde a NTLH tem uma ponte de versículo, a tradução literal livre terá versículos distintos.</p><p>4–5 Yahweh, nosso Deus, te abençoará na terra que ele está te dando. Se obedeceres a Yahweh, nosso Deus, e seguires todos os mandamentos que estou te dando hoje, não haverá pessoas pobres entre vocês (Dt 15.4–5 NTLH).</p><p>4 No entanto, não deve haver pobres entre vocês (pois Yahweh certamente os abençoará na terra que ele lhes dá como herança para possuírem), 5 se apenas ouvirem diligentemente a voz de Yahweh, seu Deus, para guardar todos estes mandamentos que hoje lhes estou ordenando (Dt 15.4–5).</p><p>16–17 Mas Yahweh disse a ele: “Não permitirei que você coma o fruto da árvore que lhe permitirá saber quais ações são boas e quais são más. Se você comer qualquer fruto dessa árvore, no dia em que o fizer, certamente morrerá. Mas permitirei que você coma o fruto de qualquer uma das outras árvores do parque” (Gn 2.16–17 NTLH).</p><p>16 Yahweh Deus ordenou ao homem, dizendo: “De toda árvore do jardim você pode comer livremente 17 Mas da árvore do conhecimento do bem e do mal você não deve comer, pois no dia em que dela comer, certamente morrerá” (Gn 2.16–17).</p><h3>Estratégias de tradução</h3><p>Organize a informação de maneira que seja clara para seus leitores. Se a ordem da informação estiver clara como está na tradução literal livre, então use essa ordem. Caso a ordem esteja confusa ou transmita o significado errado, altere a ordem para que fique mais clara.</p><p>(1) Se você inserir informações de um versículo antes das informações de um versículo anterior, combine os versículos e coloque um hífen entre os números dos versículos.</p><p>Veja como marcar versículos de Marcos no <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://help.door43.org/en/knowledgebase/13-translationstudio-android/docs/24-marking-verses-in-translationstudio\">translationStudio</a>.</p><h3>Exemplos de estratégias de tradução aplicadas</h3><p>(1) Se a informação de um versículo for colocada antes da informação de um versículo anterior, combine os versículos e coloque os números dos versículos antes do primeiro versículo, separados por um hífen.</p><p>2 Você deve escolher três cidades no meio da sua terra que Yahweh, seu Deus, está lhe dando para possuir 3 Você deve construir uma estrada e dividir as fronteiras da sua terra em três partes, a terra que Yahweh, seu Deus, está fazendo você herdar, para que todos que matarem outra pessoa possam fugir para lá (Dt 19.2–3).</p><p>2–3 Você deve dividir a terra que ele está dando a você em três partes. Em seguida, selecione uma cidade em cada parte. Você deve fazer boas estradas para que as pessoas possam chegar facilmente a essas cidades. Alguém que mata outra pessoa pode escapar para uma dessas cidades para estar seguro (Dt 19.2–3 NTLH).<br><br>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 116071,
+          "content_id": 234800,
+          "label": "Marcos 3.9-10 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116378,
+          "content_id": 235107,
+          "label": "Marcos 5.3-4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116390,
+          "content_id": 235119,
+          "label": "Marcos 5.7-8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116465,
+          "content_id": 235194,
+          "label": "Marcos 5.27-28 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116573,
+          "content_id": 235302,
+          "label": "Marcos 6.8-9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116616,
+          "content_id": 235345,
+          "label": "Marcos 6.17-18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116629,
+          "content_id": 235358,
+          "label": "Marcos 6.19-20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116749,
+          "content_id": 235478,
+          "label": "Marcos 6.49-50 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 116916,
+          "content_id": 235645,
+          "label": "Marcos 7.25-26 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117322,
+          "content_id": 236051,
+          "label": "Marcos 9.39-40 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118044,
+          "content_id": 236773,
+          "label": "Marcos 12.43-44 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118162,
+          "content_id": 236891,
+          "label": "Marcos 13.18-19 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118180,
+          "content_id": 236909,
+          "label": "Marcos 13.21-22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118760,
+          "content_id": 237489,
+          "label": "Marcos 15.42-43 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142963,
+          "content_id": 302886,
+          "label": "Lucas 1.54 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144071,
+          "content_id": 303994,
+          "label": "Lucas 8.29 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146380,
+          "content_id": 306303,
+          "label": "Lucas 21.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146534,
+          "content_id": 306457,
+          "label": "Lucas 22.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146541,
+          "content_id": 306464,
+          "label": "Lucas 22.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146561,
+          "content_id": 306484,
+          "label": "Lucas 22.22 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146623,
+          "content_id": 306546,
+          "label": "Lucas 22.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 136755,
+          "content_id": 309846,
+          "label": "Atos 1.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 136771,
+          "content_id": 309862,
+          "label": "Atos 1.24 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137283,
+          "content_id": 310374,
+          "label": "Atos 4.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137803,
+          "content_id": 310894,
+          "label": "Atos 8.1-2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138545,
+          "content_id": 311636,
+          "label": "Atos 13.33 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 138790,
+          "content_id": 311881,
+          "label": "Atos 15.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139301,
+          "content_id": 312392,
+          "label": "Atos 19.37 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139398,
+          "content_id": 312489,
+          "label": "Atos 20.27 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 139535,
+          "content_id": 312626,
+          "label": "Atos 21.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148134,
+          "content_id": 298363,
+          "label": "Mateus 7.13-14 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148469,
+          "content_id": 298698,
+          "label": "Mateus 9.20,21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149519,
+          "content_id": 299748,
+          "label": "Mateus 14.3,4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151406,
+          "content_id": 301635,
+          "label": "Mateus 24.23-24 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151491,
+          "content_id": 301720,
+          "label": "Mateus 24.38-39 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146839,
+          "content_id": 306762,
+          "label": "Lucas 23.29 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 169663,
+          "content_id": 481896,
+          "label": "Gênesis 3.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171658,
+          "content_id": 483891,
+          "label": "Gênesis 20.18 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 172105,
+          "content_id": 484338,
+          "label": "Gênesis 24.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 173663,
+          "content_id": 485896,
+          "label": "Gênesis 36.7 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 174076,
+          "content_id": 486309,
+          "label": "Gênesis 40.2 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 190054,
+          "content_id": 489746,
+          "label": "Êxodo 33.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176003,
+          "content_id": 584024,
+          "label": "Jó 6.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176432,
+          "content_id": 584453,
+          "label": "Jó 12.7-8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176588,
+          "content_id": 584609,
+          "label": "Jó 14.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176612,
+          "content_id": 584633,
+          "label": "Jó 14.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177338,
+          "content_id": 585359,
+          "label": "Jó 23.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177875,
+          "content_id": 585896,
+          "label": "Jó 31.6 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164650,
+          "content_id": 587099,
+          "label": "Hebreus 3.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165104,
+          "content_id": 587553,
+          "label": "Hebreus 7.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160839,
+          "content_id": 683260,
+          "label": "1 Tessalonicenses 2.14-15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 166723,
+          "content_id": 761127,
+          "label": "Tiago 5.2 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 167011,
+          "content_id": 816165,
+          "label": "Apocalipse 1.5 (#5)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 800236,
+    "reference_id": 209477,
+    "title": "Treinando antes de começar a tradução",
+    "media_type": "Text",
+    "index_reference": "treinando antes de começar a tradução",
+    "language": "por",
+    "content": "<h3>O que saber antes de traduzir</h3><p>Recomenda-se que você consulte o <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Manual de tradução</span> frequentemente enquanto traduz. Antes de começar a traduzir, sugerimos que você estude o Manual de tradução pelo menos até entender a diferença entre uma tradução literal e uma tradução baseada no significado. Grande parte do restante do Manual de tradução pode ser usada como um recurso de aprendizado via consulta (no momento de necessidade).</p><p>Alguns assuntos importantes que todos na equipe de tradução devem aprender antes de iniciar um projeto de tradução incluem:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">As qualidades de uma boa tradução</span> — A definição de uma boa tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">O processo de tradução</span> — Como se faz uma boa tradução</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\">Forma e significado</span> — A diferença entre forma e significado</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">Traduções baseadas no significado</span> — Como realizar uma tradução baseada no significado</p></li></ul></li></ul><p>Alguns outros tópicos importantes ao começar também incluem:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26668\" data-resourceType=\"UWTranslationManual\">Escolha um estilo de tradução</span> — Decisões importantes que precisam ser tomadas para guiar o processo de tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Escolhendo o que traduzir</span> — Sugestões de onde começar a tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">Primeiro rascunho</span> — Como elaborar um primeiro rascunho</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">Ajuda com tradução</span> — Usar a tradução ajuda</p></li></ul><p>Quando você tiver <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">configurado uma equipe de tradução</span> e quiser fazer um <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">primeiro rascunho</span> da sua tradução, use o <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>. Recomendamos que você siga este <span data-bnType=\"resourceReference\" data-resourceId=\"209493\" data-resourceType=\"UWTranslationManual\">processo de tradução</span>.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 800033,
+          "label": "Escolhendo um estilo de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26737,
+          "content_id": 800102,
+          "label": "Primeiro rascunho",
+          "language": "por"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 800124,
+          "label": "As qualidades de uma boa tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26791,
+          "content_id": 800156,
+          "label": "Traduções baseadas em significado",
+          "language": "por"
+        },
+        {
+          "reference_id": 26792,
+          "content_id": 800157,
+          "label": "Forma e significado",
+          "language": "por"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 800162,
+          "label": "Ajuda com tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26802,
+          "content_id": 800167,
+          "label": "Introdução ao Manual de Tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 800176,
+          "label": "O processo de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 800192,
+          "label": "Escolhendo o que traduzir",
+          "language": "por"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 800242,
+          "label": "Organizando uma equipe de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 800243,
+          "label": "Configurando o translationStudio",
+          "language": "por"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 800252,
+          "label": "Visão geral da tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

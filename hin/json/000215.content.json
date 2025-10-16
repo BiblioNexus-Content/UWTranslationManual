@@ -1,0 +1,88 @@
+[
+  {
+    "content_id": 727394,
+    "reference_id": 209477,
+    "title": "अनुवाद शुरू करने से पहले प्रशिक्षण",
+    "media_type": "Text",
+    "index_reference": "अनुवाद शुरू करने से पहले प्रशिक्षण",
+    "language": "hin",
+    "content": "<h3>अनुवाद से पहले क्या जानें</h3><p>हम सुझाव देते हैं कि सामग्री के अनुवाद के दौरान आप लगातार <span data-bnType=\"resourceReference\" data-resourceId=\"26802\" data-resourceType=\"UWTranslationManual\">Translation Manual</span> की मदद लें। अनुवाद शुरू करने से पहले, हमारा सुझाव है कि आप अपने तरीके से अनुवाद सहायक पुस्तिका का उपयोग करना शुरू कर दें जब तक कि आपको आक्षरिक अनुवाद एवं अर्थ-आधारित अनुवाद में अंतर समझ में न आ जाए।अनुवाद सहायक पुस्तिका का अधिकाँश भाग ‘‘उसी समय’’ के सीखने के स्रोत के रूप में उपयोग किया जा सकता ह।</p><p>अनुवाद कार्य को शुरू करने से जानने की कुछ महत्वपूर्ण बातें:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">The Qualities of a Good Translation</span> - अच्छे अनुवाद की परिभाषा</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">The Translation Process</span> - एक अच्छा अनुवाद कैसे तैयार किया जाता है</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26792\" data-resourceType=\"UWTranslationManual\">Form and Meaning</span> - रूप और अर्थ में अंतर</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26791\" data-resourceType=\"UWTranslationManual\">Meaning-Based Translations</span> - अर्थआधारित अनुवाद कैसे करें। शुरू कर लेने के साथ साथ, उपयोगी कुछ और महत्वपूर्ण विषय:</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Choosing What to Translate</span> - सुझाव कि कहाँ से अनुवाद शुरू किया जाए</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">First Draft</span> - प्रथम प्रालेख कैसे बनाएँ</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26797\" data-resourceType=\"UWTranslationManual\">Help with Translating</span> - अनुवाद की मदद का उपयोग करना</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26668,
+          "content_id": 799937,
+          "label": "अनुवाद शैली का चयन ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26737,
+          "content_id": 727363,
+          "label": "प्रथम प्रालेख तैयार करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 727384,
+          "label": "अच्छे अनुवादक के गुण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26791,
+          "content_id": 727427,
+          "label": "अर्थ आधारित अनुवाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26792,
+          "content_id": 727428,
+          "label": "प्रारूप एवं अर्थ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26797,
+          "content_id": 727433,
+          "label": "अनुवाद में मदद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 727412,
+          "label": "अनुवाद दल को स्थापित करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 727413,
+          "label": "अनुवाद स्टूडियो स्थापित करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26802,
+          "content_id": 727438,
+          "label": "अनुवाद सहायक पुस्तिका का परिचय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 727446,
+          "label": "अनुवाद प्रक्रिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 727461,
+          "label": "चुनना कि क्या अनुवाद किया जाए",
+          "language": "hin"
+        },
+        {
+          "reference_id": 209493,
+          "content_id": 799958,
+          "label": "अनुवाद अवलोकन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

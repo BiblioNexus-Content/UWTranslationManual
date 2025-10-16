@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 800038,
+    "reference_id": 26673,
+    "title": "Apóstrofe",
+    "media_type": "Text",
+    "index_reference": "apóstrofe",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Um apóstrofe é uma figura de linguagem em que um falante desvia sua atenção dos ouvintes e fala com alguém ou algo que ele sabe que não pode ouvi-lo. Ele faz isso para transmitir aos ouvintes sua mensagem ou sentimentos sobre essa pessoa ou coisa de maneira muito enfática.</p><h1>Razão pela qual isto é um problema de tradução</h1><p>Muitas línguas não utilizam apóstrofes, e isso pode confundir os leitores. Eles podem se perguntar com quem o falante está conversando ou pensar que o falante é louco por falar com coisas ou pessoas que não podem ouvir.</p><h3>Exemplos da Bíblia</h3><p>Montes de Gilboa, que não haja orvalho nem chuva sobre vocês. (2Sm 1.21a)</p><p>O rei Saul foi morto no Monte Gilboa, e Davi cantou uma canção triste sobre isso. Ao dizer a essas montanhas que desejava que não tivessem orvalho nem chuva, ele expressou o quanto estava triste.</p><p>Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados. (Lc 13.34a)</p><p>Jesus estava expressando seus sentimentos pelo povo de Jerusalém na presença de seus discípulos e de um grupo de fariseus. Ao falar diretamente com Jerusalém como se seu povo pudesse ouvi-lo, Jesus demonstrou o quanto se importava profundamente com eles.</p><p>Ele clamou contra o altar pela palavra de Yahweh: “<strong>Altar</strong>, <strong>altar</strong>! Assim diz Yahweh: ‘Veja,... sobre você queimarão ossos humanos’”. (1Rs 13.2)</p><p>O homem de Deus falou como se o altar pudesse ouvi-lo, mas ele realmente queria que o rei, que estava presente, o ouvisse.</p><h3>Estratégias de tradução</h3><p>Se o uso de apóstrofe for natural e transmitir o significado correto em seu idioma, considere utilizá-lo. Caso contrário, se essa forma de falar for confusa para o público, permita que o orador continue se dirigindo às pessoas que estão ouvindo, enquanto ele transmite <strong>a elas</strong> sua mensagem ou sentimentos sobre as pessoas ou coisas que não podem ouvi-lo. Veja o exemplo abaixo.</p><h3>Exemplos de estratégias aplicadas na tradução</h3><p>Ele clamou contra o altar pela palavra de Yahweh: “<strong>Altar</strong>, <strong>altar</strong>! Assim diz Yahweh: ‘Veja,… sobre você queimarão ossos humanos’”. (1Rs 13.2)</p><p>Ele disse isso sobre o altar: “Isto é o que Yahweh diz <strong>sobre este altar.</strong> ‘Veja,... eles queimarão ossos de pessoas sobre <strong>ele</strong>’”.</p><p><strong>Montes de Gilboa</strong>, que não haja orvalho nem chuva sobre <strong>vocês.</strong> (2Sm 1.21a)</p><p><strong>Quanto a estes montes de Gilboa</strong>, que não caia orvalho nem chuva sobre <strong>eles</strong>.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão&nbsp;específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 117236,
+          "content_id": 235965,
+          "label": "Marcos 9.19 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 117685,
+          "content_id": 236414,
+          "label": "Marcos 11.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144291,
+          "content_id": 304214,
+          "label": "Lucas 9.41 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144405,
+          "content_id": 304328,
+          "label": "Lucas 10.13 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 144420,
+          "content_id": 304343,
+          "label": "Lucas 10.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 145162,
+          "content_id": 305085,
+          "label": "Lucas 13.34 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147291,
+          "content_id": 297520,
+          "label": "Mateus 2.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148881,
+          "content_id": 299110,
+          "label": "Mateus 11.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 148897,
+          "content_id": 299126,
+          "label": "Mateus 11.23 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 150087,
+          "content_id": 300316,
+          "label": "Mateus 17.17 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151283,
+          "content_id": 301512,
+          "label": "Mateus 23.37 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146101,
+          "content_id": 306024,
+          "label": "Lucas 19.42 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146114,
+          "content_id": 306037,
+          "label": "Lucas 19.44 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146848,
+          "content_id": 306771,
+          "label": "Lucas 23.30 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176785,
+          "content_id": 584806,
+          "label": "Jó 16.18 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176787,
+          "content_id": 584808,
+          "label": "Jó 16.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176848,
+          "content_id": 584869,
+          "label": "Jó 17.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 176851,
+          "content_id": 584872,
+          "label": "Jó 17.14 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 177926,
+          "content_id": 585947,
+          "label": "Jó 31.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 178496,
+          "content_id": 586517,
+          "label": "Jó 38.11 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157572,
+          "content_id": 642817,
+          "label": "1 Coríntios 15.55 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160139,
+          "content_id": 660601,
+          "label": "Efésios 5.14 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160140,
+          "content_id": 660602,
+          "label": "Efésios 5.14 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185281,
+          "content_id": 745393,
+          "label": "Cântico dos cânticos 2.7 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185448,
+          "content_id": 745560,
+          "label": "Cântico dos cânticos 4.16 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 185704,
+          "content_id": 745816,
+          "label": "Cântico dos cânticos 8.12 (#4)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 800223,
+    "reference_id": 209464,
+    "title": "Introdução ao Manual de Verificação",
+    "media_type": "Text",
+    "index_reference": "introdução ao manual de verificação",
+    "language": "por",
+    "content": "<h3>Manual de Verificação de Tradução</h3><p>Este manual descreve como verificar traduções da Bíblia em Outras Línguas (OLs) quanto à precisão, clareza e naturalidade. Para o processo de verificação dos Idiomas de Acesso (IAs), consulte o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/\">Manual de Idioma de Acesso</a>). Este Manual de Verificação de Tradução também discute a importância de obter aprovação para a tradução e o processo de tradução pelos líderes da igreja da área linguística.</p><p>O manual começa com instruções para verificar a tradução que a equipe de tradução usará para revisar o trabalho uns dos outros. Essas verificações incluem a <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">Verificação oral com um parceiro</span> e a <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Verificação de bloco oral em equipe</span>. Em seguida, há instruções para a equipe de tradução usar ao verificar a tradução com o software translationCore. Estas incluem a <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">Verificação de Palavras de Tradução</span> e a <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Verificação de Notas de Tradução</span>.</p><p>Depois disso, a equipe de tradução precisará verificar a tradução com a <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Comunidade do Idioma</span> para garantir clareza e naturalidade. Isso é necessário porque outros falantes do idioma podem frequentemente sugerir maneiras melhores de expressar as coisas que a equipe de tradução pode não ter considerado. Às vezes, a equipe de tradução faz a tradução soar estranha porque está seguindo muito de perto as palavras do idioma de origem. Outros falantes do idioma podem ajudá-los a corrigir isso. Outra verificação que a equipe de tradução pode fazer neste ponto é a <span data-bnType=\"resourceReference\" data-resourceId=\"209449\" data-resourceType=\"UWTranslationManual\">Verificação do líder da igreja</span> (ou verificação do pastor OL). Como os pastores OL estão familiarizados com a Bíblia no Idioma de Acesso (IA), eles podem verificar a tradução quanto à precisão em relação à Bíblia AI. Eles também podem identificar erros que a equipe de tradução não percebeu porque estão muito próximos e envolvidos em seu trabalho. Além disso, a equipe de tradução pode carecer de alguma expertise ou conhecimento da Bíblia que outros pastores OL possam ter e que não fazem parte da equipe de tradução. Desta forma, toda a comunidade do idioma pode trabalhar junta para garantir que a tradução da Bíblia seja precisa, clara e natural no idioma alvo.</p><p>Uma verificação adicional para a precisão da tradução da Bíblia é alinhá-la aos idiomas originais da Bíblia usando a ferramenta <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Alinhamento de Palavras</span> no Translation Core. Depois que todas essas verificações forem realizadas e a tradução estiver alinhada, os líderes das redes de igrejas OL desejarão <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">revisar</span> a tradução e dar sua <span data-bnType=\"resourceReference\" data-resourceId=\"209469\" data-resourceType=\"UWTranslationManual\">aprovação</span>. Como muitos líderes de redes de igrejas não falam o idioma da tradução, também há instruções para criar uma <span data-bnType=\"resourceReference\" data-resourceId=\"209496\" data-resourceType=\"UWTranslationManual\">Tradução Reversa</span>, que permite que as pessoas verifiquem uma tradução em um idioma que não falam.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209449,
+          "content_id": 800208,
+          "label": "Verificando a precisão da tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 800209,
+          "label": "Verificação de Alinhamento",
+          "language": "por"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 800222,
+          "label": "Verificação de palavras de tradução no tC",
+          "language": "por"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 800227,
+          "label": "Verificando a clareza e naturalidade da tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 209469,
+          "content_id": 800228,
+          "label": "Formulário de avaliação do Verificador de Qualidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 800233,
+          "label": "Verificação oral com um parceiro",
+          "language": "por"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 800248,
+          "label": "Verificação de bloco oral em equipe",
+          "language": "por"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 800249,
+          "label": "Verificação de Notas de Tradução no tC",
+          "language": "por"
+        },
+        {
+          "reference_id": 209496,
+          "content_id": 800255,
+          "label": "Tradução Reversa",
+          "language": "por"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 800261,
+          "label": "Etapas para verificadores de qualidade",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

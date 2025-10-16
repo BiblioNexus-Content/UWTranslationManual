@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800244,
+    "reference_id": 209485,
+    "title": "Como compartilhar conteúdo",
+    "media_type": "Text",
+    "index_reference": "como compartilhar conteúdo",
+    "language": "por",
+    "content": "<h3>Compartilhando conteúdo do tS e tC</h3><p>Compartilhar conteúdo que está no translationStudio é fácil. Para compartilhamento offline, use o recurso de Backup no menu do tS. Para compartilhamento online, use o recurso de Upload no menu do tS. No translationCore, utilize o menu de três pontos na página de Projetos. Para compartilhamento offline, use Exportar para USFM ou Exportar para CSV. Para compartilhamento online, use Upload para Door 43.</p><h3>Compartilhamento de conteúdo no Door 43</h3><p>Se você enviar seu trabalho do translationStudio ou translationCore, ele aparecerá automaticamente online no Door 43. Todo o conteúdo enviado aparecerá na sua conta de usuário. Por exemplo, se seu nome de usuário for <em>usuario_teste</em>, você poderá encontrar todo o seu trabalho em https://git.door 43.org/usuario_teste/. Você pode compartilhar seu trabalho com outras pessoas online fornecendo a elas o link para os projetos que você enviou.</p><h3>Compartilhamento de conteúdo offline</h3><p>Você também pode gerar e baixar documentos das páginas do seu projeto no Door 43. Após baixá-los, você pode transferi-los para outras pessoas da maneira que preferir, incluindo a impressão e distribuição de cópias em papel.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

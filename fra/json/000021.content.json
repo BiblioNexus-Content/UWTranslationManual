@@ -1,0 +1,568 @@
+[
+  {
+    "content_id": 33263,
+    "reference_id": 26677,
+    "title": "Statements — Other Uses",
+    "media_type": "Text",
+    "index_reference": "statements — other uses",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Normally statements are used to give information. Sometimes they are used in the Bible for other functions.</p><h1>Reason This Is a Translation Issue</h1><p>Some languages would not use a statement for some of the functions that statements are used for in the Bible.</p><h3>Examples From the Bible</h3><p>Statements are normally used to give <strong>information</strong>. All of the sentences in John 1:6–8 below are statements, and their function is to give information.</p><p>There was a man who was sent from God, whose name was John. He came as a witness in order to testify about the light, that all might believe through him. John was not the light, but came that he might testify about the light. (John 1:6–8 ULT)</p><p>A statement can also be used as a <strong>command</strong> to tell someone what to do. In the examples below, the high priest used statements with the verb “will” to tell people what to do.</p><p>He commanded them, saying, “This is what you <strong>must</strong> do. A third of you who come on the Sabbath <strong>will</strong> keep watch over the king’s house, and a third <strong>will</strong> be at the Sur Gate, and a third at the gate behind the guardhouse.” (2 Kings 11:5 ULT)</p><p>A statement can also be used to give <strong>instructions</strong>. The speaker below was not just telling Joseph about something Joseph would do in the future; he was telling Joseph what he needed to do.</p><p>She will give birth to a son, and <strong>you will call his name Jesus</strong>, for he will save his people from their sins. (Matthew 1:21 ULT)</p><p>A statement can also be used to make a <strong>request</strong>. The man with leprosy was not just saying what Jesus was able to do. He was also asking Jesus to heal him.</p><p>Behold, a leper came to him and bowed before him, saying, “Lord, if you are willing, <strong>you are able to make me clean</strong>.” (Matthew 8:2 ULT)</p><p>A statement can also be used to <strong>perform</strong> something. By telling Adam that the ground was cursed because of him, God actually cursed it.</p><p>… <strong>cursed is the ground</strong> because of you; (Genesis 3:17b ULT)</p><p>By telling a man that his sins were forgiven, <strong>Jesus forgave</strong> the man’s sins.</p><p>When Jesus saw their faith, he said to the paralyzed man, “<strong>Son, your sins are forgiven</strong>.” (Mark 2:5 ULT)</p><h3>Translation Strategies</h3><p>(1) If the function of a statement would not be understood correctly in your language, <strong>use a sentence type</strong> that would express that function. (2) If the function of a statement would not be understood correctly in your language, <strong>add a sentence type</strong> that would express that function. (3) If the function of a statement would not be understood correctly in your language, <strong>use a verb form</strong> that would express that function.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If the function of a statement would not be understood correctly in your language, use a sentence type that would express that function.</p><p>She will give birth to a son, and <strong>you will call his name Jesus</strong>, for he will save his people from their sins. (Matthew 1:21 ULT)</p><p>The phrase “you will call his name Jesus” is an instruction. It can be translated using the sentence type of a normal instruction.</p><p>She will give birth to a son. <strong>Name him Jesus</strong>, because he will save his people from their sins.</p><p>(2) If the function of a statement would not be understood correctly in your language, add a sentence type that would express that function.</p><p>Lord, if you are willing, <strong>you are able to make me clean</strong>. (Matthew 8:2 ULT)</p><p>The function of “you are able” is to make a request. In addition to the statement, a request can be added.</p><p>Lord, you are able to make me clean. If you are willing, <strong>please do so</strong>. OR: Lord, if you are willing, <strong>please heal me</strong>. I know that you are able to do so.</p><p>(3) If the function of a statement would not be understood correctly in your language, use a verb form that would express that function.</p><p>She will give birth to a son, and <strong>you will call his name Jesus</strong>, for he will save his people from their sins. (Matthew 1:21 ULT)</p><p>She will give birth to a son, and <strong>you must call his name Jesus</strong>, for he will save his people from their sins.</p><p>Son, your sins are forgiven. (Mark 2:5 ULT)</p><p>Son, I forgive your sins. OR: Son, God hereby forgives your sins.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115899,
+          "content_id": 141111,
+          "label": "Mark 1:40 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117307,
+          "content_id": 142519,
+          "label": "Mark 9:35 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117574,
+          "content_id": 142786,
+          "label": "Mark 10:43 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117578,
+          "content_id": 142790,
+          "label": "Mark 10:43 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117581,
+          "content_id": 142793,
+          "label": "Mark 10:44 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117963,
+          "content_id": 143175,
+          "label": "Mark 12:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137110,
+          "content_id": 207637,
+          "label": "Acts 3:22 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137114,
+          "content_id": 207641,
+          "label": "Acts 3:23 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137662,
+          "content_id": 208189,
+          "label": "Acts 7:34 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137923,
+          "content_id": 208450,
+          "label": "Acts 8:33 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138161,
+          "content_id": 208688,
+          "label": "Acts 10:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139145,
+          "content_id": 209672,
+          "label": "Acts 18:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139310,
+          "content_id": 209837,
+          "label": "Acts 19:39 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117976,
+          "content_id": 143188,
+          "label": "Mark 12:31 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139678,
+          "content_id": 210205,
+          "label": "Acts 23:5 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139824,
+          "content_id": 210351,
+          "label": "Acts 25:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140339,
+          "content_id": 210866,
+          "label": "John 2:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141600,
+          "content_id": 212127,
+          "label": "John 11:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141798,
+          "content_id": 212325,
+          "label": "John 12:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141928,
+          "content_id": 212455,
+          "label": "John 13:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141981,
+          "content_id": 212508,
+          "label": "John 13:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141995,
+          "content_id": 212522,
+          "label": "John 14:1 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142820,
+          "content_id": 213347,
+          "label": "Luke 1:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142845,
+          "content_id": 213372,
+          "label": "Luke 1:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142885,
+          "content_id": 213412,
+          "label": "Luke 1:31 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143134,
+          "content_id": 213661,
+          "label": "Luke 2:23 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143156,
+          "content_id": 213683,
+          "label": "Luke 2:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143366,
+          "content_id": 213893,
+          "label": "Luke 4:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143381,
+          "content_id": 213908,
+          "label": "Luke 4:12 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143508,
+          "content_id": 214035,
+          "label": "Luke 5:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144490,
+          "content_id": 215017,
+          "label": "Luke 10:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145056,
+          "content_id": 215583,
+          "label": "Luke 13:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145064,
+          "content_id": 215591,
+          "label": "Luke 13:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145282,
+          "content_id": 215809,
+          "label": "Luke 14:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145624,
+          "content_id": 216151,
+          "label": "Luke 17:4 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145646,
+          "content_id": 216173,
+          "label": "Luke 17:8 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146063,
+          "content_id": 216590,
+          "label": "Luke 19:31 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147498,
+          "content_id": 218025,
+          "label": "Matthew 4:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147512,
+          "content_id": 218039,
+          "label": "Matthew 4:10 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148210,
+          "content_id": 218737,
+          "label": "Matthew 8:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150285,
+          "content_id": 220812,
+          "label": "Matthew 18:21 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150627,
+          "content_id": 221154,
+          "label": "Matthew 20:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150629,
+          "content_id": 221156,
+          "label": "Matthew 20:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150631,
+          "content_id": 221158,
+          "label": "Matthew 20:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151018,
+          "content_id": 221545,
+          "label": "Matthew 22:24 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151074,
+          "content_id": 221601,
+          "label": "Matthew 22:37 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151086,
+          "content_id": 221613,
+          "label": "Matthew 22:39 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151166,
+          "content_id": 221693,
+          "label": "Matthew 23:11 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152032,
+          "content_id": 222559,
+          "label": "Matthew 26:63 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152358,
+          "content_id": 222885,
+          "label": "Matthew 27:65 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 153510,
+          "content_id": 224037,
+          "label": "Romans 6:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154671,
+          "content_id": 225198,
+          "label": "Romans 12:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154674,
+          "content_id": 225201,
+          "label": "Romans 12:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154677,
+          "content_id": 225204,
+          "label": "Romans 12:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154680,
+          "content_id": 225207,
+          "label": "Romans 12:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154684,
+          "content_id": 225211,
+          "label": "Romans 12:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154688,
+          "content_id": 225215,
+          "label": "Romans 12:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154689,
+          "content_id": 225216,
+          "label": "Romans 12:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154694,
+          "content_id": 225221,
+          "label": "Romans 12:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154700,
+          "content_id": 225227,
+          "label": "Romans 12:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 154702,
+          "content_id": 225229,
+          "label": "Romans 12:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159680,
+          "content_id": 244939,
+          "label": "Colossians 3:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161696,
+          "content_id": 246955,
+          "label": "1 Timothy 5:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161778,
+          "content_id": 247037,
+          "label": "1 Timothy 6:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163369,
+          "content_id": 256949,
+          "label": "1 John 5:16 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163424,
+          "content_id": 257004,
+          "label": "1 Peter 1:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163474,
+          "content_id": 257054,
+          "label": "1 Peter 1:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163484,
+          "content_id": 257064,
+          "label": "1 Peter 1:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163490,
+          "content_id": 257070,
+          "label": "1 Peter 1:16 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163536,
+          "content_id": 257116,
+          "label": "1 Peter 2:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163602,
+          "content_id": 257182,
+          "label": "1 Peter 2:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164093,
+          "content_id": 257673,
+          "label": "2 Peter 1:19 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164100,
+          "content_id": 257680,
+          "label": "2 Peter 1:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 164326,
+          "content_id": 257906,
+          "label": "2 Peter 3:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166406,
+          "content_id": 259986,
+          "label": "James 2:8 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166467,
+          "content_id": 260047,
+          "label": "James 2:18 (#9)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176089,
+          "content_id": 269669,
+          "label": "Job 7:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176098,
+          "content_id": 269678,
+          "label": "Job 7:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176103,
+          "content_id": 269683,
+          "label": "Job 7:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176105,
+          "content_id": 269685,
+          "label": "Job 7:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176188,
+          "content_id": 269768,
+          "label": "Job 9:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176500,
+          "content_id": 270080,
+          "label": "Job 13:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178006,
+          "content_id": 271586,
+          "label": "Job 32:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178292,
+          "content_id": 271872,
+          "label": "Job 36:10 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181108,
+          "content_id": 274688,
+          "label": "Proverbs 2:20 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183799,
+          "content_id": 277379,
+          "label": "Proverbs 23:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183803,
+          "content_id": 277383,
+          "label": "Proverbs 23:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183893,
+          "content_id": 277473,
+          "label": "Proverbs 24:11 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183959,
+          "content_id": 277539,
+          "label": "Proverbs 24:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185610,
+          "content_id": 279190,
+          "label": "Song of Solomon 7:8 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187839,
+          "content_id": 392006,
+          "label": "Galatians 5:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187923,
+          "content_id": 392090,
+          "label": "Galatians 6:9 (#4)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

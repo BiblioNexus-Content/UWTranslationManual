@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 33336,
+    "reference_id": 26750,
+    "title": "Honorifics",
+    "media_type": "Text",
+    "index_reference": "honorifics",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>This is the placeholder for an article about discussion of honorifics in biblical literature. This article is still being developed.</p><h1>Reasons This Is a Translation Issue:</h1><p>Text</p><h3>Examples From the Bible</h3><p>Text</p><h3>Translation Strategies</h3><p>Text</p><h3>Examples of Translation Strategies Applied</h3><p>Text</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 139461,
+          "content_id": 209988,
+          "label": "Acts 21:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170686,
+          "content_id": 264266,
+          "label": "Genesis 12:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171214,
+          "content_id": 264794,
+          "label": "Genesis 18:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171578,
+          "content_id": 265158,
+          "label": "Genesis 20:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171656,
+          "content_id": 265236,
+          "label": "Genesis 20:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171910,
+          "content_id": 265490,
+          "label": "Genesis 23:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171950,
+          "content_id": 265530,
+          "label": "Genesis 23:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172062,
+          "content_id": 265642,
+          "label": "Genesis 24:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173335,
+          "content_id": 266915,
+          "label": "Genesis 32:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173354,
+          "content_id": 266934,
+          "label": "Genesis 32:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174112,
+          "content_id": 267692,
+          "label": "Genesis 40:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174119,
+          "content_id": 267699,
+          "label": "Genesis 40:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174132,
+          "content_id": 267712,
+          "label": "Genesis 40:17 (#2)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

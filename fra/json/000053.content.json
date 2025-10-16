@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 33295,
+    "reference_id": 26709,
+    "title": "Word Order",
+    "media_type": "Text",
+    "index_reference": "word order",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>Most languages have a normal way of ordering the parts of a sentence. It is not the same in all languages. You (the translator) need to know what the normal word order is in your language.</p><h3>The Main Parts of a Sentence</h3><p>Most sentences have three basic important parts: subject, object, and verb. Subjects and objects are usually nouns (i.e., a person, place, thing, or idea) or pronouns. Verbs show action or a state of being.</p><h1>Subject</h1><p>The subject is usually what the sentence is about. It usually performs some action or is being described. A subject may be <strong>active</strong>, meaning that it does something, such as sing, work, or teach.</p><ul><li><p><strong>Peter</strong> sings the song well.</p></li></ul><p>A subject may have something done to it.</p><ul><li><p><strong>Peter</strong> was fed good food.</p></li></ul><p>A subject can be described as being in a <strong>state</strong>, such as being happy, sad, or angry.</p><ul><li><p><strong>He</strong> is tall.</p></li><li><p><strong>The boy</strong> is happy.</p></li></ul><h1>Object</h1><p>The <strong>object</strong> is often the thing that the subject does something to.</p><ul><li><p>Peter hit <strong>the ball</strong>.</p></li><li><p>Peter read <strong>a book</strong>.</p></li><li><p>Peter sang <strong>the song</strong> well.</p></li><li><p>Peter ate <strong>good food</strong>.</p></li></ul><h1>Verb</h1><p>The verb shows an action or a state of being.</p><ul><li><p>Peter <strong>sings</strong> the song well.</p></li><li><p>Peter <strong>is singing</strong>.</p></li><li><p>Peter <strong>is</strong> tall.</p></li></ul><h1>Preferred Word Order</h1><p>All languages have a preferred word order. However, word order is more important in some languages than in others. The examples below show the order of the subject, object, and verb in “Peter hit the ball” for some languages.</p><p>In some languages the order is Subject-Verb-Object. This is normal word order for English.</p><ul><li><p>Peter hit the ball.</p></li></ul><p>In some languages the order is Subject-Object-Verb.</p><ul><li><p>Peter the ball hit.</p></li></ul><p>In some languages the order is Verb-Subject-Object. This is normal word order for <span resourceId=\"26711\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Biblical Hebrew</span>.</p><ul><li><p>Hit Peter the ball.</p></li></ul><p>In some languages the order is not important for the meaning of the sentence because the language uses other ways to indicate whether a word is the subject, the verb, or the object. Both <span resourceId=\"26711\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Biblical Aramaic</span> and <span resourceId=\"26710\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Koiné Greek</span> are languages like this.</p><h1>Changes in Word Order</h1><p>Word order can change if the sentence:</p><ul><li><p>is a question or command</p></li><li><p>describes a state of being (He is happy. He is tall.)</p></li><li><p>expresses a condition, such as with the the word “if”</p></li><li><p>has a location</p></li><li><p>has a time element</p></li><li><p>is in a poem</p></li></ul><p>Word order can also change</p><ul><li><p>if there is some kind of emphasis on a certain part of the sentence</p></li><li><p>if the sentence is really about something other than the subject</p></li></ul><h3>Translation Principles</h3><ul><li><p>Know which word order is preferred in your language.</p></li><li><p>Use your language’s preferred word order unless there is some reason in your language to change it.</p></li><li><p>Translate the sentence so that the meaning is accurate and clear and so that it sounds natural.</p></li></ul><p>You may also want to watch the video at https://ufw.io/figs_order.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26710,
+          "content_id": 33296,
+          "label": "Word Order",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26711,
+          "content_id": 33297,
+          "label": "Word Order",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172285,
+          "content_id": 265865,
+          "label": "Genesis 25:11 (#1)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

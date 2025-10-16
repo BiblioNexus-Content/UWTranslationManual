@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800228,
+    "reference_id": 209469,
+    "title": "Formulário de avaliação do Verificador de Qualidade",
+    "media_type": "Text",
+    "index_reference": "formulário de avaliação do verificador de qualidade",
+    "language": "por",
+    "content": "<h3>Formulário de avaliação do Verificador de Qualidade</h3><p>Eu, como Verificador de Qualidade para a * <u>preencher com o nome da rede de igrejas ou outra organização</u> * Rede de Igrejas ou Organização que serve a comunidade do idioma * <u>preencher com o nome da comunidade linguística</u> *, declaro que revisei a tradução de * <u>preencher com o nome da parte da Bíblia verificada</u> * com membros da Equipe de Tradução, e também declaro o seguinte:</p><ol><li><p>A tradução está de acordo com a Declaração de Fé e as Diretrizes de Tradução.</p></li><li><p>A tradução é precisa e clara no idioma de destino.</p></li><li><p>A tradução emprega um estilo aceitável da língua.</p></li><li><p>A comunidade aprova a tradução.</p></li></ol><p>Se algum problema continuar sem resolução após a segunda reunião com a Equipe de Tradução, por favor, anote-os aqui.</p><p>Assinado: <u>assine aqui</u></p><p>Posição: <u>insira sua posição aqui</u></p><p>Para Idiomas de Acesso, você precisará seguir o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/en/latest/gl_checking.html#source-text-creation\">Processo de criação de Texto Fonte</a> para que sua tradução possa se tornar um texto fonte.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

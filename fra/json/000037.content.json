@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 33279,
+    "reference_id": 26693,
+    "title": "Grammar Topics",
+    "media_type": "Text",
+    "index_reference": "grammar topics",
+    "language": "fra",
+    "content": "<p>Grammar has two main parts: words and structure. Structure involves how we put words together to form phrases, clauses, and sentences. Here is a brief overview of Grammar Topics we will deal with in detail.</p><p><strong>Parts of Speech</strong> — Every word in a language belongs to a category called a part of speech. (See <span resourceId=\"26714\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Parts of Speech</span>.)</p><p><strong>Sentences</strong> — When we speak, we organize our thoughts in sentences. A sentence usually has a complete thought about an event or a situation or state of being. (See <span resourceId=\"26725\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Sentence Structure</span>.)</p><ul><li><p>Sentences can be statements, questions, commands, or exclamations. (See <span resourceId=\"26726\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Exclamations</span>.)</p></li><li><p>Sentences can have more than one clause. (See <span resourceId=\"26725\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Sentence Structure</span>.)</p></li><li><p>Some languages have both active and passive sentences. (See <span resourceId=\"26672\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Active or Passive</span>.)</p></li></ul><p><strong>Possession</strong> — This shows that there is a relationship between two nouns. In English it is marked with “of” as in “the love of God,” or with “’s” as in “God’s love,” or with a possessive pronoun as in “his love.” (See <span resourceId=\"26717\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Possession</span>.)</p><p><strong>Quotations</strong> — A quotation is a report of what someone else has said.</p><ul><li><p>Quotations normally have two parts: Information about who said something and what the person said. (See <span resourceId=\"26840\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Quotations and Quote Margins</span>.)</p></li><li><p>Quotations can be either direct quotes or indirect quotes. (See <span resourceId=\"26719\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Direct and Indirect Quotations</span>.)</p></li><li><p>Quotes can have quotes within them. (See <span resourceId=\"26721\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Quotes within Quotes</span>.)</p></li><li><p>Quotes can be marked to make it easy for readers to understand who said what. (See <span resourceId=\"26720\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Quote Markings</span>.)</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26714,
+          "content_id": 33300,
+          "label": "Parts of Speech",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26719,
+          "content_id": 33305,
+          "label": "Direct and Indirect Quotations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26720,
+          "content_id": 33306,
+          "label": "Quote Markings",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26721,
+          "content_id": 33307,
+          "label": "Quotes within Quotes",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26725,
+          "content_id": 33311,
+          "label": "Sentence Structure",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26726,
+          "content_id": 33312,
+          "label": "Sentence Types",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26840,
+          "content_id": 33426,
+          "label": "Quotations and Quote Margins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 689674,
+    "reference_id": 209494,
+    "title": "The unfoldingWord Project",
+    "media_type": "Text",
+    "index_reference": "the unfoldingword project",
+    "language": "fra",
+    "content": "<p>The vision of unfoldingWord is <strong>the church in every people group and the Bible in every language</strong>.</p><p>Jesus commanded his disciples to make disciples of EVERY people group:</p><blockquote><p>Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on the earth. Go, therefore, and make disciples of all the nations. Baptize them into the name of the Father and of the Son and of the Holy Spirit. Teach them to obey all the things that I have commanded you. See, I am with you always, even to the end of the age.” (Matthew 28:18–20 ULT)</p></blockquote><p>We have the promise that people from EVERY language will be in heaven:</p><blockquote><p>“After these things I looked, and there was a huge multitude that no one could count—from every nation, tribe, people, and language—standing before the throne and in front of the Lamb.” (Revelation 7:9 ULT)</p></blockquote><p>Understanding the Word of God in one’s heart language is important:</p><blockquote><p>“So faith comes from hearing, and hearing by the word of Christ.” (Romans 10:17 ULT)</p></blockquote><h3>How Do We Do This?</h3><p>How do we accomplish the goal of <strong>the church in every people group and the Bible in every language</strong>?</p><ul><li><p><a href=\"https://www.ccbt.bible/\" target=\"_blank\" rel=\"noopener nofollow\">Church-Centric Bible Translation</a> — By working with other like-minded churches and organizations</p></li><li><p><span resourceId=\"209487\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Statement of Faith</span> — By working with those who have the same beliefs</p></li><li><p><span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span> — By using a common translation theory</p></li><li><p><span resourceId=\"209472\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Open License</span> — By releasing everything we create under an open license</p></li><li><p><span resourceId=\"209459\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Gateway Languages Strategy</span> — By making biblical content available to translate from a known language</p></li></ul><h3>What Do We Do?</h3><h4>Content</h4><p>We create and make available for translation free and unrestricted biblical content. See https://www.unfoldingword.org/content for a complete list of resources and translations. Here are a few samples:</p><ul><li><p><strong>unfoldingWord® Open Bible Stories</strong> — unrestricted visual Bible stories comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video (see https://www.openbiblestories.org/).</p></li><li><p><strong>unfoldingWord® Literal Text</strong> — a ‘form-centric’ translation of the Bible <em>for translators</em>. It increases the translator’s understanding of the lexical and grammatical composition of the underlying text by adhering closely to the word order and structure of the originals (see https://www.unfoldingword.org/ult).</p></li><li><p><strong>unfoldingWord® Simplified Text</strong> — a ‘functional’ translation of the Bible <em>for translators</em>. It increases the translator’s understanding of the text by simplifying grammar, adding implied information, and translating theological terms as descriptive phrases (see https://www.unfoldingword.org/ust).</p></li><li><p><strong>unfoldingWord® Translation Notes</strong> — linguistic, cultural, and exegetical helps for translators. They exist for Open Bible Stories and the Bible (see https://www.unfoldingword.org/utn).</p></li><li><p><strong>unfoldingWord® Translation Questions</strong> — questions for each chunk of text that translators and checkers can ask to help ensure that their translation is understood correctly. Available for Open Bible Stories and the Bible (see https://www.unfoldingword.org/utq).</p></li><li><p><strong>unfoldingWord® Translation Words</strong> — a list of important biblical terms with a short explanation, cross references, and translation aids. Useful for Open Bible Stories and the Bible (see https://www.unfoldingword.org/utw).</p></li></ul><h4>Tools</h4><p>We create translation, checking, and distribution tools that are free and open-licensed. See https://www.unfoldingword.org/tools for a complete list of tools. Here are a few samples:</p><ul><li><p><strong>Door43</strong> — an online translation platform where people can collaborate on translation and checking, also the content and translation management system (see https://door43.org/).</p></li><li><p><strong>translationStudio</strong> — a mobile app and a desktop app where translators can do offline translating (see https://ufw.io/ts/).</p></li><li><p><strong>unfoldingWord app</strong> — a mobile app where Open Bible Stories and Bible translations can be distributed (see https://ufw.io/uw/).</p></li><li><p><strong>translationCore</strong> — a program that enables comprehensive checking of Bible translations (see https://translationcore.com).</p></li></ul><h4>Training</h4><p>We create resources to train mother tongue translation teams. unfoldingWord® Translation Academy (this resource) is our primary training tool. We also have audio recording and training resources. See https://www.unfoldingword.org/training for a complete list of training materials.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209459,
+          "content_id": 689639,
+          "label": "Gateway Languages Strategy",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209472,
+          "content_id": 689652,
+          "label": "Open License",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 689667,
+          "label": "Statement of Faith",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

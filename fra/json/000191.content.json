@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 689633,
+    "reference_id": 209453,
+    "title": "Accuracy Checking by Church Leaders",
+    "media_type": "Text",
+    "index_reference": "accuracy checking by church leaders",
+    "language": "fra",
+    "content": "<h3>Accuracy Checking by Church Leaders</h3><p>After the translation has been checked by community members for clarity and naturalness, it will be checked by church leaders for accuracy. These are the guidelines for these church leaders who do the accuracy checking. They should be mother-tongue speakers of the target language and also understand well one of the languages in which the source text is available. They should not be the same people who did the translation. They should be church leaders who know the Bible well. Usually these reviewers will be pastors. These church leaders should represent as many of the different church networks in the language community as possible.</p><p>These reviewers should follow these steps:</p><ol start=\"1\"><li><p>Read the <span resourceId=\"209492\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translation Guidelines</span> to make sure that the translation is in agreement with these as they review the translation.</p></li><li><p>Answer the questions about the translator or translation team that are located at <span resourceId=\"26764\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Translator Qualifications</span>.</p></li><li><p>Verify that the translation has been done in a style that is acceptable to the intended audience by asking the questions at <span resourceId=\"209448\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Acceptable Style</span>.</p></li><li><p>Verify that the translation accurately communicates the meaning of the source text by following the guidelines at <span resourceId=\"209449\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Accuracy Check</span>.</p></li><li><p>Verify that the translation is complete by following the guidelines at <span resourceId=\"209456\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Complete Translation</span>.</p></li><li><p>After you (the accuracy checker) have reviewed several chapters or one book of the Bible, meet with the translation team and ask about each problem that you have discovered. Discuss with the translation team how they might adjust the translation in order to fix each problem. Make plans to meet again with the translation team at a later time, after they have had time to adjust the translation and test it with the community.</p></li><li><p>Meet again with the translation team to verify that they have fixed the problems.</p></li><li><p>Affirm that the translation is good on the <span resourceId=\"209461\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Accuracy Affirmation</span> page.</p></li></ol>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26764,
+          "content_id": 33350,
+          "label": "Translator Qualifications",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209448,
+          "content_id": 689628,
+          "label": "Acceptable Style",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209449,
+          "content_id": 689629,
+          "label": "Checking the Translation for Accuracy",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209456,
+          "content_id": 689636,
+          "label": "Complete Translation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209461,
+          "content_id": 689641,
+          "label": "Affirmation of Accuracy and Community Acceptance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 689672,
+          "label": "Translation Guidelines",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

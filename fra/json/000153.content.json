@@ -1,0 +1,172 @@
+[
+  {
+    "content_id": 33395,
+    "reference_id": 26809,
+    "title": "Unusual Uses of the Plural",
+    "media_type": "Text",
+    "index_reference": "unusual uses of the plural",
+    "language": "fra",
+    "content": "<p>The biblical languages sometimes use plural forms to refer to single objects, ideas, or people.</p><h3>Description</h3><p>Using a plural form to refer to something singular is done to show an intensified feeling about the object, idea, or person, or to show that an object or idea is extraordinary in some way. Also, sometimes a person refers to himself or herself with a plural pronoun. If the person is a king or a leader in a high position, this is to show that the person is very important and represents many people. If the person is writing a letter, such as Paul in the New Testament, this is to do the opposite. It is to avoid referring directly to himself, to avoid any sense that he is boasting or drawing attention to himself.</p><h1>Reason This Is a Translation Issue</h1><p>Many languages do not use plural forms to refer to single objects, ideas, or people. In these languages, doing so would be both wrong and confusing. Instead, they need to use a singular form and express any intended intensification in another way.</p><h3>Examples From the Bible</h3><p>The tents of robbers prosper, and securities {are} to the provokers of God (Job 12:6 ULT)</p><p>Job is using the plural form <strong>securities</strong> to indicate that these provokers of God experience security to a supreme extent.</p><p>Now you had cast me deep into the heart of the seas (Jonah 2:3 ULT)</p><p>Jonah refers to the sea using the plural <strong>seas</strong> to intensify the idea of either the sea&#x27;s vastness or activity.</p><p>The letter that you sent to <strong>us</strong> has been carefully read aloud before me. (Ezra 4:18 ULT)</p><p>Artaxerxes, the king of Persia, refers to himself as <strong>us</strong> in response to a letter sent to him.</p><p>…through whom [Jesus] <strong>we</strong> received grace and apostleship for obedience of faith among all the Gentiles (Romans 1:5 ULT)</p><p>Since this letter is from Paul alone, it is likely that he is using the plural <strong>we</strong> to refer to himself.</p><h3>Translation Strategies</h3><p>If a plural form would be natural and give the right meaning in your language, consider using it. If not, consider these strategies.</p><p>(1) Use a singular form instead of the plural. (2) If the plural is used to intensify the meaning, use a singular form with another word that intensifies it such as “very” or “great” or “many.” (3) If the plural is used to intensify or emphasize the meaning, use one of your language’s ways of doing that.</p><h3>Translation Strategies Applied</h3><p>(1) Use a singular form instead of the plural.</p><p>The letter that you sent to <strong>us</strong> has been carefully read aloud before me. (Ezra 4:18 ULT)</p><p>The letter that you sent to <strong>me</strong> has been carefully read aloud before me.</p><p>…through whom [Jesus] <strong>we</strong> received grace and apostleship for obedience of faith among all the Gentiles (Romans 1:5 ULT)</p><p>…through whom [Jesus] <strong>I</strong> received grace and apostleship for obedience of faith among all the Gentiles</p><p>(2) If the plural is used to intensify or emphasize the meaning, use a singular form with another word that intensifies it such as “very” or “great” or “many.”</p><p>The tents of robbers prosper, and <strong>securities {are}</strong> to the provokers of God (Job 12:6 ULT)</p><p>The tents of robbers prosper, and <strong>great security {is}</strong> to the provokers of God</p><p>Now you had cast me deep into the heart of the <strong>seas</strong> (Jonah 2:3 ULT)</p><p>Now you had cast me deep into the heart of the <strong>great sea</strong></p><p>(3) If the plural is used to intensify or emphasize the meaning, use one of your language’s ways of doing that.</p><p>The tents of robbers prosper, and <strong>securities {are}</strong> to the provokers of God (Job 12:6 ULT)</p><p>The tents of robbers prosper, and the provokers of God <strong>enjoy complete security</strong></p><p>Now you had cast me deep into the heart of the <strong>seas</strong> (Jonah 2:3 ULT)</p><p>Now you had cast me deep into the heart of the <strong>raging sea</strong></p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 176430,
+          "content_id": 270010,
+          "label": "Job 12:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176718,
+          "content_id": 270298,
+          "label": "Job 15:26 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176789,
+          "content_id": 270369,
+          "label": "Job 16:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176790,
+          "content_id": 270370,
+          "label": "Job 16:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176803,
+          "content_id": 270383,
+          "label": "Job 17:1 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176857,
+          "content_id": 270437,
+          "label": "Job 17:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176864,
+          "content_id": 270444,
+          "label": "Job 18:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176869,
+          "content_id": 270449,
+          "label": "Job 18:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177071,
+          "content_id": 270651,
+          "label": "Job 20:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177303,
+          "content_id": 270883,
+          "label": "Job 22:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177304,
+          "content_id": 270884,
+          "label": "Job 22:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177478,
+          "content_id": 271058,
+          "label": "Job 25:2 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177864,
+          "content_id": 271444,
+          "label": "Job 31:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178055,
+          "content_id": 271635,
+          "label": "Job 33:15 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178233,
+          "content_id": 271813,
+          "label": "Job 35:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178396,
+          "content_id": 271976,
+          "label": "Job 37:6 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178404,
+          "content_id": 271984,
+          "label": "Job 37:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178433,
+          "content_id": 272013,
+          "label": "Job 37:16 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178523,
+          "content_id": 272103,
+          "label": "Job 38:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178769,
+          "content_id": 272349,
+          "label": "Job 41:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184923,
+          "content_id": 278503,
+          "label": "Ruth 1:15 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185274,
+          "content_id": 278854,
+          "label": "Song of Solomon 2:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185302,
+          "content_id": 278882,
+          "label": "Song of Solomon 2:9 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185340,
+          "content_id": 278920,
+          "label": "Song of Solomon 3:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185446,
+          "content_id": 279026,
+          "label": "Song of Solomon 4:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185766,
+          "content_id": 279346,
+          "label": "Zephaniah 1:9 (#3)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

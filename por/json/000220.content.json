@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800241,
+    "reference_id": 209482,
+    "title": "Configurando o translationCore®",
+    "media_type": "Text",
+    "index_reference": "configurando o translationcore®",
+    "language": "por",
+    "content": "<h3>Como obter o translationCore®</h3><p>O translationCore® é um software de código aberto e licença aberta para verificação de traduções da Bíblia. É totalmente gratuito para uso. A versão mais recente do translationCore para computadores de mesa ou laptops (Windows, Mac ou Linux) está disponível em https://translationcore.com/. Para instalar o programa, clique em &quot;Download&quot; para obter a versão mais recente. Note que você também pode copiar o arquivo de instalação para outros computadores para compartilhar o translationCore com outras pessoas sem usar a internet.</p><h3>Como configurar o translationCore®</h3><p>Para obter documentação sobre como usar o translationCore, consulte https://tc-documentation.readthedocs.io/. A seguir, uma visão geral.</p><h4>Acessar</h4><p>Para começar, você precisará fazer login com um nome de usuário. Se a sua tradução estiver no Door43, use seu nome de usuário do Door43. Se você não quiser usar a internet, pode inserir qualquer nome que desejar usar, seja real ou um pseudônimo.</p><h4>Selecione um projeto</h4><p>Se você fez login com seu nome de usuário do Door43, o translationCore identificará quais traduções pertencem a você e as disponibilizará para download no translationCore. Você pode escolher, na lista de seus projetos no Door43, qual projeto de tradução deseja verificar. Além disso, você pode carregar traduções que já estão salvas em seu computador sem usar a internet.</p><h4>Selecione uma ferramenta</h4><p>O translationCore atualmente contém três ferramentas de verificação:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">Ferramenta de Palavras de Tradução</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">Ferramenta de Notas de Tradução</span></p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Ferramenta de Alinhamento de Palavras</span></p></li></ul><p>As instruções para usar cada ferramenta estão disponíveis ao clicar no nome da ferramenta acima.</p><h3>Depois de usar o translationCore®</h3><p>A qualquer momento, você pode fazer o upload do seu trabalho para o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org\">Door43</a> retornando à lista de projetos, clicando no menu de três pontos ao lado do projeto que deseja enviar e escolhendo &quot;Upload para Door43&quot;. Você também pode salvar seu projeto em um arquivo no seu computador. Uma vez enviado, o Door43 manterá seu trabalho em um repositório sob seu nome de usuário, e você poderá acessar seu trabalho lá (veja <span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publicando</span>).</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209450,
+          "content_id": 800209,
+          "label": "Verificação de Alinhamento",
+          "language": "por"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 800222,
+          "label": "Verificação de palavras de tradução no tC",
+          "language": "por"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 800225,
+          "label": "Introdução a publicação",
+          "language": "por"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 800249,
+          "label": "Verificação de Notas de Tradução no tC",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

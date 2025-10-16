@@ -1,0 +1,1888 @@
+[
+  {
+    "content_id": 33305,
+    "reference_id": 26719,
+    "title": "Direct and Indirect Quotations",
+    "media_type": "Text",
+    "index_reference": "direct and indirect quotations",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>There are two kinds of quotations: direct quotations and indirect quotations.</p><p>A direct quotation occurs when someone reports what another person said from the viewpoint of that original speaker. People usually expect that this kind of quotation will represent the original speaker’s exact words. In the example below, John would have said “I” when referring to himself, so the narrator, who is reporting John’s words, uses the word “I” in the quotation to refer to John. To show that these are John’s exact words, many languages put the words between quotation marks: “”.</p><ul><li><p>John said, “<strong>I</strong> do not know at what time <strong>I</strong> will arrive.”</p></li></ul><p>An indirect quotation occurs when a speaker reports what someone else said, but in this case, the speaker is reporting it from his own point of view instead and not from the original person’s point of view. This kind of quotation usually contains changes in pronouns, and it often includes changes in time, in word choices, and in length. In the example below, the narrator refers to John as “he” in the quotation and uses the word “would” to replace the future tense, indicated by “will.”</p><ul><li><p>John said that <strong>he</strong> did not know at what time <strong>he</strong> would arrive.</p></li></ul><h1>Reason This Is a Translation Issue</h1><p>In some languages, reported speech can be expressed by either direct or indirect quotations. In other languages, it is more natural to use one than the other. There may be a certain meaning implied by using one rather than the other. So for each quotation, translators need to decide whether it is best to translate it as a direct quotation or as an indirect quotation.</p><h3>Examples From the Bible</h3><p>The verses in the examples below contain both direct and indirect quotations. In the explanation below the verse, we have marked in bold the words that are quoted.</p><p>And he commanded him to tell no one, but, “Go, show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.” (Luke 5:14 ULT)</p><ul><li><p>Indirect quote: He commanded him <strong>to tell no one</strong>,</p></li><li><p>Direct quote: but told him, “<strong>Go, show yourself to the priest …</strong>”</p></li></ul><p>And being asked by the Pharisees when the kingdom of God was coming, he answered them and said, “The kingdom of God is not coming with careful observation. Neither will they say, ‘Look, here it is!’ or ‘There it is!’ For indeed, the kingdom of God is among you.” (Luke 17:20–21 ULT)</p><ul><li><p>Indirect quote: Being asked by the Pharisees <strong>when the kingdom of God was coming,</strong></p></li><li><p>Direct quote: he answered them and said, “<strong>The kingdom of God is not coming with careful observation. Neither will they say, ‘Look. here it is!’ or ‘There it is!’ For indeed, the kingdom of God is among you.</strong>”</p></li><li><p>Direct quotes: Neither will they say, ‘<strong>Look, here it is!</strong>’ or, ‘<strong>There it is!</strong>’</p></li></ul><h3>Translation Strategies</h3><p>If the kind of quote used in the source text would work well in your language, consider using it. If the kind of quote used in that context is not natural for your language, follow these strategies.</p><p>(1) If a direct quote would not work well in your language, change it to an indirect quote. (2) If an indirect quote would not work well in your language, change it to a direct quote.</p><h3>Examples of Translation Strategies Applied</h3><p>(1) If a direct quote would not work well in your language, change it to an indirect quote.</p><p>And he commanded him to tell no one, but, “<strong>Go, show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.</strong>” (Luke 5:14 ULT)</p><p>He commanded him to tell no one, but <strong>to go and show himself to the priest and offer a sacrifice for his cleansing according to what Moses commanded, for a testimony to them</strong>.</p><p>(2) If an indirect quote would not work well in your language, change it to a direct quote.</p><p>And he commanded him <strong>to tell no one,</strong> but, “Go, show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them.” (Luke 5:14 ULT)</p><p>He commanded him, “<strong>Tell no one</strong>. But go and show yourself to the priest and offer a sacrifice for your cleansing according to what Moses commanded, for a testimony to them.”</p><p>You may also want to watch the video at https://ufw.io/figs_quotations.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115747,
+          "content_id": 140959,
+          "label": "Mark 1:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 115973,
+          "content_id": 141185,
+          "label": "Mark 2:12 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116072,
+          "content_id": 141284,
+          "label": "Mark 3:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116084,
+          "content_id": 141296,
+          "label": "Mark 3:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116113,
+          "content_id": 141325,
+          "label": "Mark 3:21 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116118,
+          "content_id": 141330,
+          "label": "Mark 3:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116159,
+          "content_id": 141371,
+          "label": "Mark 3:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116166,
+          "content_id": 141378,
+          "label": "Mark 3:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116226,
+          "content_id": 141438,
+          "label": "Mark 4:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116400,
+          "content_id": 141612,
+          "label": "Mark 5:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116408,
+          "content_id": 141620,
+          "label": "Mark 5:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116431,
+          "content_id": 141643,
+          "label": "Mark 5:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116434,
+          "content_id": 141646,
+          "label": "Mark 5:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116452,
+          "content_id": 141664,
+          "label": "Mark 5:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116470,
+          "content_id": 141682,
+          "label": "Mark 5:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116534,
+          "content_id": 141746,
+          "label": "Mark 5:43 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116536,
+          "content_id": 141748,
+          "label": "Mark 5:43 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116574,
+          "content_id": 141786,
+          "label": "Mark 6:8-9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116581,
+          "content_id": 141793,
+          "label": "Mark 6:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116592,
+          "content_id": 141804,
+          "label": "Mark 6:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116599,
+          "content_id": 141811,
+          "label": "Mark 6:14 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116608,
+          "content_id": 141820,
+          "label": "Mark 6:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116626,
+          "content_id": 141838,
+          "label": "Mark 6:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116648,
+          "content_id": 141860,
+          "label": "Mark 6:22 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116651,
+          "content_id": 141863,
+          "label": "Mark 6:23 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116655,
+          "content_id": 141867,
+          "label": "Mark 6:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116710,
+          "content_id": 141922,
+          "label": "Mark 6:39 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116752,
+          "content_id": 141964,
+          "label": "Mark 6:49 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116777,
+          "content_id": 141989,
+          "label": "Mark 6:55 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116782,
+          "content_id": 141994,
+          "label": "Mark 6:56 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116852,
+          "content_id": 142064,
+          "label": "Mark 7:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116924,
+          "content_id": 142136,
+          "label": "Mark 7:26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116953,
+          "content_id": 142165,
+          "label": "Mark 7:32 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116968,
+          "content_id": 142180,
+          "label": "Mark 7:36 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116987,
+          "content_id": 142199,
+          "label": "Mark 8:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116990,
+          "content_id": 142202,
+          "label": "Mark 8:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116994,
+          "content_id": 142206,
+          "label": "Mark 8:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117009,
+          "content_id": 142221,
+          "label": "Mark 8:11 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117034,
+          "content_id": 142246,
+          "label": "Mark 8:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117072,
+          "content_id": 142284,
+          "label": "Mark 8:22 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117075,
+          "content_id": 142287,
+          "label": "Mark 8:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117083,
+          "content_id": 142295,
+          "label": "Mark 8:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117099,
+          "content_id": 142311,
+          "label": "Mark 8:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117101,
+          "content_id": 142313,
+          "label": "Mark 8:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117186,
+          "content_id": 142398,
+          "label": "Mark 9:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117194,
+          "content_id": 142406,
+          "label": "Mark 9:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117222,
+          "content_id": 142434,
+          "label": "Mark 9:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117231,
+          "content_id": 142443,
+          "label": "Mark 9:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117249,
+          "content_id": 142461,
+          "label": "Mark 9:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117261,
+          "content_id": 142473,
+          "label": "Mark 9:23 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117277,
+          "content_id": 142489,
+          "label": "Mark 9:26 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117280,
+          "content_id": 142492,
+          "label": "Mark 9:28 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117299,
+          "content_id": 142511,
+          "label": "Mark 9:33 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117404,
+          "content_id": 142616,
+          "label": "Mark 10:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117407,
+          "content_id": 142619,
+          "label": "Mark 10:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117599,
+          "content_id": 142811,
+          "label": "Mark 10:47 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117608,
+          "content_id": 142820,
+          "label": "Mark 10:49 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117616,
+          "content_id": 142828,
+          "label": "Mark 10:51 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117647,
+          "content_id": 142859,
+          "label": "Mark 11:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117883,
+          "content_id": 143095,
+          "label": "Mark 12:19 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117974,
+          "content_id": 143186,
+          "label": "Mark 12:31 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118247,
+          "content_id": 143459,
+          "label": "Mark 13:34 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136666,
+          "content_id": 207193,
+          "label": "Acts 1:4 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136863,
+          "content_id": 207390,
+          "label": "Acts 2:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137553,
+          "content_id": 208080,
+          "label": "Acts 7:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137850,
+          "content_id": 208377,
+          "label": "Acts 8:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138075,
+          "content_id": 208602,
+          "label": "Acts 9:38 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138255,
+          "content_id": 208782,
+          "label": "Acts 11:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138366,
+          "content_id": 208893,
+          "label": "Acts 12:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138368,
+          "content_id": 208895,
+          "label": "Acts 12:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138388,
+          "content_id": 208915,
+          "label": "Acts 12:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138696,
+          "content_id": 209223,
+          "label": "Acts 14:22 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138972,
+          "content_id": 209499,
+          "label": "Acts 16:38 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139018,
+          "content_id": 209545,
+          "label": "Acts 17:15 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139191,
+          "content_id": 209718,
+          "label": "Acts 19:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139285,
+          "content_id": 209812,
+          "label": "Acts 19:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139440,
+          "content_id": 209967,
+          "label": "Acts 20:38 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139554,
+          "content_id": 210081,
+          "label": "Acts 21:33 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139564,
+          "content_id": 210091,
+          "label": "Acts 21:37 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139652,
+          "content_id": 210179,
+          "label": "Acts 22:25 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139701,
+          "content_id": 210228,
+          "label": "Acts 23:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139715,
+          "content_id": 210242,
+          "label": "Acts 23:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139718,
+          "content_id": 210245,
+          "label": "Acts 23:24 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139737,
+          "content_id": 210264,
+          "label": "Acts 23:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139802,
+          "content_id": 210329,
+          "label": "Acts 25:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139837,
+          "content_id": 210364,
+          "label": "Acts 25:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139848,
+          "content_id": 210375,
+          "label": "Acts 25:24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140055,
+          "content_id": 210582,
+          "label": "Acts 28:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140678,
+          "content_id": 211205,
+          "label": "John 4:51 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140679,
+          "content_id": 211206,
+          "label": "John 4:52 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140683,
+          "content_id": 211210,
+          "label": "John 4:53 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140845,
+          "content_id": 211372,
+          "label": "John 6:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140856,
+          "content_id": 211383,
+          "label": "John 6:12 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141635,
+          "content_id": 212162,
+          "label": "John 11:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141966,
+          "content_id": 212493,
+          "label": "John 13:29 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142720,
+          "content_id": 213247,
+          "label": "John 21:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142737,
+          "content_id": 213264,
+          "label": "John 21:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143512,
+          "content_id": 214039,
+          "label": "Luke 5:14 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144105,
+          "content_id": 214632,
+          "label": "Luke 8:38 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144222,
+          "content_id": 214749,
+          "label": "Luke 9:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145690,
+          "content_id": 216217,
+          "label": "Luke 17:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146159,
+          "content_id": 216686,
+          "label": "Luke 20:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146766,
+          "content_id": 217293,
+          "label": "Luke 23:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146996,
+          "content_id": 217523,
+          "label": "Luke 24:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147283,
+          "content_id": 217810,
+          "label": "Matthew 2:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147298,
+          "content_id": 217825,
+          "label": "Matthew 2:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147315,
+          "content_id": 217842,
+          "label": "Matthew 2:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147351,
+          "content_id": 217878,
+          "label": "Matthew 2:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147359,
+          "content_id": 217886,
+          "label": "Matthew 2:23 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147403,
+          "content_id": 217930,
+          "label": "Matthew 3:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147406,
+          "content_id": 217933,
+          "label": "Matthew 3:9 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147469,
+          "content_id": 217996,
+          "label": "Matthew 4:3 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 147700,
+          "content_id": 218227,
+          "label": "Matthew 5:22 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148035,
+          "content_id": 218562,
+          "label": "Matthew 6:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148288,
+          "content_id": 218815,
+          "label": "Matthew 8:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148364,
+          "content_id": 218891,
+          "label": "Matthew 8:34 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118265,
+          "content_id": 143477,
+          "label": "Mark 14:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118283,
+          "content_id": 143495,
+          "label": "Mark 14:4-5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118412,
+          "content_id": 143624,
+          "label": "Mark 14:32 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118420,
+          "content_id": 143632,
+          "label": "Mark 14:35 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118472,
+          "content_id": 143684,
+          "label": "Mark 14:44 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118576,
+          "content_id": 143788,
+          "label": "Mark 14:69 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118587,
+          "content_id": 143799,
+          "label": "Mark 14:71 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118591,
+          "content_id": 143803,
+          "label": "Mark 14:72 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118773,
+          "content_id": 143985,
+          "label": "Mark 15:44 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 118801,
+          "content_id": 144013,
+          "label": "Mark 16:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148476,
+          "content_id": 219003,
+          "label": "Matthew 9:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148562,
+          "content_id": 219089,
+          "label": "Matthew 9:38 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148987,
+          "content_id": 219514,
+          "label": "Matthew 12:10 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149016,
+          "content_id": 219543,
+          "label": "Matthew 12:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149188,
+          "content_id": 219715,
+          "label": "Matthew 12:47 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149238,
+          "content_id": 219765,
+          "label": "Matthew 13:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149398,
+          "content_id": 219925,
+          "label": "Matthew 13:36 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149474,
+          "content_id": 220001,
+          "label": "Matthew 13:51 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149530,
+          "content_id": 220057,
+          "label": "Matthew 14:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149542,
+          "content_id": 220069,
+          "label": "Matthew 14:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149591,
+          "content_id": 220118,
+          "label": "Matthew 14:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149621,
+          "content_id": 220148,
+          "label": "Matthew 14:26 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149633,
+          "content_id": 220160,
+          "label": "Matthew 14:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149661,
+          "content_id": 220188,
+          "label": "Matthew 14:36 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149857,
+          "content_id": 220384,
+          "label": "Matthew 16:1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149886,
+          "content_id": 220413,
+          "label": "Matthew 16:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149956,
+          "content_id": 220483,
+          "label": "Matthew 16:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149957,
+          "content_id": 220484,
+          "label": "Matthew 16:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149958,
+          "content_id": 220485,
+          "label": "Matthew 16:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150042,
+          "content_id": 220569,
+          "label": "Matthew 17:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150049,
+          "content_id": 220576,
+          "label": "Matthew 17:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150098,
+          "content_id": 220625,
+          "label": "Matthew 17:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150107,
+          "content_id": 220634,
+          "label": "Matthew 17:20 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150158,
+          "content_id": 220685,
+          "label": "Matthew 18:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150306,
+          "content_id": 220833,
+          "label": "Matthew 18:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150325,
+          "content_id": 220852,
+          "label": "Matthew 18:28 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150369,
+          "content_id": 220896,
+          "label": "Matthew 19:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150549,
+          "content_id": 221076,
+          "label": "Matthew 20:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150597,
+          "content_id": 221124,
+          "label": "Matthew 20:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150598,
+          "content_id": 221125,
+          "label": "Matthew 20:21 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150643,
+          "content_id": 221170,
+          "label": "Matthew 20:30 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150657,
+          "content_id": 221184,
+          "label": "Matthew 20:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150738,
+          "content_id": 221265,
+          "label": "Matthew 21:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151766,
+          "content_id": 222293,
+          "label": "Matthew 26:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151781,
+          "content_id": 222308,
+          "label": "Matthew 26:8-9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151965,
+          "content_id": 222492,
+          "label": "Matthew 26:48 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152087,
+          "content_id": 222614,
+          "label": "Matthew 26:75 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152701,
+          "content_id": 223228,
+          "label": "Romans 2:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 152911,
+          "content_id": 223438,
+          "label": "Romans 3:8 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155260,
+          "content_id": 240519,
+          "label": "1 Corinthians 1:12 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155298,
+          "content_id": 240557,
+          "label": "1 Corinthians 1:19 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155506,
+          "content_id": 240765,
+          "label": "1 Corinthians 3:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155596,
+          "content_id": 240855,
+          "label": "1 Corinthians 3:19 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155601,
+          "content_id": 240860,
+          "label": "1 Corinthians 3:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155652,
+          "content_id": 240911,
+          "label": "1 Corinthians 4:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155835,
+          "content_id": 241094,
+          "label": "1 Corinthians 5:13 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 155932,
+          "content_id": 241191,
+          "label": "1 Corinthians 6:16 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156334,
+          "content_id": 241593,
+          "label": "1 Corinthians 9:9 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156486,
+          "content_id": 241745,
+          "label": "1 Corinthians 10:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156576,
+          "content_id": 241835,
+          "label": "1 Corinthians 10:26 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156588,
+          "content_id": 241847,
+          "label": "1 Corinthians 10:28 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156739,
+          "content_id": 241998,
+          "label": "1 Corinthians 11:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156747,
+          "content_id": 242006,
+          "label": "1 Corinthians 11:25 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156803,
+          "content_id": 242062,
+          "label": "1 Corinthians 12:3 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156863,
+          "content_id": 242122,
+          "label": "1 Corinthians 12:15 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156870,
+          "content_id": 242129,
+          "label": "1 Corinthians 12:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 156889,
+          "content_id": 242148,
+          "label": "1 Corinthians 12:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157116,
+          "content_id": 242375,
+          "label": "1 Corinthians 14:21 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157146,
+          "content_id": 242405,
+          "label": "1 Corinthians 14:25 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157382,
+          "content_id": 242641,
+          "label": "1 Corinthians 15:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157386,
+          "content_id": 242645,
+          "label": "1 Corinthians 15:27 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157429,
+          "content_id": 242688,
+          "label": "1 Corinthians 15:32 (#11)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157433,
+          "content_id": 242692,
+          "label": "1 Corinthians 15:33 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157444,
+          "content_id": 242703,
+          "label": "1 Corinthians 15:35 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157497,
+          "content_id": 242756,
+          "label": "1 Corinthians 15:45 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157566,
+          "content_id": 242825,
+          "label": "1 Corinthians 15:54 (#12)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 157571,
+          "content_id": 242830,
+          "label": "1 Corinthians 15:55 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158140,
+          "content_id": 243399,
+          "label": "2 Corinthians 4:6 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158359,
+          "content_id": 243618,
+          "label": "2 Corinthians 5:20 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158694,
+          "content_id": 243953,
+          "label": "2 Corinthians 9:2 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 158829,
+          "content_id": 244088,
+          "label": "2 Corinthians 10:10 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159073,
+          "content_id": 244332,
+          "label": "2 Corinthians 12:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 159785,
+          "content_id": 245044,
+          "label": "Colossians 4:17 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 160913,
+          "content_id": 246172,
+          "label": "1 Thessalonians 3:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 161110,
+          "content_id": 246369,
+          "label": "1 Thessalonians 5:3 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 163344,
+          "content_id": 256924,
+          "label": "1 John 5:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166459,
+          "content_id": 260039,
+          "label": "James 2:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166463,
+          "content_id": 260043,
+          "label": "James 2:18 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 167469,
+          "content_id": 261049,
+          "label": "Revelation 9:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170668,
+          "content_id": 264248,
+          "label": "Genesis 12:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 170671,
+          "content_id": 264251,
+          "label": "Genesis 12:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171068,
+          "content_id": 264648,
+          "label": "Genesis 16:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171279,
+          "content_id": 264859,
+          "label": "Genesis 18:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171337,
+          "content_id": 264917,
+          "label": "Genesis 18:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 171884,
+          "content_id": 265464,
+          "label": "Genesis 22:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172107,
+          "content_id": 265687,
+          "label": "Genesis 24:30 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172390,
+          "content_id": 265970,
+          "label": "Genesis 26:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172391,
+          "content_id": 265971,
+          "label": "Genesis 26:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172392,
+          "content_id": 265972,
+          "label": "Genesis 26:7 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172433,
+          "content_id": 266013,
+          "label": "Genesis 26:20 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172517,
+          "content_id": 266097,
+          "label": "Genesis 27:7 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172695,
+          "content_id": 266275,
+          "label": "Genesis 28:6 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172771,
+          "content_id": 266351,
+          "label": "Genesis 29:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 172798,
+          "content_id": 266378,
+          "label": "Genesis 29:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173069,
+          "content_id": 266649,
+          "label": "Genesis 31:8 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173073,
+          "content_id": 266653,
+          "label": "Genesis 31:8 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173310,
+          "content_id": 266890,
+          "label": "Genesis 32:16 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173325,
+          "content_id": 266905,
+          "label": "Genesis 32:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173347,
+          "content_id": 266927,
+          "label": "Genesis 32:27 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173348,
+          "content_id": 266928,
+          "label": "Genesis 32:27 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173355,
+          "content_id": 266935,
+          "label": "Genesis 32:29 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173799,
+          "content_id": 267379,
+          "label": "Genesis 37:15 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173805,
+          "content_id": 267385,
+          "label": "Genesis 37:17 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 173951,
+          "content_id": 267531,
+          "label": "Genesis 38:22 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174055,
+          "content_id": 267635,
+          "label": "Genesis 39:19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174374,
+          "content_id": 267954,
+          "label": "Genesis 42:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174846,
+          "content_id": 268426,
+          "label": "Genesis 45:16 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 174877,
+          "content_id": 268457,
+          "label": "Genesis 45:24 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175119,
+          "content_id": 268699,
+          "label": "Genesis 48:1 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175121,
+          "content_id": 268701,
+          "label": "Genesis 48:2 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175352,
+          "content_id": 268932,
+          "label": "Genesis 50:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175353,
+          "content_id": 268933,
+          "label": "Genesis 50:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175356,
+          "content_id": 268936,
+          "label": "Genesis 50:6 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175394,
+          "content_id": 268974,
+          "label": "Genesis 50:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 175395,
+          "content_id": 268975,
+          "label": "Genesis 50:17 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176090,
+          "content_id": 269670,
+          "label": "Job 7:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176168,
+          "content_id": 269748,
+          "label": "Job 8:18 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176239,
+          "content_id": 269819,
+          "label": "Job 9:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176256,
+          "content_id": 269836,
+          "label": "Job 9:27 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 176841,
+          "content_id": 270421,
+          "label": "Job 17:12 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 177276,
+          "content_id": 270856,
+          "label": "Job 22:20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178051,
+          "content_id": 271631,
+          "label": "Job 33:13 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178250,
+          "content_id": 271830,
+          "label": "Job 35:14 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 178291,
+          "content_id": 271871,
+          "label": "Job 36:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180736,
+          "content_id": 274316,
+          "label": "Obadiah 1:1 (#10)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 180980,
+          "content_id": 274560,
+          "label": "Proverbs 1:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 181645,
+          "content_id": 275225,
+          "label": "Proverbs 7:4 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183337,
+          "content_id": 276917,
+          "label": "Proverbs 20:9 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183358,
+          "content_id": 276938,
+          "label": "Proverbs 20:14 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183394,
+          "content_id": 276974,
+          "label": "Proverbs 20:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183620,
+          "content_id": 277200,
+          "label": "Proverbs 22:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183728,
+          "content_id": 277308,
+          "label": "Proverbs 23:7 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183839,
+          "content_id": 277419,
+          "label": "Proverbs 23:35 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183896,
+          "content_id": 277476,
+          "label": "Proverbs 24:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183948,
+          "content_id": 277528,
+          "label": "Proverbs 24:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 183962,
+          "content_id": 277542,
+          "label": "Proverbs 24:29 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184007,
+          "content_id": 277587,
+          "label": "Proverbs 25:7 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184167,
+          "content_id": 277747,
+          "label": "Proverbs 26:13 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184465,
+          "content_id": 278045,
+          "label": "Proverbs 28:24 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184656,
+          "content_id": 278236,
+          "label": "Proverbs 30:9 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184712,
+          "content_id": 278292,
+          "label": "Proverbs 30:20 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185093,
+          "content_id": 278673,
+          "label": "Ruth 4:1 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 185855,
+          "content_id": 279435,
+          "label": "Zephaniah 2:5 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 187323,
+          "content_id": 391490,
+          "label": "Galatians 2:14 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188025,
+          "content_id": 392192,
+          "label": "Exodus 1:18 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188039,
+          "content_id": 392206,
+          "label": "Exodus 1:22 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188077,
+          "content_id": 392244,
+          "label": "Exodus 2:10 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188093,
+          "content_id": 392260,
+          "label": "Exodus 2:14 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188110,
+          "content_id": 392277,
+          "label": "Exodus 2:18 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188317,
+          "content_id": 392484,
+          "label": "Exodus 4:23 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188335,
+          "content_id": 392502,
+          "label": "Exodus 4:26 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188385,
+          "content_id": 392552,
+          "label": "Exodus 5:10 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188443,
+          "content_id": 392610,
+          "label": "Exodus 6:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188461,
+          "content_id": 392628,
+          "label": "Exodus 6:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188502,
+          "content_id": 392669,
+          "label": "Exodus 7:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188519,
+          "content_id": 392686,
+          "label": "Exodus 7:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188561,
+          "content_id": 392728,
+          "label": "Exodus 8:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188569,
+          "content_id": 392736,
+          "label": "Exodus 8:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188582,
+          "content_id": 392749,
+          "label": "Exodus 8:8 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188596,
+          "content_id": 392763,
+          "label": "Exodus 8:16 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188617,
+          "content_id": 392784,
+          "label": "Exodus 8:20 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188716,
+          "content_id": 392883,
+          "label": "Exodus 9:13 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188772,
+          "content_id": 392939,
+          "label": "Exodus 10:3 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189002,
+          "content_id": 393169,
+          "label": "Exodus 14:2 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189004,
+          "content_id": 393171,
+          "label": "Exodus 14:3 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189031,
+          "content_id": 393198,
+          "label": "Exodus 14:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189058,
+          "content_id": 393225,
+          "label": "Exodus 14:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 189577,
+          "content_id": 393744,
+          "label": "Exodus 25:2 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190026,
+          "content_id": 394193,
+          "label": "Exodus 32:26 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190056,
+          "content_id": 394223,
+          "label": "Exodus 33:5 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190076,
+          "content_id": 394243,
+          "label": "Exodus 33:12 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190221,
+          "content_id": 394388,
+          "label": "Exodus 35:5-19 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190315,
+          "content_id": 394482,
+          "label": "Exodus 36:5 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190316,
+          "content_id": 394483,
+          "label": "Exodus 36:6 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 198647,
+          "content_id": 462968,
+          "label": "Ezra 5:4 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199069,
+          "content_id": 463390,
+          "label": "Ezra 8:17 (#6)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 199097,
+          "content_id": 463418,
+          "label": "Ezra 8:22 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202932,
+          "content_id": 499867,
+          "label": "Joel 2:13 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202955,
+          "content_id": 499890,
+          "label": "Joel 2:19 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202966,
+          "content_id": 499901,
+          "label": "Joel 2:20 (#8)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 202983,
+          "content_id": 499918,
+          "label": "Joel 2:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203019,
+          "content_id": 499954,
+          "label": "Joel 3:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203056,
+          "content_id": 499991,
+          "label": "Joel 3:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203076,
+          "content_id": 500011,
+          "label": "Joel 3:18 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 203092,
+          "content_id": 500027,
+          "label": "Joel 3:21 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184193,
+          "content_id": 277773,
+          "label": "Proverbs 26:19 (#3)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

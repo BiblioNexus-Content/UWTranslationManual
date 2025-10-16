@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 727438,
+    "reference_id": 26802,
+    "title": "अनुवाद सहायक पुस्तिका का परिचय",
+    "media_type": "Text",
+    "index_reference": "अनुवाद सहायक पुस्तिका का परिचय",
+    "language": "hin",
+    "content": "<h3>अनुवाद निर्देश पुस्तिका क्या सिखाती है?</h3><p>यह निर्देश पुस्तिका अनुवाद सिद्धान्त और अन्य भाषाओं (ओएलएस) में एक अच्छा अनुवाद कैसे करना है, को सिखाती है। इस निर्देश पुस्तिका में अनुवाद के कुछ सिद्धान्त गेटवे भाषा अर्थात् प्रवेशिका भाषा के अनुवाद पर भी लागू होते हैं। गेटवे भाषाओं के लिए अनुवाद संसाधनों की सूची को कैसे अनुवाद करना है, के तरीके के बारे में विशेष निर्देश के लिए, कृपया गेटवे भाषा निर्देश पुस्तिका को देखें। किसी भी प्रकार की अनुवाद परियोजना आरम्भ करने से पहले इन मॉड्यूलों अर्थात् खण्डों में से कईयों का अध्ययन करना बहुत उपयोगी होगा। अन्य मॉड्यूल, जैसे कि व्याकरण के बारे में, केवल अनुवाद के &quot;समय-में-ही&quot; सीखना आवश्यक हैं।</p><p>अनुवाद निर्देश पुस्तिका में कुछ मुख्य अंश:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">एक अच्छे अनुवाद की विशेषताएँ</span> - एक अच्छा अनुवाद परिभाषित करना</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">अनुवाद प्रक्रिया</span> - एक अच्छा अनुवाद कैसे प्राप्त करें</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">एक अनुवाद समूह का चयन</span> - एक अनुवाद परियोजना आरम्भ को करने से पहले कुछ बातों पर विचार करना</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">क्या अनुवाद करना है का चयन करना</span> - अनुवाद आरम्भ करना क्या होता है</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26669,
+          "content_id": 727301,
+          "label": "अनुवाद दल को चुनना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 727384,
+          "label": "अच्छे अनुवादक के गुण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 727446,
+          "label": "अनुवाद प्रक्रिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 727461,
+          "label": "चुनना कि क्या अनुवाद किया जाए",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

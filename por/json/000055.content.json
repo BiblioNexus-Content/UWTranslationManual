@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 800076,
+    "reference_id": 26711,
+    "title": "Ordem das palavras",
+    "media_type": "Text",
+    "index_reference": "ordem das palavras",
+    "language": "por",
+    "content": "<p>A ordem normal das palavras no hebraico bíblico é: <strong>conjunção –verbo – sujeito – objeto</strong>.</p><p>No entanto, há muitas razões diferentes pelas quais um escritor ou orador de hebraico bíblico pode escolher uma ordem das palavras diferente. Algumas das variações são importantes para entender e traduzir o texto hebraico, enquanto outras não. Este módulo explicará brevemente algumas das variações mais importantes na ordem das palavras em hebraico e como essas variações afetam o significado do texto.</p><h1><strong>Partícula</strong> – verbo – sujeito –objeto</h1><p>Uma partícula é uma palavra que tem uma função gramatical, mas não se encaixa nas principais partes do discurso (ou seja, substantivo, verbo, advérbio). As partículas não mudam. Às vezes, uma partícula ocupa o lugar da conjunção. Frequentemente (mas nem sempre) nesses casos, a partícula funciona como uma <span data-bnType=\"resourceReference\" data-resourceId=\"26749\" data-resourceType=\"UWTranslationManual\">palavra de conexão</span> que expressa um tipo específico de relação lógica entre o trecho antes da partícula e o trecho após a partícula. NOTA: esta regra não se aplica a partículas negativas ou partículas temporais.</p><h1>Conjunção – <strong>sujeito </strong>– verbo – objeto</h1><p>Muitas vezes, o sujeito de uma frase aparece antes do verbo em vez de depois dele. Muitas dessas instâncias têm pouco impacto no significado de uma frase ou parágrafo. No entanto, às vezes um escritor/orador coloca o sujeito primeiro para <span data-bnType=\"resourceReference\" data-resourceId=\"26833\" data-resourceType=\"UWTranslationManual\">iniciar uma nova história ou evento</span>, para <span data-bnType=\"resourceReference\" data-resourceId=\"26829\" data-resourceType=\"UWTranslationManual\">fornecer informações de fundo</span>, para <span data-bnType=\"resourceReference\" data-resourceId=\"26835\" data-resourceType=\"UWTranslationManual\">introduzir um novo participante (ou reintroduzir um participante antigo)</span> ou para <span data-bnType=\"resourceReference\" data-resourceId=\"26831\" data-resourceType=\"UWTranslationManual\">concluir uma história</span>.</p><h1>Conjunção – <strong>frase temporal</strong> – verbo – sujeito – objeto</h1><p>Uma frase temporal é composta por palavras que indicam quando algo acontece, por quanto tempo acontece ou com que frequência acontece. Quando uma frase temporal aparece antes do verbo, muitas vezes (mas nem sempre) a frase temporal <span data-bnType=\"resourceReference\" data-resourceId=\"26833\" data-resourceType=\"UWTranslationManual\">introduz uma nova história ou evento</span> na narrativa. Às vezes, uma conjunção aparece antes da frase temporal, e às vezes não.</p><h1>Conjunção – <strong>qualquer outra parte do discurso</strong> – verbo – sujeito – objeto</h1><p>Quando outra parte da fala (além de uma frase temporal ou partícula negativa) aparece antes do verbo, geralmente (mas nem sempre) é porque o escritor ou orador está enfatizando esse item específico como a informação mais importante na frase.</p><h3>Ordem das palavras no aramaico bíblico</h3><p>A maioria dos estudiosos concorda que a ordem das palavras é tão flexível no aramaico bíblico que não se pode observar um padrão distinto de ordem padrão das palavras. Portanto, é melhor assumir que a ordem das palavras não afeta o significado de uma frase em aramaico.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26749,
+          "content_id": 800114,
+          "label": "Palavras e frases conectivas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26829,
+          "content_id": 800194,
+          "label": "Informações de fundo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26831,
+          "content_id": 800196,
+          "label": "Fim da história",
+          "language": "por"
+        },
+        {
+          "reference_id": 26833,
+          "content_id": 800198,
+          "label": "Introdução de um novo evento",
+          "language": "por"
+        },
+        {
+          "reference_id": 26835,
+          "content_id": 800200,
+          "label": "Introdução de novos e antigos participantes",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 800134,
+    "reference_id": 26769,
+    "title": "Notas com definições",
+    "media_type": "Text",
+    "index_reference": "notas com definições",
+    "language": "por",
+    "content": "<h3>Descrição</h3><p>Às vezes, você pode não saber o significado de uma palavra na tradução literal livre. As notas podem conter uma definição ou descrição da palavra ou frase para ajudá-lo a entender seu significado.</p><h3>Exemplos de notas de tradução</h3><p>Definições simples de palavras ou frases são adicionadas sem aspas ou formatação de frase. Aqui estão alguns exemplos:</p><p>É como crianças sentadas no mercado, que chamam umas às outras e dizem: “Tocamos uma <strong>flauta</strong> para vocês” (Mateus 11.16b-17a).</p><ul><li><p><strong>mercado</strong> — uma área ampla e ao ar livre onde as pessoas vêm para vender seus produtos.</p></li><li><p><strong>flauta</strong> — um instrumento musical longo e oco que é tocado ao soprar ar em uma extremidade ou sobre ela.</p></li></ul><p>Eis que aqueles que vestem roupas caras e vivem no luxo estão nos <strong>palácios dos reis.</strong> (Lucas 7.25b)</p><ul><li><p><strong>palácios dos reis</strong> — as grandes e luxuosas residências onde os reis vivem</p></li></ul><h3>Princípios de tradução</h3><ul><li><p>Utilize palavras que já fazem parte do seu idioma, se possível.</p></li><li><p>Mantenha as expressões breves, se possível.</p></li><li><p>Represente os mandamentos de Deus e os fatos históricos com precisão.</p></li></ul><h3>Estratégias de tradução</h3><p>Consulte <span data-bnType=\"resourceReference\" data-resourceId=\"26822\" data-resourceType=\"UWTranslationManual\">Traduzir desconhecidos</span> para mais informações sobre como traduzir palavras ou frases que não são conhecidas em seu idioma.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 800187,
+          "label": "Traduzir desconhecidos",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

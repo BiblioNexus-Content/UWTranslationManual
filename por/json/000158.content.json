@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 800179,
+    "reference_id": 26814,
+    "title": "Escolhendo um texto fonte",
+    "media_type": "Text",
+    "index_reference": "escolhendo um texto fonte",
+    "language": "por",
+    "content": "<h3>Fatores a considerar para um texto original</h3><p>Muitas equipes de tradução podem querer usar uma tradução da Bíblia em seu Idioma de Acesso como um texto fonte adicional. Uma dessas versões podem servir como um modelo de como as coisas podem ser ditas de forma natural no Idioma de Acesso. Outra boa opção para este outro texto fonte é escolher uma tradução que exista em um idioma relacionado ao idioma alvo. Isso pode ser especialmente útil para ver como esses tradutores expressaram o significado de forma clara e natural para o idioma relacionado. Ao escolher este texto fonte, há vários fatores que devem ser considerados:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209487\" data-resourceType=\"UWTranslationManual\"><strong>Declaração de fé</strong></span> — O texto está em conformidade com a Declaração de Fé?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209492\" data-resourceType=\"UWTranslationManual\"><strong>Diretrizes de tradução</strong></span> — O texto está em conformidade com as Diretrizes de Tradução?</p></li><li><p><strong>Idioma</strong> — O texto está em um idioma que os tradutores e revisores compreendem bem?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26813\" data-resourceType=\"UWTranslationManual\"><strong>Direitos autorais, licenciamento e textos fonte</strong></span> — O texto está disponível sob uma licença que oferece liberdade legal suficiente?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26815\" data-resourceType=\"UWTranslationManual\"><strong>Textos fonte e números de versões</strong></span> — O texto está na versão mais recente e atualizada?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26808\" data-resourceType=\"UWTranslationManual\"><strong>Os idiomas originais e de origem</strong></span> — A equipe de tradução compreende a diferença entre idiomas de origem e idiomas originais?</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26803\" data-resourceType=\"UWTranslationManual\"><strong>Manuscritos originais</strong></span> — A equipe de tradução compreende os Manuscritos originais e as <span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">Variantes textuais</span>?</p></li></ul><p>É importante que os líderes das igrejas no grupo linguístico concordem que o texto fonte é adequado. Eles devem concordar que é uma tradução precisa dos textos na língua original e que transmite o significado de forma clara e natural para os falantes do Idioma de Acesso ou de uma língua relacionada.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26803,
+          "content_id": 800168,
+          "label": "Manuscritos originais",
+          "language": "por"
+        },
+        {
+          "reference_id": 26808,
+          "content_id": 800173,
+          "label": "Os idiomas originais e de origem",
+          "language": "por"
+        },
+        {
+          "reference_id": 26813,
+          "content_id": 800178,
+          "label": "Direitos autorais, licenciamento e textos fonte",
+          "language": "por"
+        },
+        {
+          "reference_id": 26815,
+          "content_id": 800180,
+          "label": "Textos fonte e números de versões",
+          "language": "por"
+        },
+        {
+          "reference_id": 26819,
+          "content_id": 800184,
+          "label": "Variantes textuais",
+          "language": "por"
+        },
+        {
+          "reference_id": 209487,
+          "content_id": 800246,
+          "label": "Declaração de Fé",
+          "language": "por"
+        },
+        {
+          "reference_id": 209492,
+          "content_id": 800251,
+          "label": "Orientações de tradução",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

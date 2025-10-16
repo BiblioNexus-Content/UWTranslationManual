@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 33363,
+    "reference_id": 26777,
+    "title": "Notes with Synonyms and Equivalent Phrases",
+    "media_type": "Text",
+    "index_reference": "notes with synonyms and equivalent phrases",
+    "language": "eng",
+    "content": "<h3>Description</h3><p>Some Notes provide a translation suggestion (“Alternate translation”) that can replace the word or phrase that they quote from the ULT. These replacements can fit into the sentence without changing the meaning of the sentence. These synonyms and equivalent phrases are enclosed in double-quotes. They mean the same as the text in the ULT. This kind of Note can help you to think of other ways to say the same thing in case the word or phrase in the ULT does not seem to have a natural equivalent in your language.</p><h3>Translation Notes Examples</h3><p>Make ready <strong>the way</strong> of the Lord, (Luke 3:4b ULT)</p><ul><li><p><strong>the way</strong> — “the path” or “the road”</p></li></ul><p>In this example, the words “the path” or the words “the road” can replace the words “the way” found in the ULT. You can decide whether it is natural to say “way,” “path,” or “road” in your language.</p><p><strong>Likewise, deacons</strong> must be dignified, not double-talkers. (1 Timothy 3:8a ULT)</p><ul><li><p><strong>Deacons, likewise</strong> — “In the same way, deacons” or “Deacons, like overseers”</p></li></ul><p>In this example, the words “In the same way, deacons” or “Deacons, like overseers” can replace the words “Likewise, deacons” in the ULT. You, as the translator, can decide what is natural for your language.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

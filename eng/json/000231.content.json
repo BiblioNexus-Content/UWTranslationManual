@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 689673,
+    "reference_id": 209493,
+    "title": "Translation Overview",
+    "media_type": "Text",
+    "index_reference": "translation overview",
+    "language": "eng",
+    "content": "<h3>OL Translation Process</h3><p>For “Other Languages” (OLs, languages other than Gateway Languages), which are most of the languages of the world, the following is the process of translation that unfoldingWord recommends and supports with translation resources and tools.</p><p>After <span data-bnType=\"resourceReference\" data-resourceId=\"209483\" data-resourceType=\"UWTranslationManual\">Setting up a Translation Committee</span> and training translators in <span data-bnType=\"resourceReference\" data-resourceId=\"209477\" data-resourceType=\"UWTranslationManual\">Translation Principles</span> and how to use <span data-bnType=\"resourceReference\" data-resourceId=\"209484\" data-resourceType=\"UWTranslationManual\">translationStudio</span>, we recommend that you follow this process:</p><ol><li><p>Using translationStudio, make a <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">First Draft</span> translation of a story from Open Bible Stories (OBS).</p></li><li><p>Check the translation with a <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">Partner</span> on your translation team.</p></li><li><p>Check the translation with the <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Full Translation Team</span>.</p></li><li><p>Check the translation using the <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">translationNotes</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">translationWords</span>.</p></li><li><p>Check the translation with the <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Language Community</span>.</p></li><li><p>Check the translation with <span data-bnType=\"resourceReference\" data-resourceId=\"209453\" data-resourceType=\"UWTranslationManual\">Pastors from the Language Community</span>.</p></li><li><p>Check the translation with <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">Leaders of Church Networks</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publish</span> the translation on Door43, in print, and in audio, as desired.</p></li></ol><p>Repeat these steps with each story of Open Bible Stories, until you have finished all fifty.</p><p>After finishing Open Bible Stories, you will have gained enough skill and experience to start translating the Bible. We recommend that you start with a book that is <span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Difficulty Level 2</span>. Then follow this process:</p><ol><li><p>Using translationStudio, make a <span data-bnType=\"resourceReference\" data-resourceId=\"26737\" data-resourceType=\"UWTranslationManual\">First Draft</span> translation of a book of the Bible.</p></li><li><p>Check the translation with a <span data-bnType=\"resourceReference\" data-resourceId=\"209474\" data-resourceType=\"UWTranslationManual\">Partner</span> on your translation team.</p></li><li><p>Check the translation with the <span data-bnType=\"resourceReference\" data-resourceId=\"209489\" data-resourceType=\"UWTranslationManual\">Full Translation Team</span>.</p></li><li><p>Check the translation using the <span data-bnType=\"resourceReference\" data-resourceId=\"209490\" data-resourceType=\"UWTranslationManual\">translationNotes</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"209463\" data-resourceType=\"UWTranslationManual\">translationWords</span> tools in <span data-bnType=\"resourceReference\" data-resourceId=\"209482\" data-resourceType=\"UWTranslationManual\">translationCore</span>.</p></li><li><p>Check the translation with the <span data-bnType=\"resourceReference\" data-resourceId=\"209468\" data-resourceType=\"UWTranslationManual\">Language Community</span>.</p></li><li><p>Check the translation with <span data-bnType=\"resourceReference\" data-resourceId=\"209453\" data-resourceType=\"UWTranslationManual\">Pastors from the Language Community</span>.</p></li><li><p>Align the translation with the original languages using the <span data-bnType=\"resourceReference\" data-resourceId=\"209450\" data-resourceType=\"UWTranslationManual\">Aligning Tool</span> in <span data-bnType=\"resourceReference\" data-resourceId=\"209482\" data-resourceType=\"UWTranslationManual\">translationCore</span>.</p></li><li><p>Check the translation with <span data-bnType=\"resourceReference\" data-resourceId=\"209502\" data-resourceType=\"UWTranslationManual\">Leaders of Church Networks</span>.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"209466\" data-resourceType=\"UWTranslationManual\">Publish</span> the translation on Door43, in print, and in audio, as desired.</p></li></ol><p>Repeat these steps with each Bible book.</p><p>Plan to have someone from the translation team continue to maintain the translation on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://git.door43.org\">Door43</a>, editing it to correct errors and improve it according to suggestions from the church community. The translation can easily be downloaded and reprinted as often as desired.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26737,
+          "content_id": 33323,
+          "label": "First Draft",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 33413,
+          "label": "Choosing What to Translate",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209450,
+          "content_id": 689630,
+          "label": "Alignment Checking",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209453,
+          "content_id": 689633,
+          "label": "Accuracy Checking by Church Leaders",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209463,
+          "content_id": 689643,
+          "label": "translationWords Check in tC",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209466,
+          "content_id": 689646,
+          "label": "Introduction to Publishing",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209468,
+          "content_id": 689648,
+          "label": "Checking the Translation for Clarity and Naturalness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209474,
+          "content_id": 689654,
+          "label": "Oral Partner Check",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209477,
+          "content_id": 689657,
+          "label": "Training Before Translation Begins",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209482,
+          "content_id": 689662,
+          "label": "Setting Up translationCore®",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209483,
+          "content_id": 689663,
+          "label": "Setting Up A Translation Team",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209484,
+          "content_id": 689664,
+          "label": "Setting Up translationStudio",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209489,
+          "content_id": 689669,
+          "label": "Team Oral Chunk Check",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209490,
+          "content_id": 689670,
+          "label": "translationNotes Check in tC",
+          "language": "eng"
+        },
+        {
+          "reference_id": 209502,
+          "content_id": 689682,
+          "label": "Steps for Quality Checkers",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

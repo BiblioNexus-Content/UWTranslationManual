@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800232,
+    "reference_id": 209473,
+    "title": "Outros métodos",
+    "media_type": "Text",
+    "index_reference": "outros métodos",
+    "language": "por",
+    "content": "<h3>Outros métodos de verificação</h3><p>Além de fazer perguntas, existem outros métodos de verificação que você também pode usar para garantir que a tradução esteja <span data-bnType=\"resourceReference\" data-resourceId=\"209454\" data-resourceType=\"UWTranslationManual\">clara</span>, fácil de ler e soe <span data-bnType=\"resourceReference\" data-resourceId=\"209471\" data-resourceType=\"UWTranslationManual\">natural</span> para os ouvintes. Aqui estão alguns outros métodos que você pode querer tentar:</p><ul><li><p><strong>Método de recontagem</strong>: Você (o tradutor ou revisor) pode ler uma passagem ou história e pedir a outra pessoa para recontar o que foi dito. Se a pessoa conseguir recontar a passagem facilmente, então a passagem estava clara. Faça uma anotação de qualquer parte que a pessoa deixou de fora ou contou incorretamente, junto com o capítulo e versículo. A equipe de tradução pode precisar revisar essas partes na tradução para torná-las mais claras. Também anote quaisquer maneiras diferentes que a pessoa usou para expressar ideias que têm o mesmo significado que na tradução. Pode ser que essas formas de expressão sejam mais naturais do que as usadas na tradução. A equipe de tradução pode adotar essas formas de expressão para tornar a tradução mais natural.</p></li><li><p><strong>Método de leitura</strong>: Alguém além de você (o tradutor ou revisor) pode ler em voz alta um trecho da tradução enquanto você escuta e anota onde a pessoa faz pausas ou comete erros. Isso mostrará o quão fácil ou difícil é ler e entender a tradução. Observe os lugares na tradução onde o leitor pausou ou cometeu erros e considere o que tornou essa parte da tradução difícil. A equipe de tradução pode precisar revisar a tradução nesses pontos para que seja mais fácil de ler e entender.</p></li><li><p><strong>Ofereça traduções alternativas</strong>: Em alguns momentos da tradução, a equipe pode não ter certeza sobre a melhor maneira de expressar uma palavra ou frase do texto original. Nesse caso, pergunte a outras pessoas como elas fariam a tradução. Para aqueles que não compreendem o idioma original, explique o que você está tentando comunicar e pergunte como eles diriam isso. Se diferentes traduções parecerem igualmente boas, ofereça às pessoas uma escolha entre duas traduções da mesma ideia e pergunte qual alternativa elas acham mais clara.</p></li><li><p><strong>Contribuição do revisor</strong>: Permita que pessoas que você respeita leiam sua tradução. Peça para que façam anotações e indiquem onde ela pode ser aprimorada. Busque por escolhas de palavras mais adequadas, expressões mais naturais e também correções ortográficas.</p></li><li><p><strong>Grupos de discussão</strong>: Peça para as pessoas lerem a tradução em voz alta em um grupo e permita que façam perguntas para esclarecimento. Preste atenção nas palavras que usam, pois palavras e expressões alternativas podem surgir quando alguém está tentando entender um ponto difícil. Essas palavras e expressões alternativas podem ser melhores do que as da tradução. Anote-as, junto com o capítulo e versículo a que se referem. A equipe de tradução pode usá-las para melhorar a tradução. Também faça anotações dos lugares onde as pessoas não entendem a tradução para que a equipe de tradução possa tornar esses trechos mais claros.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 209454,
+          "content_id": 800213,
+          "label": "Tradução clara",
+          "language": "por"
+        },
+        {
+          "reference_id": 209471,
+          "content_id": 800230,
+          "label": "Tradução natural",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

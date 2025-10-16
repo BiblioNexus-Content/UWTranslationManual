@@ -1,0 +1,15 @@
+[
+  {
+    "content_id": 800239,
+    "reference_id": 209480,
+    "title": "Pontuação consistente",
+    "media_type": "Text",
+    "index_reference": "pontuação consistente",
+    "language": "por",
+    "content": "<p>“Pontuação” refere-se aos sinais que indicam como uma frase deve ser lida ou compreendida. Exemplos incluem indicadores de pausas, como a vírgula ou o ponto final, e as aspas que cercam as palavras exatas de um orador. Para que o leitor possa ler e entender a tradução corretamente, é importante que você, como tradutor, use a pontuação de forma consistente.</p><p>Antes de traduzir, a equipe de tradução precisará decidir sobre os métodos de pontuação que serão utilizados na tradução. Pode ser mais fácil adotar o método de pontuação que a língua nacional utiliza, ou que uma Bíblia na língua nacional ou uma Bíblia em língua relacionada utiliza. Uma vez que a equipe decida sobre um método, certifique-se de que todos o sigam. Pode ser útil distribuir uma folha guia para cada membro da equipe com exemplos do uso correto de diferentes sinais de pontuação.</p><p>Mesmo com a folha de orientação, é comum que tradutores cometam erros de pontuação. Por isso, após um livro ser traduzido, recomendamos importá-lo para o ParaText. Você pode inserir as regras de pontuação no idioma de destino no ParaText e, em seguida, executar as diferentes verificações de pontuação que o ParaText pode realizar. O ParaText listará todos os locais onde encontrar erros de pontuação e os mostrará para você. Você pode então revisar esses locais para ver se há um erro ou não. Se houver um erro, você pode corrigi-lo. Após executar essas verificações de pontuação, você pode ter confiança de que sua tradução está usando a pontuação corretamente.</p>",
+    "associations": {
+      "passage": [],
+      "resource": []
+    }
+  }
+]

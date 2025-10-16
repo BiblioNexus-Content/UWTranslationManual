@@ -1,0 +1,226 @@
+[
+  {
+    "content_id": 33417,
+    "reference_id": 26831,
+    "title": "End of Story",
+    "media_type": "Text",
+    "index_reference": "end of story",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>There are different types of information that may be given at the end of a story. Often this is background information. This background information is different from the actions that make up the main part of the story. A book of the Bible is often made up of many smaller stories that are part of the larger story of the book itself. For example, the story of Jesus’ birth is a smaller story in the larger story of the book of Luke. Each of these stories, whether large or small, can have background information at the end of it.</p><h1>The following are purposes for end of story information:</h1><ul><li><p>to summarize the story</p></li><li><p>to give a comment about what happened in the story</p></li><li><p>to connect a smaller story to the larger story it is a part of</p></li><li><p>to tell the reader what happens to a specific character after the main part of the story ends</p></li><li><p>to tell on-going action that continues after the main part of the story ends</p></li><li><p>to tell what happens after the story as a result of the events that happened in the story itself</p></li></ul><h1>Reasons This Is a Translation Issue</h1><p>Different languages have different ways of presenting these kinds of information. If you (the translator) do not use your language’s ways of doing this, readers may not know:</p><ul><li><p>that this information is ending the story</p></li><li><p>what the purpose of the information is</p></li><li><p>how the information is related to the story</p></li></ul><h1>Translation Strategies</h1><ul><li><p>Translate the particular kind of information at the end of a story the way your language expresses that kind of information.</p></li><li><p>Translate it so that people will understand how it relates to the story it is part of.</p></li><li><p>If possible, translate the end of the story in a way that people will know where that story ends and the next begins.</p></li></ul><h3>Examples From the Bible</h3><ul><li><p>To summarize the story</p></li></ul><p>Then the rest of the men should follow, some on planks, and some on other things from the ship. <strong>In this way it happened that all of us were brought safely to the land.</strong> (Acts 27:44 ULT)</p><ul><li><p>To give a comment about what happened in the story</p></li></ul><p>Many of those who practiced magical arts brought their books together and burned them in the sight of everyone. Then they counted the value of them, and found it was 50,000 pieces of silver. <strong>So the word of the Lord was spreading and prevailing with power.</strong> (Acts 19:19–20 ULT)</p><ul><li><p>To tell the reader what happens to a specific character after the main part of the story ends</p></li></ul><p>And Mary said, “My soul magnifies the Lord, and my spirit rejoiced in God my savior.” <strong>And Mary stayed with her about three months and then returned to her house.</strong> (Luke 1:46–47, 56 ULT)</p><ul><li><p>To tell on-going action that continues after the main part of the story ends</p></li></ul><p>All who those who heard it were amazed concerning the things that were spoken to them by the shepherds. <strong>But Mary kept all the things, pondering them in her heart.</strong> (Luke 2:18–19 ULT)</p><ul><li><p>To tell what happens after the story as a result of the events that happened in the story itself</p></li></ul><p>“Woe to you, experts in the Jewish law, because you have taken away the key of knowledge; you do not enter in yourselves, and you hinder those who are entering.” <strong>After he went from there, the scribes and the Pharisees began to fiercely oppose him and argued against him about many things, lying in wait to trap him in something from his mouth.</strong> (Luke 11:52–54 ULT)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 115849,
+          "content_id": 141061,
+          "label": "Mark 1:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 116342,
+          "content_id": 141554,
+          "label": "Mark 4:33-34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 136998,
+          "content_id": 207525,
+          "label": "Acts 2:41 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137147,
+          "content_id": 207674,
+          "label": "Acts 4:4 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137268,
+          "content_id": 207795,
+          "label": "Acts 4:31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 117002,
+          "content_id": 142214,
+          "label": "Mark 8:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137350,
+          "content_id": 207877,
+          "label": "Acts 5:11 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137480,
+          "content_id": 208007,
+          "label": "Acts 5:42 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 137508,
+          "content_id": 208035,
+          "label": "Acts 6:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138415,
+          "content_id": 208942,
+          "label": "Acts 12:25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138841,
+          "content_id": 209368,
+          "label": "Acts 15:35 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 138975,
+          "content_id": 209502,
+          "label": "Acts 16:40 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139089,
+          "content_id": 209616,
+          "label": "Acts 17:32 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139092,
+          "content_id": 209619,
+          "label": "Acts 17:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139203,
+          "content_id": 209730,
+          "label": "Acts 19:7 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139236,
+          "content_id": 209763,
+          "label": "Acts 19:17 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 139350,
+          "content_id": 209877,
+          "label": "Acts 20:12 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140134,
+          "content_id": 210661,
+          "label": "Acts 28:30 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140383,
+          "content_id": 210910,
+          "label": "John 2:21-22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142679,
+          "content_id": 213206,
+          "label": "John 20:30-31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 142765,
+          "content_id": 213292,
+          "label": "John 21:24-25 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 143458,
+          "content_id": 213985,
+          "label": "Luke 4:37 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 144765,
+          "content_id": 215292,
+          "label": "Luke 11:53 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 145493,
+          "content_id": 216020,
+          "label": "Luke 16:9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 146481,
+          "content_id": 217008,
+          "label": "Luke 21:37 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148200,
+          "content_id": 218727,
+          "label": "Matthew 7:28 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 148776,
+          "content_id": 219303,
+          "label": "Matthew 11:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149386,
+          "content_id": 219913,
+          "label": "Matthew 13:34 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 149484,
+          "content_id": 220011,
+          "label": "Matthew 13:53 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 150362,
+          "content_id": 220889,
+          "label": "Matthew 19:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 151755,
+          "content_id": 222282,
+          "label": "Matthew 26:1 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 184944,
+          "content_id": 278524,
+          "label": "Ruth 1:22 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 188866,
+          "content_id": 393033,
+          "label": "Exodus 11:10 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190433,
+          "content_id": 394600,
+          "label": "Exodus 39:32 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 190449,
+          "content_id": 394616,
+          "label": "Exodus 39:43 (#2)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

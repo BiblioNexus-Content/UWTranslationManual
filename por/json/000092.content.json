@@ -1,0 +1,454 @@
+[
+  {
+    "content_id": 800113,
+    "reference_id": 26748,
+    "title": "Conectar — Relação de tempo simultâneo",
+    "media_type": "Text",
+    "index_reference": "conectar — relação de tempo simultâneo",
+    "language": "por",
+    "content": "<h2>Relações temporais</h2><p>Alguns conectores estabelecem relações temporais entre duas frases, orações, sentenças ou trechos de texto.</p><h3>Cláusula simultânea</h3><h1>Descrição</h1><p>Uma cláusula simultânea é uma relação temporal que conecta dois ou mais eventos que ocorrem simultaneamente.</p><h1>Por que isso é um problema de tradução</h1><p>As línguas indicam de várias maneiras que os eventos ocorrem simultaneamente. Essas maneiras podem variar dependendo de haver ou não algo causando os eventos a ocorrerem ao mesmo tempo. Palavras de conexão que podem indicar eventos simultâneos são &quot;enquanto&quot;, &quot;à medida que&quot; e &quot;durante&quot;. Muitas vezes, a Bíblia não declara uma relação entre os eventos, mas simplesmente diz que ocorreram ao mesmo tempo. É importante que você (o tradutor) saiba quando uma relação temporal é implícita e quando não é, para que possa comunicá-la claramente. Uma oração simultânea comunica que os eventos aconteceram ao mesmo tempo, mas não indica que um evento causou o outro. Isso seria uma relação de causa e efeito.</p><h1>Exemplos do OBS e da Bíblia</h1><p>José serviu bem ao seu mestre, <strong>e</strong> Deus abençoou José (OBS História 8 Quadro 4).</p><p>Dois eventos ocorreram enquanto José era escravo de um rico funcionário do governo: José serviu bem, e Deus abençoou José. Não há indicação de uma relação de causa e efeito entre os dois, ou que o primeiro evento ocorreu e então o segundo evento aconteceu.</p><p>Mas, em verdade, eu vos digo que havia muitas viúvas em Israel <strong>durante</strong> os dias de Elias (Lc 4.25b).</p><p>A palavra de ligação <strong>durante</strong> nos indica claramente que duas coisas ocorreram simultaneamente, mas um evento não causou o outro.</p><p>O povo estava esperando por Zacarias <strong>e</strong> se perguntava sobre sua demora no templo. (Lucas 1.21).</p><p>As pessoas estavam esperando e se perguntando ao mesmo tempo. O conector geral “<strong>e</strong>” indica isso.</p><p><strong>Enquanto</strong> eles olhavam fixamente para o céu <strong>à medida que</strong> ele subia, de repente, dois homens com vestes brancas estavam ao lado deles (At 1.10).</p><p>Três eventos aconteceram ao mesmo tempo — os discípulos observando, Jesus subindo e dois homens aparecem ao lado deles. As palavras conectivas “<strong>enquanto</strong>” e a expressão “<strong>à medida que</strong>” nos indicam isso.</p><h1>Estratégias de tradução</h1><p>Se a forma como as cláusulas simultâneas são marcadas também for clara em seu idioma, então traduza as cláusulas simultâneas como elas são.</p><p>(1) Se a palavra de ligação não deixar claro que as orações simultâneas estão ocorrendo ao mesmo tempo, use uma palavra de ligação que comunique isso de forma mais clara; (2) Se não estiver claro a qual oração a oração simultânea está conectada e que estão ocorrendo ao mesmo tempo, marque todas as orações com uma palavra de ligação; (3) Se o seu idioma marca eventos como simultâneos de uma maneira diferente do uso de palavras de ligação, então use essa maneira.</p><h1>Exemplos de estratégias aplicadas na tradução</h1><p>A seguir, cada versículo da Bíblia será reformulado de três maneiras diferentes, conforme as estratégias de tradução listadas acima. Cada reformulação será numerada de acordo com a estratégia de tradução utilizada.</p><p>O povo estava esperando por Zacarias e se perguntando sobre sua demora no templo (Lc 1.21).</p><p>(1) Enquanto o povo aguardava Zacarias, eles se perguntavam sobre sua demora no templo;</p><p>(2) Enquanto o povo esperava por Zacarias, eles também se perguntavam sobre sua demora no templo;</p><p>(3) Agora o povo estava esperando por Zacarias e também se perguntavam sobre sua demora no templo.</p><p><strong>Enquanto</strong> eles olhavam fixamente para o céu <strong>à medida que</strong> ele subia, de repente, dois homens com vestes brancas se puseram ao lado deles (At 1.10).</p><p>(1) Enquanto eles olhavam fixamente para o céu, enquanto ele subia, de repente, dois homens em vestes brancas se colocaram ao lado deles;</p><p>(2) Enquanto eles olhavam atentamente para o céu ao passo que ele subia, de repente, naquele mesmo momento, dois homens apareceram ao lado deles com vestes brancas;</p><p>(3) Eles estavam olhando atentamente para o céu enquanto ele subia, quando viram dois homens de pé ao lado deles em roupas brancas.</p><p>*Os textos bíblicos desta seção são uma tradução literal livre — a menos que indicado diretamente que se trata de uma versão específica.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 118501,
+          "content_id": 237230,
+          "label": "Marcos 14.54 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118562,
+          "content_id": 237291,
+          "label": "Marcos 14.66 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 118783,
+          "content_id": 237512,
+          "label": "Marcos 15.47 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 141268,
+          "content_id": 308234,
+          "label": "João 8.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137389,
+          "content_id": 310480,
+          "label": "Atos 5.21 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 137603,
+          "content_id": 310694,
+          "label": "Atos 7.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147235,
+          "content_id": 297464,
+          "label": "Mateus 1.20 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147335,
+          "content_id": 297564,
+          "label": "Mateus 2.17 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147383,
+          "content_id": 297612,
+          "label": "Mateus 3.5 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 147879,
+          "content_id": 298108,
+          "label": "Mateus 6.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142811,
+          "content_id": 302734,
+          "label": "Lucas 1.11 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142854,
+          "content_id": 302777,
+          "label": "Lucas 1.21 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 146846,
+          "content_id": 306769,
+          "label": "Lucas 23.30 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 142389,
+          "content_id": 309355,
+          "label": "João 18.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 149537,
+          "content_id": 299766,
+          "label": "Mateus 14.6 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151338,
+          "content_id": 301567,
+          "label": "Mateus 24.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151408,
+          "content_id": 301637,
+          "label": "Mateus 24.23 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151502,
+          "content_id": 301731,
+          "label": "Mateus 24.40 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151565,
+          "content_id": 301794,
+          "label": "Mateus 25.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 151778,
+          "content_id": 302007,
+          "label": "Mateus 26.7 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152010,
+          "content_id": 302239,
+          "label": "Mateus 26.58 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152063,
+          "content_id": 302292,
+          "label": "Mateus 26.69 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152126,
+          "content_id": 302355,
+          "label": "Mateus 27.9 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 152330,
+          "content_id": 302559,
+          "label": "Mateus 27.61 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155232,
+          "content_id": 640477,
+          "label": "1 Coríntios 1.7 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153289,
+          "content_id": 684664,
+          "label": "Romanos 5.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153298,
+          "content_id": 684673,
+          "label": "Romanos 5.8 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 153589,
+          "content_id": 684964,
+          "label": "Romanos 7.3 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 154682,
+          "content_id": 686057,
+          "label": "Romanos 12.12 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155055,
+          "content_id": 686430,
+          "label": "Romanos 15.24 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164703,
+          "content_id": 587152,
+          "label": "Hebreus 3.12 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 164964,
+          "content_id": 587413,
+          "label": "Hebreus 6.13 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165005,
+          "content_id": 587454,
+          "label": "Hebreus 7.1 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165131,
+          "content_id": 587580,
+          "label": "Hebreus 7.25 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165182,
+          "content_id": 587631,
+          "label": "Hebreus 8.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155384,
+          "content_id": 640629,
+          "label": "1 Coríntios 2.1 (#8)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155463,
+          "content_id": 640708,
+          "label": "1 Coríntios 2.13 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155690,
+          "content_id": 640935,
+          "label": "1 Coríntios 4.12 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155696,
+          "content_id": 640941,
+          "label": "1 Coríntios 4.13 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155771,
+          "content_id": 641016,
+          "label": "1 Coríntios 5.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 155839,
+          "content_id": 641084,
+          "label": "1 Coríntios 6.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156244,
+          "content_id": 641489,
+          "label": "1 Coríntios 8.7 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156277,
+          "content_id": 641522,
+          "label": "1 Coríntios 8.12 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156398,
+          "content_id": 641643,
+          "label": "1 Coríntios 9.18 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156629,
+          "content_id": 641874,
+          "label": "1 Coríntios 11.4 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156776,
+          "content_id": 642021,
+          "label": "1 Coríntios 11.32 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 156780,
+          "content_id": 642025,
+          "label": "1 Coríntios 11.33 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157086,
+          "content_id": 642331,
+          "label": "1 Coríntios 14.15 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 157843,
+          "content_id": 658887,
+          "label": "2 Coríntios 2.3 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 158169,
+          "content_id": 659213,
+          "label": "2 Coríntios 4.11 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159402,
+          "content_id": 660908,
+          "label": "Colossenses 2.5 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159539,
+          "content_id": 661045,
+          "label": "Colossenses 3.4 (#5)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159560,
+          "content_id": 661066,
+          "label": "Colossenses 3.7 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159630,
+          "content_id": 661136,
+          "label": "Colossenses 3.16 (#7)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159692,
+          "content_id": 661198,
+          "label": "Colossenses 4.2 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159695,
+          "content_id": 661201,
+          "label": "Colossenses 4.3 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 159714,
+          "content_id": 661220,
+          "label": "Colossenses 4.5 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 160738,
+          "content_id": 683159,
+          "label": "1 Tessalonicenses 1.6 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161080,
+          "content_id": 683501,
+          "label": "1 Tessalonicenses 4.16 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161109,
+          "content_id": 683530,
+          "label": "1 Tessalonicenses 5.3 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 161927,
+          "content_id": 683711,
+          "label": "2 Tessalonicenses 2.1 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 162570,
+          "content_id": 760587,
+          "label": "Filemom 1.22 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 170213,
+          "content_id": 482446,
+          "label": "Gênesis 8.8 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 171500,
+          "content_id": 483733,
+          "label": "Gênesis 19.23 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188075,
+          "content_id": 487767,
+          "label": "Êxodo 2.10 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 188642,
+          "content_id": 488334,
+          "label": "Êxodo 8.25 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189817,
+          "content_id": 489509,
+          "label": "Êxodo 29.10 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 189824,
+          "content_id": 489516,
+          "label": "Êxodo 29.15 (#1)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165296,
+          "content_id": 587745,
+          "label": "Hebreus 9.8 (#6)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165323,
+          "content_id": 587772,
+          "label": "Hebreus 9.12 (#4)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165450,
+          "content_id": 587899,
+          "label": "Hebreus 10.5 (#2)",
+          "language": "por"
+        },
+        {
+          "reference_id": 165863,
+          "content_id": 588312,
+          "label": "Hebreus 12.4 (#3)",
+          "language": "por"
+        },
+        {
+          "reference_id": 184874,
+          "content_id": 806295,
+          "label": "Rute 1.1 (#2)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

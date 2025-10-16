@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 800176,
+    "reference_id": 26811,
+    "title": "O processo de tradução",
+    "media_type": "Text",
+    "index_reference": "o processo de tradução",
+    "language": "por",
+    "content": "<h3>Como traduzir</h3><p>Existem duas coisas a serem feitas na tradução:</p><ol><li><p>Descubra o significado no texto na língua de origem (Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26790\" data-resourceType=\"UWTranslationManual\">Descubra o significado do texto</span>).</p></li><li><p>Recontar o significado na tradução para o idioma alvo (Veja <span data-bnType=\"resourceReference\" data-resourceId=\"26812\" data-resourceType=\"UWTranslationManual\">Recontando o significado</span>).</p></li></ol><p>As instruções para tradução às vezes dividem essas duas etapas em partes menores. O gráfico abaixo mostra como essas duas se encaixam no processo de tradução.</p><p></p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26790,
+          "content_id": 800155,
+          "label": "Descubra o significado do texto",
+          "language": "por"
+        },
+        {
+          "reference_id": 26812,
+          "content_id": 800177,
+          "label": "Recontando o significado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

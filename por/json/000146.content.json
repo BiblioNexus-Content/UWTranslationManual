@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 800167,
+    "reference_id": 26802,
+    "title": "Introdução ao Manual de Tradução",
+    "media_type": "Text",
+    "index_reference": "introdução ao manual de tradução",
+    "language": "por",
+    "content": "<h3>O que o Manual de Tradução ensina?</h3><p>Este manual ensina a teoria da tradução e como realizar uma boa tradução para Outras Línguas (OLs). Alguns dos princípios de tradução neste manual também se aplicam à tradução de Idioma de Acesso. Para instruções específicas sobre como traduzir o conjunto de ferramentas de tradução para Idiomas de Acesso, consulte o <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://gl-manual.readthedocs.io/\">Manual de Idiomas de Acesso</a>. Será muito útil estudar muitos desses módulos antes de iniciar qualquer tipo de projeto de tradução. Outros módulos, como os sobre gramática, são necessários apenas para aprendizado na hora que for executar o projeto.</p><p>Alguns destaques no Manual de Tradução:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26759\" data-resourceType=\"UWTranslationManual\">As qualidades de uma boa tradução</span> — definindo o que é uma boa tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26811\" data-resourceType=\"UWTranslationManual\">O processo de tradução</span> — como alcançar uma boa tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26669\" data-resourceType=\"UWTranslationManual\">Escolhendo uma equipe de tradução</span> — alguns pontos a considerar antes de iniciar um projeto de tradução</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26827\" data-resourceType=\"UWTranslationManual\">Escolhendo o que traduzir</span> — por onde começar a tradução</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26669,
+          "content_id": 800034,
+          "label": "Escolhendo uma equipe de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26759,
+          "content_id": 800124,
+          "label": "As qualidades de uma boa tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26811,
+          "content_id": 800176,
+          "label": "O processo de tradução",
+          "language": "por"
+        },
+        {
+          "reference_id": 26827,
+          "content_id": 800192,
+          "label": "Escolhendo o que traduzir",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

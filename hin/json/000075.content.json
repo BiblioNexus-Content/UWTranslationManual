@@ -1,0 +1,862 @@
+[
+  {
+    "content_id": 727356,
+    "reference_id": 26731,
+    "title": "तुम के प्रारूप",
+    "media_type": "Text",
+    "index_reference": "तुम के प्रारूप",
+    "language": "hin",
+    "content": "<h3>एकवचन, द्विवचन, और बहुवचन</h3><p>कुछ भाषाओं में &quot;तुम&quot; शब्द के आधार पर &quot;तुम&quot; शब्द के लिए एक से अधिक शब्द हैं। <strong>एकवचन</strong> रूप एक व्यक्ति को सन्दर्भित करता है, और <strong>बहुवचन</strong> रूप एक से अधिक व्यक्ति को सन्दर्भित करता है। कुछ भाषाओं में एक <strong>द्विवचन</strong> रूप भी होता है, जो दो लोगों को सन्दर्भित करता है, और कुछ के अन्य रूप होते हैं जो तीन या चार लोगों को सन्दर्भित करते हैं।</p><p>तुम http://ufw.io/figs_younum पर दिया गया वीडियो भी देखना चाहेंगे।</p><p>कभी-कभी बाइबल में एक वक्ता &quot;तुम&quot; को एकवचन रूप का उपयोग करता है, चाहे वह भीड़ से ही बात क्यों न कर रहा हो।</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26732\" data-resourceType=\"UWTranslationManual\">एकवचन वाले सर्वनाम जो समूह का सन्दर्भित करते हैं</span></p></li></ul><h3>औपचारिक और अनौपचारिक</h3><p>वक्ता और जिस व्यक्ति से बात की जा रही है, उसके बीच सम्बन्धों के आधार पर कुछ भाषाओं में &quot;तुम&quot; के एक से अधिक रूप होते हैं। लोग अपने से बड़ों से या जो उच्च अधिकार रखते हैं, या कोई ऐसा व्यक्ति है, जिसे वे बहुत अच्छी तरह से नहीं जानते हैं, से बात करते समय &quot;आप&quot; के <strong>औपचारिक</strong> रूप का उपयोग करते हैं। लोग किसी ऐसे व्यक्ति से बात करते समय&nbsp;<strong>अनौपचारिक</strong> रूप का उपयोग करते हैं, बड़े नहीं है, या जिनके पास उच्च अधिकार नहीं है, या परिवार का सदस्य या घनिष्ठ मित्र हैं।</p><p>तुम http://ufw.io/figs_youform पर दिया गया वीडियो भी देखना चाहेंगे।</p><p>इनका अनुवाद करने में सहायता के लिए, हम आपको सुझाव देते हैं, जिन्हें पढ़ लें:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"26734\" data-resourceType=\"UWTranslationManual\">&quot;तुम&quot; के रूप - औपचारिक या अनौपचारिक</span></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26732,
+          "content_id": 727357,
+          "label": "समूह को दिखाने वाले एकवचन सर्वनाम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26734,
+          "content_id": 727359,
+          "label": "‘तू /तुम’ के रूप - औपचारिक या अनौपचारिक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136667,
+          "content_id": 376188,
+          "label": "प्रेरितों के काम 1:4 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 136983,
+          "content_id": 376504,
+          "label": "प्रेरितों के काम 2:38 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137339,
+          "content_id": 376860,
+          "label": "प्रेरितों के काम 5:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137402,
+          "content_id": 376923,
+          "label": "प्रेरितों के काम 5:25 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137407,
+          "content_id": 376928,
+          "label": "प्रेरितों के काम 5:28 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137421,
+          "content_id": 376942,
+          "label": "प्रेरितों के काम 5:30 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 137547,
+          "content_id": 377068,
+          "label": "प्रेरितों के काम  7:4 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140331,
+          "content_id": 395827,
+          "label": "यूहन्ना 1:51 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140430,
+          "content_id": 395926,
+          "label": "यूहन्ना 3:10 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140435,
+          "content_id": 395931,
+          "label": "यूहन्ना 3:11 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140437,
+          "content_id": 395933,
+          "label": "यूहन्ना 3:12 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140504,
+          "content_id": 396000,
+          "label": "यूहन्ना 3:28 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140589,
+          "content_id": 396084,
+          "label": "यूहन्ना 4:20 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140596,
+          "content_id": 396091,
+          "label": "यूहन्ना 4:22 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140640,
+          "content_id": 396135,
+          "label": "यूहन्ना 4:38 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140669,
+          "content_id": 396164,
+          "label": "यूहन्ना 4:48 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140734,
+          "content_id": 396229,
+          "label": "यूहन्ना 5:19 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140755,
+          "content_id": 396250,
+          "label": "यूहन्ना 5:24 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140762,
+          "content_id": 396257,
+          "label": "यूहन्ना 5:25 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 140788,
+          "content_id": 396283,
+          "label": "यूहन्ना 5:33 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141023,
+          "content_id": 396518,
+          "label": "यूहन्ना 6:61 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141214,
+          "content_id": 396709,
+          "label": "यूहन्ना 8:14 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141242,
+          "content_id": 396737,
+          "label": "यूहन्ना 8:23 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141270,
+          "content_id": 396765,
+          "label": "यूहन्ना 8:31 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141748,
+          "content_id": 397243,
+          "label": "यूहन्ना 12:8 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 141993,
+          "content_id": 397488,
+          "label": "यूहन्ना 14:1 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 142014,
+          "content_id": 397509,
+          "label": "यूहन्ना 14:9 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 142020,
+          "content_id": 397515,
+          "label": "यूहन्ना 14:10 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 142105,
+          "content_id": 397600,
+          "label": "यूहन्ना 15:3 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 142684,
+          "content_id": 398179,
+          "label": "यूहन्ना 20:31 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143570,
+          "content_id": 405514,
+          "label": "लूका 5:30 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143607,
+          "content_id": 405551,
+          "label": "लूका 6:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143697,
+          "content_id": 405640,
+          "label": "लूका 6:31 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143837,
+          "content_id": 405780,
+          "label": "लूका 7:19 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143841,
+          "content_id": 405784,
+          "label": "लूका 7:20 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143870,
+          "content_id": 405813,
+          "label": "लूका 7:27 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 143984,
+          "content_id": 405926,
+          "label": "लूका 8:8 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144030,
+          "content_id": 405972,
+          "label": "लूका 8:20 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144076,
+          "content_id": 406018,
+          "label": "लूका 8:30 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144294,
+          "content_id": 406236,
+          "label": "लूका 9:41 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144295,
+          "content_id": 406237,
+          "label": "लूका 9:41 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144372,
+          "content_id": 406314,
+          "label": "लूका 10:3 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144408,
+          "content_id": 406350,
+          "label": "लूका 10:13 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144425,
+          "content_id": 406367,
+          "label": "लूका 10:15 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144576,
+          "content_id": 406518,
+          "label": "लूका 11:8 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144579,
+          "content_id": 406521,
+          "label": "लूका 11:9 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144807,
+          "content_id": 406749,
+          "label": "लूका 12:7 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144912,
+          "content_id": 406854,
+          "label": "लूका 12:34 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 144917,
+          "content_id": 406859,
+          "label": "लूका 12:35 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145110,
+          "content_id": 407052,
+          "label": "लूका 13:24 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145113,
+          "content_id": 407055,
+          "label": "लूका 13:25 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145124,
+          "content_id": 407066,
+          "label": "लूका 13:26 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145128,
+          "content_id": 407070,
+          "label": "लूका 13:27 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145171,
+          "content_id": 407113,
+          "label": "लूका 13:34 (#10)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145180,
+          "content_id": 407122,
+          "label": "लूका 13:35 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145232,
+          "content_id": 407174,
+          "label": "लूका 14:12 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145283,
+          "content_id": 407225,
+          "label": "लूका 14:24 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145327,
+          "content_id": 407269,
+          "label": "लूका 14:35 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145402,
+          "content_id": 407344,
+          "label": "लूका 15:22 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145408,
+          "content_id": 407350,
+          "label": "लूका 15:23 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 168275,
+          "content_id": 380951,
+          "label": "प्रकाशितवाक्य 22:16 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 157576,
+          "content_id": 395474,
+          "label": "1 कुरिन्थियों 15:55 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 190651,
+          "content_id": 395509,
+          "label": "1 कुरिन्थियों 1:3 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162779,
+          "content_id": 400078,
+          "label": "1 यूहन्ना 1:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162794,
+          "content_id": 400084,
+          "label": "1 यूहन्ना 1:4 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 190828,
+          "content_id": 400451,
+          "label": "1 यूहन्ना 1:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 190841,
+          "content_id": 400464,
+          "label": "1 यूहन्ना 2:24 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 180821,
+          "content_id": 400795,
+          "label": "ओबद्याह 1:13 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166836,
+          "content_id": 401117,
+          "label": "यहूदा 1:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 187486,
+          "content_id": 403298,
+          "label": "गलातियों 03:16 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 187630,
+          "content_id": 403327,
+          "label": "गलातियों 4:7 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 187146,
+          "content_id": 403432,
+          "label": "गलातियों 01:03 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145508,
+          "content_id": 407450,
+          "label": "लूका 16:13 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145576,
+          "content_id": 407517,
+          "label": "लूका 16:26 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145612,
+          "content_id": 407553,
+          "label": "लूका 17:3 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145630,
+          "content_id": 407571,
+          "label": "लूका 17:6 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 145699,
+          "content_id": 407640,
+          "label": "लूका 17:21 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146040,
+          "content_id": 407980,
+          "label": "लूका 19:26 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146103,
+          "content_id": 408043,
+          "label": "लूका 19:42 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146111,
+          "content_id": 408051,
+          "label": "लूका 19:43 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146117,
+          "content_id": 408057,
+          "label": "लूका 19:44 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146600,
+          "content_id": 408536,
+          "label": "लूका 22:31 (#9)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146602,
+          "content_id": 408538,
+          "label": "लूका 22:32 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 146994,
+          "content_id": 408929,
+          "label": "लूका 24:6 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 191315,
+          "content_id": 409640,
+          "label": "फिलिप्पियों 1:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 191350,
+          "content_id": 409675,
+          "label": "फिलिप्पियों 1:28 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 191379,
+          "content_id": 409704,
+          "label": "फिलिप्पियों 4:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192838,
+          "content_id": 412610,
+          "label": "फिलेमोन 1:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192853,
+          "content_id": 412625,
+          "label": "फिलेमोन 1:21 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192859,
+          "content_id": 412631,
+          "label": "फिलेमोन 1:25 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 159797,
+          "content_id": 412632,
+          "label": "इफिसियों 1:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 160142,
+          "content_id": 412976,
+          "label": "इफिसियों 5:14 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 160190,
+          "content_id": 413024,
+          "label": "इफिसियों 6:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 178889,
+          "content_id": 413127,
+          "label": "नहेमायाह 1:5 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 178912,
+          "content_id": 413150,
+          "label": "नहेमायाह 1:8 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 178915,
+          "content_id": 413153,
+          "label": "नहेमायाह 1:9 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 179060,
+          "content_id": 413298,
+          "label": "नहेमायाह 2:17 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166374,
+          "content_id": 416113,
+          "label": "याकूब 2:3 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166422,
+          "content_id": 416140,
+          "label": "याकूब 2:12 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166209,
+          "content_id": 416328,
+          "label": "याकूब 1:2 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166366,
+          "content_id": 416411,
+          "label": "याकूब 2:3 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 166497,
+          "content_id": 416487,
+          "label": "याकूब 2:24 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192877,
+          "content_id": 416665,
+          "label": "याकूब 2:6 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192878,
+          "content_id": 416666,
+          "label": "याकूब 2:8 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192894,
+          "content_id": 416682,
+          "label": "याकूब 4:7 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 163909,
+          "content_id": 418089,
+          "label": "2 यूहन्ना 1:4 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 163915,
+          "content_id": 418091,
+          "label": "2 यूहन्ना 1:5 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 163971,
+          "content_id": 418283,
+          "label": "2 पतरस 1:2 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 164006,
+          "content_id": 418309,
+          "label": "2 पतरस 1:5 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162490,
+          "content_id": 418799,
+          "label": "2 तिमिथियुस 4:22 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 185176,
+          "content_id": 575817,
+          "label": "श्रेष्ठगीत 1:4 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 189887,
+          "content_id": 578271,
+          "label": "निर्गमन 30:12 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 189918,
+          "content_id": 578302,
+          "label": "निर्गमन 30:26 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 189930,
+          "content_id": 578314,
+          "label": "निर्गमन 30:36 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 147884,
+          "content_id": 678261,
+          "label": "मत्ती 6:5 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 150846,
+          "content_id": 681223,
+          "label": "मत्ती 21:32 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 181265,
+          "content_id": 710008,
+          "label": "नीतिवचन 4:2 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 181889,
+          "content_id": 710632,
+          "label": "नीतिवचन 9:5 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 181891,
+          "content_id": 710634,
+          "label": "नीतिवचन 9:6 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162045,
+          "content_id": 799295,
+          "label": "2 थिस्सलुनीकियों 3:13 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162575,
+          "content_id": 799484,
+          "label": "फिलेमोन 1:22 (#7)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 162583,
+          "content_id": 799489,
+          "label": "फिलेमोन 1:25 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 163920,
+          "content_id": 799520,
+          "label": "2 यूहन्ना 1:6 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 163957,
+          "content_id": 799544,
+          "label": "2 यूहन्ना 1:13 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 192895,
+          "content_id": 416683,
+          "label": "याकूब 4:8 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 193054,
+          "content_id": 418060,
+          "label": "1 तिमिथियुस 5:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 193079,
+          "content_id": 418108,
+          "label": "2 यूहन्ना 1:1 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198907,
+          "content_id": 465856,
+          "label": "एज्रा 7:13 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198931,
+          "content_id": 465880,
+          "label": "एज्रा 7:17 (#5)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198933,
+          "content_id": 465881,
+          "label": "एज्रा 7:17 (#7)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198935,
+          "content_id": 465883,
+          "label": "एज्रा 7:18 (#2)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198936,
+          "content_id": 465884,
+          "label": "एज्रा 7:18 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198937,
+          "content_id": 465885,
+          "label": "एज्रा 7:18 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198947,
+          "content_id": 465894,
+          "label": "एज्रा 7:20 (#3)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198953,
+          "content_id": 465900,
+          "label": "एज्रा 7:21 (#4)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198978,
+          "content_id": 465925,
+          "label": "एज्रा 7:25 (#1)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198983,
+          "content_id": 465930,
+          "label": "एज्रा 7:25 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198932,
+          "content_id": 799647,
+          "label": "एज्रा 7:17 (#6)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 198940,
+          "content_id": 799648,
+          "label": "एज्रा 7:19 (#3)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

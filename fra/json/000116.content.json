@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 33358,
+    "reference_id": 26772,
+    "title": "Notes that Identify Indirect and Direct Quotes",
+    "media_type": "Text",
+    "index_reference": "notes that identify indirect and direct quotes",
+    "language": "fra",
+    "content": "<h3>Description</h3><p>There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See <span resourceId=\"26719\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Direct and Indirect Quotations</span>.)</p><p>When there is a direct or indirect quote in the ULT, the Notes may have an option for translating it as the other kind of quote. The translation suggestion may start with “It can be translated as a direct quote:” or “It can be translated as an indirect quote:” and it will be followed by that kind of quote. This will be followed by a link to the information page called “Direct and Indirect Quotations” that explains both kinds of quotations.</p><p>There may be a Note about direct and indirect quotes when a quote has another quote inside of it, because these can be confusing. In some languages it may be more natural to translate one of these quotes with a direct quote and the other quote with an indirect quote. The note will end with a link to the information page called “<span resourceId=\"26721\" resourceType=\"UWTranslationManual\" target=\"_blank\" rel=\"noopener nofollow\">Quotes within Quotes</span>.”</p><h3>Translation Notes Examples</h3><p>He commanded him <strong>to tell no one</strong>. (Luke 5:14a ULT)</p><ul><li><p><strong>to tell no one</strong> — This can be translated as a direct quote: “Do not tell anyone” There is implied information that can also be stated explicitly (Alternate translation): “do not tell anyone that you have been healed” (See: <em>Direct and Indirect Quotations</em> and <em>Ellipsis</em>)</p></li></ul><p>Here the translationNote shows how to change the indirect quote to a direct quote, in case that would be clearer or more natural in the target language.</p><p>At the time of the harvest <strong>I will say to the reapers, “First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn</strong>.” (Matthew 13:30 ULT)</p><ul><li><p><strong>I will say to the reapers, “First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn”</strong> — You can translate this as an indirect quote: “I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, but gather the wheat into my barn.” (See: <em>Direct and Indirect Quotations</em>)</p></li></ul><p>Here the translationNote shows how to change the direct quote to an indirect quote, in case that would be clearer or more natural in the target language. Do not use quotation marks around Indirect quotes. They were used here only to make it clear what you could say as an indirect quote.</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26719,
+          "content_id": 33305,
+          "label": "Direct and Indirect Quotations",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26721,
+          "content_id": 33307,
+          "label": "Quotes within Quotes",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]
