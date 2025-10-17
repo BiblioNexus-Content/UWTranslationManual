@@ -13,30 +13,35 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         },
         {
           "reference_id": 209456,
           "content_id": 689636,
+          "resource_code": "UWTranslationManual",
           "label": "Complete Translation",
           "language": "eng"
         },
         {
           "reference_id": 209468,
           "content_id": 689648,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Clarity and Naturalness",
           "language": "eng"
         },
         {
           "reference_id": 209474,
           "content_id": 689654,
+          "resource_code": "UWTranslationManual",
           "label": "Oral Partner Check",
           "language": "eng"
         },
         {
           "reference_id": 209503,
           "content_id": 689683,
+          "resource_code": "UWTranslationManual",
           "label": "Types of Things to Check",
           "language": "eng"
         }

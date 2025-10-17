@@ -13,36 +13,42 @@
         {
           "reference_id": 26657,
           "content_id": 727290,
+          "resource_code": "UWTranslationManual",
           "label": "बाइबल के रूप",
           "language": "hin"
         },
         {
           "reference_id": 26663,
           "content_id": 727296,
+          "resource_code": "UWTranslationManual",
           "label": "बाइबल के रूप - सामान्य नमूने",
           "language": "hin"
         },
         {
           "reference_id": 26665,
           "content_id": 727298,
+          "resource_code": "UWTranslationManual",
           "label": "बाइबल के रूप - सांस्कृतिक नमूने",
           "language": "hin"
         },
         {
           "reference_id": 26686,
           "content_id": 727316,
+          "resource_code": "UWTranslationManual",
           "label": "विस्तृत रूपक",
           "language": "hin"
         },
         {
           "reference_id": 26706,
           "content_id": 727335,
+          "resource_code": "UWTranslationManual",
           "label": "रूपक",
           "language": "hin"
         },
         {
           "reference_id": 26727,
           "content_id": 799944,
+          "resource_code": "UWTranslationManual",
           "label": "सरल रूपक",
           "language": "hin"
         }

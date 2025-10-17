@@ -13,120 +13,140 @@
         {
           "reference_id": 26821,
           "content_id": 33407,
+          "resource_code": "UWTranslationManual",
           "label": "Copy or Borrow Words",
           "language": "eng"
         },
         {
           "reference_id": 141729,
           "content_id": 212256,
+          "resource_code": "Unknown",
           "label": "John 12:3 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 142572,
           "content_id": 213099,
+          "resource_code": "Unknown",
           "label": "John 19:39 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 145979,
           "content_id": 216506,
+          "resource_code": "Unknown",
           "label": "Luke 19:13 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 145996,
           "content_id": 216523,
+          "resource_code": "Unknown",
           "label": "Luke 19:16 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 146006,
           "content_id": 216533,
+          "resource_code": "Unknown",
           "label": "Luke 19:18 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 146013,
           "content_id": 216540,
+          "resource_code": "Unknown",
           "label": "Luke 19:20 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 146032,
           "content_id": 216559,
+          "resource_code": "Unknown",
           "label": "Luke 19:24 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 146036,
           "content_id": 216563,
+          "resource_code": "Unknown",
           "label": "Luke 19:25 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 167881,
           "content_id": 261461,
+          "resource_code": "Unknown",
           "label": "Revelation 16:21 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 172076,
           "content_id": 265656,
+          "resource_code": "Unknown",
           "label": "Genesis 24:22 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 172079,
           "content_id": 265659,
+          "resource_code": "Unknown",
           "label": "Genesis 24:22 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 189620,
           "content_id": 393787,
+          "resource_code": "Unknown",
           "label": "Exodus 25:39 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 189890,
           "content_id": 394057,
+          "resource_code": "Unknown",
           "label": "Exodus 30:13 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 189913,
           "content_id": 394080,
+          "resource_code": "Unknown",
           "label": "Exodus 30:24 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 190389,
           "content_id": 394556,
+          "resource_code": "Unknown",
           "label": "Exodus 38:24 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 190390,
           "content_id": 394557,
+          "resource_code": "Unknown",
           "label": "Exodus 38:25 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 190392,
           "content_id": 394559,
+          "resource_code": "Unknown",
           "label": "Exodus 38:26 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 190396,
           "content_id": 394563,
+          "resource_code": "Unknown",
           "label": "Exodus 38:27 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 190399,
           "content_id": 394566,
+          "resource_code": "Unknown",
           "label": "Exodus 38:29 (#1)",
           "language": "eng"
         }

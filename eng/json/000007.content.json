@@ -13,66 +13,77 @@
         {
           "reference_id": 26660,
           "content_id": 33246,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Body Parts and Human Qualities",
           "language": "eng"
         },
         {
           "reference_id": 26661,
           "content_id": 33247,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Human Behavior",
           "language": "eng"
         },
         {
           "reference_id": 26662,
           "content_id": 33248,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Man-made Objects",
           "language": "eng"
         },
         {
           "reference_id": 26664,
           "content_id": 33250,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Common Metonymies",
           "language": "eng"
         },
         {
           "reference_id": 26665,
           "content_id": 33251,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Cultural Models",
           "language": "eng"
         },
         {
           "reference_id": 26666,
           "content_id": 33252,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Natural Phenomena",
           "language": "eng"
         },
         {
           "reference_id": 26667,
           "content_id": 33253,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Plants",
           "language": "eng"
         },
         {
           "reference_id": 26675,
           "content_id": 33261,
+          "resource_code": "UWTranslationManual",
           "label": "Complex Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26686,
           "content_id": 33272,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Extended Metaphors",
           "language": "eng"
         },
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26727,
           "content_id": 33313,
+          "resource_code": "UWTranslationManual",
           "label": "Simple Metaphor",
           "language": "eng"
         }

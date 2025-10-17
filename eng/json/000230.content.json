@@ -13,60 +13,70 @@
         {
           "reference_id": 26751,
           "content_id": 33337,
+          "resource_code": "UWTranslationManual",
           "label": "Create Accurate Translations",
           "language": "eng"
         },
         {
           "reference_id": 26752,
           "content_id": 33338,
+          "resource_code": "UWTranslationManual",
           "label": "Create Authoritative Translations",
           "language": "eng"
         },
         {
           "reference_id": 26753,
           "content_id": 33339,
+          "resource_code": "UWTranslationManual",
           "label": "Create Church-Approved Translations",
           "language": "eng"
         },
         {
           "reference_id": 26754,
           "content_id": 33340,
+          "resource_code": "UWTranslationManual",
           "label": "Create Clear Translations",
           "language": "eng"
         },
         {
           "reference_id": 26755,
           "content_id": 33341,
+          "resource_code": "UWTranslationManual",
           "label": "Create Collaborative Translations",
           "language": "eng"
         },
         {
           "reference_id": 26756,
           "content_id": 33342,
+          "resource_code": "UWTranslationManual",
           "label": "Create Equal Translations",
           "language": "eng"
         },
         {
           "reference_id": 26757,
           "content_id": 33343,
+          "resource_code": "UWTranslationManual",
           "label": "Create Faithful Translations",
           "language": "eng"
         },
         {
           "reference_id": 26758,
           "content_id": 33344,
+          "resource_code": "UWTranslationManual",
           "label": "Create Historical Translations",
           "language": "eng"
         },
         {
           "reference_id": 26760,
           "content_id": 33346,
+          "resource_code": "UWTranslationManual",
           "label": "Create Natural Translations",
           "language": "eng"
         },
         {
           "reference_id": 26761,
           "content_id": 33347,
+          "resource_code": "UWTranslationManual",
           "label": "Create Ongoing Translations",
           "language": "eng"
         }

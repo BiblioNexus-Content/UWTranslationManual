@@ -13,30 +13,35 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         },
         {
           "reference_id": 209448,
           "content_id": 689628,
+          "resource_code": "UWTranslationManual",
           "label": "Acceptable Style",
           "language": "eng"
         },
         {
           "reference_id": 209456,
           "content_id": 689636,
+          "resource_code": "UWTranslationManual",
           "label": "Complete Translation",
           "language": "eng"
         },
         {
           "reference_id": 209469,
           "content_id": 689649,
+          "resource_code": "UWTranslationManual",
           "label": "Quality Checker Evaluation Form",
           "language": "eng"
         },
         {
           "reference_id": 209503,
           "content_id": 689683,
+          "resource_code": "UWTranslationManual",
           "label": "Types of Things to Check",
           "language": "eng"
         }

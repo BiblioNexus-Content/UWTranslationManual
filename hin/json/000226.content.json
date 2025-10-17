@@ -13,24 +13,28 @@
         {
           "reference_id": 26802,
           "content_id": 727438,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद सहायक पुस्तिका का परिचय",
           "language": "hin"
         },
         {
           "reference_id": 209465,
           "content_id": 727260,
+          "resource_code": "Unknown",
           "label": "अनुवाद की जाँचों का परिचय",
           "language": "hin"
         },
         {
           "reference_id": 209478,
           "content_id": 727395,
+          "resource_code": "UWTranslationManual",
           "label": "प्रक्रिया हस्तपुस्तिका का परिचय",
           "language": "hin"
         },
         {
           "reference_id": 209488,
           "content_id": 727416,
+          "resource_code": "UWTranslationManual",
           "label": "ट्रांसलेशन अकैडमी का परिचय",
           "language": "hin"
         }

@@ -13,24 +13,28 @@
         {
           "reference_id": 26669,
           "content_id": 33255,
+          "resource_code": "UWTranslationManual",
           "label": "Choosing a Translation Team",
           "language": "eng"
         },
         {
           "reference_id": 26759,
           "content_id": 33345,
+          "resource_code": "UWTranslationManual",
           "label": "The Qualities of a Good Translation",
           "language": "eng"
         },
         {
           "reference_id": 26811,
           "content_id": 33397,
+          "resource_code": "UWTranslationManual",
           "label": "The Translation Process",
           "language": "eng"
         },
         {
           "reference_id": 26827,
           "content_id": 33413,
+          "resource_code": "UWTranslationManual",
           "label": "Choosing What to Translate",
           "language": "eng"
         }

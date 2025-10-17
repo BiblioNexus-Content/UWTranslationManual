@@ -13,24 +13,28 @@
         {
           "reference_id": 209449,
           "content_id": 800208,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a precisão da tradução",
           "language": "por"
         },
         {
           "reference_id": 209496,
           "content_id": 800255,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução Reversa",
           "language": "por"
         },
         {
           "reference_id": 209502,
           "content_id": 800261,
+          "resource_code": "UWTranslationManual",
           "label": "Etapas para verificadores de qualidade",
           "language": "por"
         },
         {
           "reference_id": 209503,
           "content_id": 800262,
+          "resource_code": "UWTranslationManual",
           "label": "Tipos de coisas a verificar",
           "language": "por"
         }

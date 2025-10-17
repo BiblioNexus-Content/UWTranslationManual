@@ -13,60 +13,70 @@
         {
           "reference_id": 209449,
           "content_id": 800208,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a precisão da tradução",
           "language": "por"
         },
         {
           "reference_id": 209450,
           "content_id": 800209,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Alinhamento",
           "language": "por"
         },
         {
           "reference_id": 209463,
           "content_id": 800222,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de palavras de tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209468,
           "content_id": 800227,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a clareza e naturalidade da tradução",
           "language": "por"
         },
         {
           "reference_id": 209469,
           "content_id": 800228,
+          "resource_code": "UWTranslationManual",
           "label": "Formulário de avaliação do Verificador de Qualidade",
           "language": "por"
         },
         {
           "reference_id": 209474,
           "content_id": 800233,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação oral com um parceiro",
           "language": "por"
         },
         {
           "reference_id": 209489,
           "content_id": 800248,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de bloco oral em equipe",
           "language": "por"
         },
         {
           "reference_id": 209490,
           "content_id": 800249,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Notas de Tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209496,
           "content_id": 800255,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução Reversa",
           "language": "por"
         },
         {
           "reference_id": 209502,
           "content_id": 800261,
+          "resource_code": "UWTranslationManual",
           "label": "Etapas para verificadores de qualidade",
           "language": "por"
         }

@@ -13,36 +13,42 @@
         {
           "reference_id": 26678,
           "content_id": 727308,
+          "resource_code": "Unknown",
           "label": "सूचना देने बनाम याद दिलाने वाले शब्दों में अंतर करना",
           "language": "hin"
         },
         {
           "reference_id": 26691,
           "content_id": 727321,
+          "resource_code": "Unknown",
           "label": "सामान्य संज्ञा गर्भितं वाक्यांश",
           "language": "hin"
         },
         {
           "reference_id": 26718,
           "content_id": 727345,
+          "resource_code": "UWTranslationManual",
           "label": "सर्वनाम",
           "language": "hin"
         },
         {
           "reference_id": 26730,
           "content_id": 727355,
+          "resource_code": "UWTranslationManual",
           "label": "क्रियाएँ",
           "language": "hin"
         },
         {
           "reference_id": 26749,
           "content_id": 727375,
+          "resource_code": "Unknown",
           "label": "शब्दों और वाक्यांशों को जोड़ना",
           "language": "hin"
         },
         {
           "reference_id": 26805,
           "content_id": 727441,
+          "resource_code": "UWTranslationManual",
           "label": "नामों का अनुवाद कैसे करें",
           "language": "hin"
         }

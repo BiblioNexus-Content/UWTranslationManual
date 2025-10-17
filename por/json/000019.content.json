@@ -13,36 +13,42 @@
         {
           "reference_id": 26657,
           "content_id": 800022,
+          "resource_code": "UWTranslationManual",
           "label": "Imagens bíblicas",
           "language": "por"
         },
         {
           "reference_id": 26663,
           "content_id": 800028,
+          "resource_code": "UWTranslationManual",
           "label": "Imagens bíblicas — Padrões comuns",
           "language": "por"
         },
         {
           "reference_id": 26665,
           "content_id": 800030,
+          "resource_code": "UWTranslationManual",
           "label": "Imagens bíblicas — Modelos culturais",
           "language": "por"
         },
         {
           "reference_id": 26686,
           "content_id": 800051,
+          "resource_code": "UWTranslationManual",
           "label": "Imagens bíblicas — Metáforas estendidas",
           "language": "por"
         },
         {
           "reference_id": 26706,
           "content_id": 800071,
+          "resource_code": "UWTranslationManual",
           "label": "Metáfora",
           "language": "por"
         },
         {
           "reference_id": 26727,
           "content_id": 800092,
+          "resource_code": "UWTranslationManual",
           "label": "Metáfora simples",
           "language": "por"
         }

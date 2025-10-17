@@ -13,42 +13,49 @@
         {
           "reference_id": 26803,
           "content_id": 727439,
+          "resource_code": "UWTranslationManual",
           "label": "मूल प्रतिलिपियाँ",
           "language": "hin"
         },
         {
           "reference_id": 26808,
           "content_id": 727444,
+          "resource_code": "UWTranslationManual",
           "label": "मूल एवं स्रोत भाषा",
           "language": "hin"
         },
         {
           "reference_id": 209487,
           "content_id": 727415,
+          "resource_code": "UWTranslationManual",
           "label": "विश्वास कथन",
           "language": "hin"
         },
         {
           "reference_id": 26813,
           "content_id": 727448,
+          "resource_code": "UWTranslationManual",
           "label": "कॉपीराइट, लार्इसेंस और स्रोत लेख",
           "language": "hin"
         },
         {
           "reference_id": 26815,
           "content_id": 727450,
+          "resource_code": "UWTranslationManual",
           "label": "स्रोत लेख एवं वर्जन संख्याएँ",
           "language": "hin"
         },
         {
           "reference_id": 26819,
           "content_id": 727453,
+          "resource_code": "Unknown",
           "label": "लेखों के भेद",
           "language": "hin"
         },
         {
           "reference_id": 209492,
           "content_id": 727462,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद मार्गनिर्देश",
           "language": "hin"
         }

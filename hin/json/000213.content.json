@@ -13,12 +13,14 @@
         {
           "reference_id": 26736,
           "content_id": 727361,
+          "resource_code": "Unknown",
           "label": "फाइल प्रारूप",
           "language": "hin"
         },
         {
           "reference_id": 209484,
           "content_id": 727413,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद स्टूडियो स्थापित करना",
           "language": "hin"
         }

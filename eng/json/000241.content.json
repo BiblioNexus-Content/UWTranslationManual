@@ -13,18 +13,21 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         },
         {
           "reference_id": 209470,
           "content_id": 689650,
+          "resource_code": "UWTranslationManual",
           "label": "Questions for Quality Checkers",
           "language": "eng"
         },
         {
           "reference_id": 209502,
           "content_id": 689682,
+          "resource_code": "UWTranslationManual",
           "label": "Steps for Quality Checkers",
           "language": "eng"
         }

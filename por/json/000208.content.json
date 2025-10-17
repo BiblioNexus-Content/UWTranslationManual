@@ -13,30 +13,35 @@
         {
           "reference_id": 26687,
           "content_id": 800052,
+          "resource_code": "UWTranslationManual",
           "label": "Conhecimento presumido e informações implícitas",
           "language": "por"
         },
         {
           "reference_id": 209448,
           "content_id": 800207,
+          "resource_code": "UWTranslationManual",
           "label": "Estilo aceitável",
           "language": "por"
         },
         {
           "reference_id": 209456,
           "content_id": 800215,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução completa",
           "language": "por"
         },
         {
           "reference_id": 209469,
           "content_id": 800228,
+          "resource_code": "UWTranslationManual",
           "label": "Formulário de avaliação do Verificador de Qualidade",
           "language": "por"
         },
         {
           "reference_id": 209503,
           "content_id": 800262,
+          "resource_code": "UWTranslationManual",
           "label": "Tipos de coisas a verificar",
           "language": "por"
         }

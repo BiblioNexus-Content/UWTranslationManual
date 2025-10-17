@@ -13,12 +13,14 @@
         {
           "reference_id": 26719,
           "content_id": 727346,
+          "resource_code": "UWTranslationManual",
           "label": "प्रत्यक्ष एवं अप्रत्यक्ष उद्धरण",
           "language": "hin"
         },
         {
           "reference_id": 26721,
           "content_id": 727348,
+          "resource_code": "UWTranslationManual",
           "label": "उद्धरणों में उद्धरण",
           "language": "hin"
         }

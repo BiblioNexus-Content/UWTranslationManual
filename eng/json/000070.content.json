@@ -13,30 +13,35 @@
         {
           "reference_id": 26677,
           "content_id": 33263,
+          "resource_code": "UWTranslationManual",
           "label": "Statements — Other Uses",
           "language": "eng"
         },
         {
           "reference_id": 26684,
           "content_id": 33270,
+          "resource_code": "UWTranslationManual",
           "label": "Exclamations",
           "language": "eng"
         },
         {
           "reference_id": 26698,
           "content_id": 33284,
+          "resource_code": "UWTranslationManual",
           "label": "Imperatives — Other Uses",
           "language": "eng"
         },
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         },
         {
           "reference_id": 166292,
           "content_id": 259872,
+          "resource_code": "Unknown",
           "label": "James 1:19 (#1)",
           "language": "eng"
         }

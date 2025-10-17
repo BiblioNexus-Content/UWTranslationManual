@@ -13,48 +13,56 @@
         {
           "reference_id": 26671,
           "content_id": 33257,
+          "resource_code": "UWTranslationManual",
           "label": "Abstract Nouns",
           "language": "eng"
         },
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         },
         {
           "reference_id": 26717,
           "content_id": 33303,
+          "resource_code": "UWTranslationManual",
           "label": "Possession",
           "language": "eng"
         },
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         },
         {
           "reference_id": 26720,
           "content_id": 33306,
+          "resource_code": "UWTranslationManual",
           "label": "Quote Markings",
           "language": "eng"
         },
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         },
         {
           "reference_id": 209462,
           "content_id": 689642,
+          "resource_code": "UWTranslationManual",
           "label": "Section Headings",
           "language": "eng"
         },
         {
           "reference_id": 209480,
           "content_id": 689660,
+          "resource_code": "UWTranslationManual",
           "label": "Consistent Punctuation",
           "language": "eng"
         }

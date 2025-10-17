@@ -13,36 +13,42 @@
         {
           "reference_id": 26764,
           "content_id": 33350,
+          "resource_code": "UWTranslationManual",
           "label": "Translator Qualifications",
           "language": "eng"
         },
         {
           "reference_id": 209448,
           "content_id": 689628,
+          "resource_code": "UWTranslationManual",
           "label": "Acceptable Style",
           "language": "eng"
         },
         {
           "reference_id": 209449,
           "content_id": 689629,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Accuracy",
           "language": "eng"
         },
         {
           "reference_id": 209456,
           "content_id": 689636,
+          "resource_code": "UWTranslationManual",
           "label": "Complete Translation",
           "language": "eng"
         },
         {
           "reference_id": 209461,
           "content_id": 689641,
+          "resource_code": "UWTranslationManual",
           "label": "Affirmation of Accuracy and Community Acceptance",
           "language": "eng"
         },
         {
           "reference_id": 209492,
           "content_id": 689672,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Guidelines",
           "language": "eng"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 26790,
           "content_id": 33376,
+          "resource_code": "UWTranslationManual",
           "label": "Discover the Meaning of the Text",
           "language": "eng"
         },
         {
           "reference_id": 26812,
           "content_id": 33398,
+          "resource_code": "UWTranslationManual",
           "label": "Re-telling the Meaning",
           "language": "eng"
         }

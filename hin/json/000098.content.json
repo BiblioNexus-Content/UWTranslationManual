@@ -13,48 +13,56 @@
         {
           "reference_id": 26671,
           "content_id": 727303,
+          "resource_code": "UWTranslationManual",
           "label": "भाववाचक संज्ञा",
           "language": "hin"
         },
         {
           "reference_id": 26672,
           "content_id": 727304,
+          "resource_code": "UWTranslationManual",
           "label": "कर्तृवाच्य एवं कर्मवाच्य",
           "language": "hin"
         },
         {
           "reference_id": 26717,
           "content_id": 727344,
+          "resource_code": "Unknown",
           "label": "स्वत्वबोधन",
           "language": "hin"
         },
         {
           "reference_id": 26718,
           "content_id": 727345,
+          "resource_code": "Unknown",
           "label": "सर्वनाम",
           "language": "hin"
         },
         {
           "reference_id": 26720,
           "content_id": 727347,
+          "resource_code": "Unknown",
           "label": "उद्धरण चिन्ह",
           "language": "hin"
         },
         {
           "reference_id": 26835,
           "content_id": 727469,
+          "resource_code": "Unknown",
           "label": "नए एवं पुराने सहभागियों का परिचय",
           "language": "hin"
         },
         {
           "reference_id": 209462,
           "content_id": 727257,
+          "resource_code": "Unknown",
           "label": "भागों के शीर्षक",
           "language": "hin"
         },
         {
           "reference_id": 209480,
           "content_id": 727267,
+          "resource_code": "Unknown",
           "label": "सतत विराम चिन्ह",
           "language": "hin"
         }

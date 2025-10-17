@@ -13,42 +13,49 @@
         {
           "reference_id": 26803,
           "content_id": 33389,
+          "resource_code": "UWTranslationManual",
           "label": "Original Manuscripts",
           "language": "eng"
         },
         {
           "reference_id": 26808,
           "content_id": 33394,
+          "resource_code": "UWTranslationManual",
           "label": "The Original and Source Languages",
           "language": "eng"
         },
         {
           "reference_id": 26813,
           "content_id": 33399,
+          "resource_code": "UWTranslationManual",
           "label": "Copyrights, Licensing, and Source Texts",
           "language": "eng"
         },
         {
           "reference_id": 26815,
           "content_id": 33401,
+          "resource_code": "UWTranslationManual",
           "label": "Source Texts and Version Numbers",
           "language": "eng"
         },
         {
           "reference_id": 26819,
           "content_id": 33405,
+          "resource_code": "UWTranslationManual",
           "label": "Textual Variants",
           "language": "eng"
         },
         {
           "reference_id": 209487,
           "content_id": 689667,
+          "resource_code": "UWTranslationManual",
           "label": "Statement of Faith",
           "language": "eng"
         },
         {
           "reference_id": 209492,
           "content_id": 689672,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Guidelines",
           "language": "eng"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 26736,
           "content_id": 800101,
+          "resource_code": "UWTranslationManual",
           "label": "Formatos de arquivo",
           "language": "por"
         },
         {
           "reference_id": 209484,
           "content_id": 800243,
+          "resource_code": "UWTranslationManual",
           "label": "Configurando o translationStudio",
           "language": "por"
         }

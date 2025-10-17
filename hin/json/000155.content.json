@@ -13,12 +13,14 @@
         {
           "reference_id": 26790,
           "content_id": 727426,
+          "resource_code": "UWTranslationManual",
           "label": "लेख के अर्थ की खोज",
           "language": "hin"
         },
         {
           "reference_id": 26812,
           "content_id": 727447,
+          "resource_code": "UWTranslationManual",
           "label": "अर्थ को पुन: बताना",
           "language": "hin"
         }

@@ -13,18 +13,21 @@
         {
           "reference_id": 209460,
           "content_id": 800219,
+          "resource_code": "UWTranslationManual",
           "label": "O objetivo da verificação",
           "language": "por"
         },
         {
           "reference_id": 209464,
           "content_id": 800223,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução ao Manual de Verificação",
           "language": "por"
         },
         {
           "reference_id": 209465,
           "content_id": 800224,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução à Verificação de Tradução",
           "language": "por"
         }

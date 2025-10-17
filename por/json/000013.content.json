@@ -13,36 +13,42 @@
         {
           "reference_id": 26764,
           "content_id": 800129,
+          "resource_code": "UWTranslationManual",
           "label": "Qualificações do tradutor",
           "language": "por"
         },
         {
           "reference_id": 209449,
           "content_id": 800208,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a precisão da tradução",
           "language": "por"
         },
         {
           "reference_id": 209450,
           "content_id": 800209,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Alinhamento",
           "language": "por"
         },
         {
           "reference_id": 209463,
           "content_id": 800222,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de palavras de tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209473,
           "content_id": 800232,
+          "resource_code": "UWTranslationManual",
           "label": "Outros métodos",
           "language": "por"
         },
         {
           "reference_id": 209490,
           "content_id": 800249,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Notas de Tradução no tC",
           "language": "por"
         }

@@ -13,30 +13,35 @@
         {
           "reference_id": 26678,
           "content_id": 33264,
+          "resource_code": "UWTranslationManual",
           "label": "Distinguishing Versus Informing or Reminding",
           "language": "eng"
         },
         {
           "reference_id": 26700,
           "content_id": 33286,
+          "resource_code": "UWTranslationManual",
           "label": "Information Structure",
           "language": "eng"
         },
         {
           "reference_id": 26714,
           "content_id": 33300,
+          "resource_code": "UWTranslationManual",
           "label": "Parts of Speech",
           "language": "eng"
         },
         {
           "reference_id": 26730,
           "content_id": 33316,
+          "resource_code": "UWTranslationManual",
           "label": "Verbs",
           "language": "eng"
         },
         {
           "reference_id": 176929,
           "content_id": 270509,
+          "resource_code": "Unknown",
           "label": "Job 19:3 (#2)",
           "language": "eng"
         }

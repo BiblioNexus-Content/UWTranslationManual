@@ -13,24 +13,28 @@
         {
           "reference_id": 26798,
           "content_id": 33384,
+          "resource_code": "UWTranslationManual",
           "label": "Making a Key Terms Spreadsheet",
           "language": "eng"
         },
         {
           "reference_id": 209450,
           "content_id": 689630,
+          "resource_code": "UWTranslationManual",
           "label": "Alignment Checking",
           "language": "eng"
         },
         {
           "reference_id": 209496,
           "content_id": 689676,
+          "resource_code": "UWTranslationManual",
           "label": "Back Translation",
           "language": "eng"
         },
         {
           "reference_id": 209503,
           "content_id": 689683,
+          "resource_code": "UWTranslationManual",
           "label": "Types of Things to Check",
           "language": "eng"
         }

@@ -13,90 +13,105 @@
         {
           "reference_id": 26737,
           "content_id": 33323,
+          "resource_code": "UWTranslationManual",
           "label": "First Draft",
           "language": "eng"
         },
         {
           "reference_id": 26827,
           "content_id": 33413,
+          "resource_code": "UWTranslationManual",
           "label": "Choosing What to Translate",
           "language": "eng"
         },
         {
           "reference_id": 209450,
           "content_id": 689630,
+          "resource_code": "UWTranslationManual",
           "label": "Alignment Checking",
           "language": "eng"
         },
         {
           "reference_id": 209453,
           "content_id": 689633,
+          "resource_code": "UWTranslationManual",
           "label": "Accuracy Checking by Church Leaders",
           "language": "eng"
         },
         {
           "reference_id": 209463,
           "content_id": 689643,
+          "resource_code": "UWTranslationManual",
           "label": "translationWords Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209466,
           "content_id": 689646,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to Publishing",
           "language": "eng"
         },
         {
           "reference_id": 209468,
           "content_id": 689648,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Clarity and Naturalness",
           "language": "eng"
         },
         {
           "reference_id": 209474,
           "content_id": 689654,
+          "resource_code": "UWTranslationManual",
           "label": "Oral Partner Check",
           "language": "eng"
         },
         {
           "reference_id": 209477,
           "content_id": 689657,
+          "resource_code": "UWTranslationManual",
           "label": "Training Before Translation Begins",
           "language": "eng"
         },
         {
           "reference_id": 209482,
           "content_id": 689662,
+          "resource_code": "UWTranslationManual",
           "label": "Setting Up translationCore®",
           "language": "eng"
         },
         {
           "reference_id": 209483,
           "content_id": 689663,
+          "resource_code": "UWTranslationManual",
           "label": "Setting Up A Translation Team",
           "language": "eng"
         },
         {
           "reference_id": 209484,
           "content_id": 689664,
+          "resource_code": "UWTranslationManual",
           "label": "Setting Up translationStudio",
           "language": "eng"
         },
         {
           "reference_id": 209489,
           "content_id": 689669,
+          "resource_code": "UWTranslationManual",
           "label": "Team Oral Chunk Check",
           "language": "eng"
         },
         {
           "reference_id": 209490,
           "content_id": 689670,
+          "resource_code": "UWTranslationManual",
           "label": "translationNotes Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209502,
           "content_id": 689682,
+          "resource_code": "UWTranslationManual",
           "label": "Steps for Quality Checkers",
           "language": "eng"
         }

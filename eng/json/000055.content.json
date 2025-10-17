@@ -13,30 +13,35 @@
         {
           "reference_id": 26749,
           "content_id": 33335,
+          "resource_code": "UWTranslationManual",
           "label": "Connecting Words and Phrases",
           "language": "eng"
         },
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         },
         {
           "reference_id": 26831,
           "content_id": 33417,
+          "resource_code": "UWTranslationManual",
           "label": "End of Story",
           "language": "eng"
         },
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         },
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }

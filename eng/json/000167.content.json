@@ -13,48 +13,56 @@
         {
           "reference_id": 26671,
           "content_id": 33257,
+          "resource_code": "UWTranslationManual",
           "label": "Abstract Nouns",
           "language": "eng"
         },
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         },
         {
           "reference_id": 26683,
           "content_id": 33269,
+          "resource_code": "UWTranslationManual",
           "label": "Order of Events",
           "language": "eng"
         },
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         },
         {
           "reference_id": 26702,
           "content_id": 33288,
+          "resource_code": "UWTranslationManual",
           "label": "Irony",
           "language": "eng"
         },
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26728,
           "content_id": 33314,
+          "resource_code": "UWTranslationManual",
           "label": "Simile",
           "language": "eng"
         },
         {
           "reference_id": 26816,
           "content_id": 33402,
+          "resource_code": "UWTranslationManual",
           "label": "Symbolic Action",
           "language": "eng"
         }

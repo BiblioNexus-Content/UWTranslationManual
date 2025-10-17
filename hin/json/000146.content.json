@@ -13,24 +13,28 @@
         {
           "reference_id": 26669,
           "content_id": 727301,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद दल को चुनना",
           "language": "hin"
         },
         {
           "reference_id": 26759,
           "content_id": 727384,
+          "resource_code": "UWTranslationManual",
           "label": "अच्छे अनुवादक के गुण",
           "language": "hin"
         },
         {
           "reference_id": 26811,
           "content_id": 727446,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद प्रक्रिया",
           "language": "hin"
         },
         {
           "reference_id": 26827,
           "content_id": 727461,
+          "resource_code": "UWTranslationManual",
           "label": "चुनना कि क्या अनुवाद किया जाए",
           "language": "hin"
         }

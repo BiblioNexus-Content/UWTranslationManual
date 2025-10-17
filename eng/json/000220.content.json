@@ -13,24 +13,28 @@
         {
           "reference_id": 209450,
           "content_id": 689630,
+          "resource_code": "UWTranslationManual",
           "label": "Alignment Checking",
           "language": "eng"
         },
         {
           "reference_id": 209463,
           "content_id": 689643,
+          "resource_code": "UWTranslationManual",
           "label": "translationWords Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209466,
           "content_id": 689646,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to Publishing",
           "language": "eng"
         },
         {
           "reference_id": 209490,
           "content_id": 689670,
+          "resource_code": "UWTranslationManual",
           "label": "translationNotes Check in tC",
           "language": "eng"
         }

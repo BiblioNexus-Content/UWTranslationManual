@@ -13,36 +13,42 @@
         {
           "reference_id": 26760,
           "content_id": 33346,
+          "resource_code": "UWTranslationManual",
           "label": "Create Natural Translations",
           "language": "eng"
         },
         {
           "reference_id": 26825,
           "content_id": 33411,
+          "resource_code": "UWTranslationManual",
           "label": "Word for Word Substitution",
           "language": "eng"
         },
         {
           "reference_id": 209457,
           "content_id": 689637,
+          "resource_code": "UWTranslationManual",
           "label": "Finding Answers",
           "language": "eng"
         },
         {
           "reference_id": 209474,
           "content_id": 689654,
+          "resource_code": "UWTranslationManual",
           "label": "Oral Partner Check",
           "language": "eng"
         },
         {
           "reference_id": 209484,
           "content_id": 689664,
+          "resource_code": "UWTranslationManual",
           "label": "Setting Up translationStudio",
           "language": "eng"
         },
         {
           "reference_id": 209492,
           "content_id": 689672,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Guidelines",
           "language": "eng"
         }

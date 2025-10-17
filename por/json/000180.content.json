@@ -13,144 +13,168 @@
         {
           "reference_id": 26673,
           "content_id": 800038,
+          "resource_code": "UWTranslationManual",
           "label": "Apóstrofe",
           "language": "por"
         },
         {
           "reference_id": 26713,
           "content_id": 800078,
+          "resource_code": "UWTranslationManual",
           "label": "Paralelismo",
           "language": "por"
         },
         {
           "reference_id": 175213,
           "content_id": 487446,
+          "resource_code": "Unknown",
           "label": "Gênesis 49.1 (#3)",
           "language": "por"
         },
         {
           "reference_id": 175778,
           "content_id": 583799,
+          "resource_code": "Unknown",
           "label": "Jó 3.25 (#3)",
           "language": "por"
         },
         {
           "reference_id": 162515,
           "content_id": 760532,
+          "resource_code": "Unknown",
           "label": "Filemom 1.5 (#2)",
           "language": "por"
         },
         {
           "reference_id": 26716,
           "content_id": 800081,
+          "resource_code": "UWTranslationManual",
           "label": "Personificação",
           "language": "por"
         },
         {
           "reference_id": 175821,
           "content_id": 583842,
+          "resource_code": "Unknown",
           "label": "Jó 4.14 (#2)",
           "language": "por"
         },
         {
           "reference_id": 175915,
           "content_id": 583936,
+          "resource_code": "Unknown",
           "label": "Jó 5.19 (#1)",
           "language": "por"
         },
         {
           "reference_id": 176027,
           "content_id": 584048,
+          "resource_code": "Unknown",
           "label": "Jó 6.25 (#3)",
           "language": "por"
         },
         {
           "reference_id": 177568,
           "content_id": 585589,
+          "resource_code": "Unknown",
           "label": "Jó 27.12 (#4)",
           "language": "por"
         },
         {
           "reference_id": 178052,
           "content_id": 586073,
+          "resource_code": "Unknown",
           "label": "Jó 33.14 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185161,
           "content_id": 745273,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 1.1 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185164,
           "content_id": 745276,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 1.2-4 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185165,
           "content_id": 745277,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 1.2 (#1)",
           "language": "por"
         },
         {
           "reference_id": 190010,
           "content_id": 489702,
+          "resource_code": "Unknown",
           "label": "Êxodo 32.18 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185322,
           "content_id": 745434,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 2.14 (#5)",
           "language": "por"
         },
         {
           "reference_id": 185341,
           "content_id": 745453,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 3.1 (#3)",
           "language": "por"
         },
         {
           "reference_id": 185356,
           "content_id": 745468,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 3.5 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185362,
           "content_id": 745474,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 3.6 (#6)",
           "language": "por"
         },
         {
           "reference_id": 185440,
           "content_id": 745552,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 4.13,14 (#2)",
           "language": "por"
         },
         {
           "reference_id": 185488,
           "content_id": 745600,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 5.9 (#1)",
           "language": "por"
         },
         {
           "reference_id": 185546,
           "content_id": 745658,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 6.8 (#2)",
           "language": "por"
         },
         {
           "reference_id": 185569,
           "content_id": 745681,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 6.13 (#3)",
           "language": "por"
         },
         {
           "reference_id": 185643,
           "content_id": 745755,
+          "resource_code": "Unknown",
           "label": "Cântico dos cânticos 8.1 (#3)",
           "language": "por"
         }

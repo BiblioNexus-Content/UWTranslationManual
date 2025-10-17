@@ -13,24 +13,28 @@
         {
           "reference_id": 209454,
           "content_id": 800213,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução clara",
           "language": "por"
         },
         {
           "reference_id": 209455,
           "content_id": 800214,
+          "resource_code": "UWTranslationManual",
           "label": "Perguntas de avaliação da comunidade do idioma",
           "language": "por"
         },
         {
           "reference_id": 209471,
           "content_id": 800230,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução natural",
           "language": "por"
         },
         {
           "reference_id": 209473,
           "content_id": 800232,
+          "resource_code": "UWTranslationManual",
           "label": "Outros métodos",
           "language": "por"
         }

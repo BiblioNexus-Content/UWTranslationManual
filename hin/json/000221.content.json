@@ -13,96 +13,112 @@
         {
           "reference_id": 26668,
           "content_id": 799937,
+          "resource_code": "Unknown",
           "label": "अनुवाद शैली का चयन ",
           "language": "hin"
         },
         {
           "reference_id": 26669,
           "content_id": 727301,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद दल को चुनना",
           "language": "hin"
         },
         {
           "reference_id": 26759,
           "content_id": 727384,
+          "resource_code": "UWTranslationManual",
           "label": "अच्छे अनुवादक के गुण",
           "language": "hin"
         },
         {
           "reference_id": 26764,
           "content_id": 727396,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवादक की योग्यताएँ",
           "language": "hin"
         },
         {
           "reference_id": 26781,
           "content_id": 727418,
+          "resource_code": "UWTranslationManual",
           "label": "अक्षरमाला/वर्तनी",
           "language": "hin"
         },
         {
           "reference_id": 26813,
           "content_id": 727448,
+          "resource_code": "UWTranslationManual",
           "label": "कॉपीराइट, लार्इसेंस और स्रोत लेख",
           "language": "hin"
         },
         {
           "reference_id": 209448,
           "content_id": 727246,
+          "resource_code": "Unknown",
           "label": "स्वीकार्य शैली",
           "language": "hin"
         },
         {
           "reference_id": 209457,
           "content_id": 727362,
+          "resource_code": "UWTranslationManual",
           "label": "उत्तरों की तलाश",
           "language": "hin"
         },
         {
           "reference_id": 209472,
           "content_id": 727391,
+          "resource_code": "UWTranslationManual",
           "label": "खुला लार्इसेंस",
           "language": "hin"
         },
         {
           "reference_id": 209477,
           "content_id": 727394,
+          "resource_code": "Unknown",
           "label": "अनुवाद शुरू करने से पहले प्रशिक्षण",
           "language": "hin"
         },
         {
           "reference_id": 26814,
           "content_id": 727449,
+          "resource_code": "UWTranslationManual",
           "label": "स्रोत लेख को चुनना",
           "language": "hin"
         },
         {
           "reference_id": 26815,
           "content_id": 727450,
+          "resource_code": "UWTranslationManual",
           "label": "स्रोत लेख एवं वर्जन संख्याएँ",
           "language": "hin"
         },
         {
           "reference_id": 26827,
           "content_id": 727461,
+          "resource_code": "UWTranslationManual",
           "label": "चुनना कि क्या अनुवाद किया जाए",
           "language": "hin"
         },
         {
           "reference_id": 26830,
           "content_id": 727465,
+          "resource_code": "UWTranslationManual",
           "label": "अपनी भाषाओं को लिखने के निर्णय",
           "language": "hin"
         },
         {
           "reference_id": 209487,
           "content_id": 727415,
+          "resource_code": "UWTranslationManual",
           "label": "विश्वास कथन",
           "language": "hin"
         },
         {
           "reference_id": 209492,
           "content_id": 727462,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद मार्गनिर्देश",
           "language": "hin"
         }

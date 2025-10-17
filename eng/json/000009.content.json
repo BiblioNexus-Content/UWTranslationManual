@@ -13,12 +13,14 @@
         {
           "reference_id": 26675,
           "content_id": 33261,
+          "resource_code": "UWTranslationManual",
           "label": "Complex Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26716,
           "content_id": 33302,
+          "resource_code": "UWTranslationManual",
           "label": "Personification",
           "language": "eng"
         }
