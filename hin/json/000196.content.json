@@ -13,30 +13,35 @@
         {
           "reference_id": 209451,
           "content_id": 727248,
+          "resource_code": "UWTranslationManual",
           "label": "उचित अक्षरमाला",
           "language": "hin"
         },
         {
           "reference_id": 209462,
           "content_id": 727257,
+          "resource_code": "UWTranslationManual",
           "label": "भागों के शीर्षक",
           "language": "hin"
         },
         {
           "reference_id": 209480,
           "content_id": 727267,
+          "resource_code": "UWTranslationManual",
           "label": "सतत विराम चिन्ह",
           "language": "hin"
         },
         {
           "reference_id": 209486,
           "content_id": 727269,
+          "resource_code": "UWTranslationManual",
           "label": "सतत अक्षरमाला",
           "language": "hin"
         },
         {
           "reference_id": 209495,
           "content_id": 727270,
+          "resource_code": "UWTranslationManual",
           "label": "संपूर्ण छंद रचना",
           "language": "hin"
         }

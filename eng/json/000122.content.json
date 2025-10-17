@@ -13,66 +13,77 @@
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         },
         {
           "reference_id": 26765,
           "content_id": 33351,
+          "resource_code": "UWTranslationManual",
           "label": "Notes with Alternate Translations",
           "language": "eng"
         },
         {
           "reference_id": 26766,
           "content_id": 33352,
+          "resource_code": "UWTranslationManual",
           "label": "Notes that have Alternate Meanings",
           "language": "eng"
         },
         {
           "reference_id": 26767,
           "content_id": 33353,
+          "resource_code": "UWTranslationManual",
           "label": "Notes that Clarify the UST Translation",
           "language": "eng"
         },
         {
           "reference_id": 26769,
           "content_id": 33355,
+          "resource_code": "UWTranslationManual",
           "label": "Notes with Definitions",
           "language": "eng"
         },
         {
           "reference_id": 26770,
           "content_id": 33356,
+          "resource_code": "UWTranslationManual",
           "label": "Notes that Explain",
           "language": "eng"
         },
         {
           "reference_id": 26771,
           "content_id": 33357,
+          "resource_code": "UWTranslationManual",
           "label": "Notes that Identify Figures of Speech",
           "language": "eng"
         },
         {
           "reference_id": 26772,
           "content_id": 33358,
+          "resource_code": "UWTranslationManual",
           "label": "Notes that Identify Indirect and Direct Quotes",
           "language": "eng"
         },
         {
           "reference_id": 26774,
           "content_id": 33360,
+          "resource_code": "UWTranslationManual",
           "label": "Notes for Long ULT Phrases",
           "language": "eng"
         },
         {
           "reference_id": 26775,
           "content_id": 33361,
+          "resource_code": "UWTranslationManual",
           "label": "Notes with Probable or Possible Meanings",
           "language": "eng"
         },
         {
           "reference_id": 26777,
           "content_id": 33363,
+          "resource_code": "UWTranslationManual",
           "label": "Notes with Synonyms and Equivalent Phrases",
           "language": "eng"
         }

@@ -13,36 +13,42 @@
         {
           "reference_id": 26764,
           "content_id": 33350,
+          "resource_code": "UWTranslationManual",
           "label": "Translator Qualifications",
           "language": "eng"
         },
         {
           "reference_id": 209449,
           "content_id": 689629,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Accuracy",
           "language": "eng"
         },
         {
           "reference_id": 209450,
           "content_id": 689630,
+          "resource_code": "UWTranslationManual",
           "label": "Alignment Checking",
           "language": "eng"
         },
         {
           "reference_id": 209463,
           "content_id": 689643,
+          "resource_code": "UWTranslationManual",
           "label": "translationWords Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209473,
           "content_id": 689653,
+          "resource_code": "UWTranslationManual",
           "label": "Other Methods",
           "language": "eng"
         },
         {
           "reference_id": 209490,
           "content_id": 689670,
+          "resource_code": "UWTranslationManual",
           "label": "translationNotes Check in tC",
           "language": "eng"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 26719,
           "content_id": 800084,
+          "resource_code": "UWTranslationManual",
           "label": "Citações diretas e indiretas",
           "language": "por"
         },
         {
           "reference_id": 26721,
           "content_id": 800086,
+          "resource_code": "UWTranslationManual",
           "label": "Citações dentro de citações",
           "language": "por"
         }

@@ -13,18 +13,21 @@
         {
           "reference_id": 209460,
           "content_id": 689640,
+          "resource_code": "UWTranslationManual",
           "label": "The Goal of Checking",
           "language": "eng"
         },
         {
           "reference_id": 209464,
           "content_id": 689644,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to the Checking Manual",
           "language": "eng"
         },
         {
           "reference_id": 209465,
           "content_id": 689645,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to Translation Checking",
           "language": "eng"
         }

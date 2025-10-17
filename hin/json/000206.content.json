@@ -13,24 +13,28 @@
         {
           "reference_id": 209454,
           "content_id": 727251,
+          "resource_code": "Unknown",
           "label": "स्पष्ट अनुवाद",
           "language": "hin"
         },
         {
           "reference_id": 209455,
           "content_id": 727252,
+          "resource_code": "UWTranslationManual",
           "label": "भाषा समुदाय मूल्यांकन प्रश्न",
           "language": "hin"
         },
         {
           "reference_id": 209471,
           "content_id": 727264,
+          "resource_code": "UWTranslationManual",
           "label": "स्वाभाविक अनुवाद",
           "language": "hin"
         },
         {
           "reference_id": 209473,
           "content_id": 727265,
+          "resource_code": "Unknown",
           "label": "अन्य तरीके",
           "language": "hin"
         }

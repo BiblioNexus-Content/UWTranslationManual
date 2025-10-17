@@ -13,276 +13,322 @@
         {
           "reference_id": 26822,
           "content_id": 33408,
+          "resource_code": "UWTranslationManual",
           "label": "Translate Unknowns",
           "language": "eng"
         },
         {
           "reference_id": 116098,
           "content_id": 141310,
+          "resource_code": "Unknown",
           "label": "Mark 3:17 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 116101,
           "content_id": 141313,
+          "resource_code": "Unknown",
           "label": "Mark 3:18 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 116525,
           "content_id": 141737,
+          "resource_code": "Unknown",
           "label": "Mark 5:41 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 116857,
           "content_id": 142069,
+          "resource_code": "Unknown",
           "label": "Mark 7:11 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 116960,
           "content_id": 142172,
+          "resource_code": "Unknown",
           "label": "Mark 7:34 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 136742,
           "content_id": 207269,
+          "resource_code": "Unknown",
           "label": "Acts 1:19 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 138447,
           "content_id": 208974,
+          "resource_code": "Unknown",
           "label": "Acts 13:8 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 139031,
           "content_id": 209558,
+          "resource_code": "Unknown",
           "label": "Acts 17:19 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 117659,
           "content_id": 142871,
+          "resource_code": "Unknown",
           "label": "Mark 11:9 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 117669,
           "content_id": 142881,
+          "resource_code": "Unknown",
           "label": "Mark 11:10 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 118424,
           "content_id": 143636,
+          "resource_code": "Unknown",
           "label": "Mark 14:36 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 118686,
           "content_id": 143898,
+          "resource_code": "Unknown",
           "label": "Mark 15:22 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 118729,
           "content_id": 143941,
+          "resource_code": "Unknown",
           "label": "Mark 15:34 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 139567,
           "content_id": 210094,
+          "resource_code": "Unknown",
           "label": "Acts 21:38 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 139975,
           "content_id": 210502,
+          "resource_code": "Unknown",
           "label": "Acts 27:14 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 147255,
           "content_id": 217782,
+          "resource_code": "Unknown",
           "label": "Matthew 1:23 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 147701,
           "content_id": 218228,
+          "resource_code": "Unknown",
           "label": "Matthew 5:22 (#9)",
           "language": "eng"
         },
         {
           "reference_id": 148577,
           "content_id": 219104,
+          "resource_code": "Unknown",
           "label": "Matthew 10:4 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 149934,
           "content_id": 220461,
+          "resource_code": "Unknown",
           "label": "Matthew 16:17 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 150708,
           "content_id": 221235,
+          "resource_code": "Unknown",
           "label": "Matthew 21:9 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 150739,
           "content_id": 221266,
+          "resource_code": "Unknown",
           "label": "Matthew 21:15 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 152231,
           "content_id": 222758,
+          "resource_code": "Unknown",
           "label": "Matthew 27:33 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 152279,
           "content_id": 222806,
+          "resource_code": "Unknown",
           "label": "Matthew 27:46 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 157703,
           "content_id": 242962,
+          "resource_code": "Unknown",
           "label": "1 Corinthians 16:22 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 157710,
           "content_id": 242969,
+          "resource_code": "Unknown",
           "label": "1 Corinthians 16:24 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 165273,
           "content_id": 258853,
+          "resource_code": "Unknown",
           "label": "Hebrews 9:4 (#7)",
           "language": "eng"
         },
         {
           "reference_id": 165278,
           "content_id": 258858,
+          "resource_code": "Unknown",
           "label": "Hebrews 9:5 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 167022,
           "content_id": 260602,
+          "resource_code": "Unknown",
           "label": "Revelation 1:6 (#7)",
           "language": "eng"
         },
         {
           "reference_id": 167076,
           "content_id": 260656,
+          "resource_code": "Unknown",
           "label": "Revelation 1:18 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 167238,
           "content_id": 260818,
+          "resource_code": "Unknown",
           "label": "Revelation 3:14 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 167345,
           "content_id": 260925,
+          "resource_code": "Unknown",
           "label": "Revelation 6:8 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 167491,
           "content_id": 261071,
+          "resource_code": "Unknown",
           "label": "Revelation 9:11 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 167628,
           "content_id": 261208,
+          "resource_code": "Unknown",
           "label": "Revelation 12:9 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 167864,
           "content_id": 261444,
+          "resource_code": "Unknown",
           "label": "Revelation 16:16 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 168215,
           "content_id": 261795,
+          "resource_code": "Unknown",
           "label": "Revelation 21:19 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 168292,
           "content_id": 261872,
+          "resource_code": "Unknown",
           "label": "Revelation 22:20 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 170045,
           "content_id": 263625,
+          "resource_code": "Unknown",
           "label": "Genesis 6:14 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 185338,
           "content_id": 278918,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 2:17 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 187157,
           "content_id": 391324,
+          "resource_code": "Unknown",
           "label": "Galatians 1:5 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 187628,
           "content_id": 391795,
+          "resource_code": "Unknown",
           "label": "Galatians 4:6 (#7)",
           "language": "eng"
         },
         {
           "reference_id": 188440,
           "content_id": 392607,
+          "resource_code": "Unknown",
           "label": "Exodus 6:3 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 189762,
           "content_id": 393929,
+          "resource_code": "Unknown",
           "label": "Exodus 28:30 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 203024,
           "content_id": 499959,
+          "resource_code": "Unknown",
           "label": "Joel 3:2 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 203057,
           "content_id": 499992,
+          "resource_code": "Unknown",
           "label": "Joel 3:12 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 203082,
           "content_id": 500017,
+          "resource_code": "Unknown",
           "label": "Joel 3:18 (#7)",
           "language": "eng"
         }

@@ -13,270 +13,315 @@
         {
           "reference_id": 26673,
           "content_id": 33259,
+          "resource_code": "UWTranslationManual",
           "label": "Apostrophe",
           "language": "eng"
         },
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         },
         {
           "reference_id": 26716,
           "content_id": 33302,
+          "resource_code": "UWTranslationManual",
           "label": "Personification",
           "language": "eng"
         },
         {
           "reference_id": 162515,
           "content_id": 247774,
+          "resource_code": "Unknown",
           "label": "Philemon 1:5 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 163008,
           "content_id": 256588,
+          "resource_code": "Unknown",
           "label": "1 John 2:25 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 163308,
           "content_id": 256888,
+          "resource_code": "Unknown",
           "label": "1 John 5:4 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 163343,
           "content_id": 256923,
+          "resource_code": "Unknown",
           "label": "1 John 5:10 (#8)",
           "language": "eng"
         },
         {
           "reference_id": 163367,
           "content_id": 256947,
+          "resource_code": "Unknown",
           "label": "1 John 5:16 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 167330,
           "content_id": 260910,
+          "resource_code": "Unknown",
           "label": "Revelation 6:2 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 167439,
           "content_id": 261019,
+          "resource_code": "Unknown",
           "label": "Revelation 8:6 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 167727,
           "content_id": 261307,
+          "resource_code": "Unknown",
           "label": "Revelation 14:2 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 167900,
           "content_id": 261480,
+          "resource_code": "Unknown",
           "label": "Revelation 17:6 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 167955,
           "content_id": 261535,
+          "resource_code": "Unknown",
           "label": "Revelation 18:6 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 168017,
           "content_id": 261597,
+          "resource_code": "Unknown",
           "label": "Revelation 18:20 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 168174,
           "content_id": 261754,
+          "resource_code": "Unknown",
           "label": "Revelation 21:3 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 175213,
           "content_id": 268793,
+          "resource_code": "Unknown",
           "label": "Genesis 49:1 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 175778,
           "content_id": 269358,
+          "resource_code": "Unknown",
           "label": "Job 3:25 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 175821,
           "content_id": 269401,
+          "resource_code": "Unknown",
           "label": "Job 4:14 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 175915,
           "content_id": 269495,
+          "resource_code": "Unknown",
           "label": "Job 5:19 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 176027,
           "content_id": 269607,
+          "resource_code": "Unknown",
           "label": "Job 6:25 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 177568,
           "content_id": 271148,
+          "resource_code": "Unknown",
           "label": "Job 27:12 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 178052,
           "content_id": 271632,
+          "resource_code": "Unknown",
           "label": "Job 33:14 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 180963,
           "content_id": 274543,
+          "resource_code": "Unknown",
           "label": "Proverbs 1:19 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 180979,
           "content_id": 274559,
+          "resource_code": "Unknown",
           "label": "Proverbs 1:21 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 182706,
           "content_id": 276286,
+          "resource_code": "Unknown",
           "label": "Proverbs 15:27 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 183543,
           "content_id": 277123,
+          "resource_code": "Unknown",
           "label": "Proverbs 21:26 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 183888,
           "content_id": 277468,
+          "resource_code": "Unknown",
           "label": "Proverbs 24:11 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 184017,
           "content_id": 277597,
+          "resource_code": "Unknown",
           "label": "Proverbs 25:9 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 184074,
           "content_id": 277654,
+          "resource_code": "Unknown",
           "label": "Proverbs 25:20 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 184728,
           "content_id": 278308,
+          "resource_code": "Unknown",
           "label": "Proverbs 30:24 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 185161,
           "content_id": 278741,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 1:1 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 185164,
           "content_id": 278744,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 1:2-4 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 185165,
           "content_id": 278745,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 1:2 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 185322,
           "content_id": 278902,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 2:14 (#5)",
           "language": "eng"
         },
         {
           "reference_id": 185341,
           "content_id": 278921,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 3:1 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 185356,
           "content_id": 278936,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 3:5 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 185362,
           "content_id": 278942,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 3:6 (#6)",
           "language": "eng"
         },
         {
           "reference_id": 185440,
           "content_id": 279020,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 4:13-14 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 185488,
           "content_id": 279068,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 5:9 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 185546,
           "content_id": 279126,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 6:8 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 185569,
           "content_id": 279149,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 6:13 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 185643,
           "content_id": 279223,
+          "resource_code": "Unknown",
           "label": "Song of Solomon 8:1 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 185842,
           "content_id": 279422,
+          "resource_code": "Unknown",
           "label": "Zephaniah 2:4 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 190010,
           "content_id": 394177,
+          "resource_code": "Unknown",
           "label": "Exodus 32:18 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 190544,
           "content_id": 667214,
+          "resource_code": "Unknown",
           "label": "Jonah 2:2 (#2)",
           "language": "eng"
         }

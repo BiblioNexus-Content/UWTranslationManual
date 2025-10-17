@@ -13,24 +13,28 @@
         {
           "reference_id": 26798,
           "content_id": 800163,
+          "resource_code": "UWTranslationManual",
           "label": "Fazendo uma planilha de termos-chave",
           "language": "por"
         },
         {
           "reference_id": 209450,
           "content_id": 800209,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Alinhamento",
           "language": "por"
         },
         {
           "reference_id": 209496,
           "content_id": 800255,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução Reversa",
           "language": "por"
         },
         {
           "reference_id": 209503,
           "content_id": 800262,
+          "resource_code": "UWTranslationManual",
           "label": "Tipos de coisas a verificar",
           "language": "por"
         }

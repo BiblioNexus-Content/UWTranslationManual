@@ -13,18 +13,21 @@
         {
           "reference_id": 26789,
           "content_id": 800154,
+          "resource_code": "UWTranslationManual",
           "label": "Números de capítulos e versículos",
           "language": "por"
         },
         {
           "reference_id": 26819,
           "content_id": 800184,
+          "resource_code": "UWTranslationManual",
           "label": "Variantes textuais",
           "language": "por"
         },
         {
           "reference_id": 26824,
           "content_id": 800189,
+          "resource_code": "UWTranslationManual",
           "label": "Pontes de versículo",
           "language": "por"
         }

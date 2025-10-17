@@ -13,30 +13,35 @@
         {
           "reference_id": 26687,
           "content_id": 800052,
+          "resource_code": "UWTranslationManual",
           "label": "Conhecimento presumido e informações implícitas",
           "language": "por"
         },
         {
           "reference_id": 209456,
           "content_id": 800215,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução completa",
           "language": "por"
         },
         {
           "reference_id": 209468,
           "content_id": 800227,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a clareza e naturalidade da tradução",
           "language": "por"
         },
         {
           "reference_id": 209474,
           "content_id": 800233,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação oral com um parceiro",
           "language": "por"
         },
         {
           "reference_id": 209503,
           "content_id": 800262,
+          "resource_code": "UWTranslationManual",
           "label": "Tipos de coisas a verificar",
           "language": "por"
         }

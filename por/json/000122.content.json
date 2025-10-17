@@ -13,66 +13,77 @@
         {
           "reference_id": 26682,
           "content_id": 800047,
+          "resource_code": "UWTranslationManual",
           "label": "Eufemismo",
           "language": "por"
         },
         {
           "reference_id": 26765,
           "content_id": 800130,
+          "resource_code": "UWTranslationManual",
           "label": "Notas com traduções alternativas",
           "language": "por"
         },
         {
           "reference_id": 26766,
           "content_id": 800131,
+          "resource_code": "UWTranslationManual",
           "label": "Notas com significados alternativos",
           "language": "por"
         },
         {
           "reference_id": 26767,
           "content_id": 800132,
+          "resource_code": "UWTranslationManual",
           "label": "Notas que esclarecem a tradução da UST — UnfoldingWord Simplified Text",
           "language": "por"
         },
         {
           "reference_id": 26769,
           "content_id": 800134,
+          "resource_code": "UWTranslationManual",
           "label": "Notas com definições",
           "language": "por"
         },
         {
           "reference_id": 26770,
           "content_id": 800135,
+          "resource_code": "UWTranslationManual",
           "label": "Notas que explicam",
           "language": "por"
         },
         {
           "reference_id": 26771,
           "content_id": 800136,
+          "resource_code": "UWTranslationManual",
           "label": "Notas que identificam figuras de linguagem",
           "language": "por"
         },
         {
           "reference_id": 26772,
           "content_id": 800137,
+          "resource_code": "UWTranslationManual",
           "label": "Notas que identificam citações indiretas e diretas",
           "language": "por"
         },
         {
           "reference_id": 26774,
           "content_id": 800139,
+          "resource_code": "UWTranslationManual",
           "label": "Notas para frases longas em uma tradução literal",
           "language": "por"
         },
         {
           "reference_id": 26775,
           "content_id": 800140,
+          "resource_code": "UWTranslationManual",
           "label": "Notas com significados prováveis ​​ou possíveis",
           "language": "por"
         },
         {
           "reference_id": 26777,
           "content_id": 800142,
+          "resource_code": "UWTranslationManual",
           "label": "Notas com sinônimos e frases equivalentes",
           "language": "por"
         }

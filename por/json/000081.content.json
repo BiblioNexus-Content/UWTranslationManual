@@ -13,36 +13,42 @@
         {
           "reference_id": 26760,
           "content_id": 800125,
+          "resource_code": "UWTranslationManual",
           "label": "Criar traduções naturais",
           "language": "por"
         },
         {
           "reference_id": 26825,
           "content_id": 800190,
+          "resource_code": "UWTranslationManual",
           "label": "Substituição palavra por palavra",
           "language": "por"
         },
         {
           "reference_id": 209457,
           "content_id": 800216,
+          "resource_code": "UWTranslationManual",
           "label": "Encontrando respostas",
           "language": "por"
         },
         {
           "reference_id": 209474,
           "content_id": 800233,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação oral com um parceiro",
           "language": "por"
         },
         {
           "reference_id": 209484,
           "content_id": 800243,
+          "resource_code": "UWTranslationManual",
           "label": "Configurando o translationStudio",
           "language": "por"
         },
         {
           "reference_id": 209492,
           "content_id": 800251,
+          "resource_code": "UWTranslationManual",
           "label": "Orientações de tradução",
           "language": "por"
         }

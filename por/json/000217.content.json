@@ -13,36 +13,42 @@
         {
           "reference_id": 26815,
           "content_id": 800180,
+          "resource_code": "UWTranslationManual",
           "label": "Textos fonte e números de versões",
           "language": "por"
         },
         {
           "reference_id": 209455,
           "content_id": 800214,
+          "resource_code": "UWTranslationManual",
           "label": "Perguntas de avaliação da comunidade do idioma",
           "language": "por"
         },
         {
           "reference_id": 209461,
           "content_id": 800220,
+          "resource_code": "UWTranslationManual",
           "label": "Afirmação de precisão e aceitação pela comunidade",
           "language": "por"
         },
         {
           "reference_id": 209469,
           "content_id": 800228,
+          "resource_code": "UWTranslationManual",
           "label": "Formulário de avaliação do Verificador de Qualidade",
           "language": "por"
         },
         {
           "reference_id": 209487,
           "content_id": 800246,
+          "resource_code": "UWTranslationManual",
           "label": "Declaração de Fé",
           "language": "por"
         },
         {
           "reference_id": 209492,
           "content_id": 800251,
+          "resource_code": "UWTranslationManual",
           "label": "Orientações de tradução",
           "language": "por"
         }

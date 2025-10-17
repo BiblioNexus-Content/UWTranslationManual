@@ -13,12 +13,14 @@
         {
           "reference_id": 26701,
           "content_id": 33287,
+          "resource_code": "UWTranslationManual",
           "label": "Figures of Speech",
           "language": "eng"
         },
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }

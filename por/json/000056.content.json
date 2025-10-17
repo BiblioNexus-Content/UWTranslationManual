@@ -13,432 +13,504 @@
         {
           "reference_id": 26728,
           "content_id": 800093,
+          "resource_code": "UWTranslationManual",
           "label": "Símile",
           "language": "por"
         },
         {
           "reference_id": 115999,
           "content_id": 234728,
+          "resource_code": "Unknown",
           "label": "Marcos 2.19-20 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116005,
           "content_id": 234734,
+          "resource_code": "Unknown",
           "label": "Marcos 2.21 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116010,
           "content_id": 234739,
+          "resource_code": "Unknown",
           "label": "Marcos 2.22 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116125,
           "content_id": 234854,
+          "resource_code": "Unknown",
           "label": "Marcos 3.24 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116130,
           "content_id": 234859,
+          "resource_code": "Unknown",
           "label": "Marcos 3.25 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116142,
           "content_id": 234871,
+          "resource_code": "Unknown",
           "label": "Marcos 3.27 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116186,
           "content_id": 234915,
+          "resource_code": "Unknown",
           "label": "Marcos 4.3 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116307,
           "content_id": 235036,
+          "resource_code": "Unknown",
           "label": "Marcos 4.26 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116331,
           "content_id": 235060,
+          "resource_code": "Unknown",
           "label": "Marcos 4.31 (#1)",
           "language": "por"
         },
         {
           "reference_id": 116926,
           "content_id": 235655,
+          "resource_code": "Unknown",
           "label": "Marcos 7.27 (#2)",
           "language": "por"
         },
         {
           "reference_id": 116936,
           "content_id": 235665,
+          "resource_code": "Unknown",
           "label": "Marcos 7.28 (#4)",
           "language": "por"
         },
         {
           "reference_id": 117389,
           "content_id": 236118,
+          "resource_code": "Unknown",
           "label": "Marcos 9.50 (#1)",
           "language": "por"
         },
         {
           "reference_id": 117788,
           "content_id": 236517,
+          "resource_code": "Unknown",
           "label": "Marcos 12.1 (#1)",
           "language": "por"
         },
         {
           "reference_id": 118215,
           "content_id": 236944,
+          "resource_code": "Unknown",
           "label": "Marcos 13.28 (#2)",
           "language": "por"
         },
         {
           "reference_id": 118243,
           "content_id": 236972,
+          "resource_code": "Unknown",
           "label": "Marcos 13.34 (#1)",
           "language": "por"
         },
         {
           "reference_id": 143590,
           "content_id": 303513,
+          "resource_code": "Unknown",
           "label": "Lucas 5.36 (#1)",
           "language": "por"
         },
         {
           "reference_id": 143723,
           "content_id": 303646,
+          "resource_code": "Unknown",
           "label": "Lucas 6.39 (#1)",
           "language": "por"
         },
         {
           "reference_id": 143923,
           "content_id": 303846,
+          "resource_code": "Unknown",
           "label": "Lucas 7.41 (#1)",
           "language": "por"
         },
         {
           "reference_id": 143972,
           "content_id": 303895,
+          "resource_code": "Unknown",
           "label": "Lucas 8.4 (#3)",
           "language": "por"
         },
         {
           "reference_id": 144016,
           "content_id": 303939,
+          "resource_code": "Unknown",
           "label": "Lucas 8.16 (#1)",
           "language": "por"
         },
         {
           "reference_id": 144499,
           "content_id": 304422,
+          "resource_code": "Unknown",
           "label": "Lucas 10.30 (#2)",
           "language": "por"
         },
         {
           "reference_id": 144629,
           "content_id": 304552,
+          "resource_code": "Unknown",
           "label": "Lucas 11.21 (#1)",
           "language": "por"
         },
         {
           "reference_id": 144691,
           "content_id": 304614,
+          "resource_code": "Unknown",
           "label": "Lucas 11.33 (#1)",
           "language": "por"
         },
         {
           "reference_id": 144844,
           "content_id": 304767,
+          "resource_code": "Unknown",
           "label": "Lucas 12.16 (#1)",
           "language": "por"
         },
         {
           "reference_id": 144913,
           "content_id": 304836,
+          "resource_code": "Unknown",
           "label": "Lucas 12.35 (#1)",
           "language": "por"
         },
         {
           "reference_id": 141455,
           "content_id": 308421,
+          "resource_code": "Unknown",
           "label": "João 10.1-5 (#1)",
           "language": "por"
         },
         {
           "reference_id": 141468,
           "content_id": 308434,
+          "resource_code": "Unknown",
           "label": "João 10.6 (#1)",
           "language": "por"
         },
         {
           "reference_id": 142235,
           "content_id": 309201,
+          "resource_code": "Unknown",
           "label": "João 16.25 (#1)",
           "language": "por"
         },
         {
           "reference_id": 142247,
           "content_id": 309213,
+          "resource_code": "Unknown",
           "label": "João 16.29 (#2)",
           "language": "por"
         },
         {
           "reference_id": 148442,
           "content_id": 298671,
+          "resource_code": "Unknown",
           "label": "Mateus 9.15 (#1)",
           "language": "por"
         },
         {
           "reference_id": 148448,
           "content_id": 298677,
+          "resource_code": "Unknown",
           "label": "Mateus 9.16 (#2)",
           "language": "por"
         },
         {
           "reference_id": 148451,
           "content_id": 298680,
+          "resource_code": "Unknown",
           "label": "Mateus 9.17 (#1)",
           "language": "por"
         },
         {
           "reference_id": 149081,
           "content_id": 299310,
+          "resource_code": "Unknown",
           "label": "Mateus 12.29 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149167,
           "content_id": 299396,
+          "resource_code": "Unknown",
           "label": "Mateus 12.43 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149214,
           "content_id": 299443,
+          "resource_code": "Unknown",
           "label": "Mateus 13.3 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149328,
           "content_id": 299557,
+          "resource_code": "Unknown",
           "label": "Mateus 13.24 (#4)",
           "language": "por"
         },
         {
           "reference_id": 149373,
           "content_id": 299602,
+          "resource_code": "Unknown",
           "label": "Mateus 13.31 (#4)",
           "language": "por"
         },
         {
           "reference_id": 149382,
           "content_id": 299611,
+          "resource_code": "Unknown",
           "label": "Mateus 13.33 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149442,
           "content_id": 299671,
+          "resource_code": "Unknown",
           "label": "Mateus 13.44 (#1)",
           "language": "por"
         },
         {
           "reference_id": 149451,
           "content_id": 299680,
+          "resource_code": "Unknown",
           "label": "Mateus 13.45 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149458,
           "content_id": 299687,
+          "resource_code": "Unknown",
           "label": "Mateus 13.47 (#2)",
           "language": "por"
         },
         {
           "reference_id": 149799,
           "content_id": 300028,
+          "resource_code": "Unknown",
           "label": "Mateus 15.26 (#1)",
           "language": "por"
         },
         {
           "reference_id": 149806,
           "content_id": 300035,
+          "resource_code": "Unknown",
           "label": "Mateus 15.27 (#3)",
           "language": "por"
         },
         {
           "reference_id": 144935,
           "content_id": 304858,
+          "resource_code": "Unknown",
           "label": "Lucas 12.39 (#2)",
           "language": "por"
         },
         {
           "reference_id": 144948,
           "content_id": 304871,
+          "resource_code": "Unknown",
           "label": "Lucas 12.42 (#3)",
           "language": "por"
         },
         {
           "reference_id": 145011,
           "content_id": 304934,
+          "resource_code": "Unknown",
           "label": "Lucas 12.58 (#2)",
           "language": "por"
         },
         {
           "reference_id": 145041,
           "content_id": 304964,
+          "resource_code": "Unknown",
           "label": "Lucas 13.6 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145090,
           "content_id": 305013,
+          "resource_code": "Unknown",
           "label": "Lucas 13.19 (#2)",
           "language": "por"
         },
         {
           "reference_id": 145098,
           "content_id": 305021,
+          "resource_code": "Unknown",
           "label": "Lucas 13.21 (#2)",
           "language": "por"
         },
         {
           "reference_id": 145206,
           "content_id": 305129,
+          "resource_code": "Unknown",
           "label": "Lucas 14.7 (#2)",
           "language": "por"
         },
         {
           "reference_id": 145250,
           "content_id": 305173,
+          "resource_code": "Unknown",
           "label": "Lucas 14.16 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145319,
           "content_id": 305242,
+          "resource_code": "Unknown",
           "label": "Lucas 14.34 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145336,
           "content_id": 305259,
+          "resource_code": "Unknown",
           "label": "Lucas 15.3 (#2)",
           "language": "por"
         },
         {
           "reference_id": 145357,
           "content_id": 305280,
+          "resource_code": "Unknown",
           "label": "Lucas 15.11 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145456,
           "content_id": 305379,
+          "resource_code": "Unknown",
           "label": "Lucas 16.1 (#3)",
           "language": "por"
         },
         {
           "reference_id": 145537,
           "content_id": 305460,
+          "resource_code": "Unknown",
           "label": "Lucas 16.19 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145776,
           "content_id": 305699,
+          "resource_code": "Unknown",
           "label": "Lucas 18.1 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145809,
           "content_id": 305732,
+          "resource_code": "Unknown",
           "label": "Lucas 18.9 (#1)",
           "language": "por"
         },
         {
           "reference_id": 145971,
           "content_id": 305894,
+          "resource_code": "Unknown",
           "label": "Lucas 19.11 (#2)",
           "language": "por"
         },
         {
           "reference_id": 146162,
           "content_id": 306085,
+          "resource_code": "Unknown",
           "label": "Lucas 20.9 (#1)",
           "language": "por"
         },
         {
           "reference_id": 146446,
           "content_id": 306369,
+          "resource_code": "Unknown",
           "label": "Lucas 21.29 (#1)",
           "language": "por"
         },
         {
           "reference_id": 150227,
           "content_id": 300456,
+          "resource_code": "Unknown",
           "label": "Mateus 18.12 (#3)",
           "language": "por"
         },
         {
           "reference_id": 150295,
           "content_id": 300524,
+          "resource_code": "Unknown",
           "label": "Mateus 18.23 (#1)",
           "language": "por"
         },
         {
           "reference_id": 150506,
           "content_id": 300735,
+          "resource_code": "Unknown",
           "label": "Mateus 20.1 (#1)",
           "language": "por"
         },
         {
           "reference_id": 150813,
           "content_id": 301042,
+          "resource_code": "Unknown",
           "label": "Mateus 21.28 (#3)",
           "language": "por"
         },
         {
           "reference_id": 150848,
           "content_id": 301077,
+          "resource_code": "Unknown",
           "label": "Mateus 21.33 (#1)",
           "language": "por"
         },
         {
           "reference_id": 150911,
           "content_id": 301140,
+          "resource_code": "Unknown",
           "label": "Mateus 22.2 (#1)",
           "language": "por"
         },
         {
           "reference_id": 151460,
           "content_id": 301689,
+          "resource_code": "Unknown",
           "label": "Mateus 24.32 (#2)",
           "language": "por"
         },
         {
           "reference_id": 151523,
           "content_id": 301752,
+          "resource_code": "Unknown",
           "label": "Mateus 24.43 (#4)",
           "language": "por"
         },
         {
           "reference_id": 151553,
           "content_id": 301782,
+          "resource_code": "Unknown",
           "label": "Mateus 25.1 (#2)",
           "language": "por"
         },
         {
           "reference_id": 151610,
           "content_id": 301839,
+          "resource_code": "Unknown",
           "label": "Mateus 25.14 (#2)",
           "language": "por"
         }

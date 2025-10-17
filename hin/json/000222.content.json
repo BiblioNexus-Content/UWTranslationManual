@@ -13,54 +13,63 @@
         {
           "reference_id": 26737,
           "content_id": 727363,
+          "resource_code": "Unknown",
           "label": "प्रथम प्रालेख तैयार करना",
           "language": "hin"
         },
         {
           "reference_id": 26797,
           "content_id": 727433,
+          "resource_code": "Unknown",
           "label": "अनुवाद में मदद",
           "language": "hin"
         },
         {
           "reference_id": 209466,
           "content_id": 727389,
+          "resource_code": "UWTranslationManual",
           "label": "प्रकाशन का परिचय",
           "language": "hin"
         },
         {
           "reference_id": 209472,
           "content_id": 727391,
+          "resource_code": "UWTranslationManual",
           "label": "खुला लार्इसेंस",
           "language": "hin"
         },
         {
           "reference_id": 209476,
           "content_id": 727393,
+          "resource_code": "UWTranslationManual",
           "label": "जाँच शुरू होने के पहले प्रशिक्षण",
           "language": "hin"
         },
         {
           "reference_id": 209477,
           "content_id": 727394,
+          "resource_code": "Unknown",
           "label": "अनुवाद शुरू करने से पहले प्रशिक्षण",
           "language": "hin"
         },
         {
           "reference_id": 209487,
           "content_id": 727415,
+          "resource_code": "UWTranslationManual",
           "label": "विश्वास कथन",
           "language": "hin"
         },
         {
           "reference_id": 209492,
           "content_id": 727462,
+          "resource_code": "UWTranslationManual",
           "label": "अनुवाद मार्गनिर्देश",
           "language": "hin"
         },
         {
           "reference_id": 209493,
           "content_id": 799958,
+          "resource_code": "Unknown",
           "label": "अनुवाद अवलोकन",
           "language": "hin"
         }

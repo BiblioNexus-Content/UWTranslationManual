@@ -13,12 +13,14 @@
         {
           "reference_id": 26719,
           "content_id": 33305,
+          "resource_code": "UWTranslationManual",
           "label": "Direct and Indirect Quotations",
           "language": "eng"
         },
         {
           "reference_id": 26721,
           "content_id": 33307,
+          "resource_code": "UWTranslationManual",
           "label": "Quotes within Quotes",
           "language": "eng"
         }

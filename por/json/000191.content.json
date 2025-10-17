@@ -13,36 +13,42 @@
         {
           "reference_id": 26764,
           "content_id": 800129,
+          "resource_code": "UWTranslationManual",
           "label": "Qualificações do tradutor",
           "language": "por"
         },
         {
           "reference_id": 209448,
           "content_id": 800207,
+          "resource_code": "UWTranslationManual",
           "label": "Estilo aceitável",
           "language": "por"
         },
         {
           "reference_id": 209449,
           "content_id": 800208,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a precisão da tradução",
           "language": "por"
         },
         {
           "reference_id": 209456,
           "content_id": 800215,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução completa",
           "language": "por"
         },
         {
           "reference_id": 209461,
           "content_id": 800220,
+          "resource_code": "UWTranslationManual",
           "label": "Afirmação de precisão e aceitação pela comunidade",
           "language": "por"
         },
         {
           "reference_id": 209492,
           "content_id": 800251,
+          "resource_code": "UWTranslationManual",
           "label": "Orientações de tradução",
           "language": "por"
         }

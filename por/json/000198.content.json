@@ -13,24 +13,28 @@
         {
           "reference_id": 26751,
           "content_id": 800116,
+          "resource_code": "UWTranslationManual",
           "label": "Criar traduções precisas",
           "language": "por"
         },
         {
           "reference_id": 26753,
           "content_id": 800118,
+          "resource_code": "UWTranslationManual",
           "label": "Criar traduções aprovadas pela Igreja",
           "language": "por"
         },
         {
           "reference_id": 26754,
           "content_id": 800119,
+          "resource_code": "UWTranslationManual",
           "label": "Criar traduções claras",
           "language": "por"
         },
         {
           "reference_id": 26760,
           "content_id": 800125,
+          "resource_code": "UWTranslationManual",
           "label": "Criar traduções naturais",
           "language": "por"
         }

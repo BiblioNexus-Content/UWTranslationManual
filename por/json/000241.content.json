@@ -13,18 +13,21 @@
         {
           "reference_id": 26687,
           "content_id": 800052,
+          "resource_code": "UWTranslationManual",
           "label": "Conhecimento presumido e informações implícitas",
           "language": "por"
         },
         {
           "reference_id": 209470,
           "content_id": 800229,
+          "resource_code": "UWTranslationManual",
           "label": "Perguntas para Verificadores de Qualidade",
           "language": "por"
         },
         {
           "reference_id": 209502,
           "content_id": 800261,
+          "resource_code": "UWTranslationManual",
           "label": "Etapas para verificadores de qualidade",
           "language": "por"
         }

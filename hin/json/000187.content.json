@@ -13,30 +13,35 @@
         {
           "reference_id": 26687,
           "content_id": 727317,
+          "resource_code": "UWTranslationManual",
           "label": "अनुमानित ज्ञान एवं अंतर्निहित सूचना",
           "language": "hin"
         },
         {
           "reference_id": 209456,
           "content_id": 727253,
+          "resource_code": "Unknown",
           "label": "संपूर्ण अनुवाद",
           "language": "hin"
         },
         {
           "reference_id": 209468,
           "content_id": 727261,
+          "resource_code": "UWTranslationManual",
           "label": "भाषा समुदाय की जाँच",
           "language": "hin"
         },
         {
           "reference_id": 209474,
           "content_id": 727266,
+          "resource_code": "Unknown",
           "label": "समकक्ष जाँच",
           "language": "hin"
         },
         {
           "reference_id": 209503,
           "content_id": 727278,
+          "resource_code": "Unknown",
           "label": "जाँच की चीजों के प्रकार",
           "language": "hin"
         }

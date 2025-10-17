@@ -13,630 +13,735 @@
         {
           "reference_id": 116221,
           "content_id": 234950,
+          "resource_code": "Unknown",
           "label": "Marcos 4.9 (#3)",
           "language": "por"
         },
         {
           "reference_id": 116847,
           "content_id": 235576,
+          "resource_code": "Unknown",
           "label": "Marcos 7.10 (#5)",
           "language": "por"
         },
         {
           "reference_id": 117121,
           "content_id": 235850,
+          "resource_code": "Unknown",
           "label": "Marcos 8.34 (#3)",
           "language": "por"
         },
         {
           "reference_id": 117432,
           "content_id": 236161,
+          "resource_code": "Unknown",
           "label": "Marcos 10.9 (#3)",
           "language": "por"
         },
         {
           "reference_id": 118143,
           "content_id": 236872,
+          "resource_code": "Unknown",
           "label": "Marcos 13.14 (#8)",
           "language": "por"
         },
         {
           "reference_id": 118144,
           "content_id": 236873,
+          "resource_code": "Unknown",
           "label": "Marcos 13.14 (#9)",
           "language": "por"
         },
         {
           "reference_id": 118150,
           "content_id": 236879,
+          "resource_code": "Unknown",
           "label": "Marcos 13.15 (#5)",
           "language": "por"
         },
         {
           "reference_id": 118155,
           "content_id": 236884,
+          "resource_code": "Unknown",
           "label": "Marcos 13.16 (#3)",
           "language": "por"
         },
         {
           "reference_id": 118718,
           "content_id": 237447,
+          "resource_code": "Unknown",
           "label": "Marcos 15.32 (#3)",
           "language": "por"
         },
         {
           "reference_id": 136746,
           "content_id": 309837,
+          "resource_code": "Unknown",
           "label": "Atos 1.20 (#4)",
           "language": "por"
         },
         {
           "reference_id": 136752,
           "content_id": 309843,
+          "resource_code": "Unknown",
           "label": "Atos 1.20 (#10)",
           "language": "por"
         },
         {
           "reference_id": 136842,
           "content_id": 309933,
+          "resource_code": "Unknown",
           "label": "Atos 2.14 (#8)",
           "language": "por"
         },
         {
           "reference_id": 136973,
           "content_id": 310064,
+          "resource_code": "Unknown",
           "label": "Atos 2.36 (#2)",
           "language": "por"
         },
         {
           "reference_id": 137169,
           "content_id": 310260,
+          "resource_code": "Unknown",
           "label": "Atos 4.10 (#1)",
           "language": "por"
         },
         {
           "reference_id": 147660,
           "content_id": 297889,
+          "resource_code": "Unknown",
           "label": "Mateus 5.16 (#2)",
           "language": "por"
         },
         {
           "reference_id": 147773,
           "content_id": 298002,
+          "resource_code": "Unknown",
           "label": "Mateus 5.31 (#4)",
           "language": "por"
         },
         {
           "reference_id": 147804,
           "content_id": 298033,
+          "resource_code": "Unknown",
           "label": "Mateus 5.37 (#2)",
           "language": "por"
         },
         {
           "reference_id": 147912,
           "content_id": 298141,
+          "resource_code": "Unknown",
           "label": "Mateus 6.9 (#5)",
           "language": "por"
         },
         {
           "reference_id": 147916,
           "content_id": 298145,
+          "resource_code": "Unknown",
           "label": "Mateus 6.10 (#1)",
           "language": "por"
         },
         {
           "reference_id": 148262,
           "content_id": 298491,
+          "resource_code": "Unknown",
           "label": "Mateus 8.13 (#3)",
           "language": "por"
         },
         {
           "reference_id": 148519,
           "content_id": 298748,
+          "resource_code": "Unknown",
           "label": "Mateus 9.29 (#4)",
           "language": "por"
         },
         {
           "reference_id": 148622,
           "content_id": 298851,
+          "resource_code": "Unknown",
           "label": "Mateus 10.13 (#4)",
           "language": "por"
         },
         {
           "reference_id": 148850,
           "content_id": 299079,
+          "resource_code": "Unknown",
           "label": "Mateus 11.15 (#4)",
           "language": "por"
         },
         {
           "reference_id": 138575,
           "content_id": 311666,
+          "resource_code": "Unknown",
           "label": "Atos 13.38 (#1)",
           "language": "por"
         },
         {
           "reference_id": 138968,
           "content_id": 312059,
+          "resource_code": "Unknown",
           "label": "Atos 16.37 (#8)",
           "language": "por"
         },
         {
           "reference_id": 139306,
           "content_id": 312397,
+          "resource_code": "Unknown",
           "label": "Atos 19.38 (#4)",
           "language": "por"
         },
         {
           "reference_id": 139482,
           "content_id": 312573,
+          "resource_code": "Unknown",
           "label": "Atos 21.14 (#3)",
           "language": "por"
         },
         {
           "reference_id": 139777,
           "content_id": 312868,
+          "resource_code": "Unknown",
           "label": "Atos 24.20 (#1)",
           "language": "por"
         },
         {
           "reference_id": 139807,
           "content_id": 312898,
+          "resource_code": "Unknown",
           "label": "Atos 25.5 (#3)",
           "language": "por"
         },
         {
           "reference_id": 140129,
           "content_id": 313220,
+          "resource_code": "Unknown",
           "label": "Atos 28.28 (#1)",
           "language": "por"
         },
         {
           "reference_id": 149685,
           "content_id": 299914,
+          "resource_code": "Unknown",
           "label": "Mateus 15.4 (#6)",
           "language": "por"
         },
         {
           "reference_id": 149813,
           "content_id": 300042,
+          "resource_code": "Unknown",
           "label": "Mateus 15.28 (#4)",
           "language": "por"
         },
         {
           "reference_id": 149981,
           "content_id": 300210,
+          "resource_code": "Unknown",
           "label": "Mateus 16.24 (#3)",
           "language": "por"
         },
         {
           "reference_id": 150267,
           "content_id": 300496,
+          "resource_code": "Unknown",
           "label": "Mateus 18.17 (#8)",
           "language": "por"
         },
         {
           "reference_id": 150385,
           "content_id": 300614,
+          "resource_code": "Unknown",
           "label": "Mateus 19.6 (#4)",
           "language": "por"
         },
         {
           "reference_id": 150420,
           "content_id": 300649,
+          "resource_code": "Unknown",
           "label": "Mateus 19.12 (#8)",
           "language": "por"
         },
         {
           "reference_id": 151374,
           "content_id": 301603,
+          "resource_code": "Unknown",
           "label": "Mateus 24.15 (#2)",
           "language": "por"
         },
         {
           "reference_id": 151375,
           "content_id": 301604,
+          "resource_code": "Unknown",
           "label": "Mateus 24.16 (#1)",
           "language": "por"
         },
         {
           "reference_id": 151379,
           "content_id": 301608,
+          "resource_code": "Unknown",
           "label": "Mateus 24.17 (#3)",
           "language": "por"
         },
         {
           "reference_id": 151384,
           "content_id": 301613,
+          "resource_code": "Unknown",
           "label": "Mateus 24.18 (#3)",
           "language": "por"
         },
         {
           "reference_id": 151914,
           "content_id": 302143,
+          "resource_code": "Unknown",
           "label": "Mateus 26.39 (#5)",
           "language": "por"
         },
         {
           "reference_id": 151937,
           "content_id": 302166,
+          "resource_code": "Unknown",
           "label": "Mateus 26.42 (#8)",
           "language": "por"
         },
         {
           "reference_id": 152182,
           "content_id": 302411,
+          "resource_code": "Unknown",
           "label": "Mateus 27.22 (#3)",
           "language": "por"
         },
         {
           "reference_id": 152259,
           "content_id": 302488,
+          "resource_code": "Unknown",
           "label": "Mateus 27.42 (#5)",
           "language": "por"
         },
         {
           "reference_id": 152263,
           "content_id": 302492,
+          "resource_code": "Unknown",
           "label": "Mateus 27.43 (#3)",
           "language": "por"
         },
         {
           "reference_id": 155375,
           "content_id": 640620,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 1.31 (#6)",
           "language": "por"
         },
         {
           "reference_id": 155546,
           "content_id": 640791,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 3.10 (#6)",
           "language": "por"
         },
         {
           "reference_id": 155586,
           "content_id": 640831,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 3.18 (#1)",
           "language": "por"
         },
         {
           "reference_id": 155606,
           "content_id": 640851,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 3.21 (#1)",
           "language": "por"
         },
         {
           "reference_id": 155618,
           "content_id": 640863,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 4.1 (#2)",
           "language": "por"
         },
         {
           "reference_id": 155963,
           "content_id": 641208,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.2 (#4)",
           "language": "por"
         },
         {
           "reference_id": 155966,
           "content_id": 641211,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.3 (#2)",
           "language": "por"
         },
         {
           "reference_id": 155999,
           "content_id": 641244,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.9 (#3)",
           "language": "por"
         },
         {
           "reference_id": 156011,
           "content_id": 641256,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.11 (#6)",
           "language": "por"
         },
         {
           "reference_id": 156018,
           "content_id": 641263,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.12 (#5)",
           "language": "por"
         },
         {
           "reference_id": 156021,
           "content_id": 641266,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.13 (#3)",
           "language": "por"
         },
         {
           "reference_id": 156035,
           "content_id": 641280,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.15 (#5)",
           "language": "por"
         },
         {
           "reference_id": 156051,
           "content_id": 641296,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.17 (#5)",
           "language": "por"
         },
         {
           "reference_id": 156059,
           "content_id": 641304,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.18 (#6)",
           "language": "por"
         },
         {
           "reference_id": 156073,
           "content_id": 641318,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.20 (#5)",
           "language": "por"
         },
         {
           "reference_id": 156078,
           "content_id": 641323,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.21 (#4)",
           "language": "por"
         },
         {
           "reference_id": 156095,
           "content_id": 641340,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.24 (#6)",
           "language": "por"
         },
         {
           "reference_id": 161402,
           "content_id": 583136,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 2.11 (#1)",
           "language": "por"
         },
         {
           "reference_id": 161478,
           "content_id": 583212,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 3.10 (#2)",
           "language": "por"
         },
         {
           "reference_id": 161483,
           "content_id": 583217,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 3.12 (#1)",
           "language": "por"
         },
         {
           "reference_id": 161585,
           "content_id": 583319,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 4.12 (#1)",
           "language": "por"
         },
         {
           "reference_id": 161621,
           "content_id": 583355,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 5.4 (#3)",
           "language": "por"
         },
         {
           "reference_id": 161647,
           "content_id": 583381,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 5.9 (#1)",
           "language": "por"
         },
         {
           "reference_id": 161681,
           "content_id": 583415,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 5.16 (#3)",
           "language": "por"
         },
         {
           "reference_id": 161685,
           "content_id": 583419,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 5.16 (#7)",
           "language": "por"
         },
         {
           "reference_id": 161687,
           "content_id": 583421,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 5.17 (#1)",
           "language": "por"
         },
         {
           "reference_id": 161728,
           "content_id": 583462,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 6.1 (#2)",
           "language": "por"
         },
         {
           "reference_id": 161735,
           "content_id": 583469,
+          "resource_code": "Unknown",
           "label": "1 Timóteo 6.2 (#3)",
           "language": "por"
         },
         {
           "reference_id": 164465,
           "content_id": 586914,
+          "resource_code": "Unknown",
           "label": "Hebreus 1.6 (#7)",
           "language": "por"
         },
         {
           "reference_id": 166033,
           "content_id": 588482,
+          "resource_code": "Unknown",
           "label": "Hebreus 13.1 (#1)",
           "language": "por"
         },
         {
           "reference_id": 156182,
           "content_id": 641427,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.36 (#11)",
           "language": "por"
         },
         {
           "reference_id": 156183,
           "content_id": 641428,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 7.36 (#12)",
           "language": "por"
         },
         {
           "reference_id": 156511,
           "content_id": 641756,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 10.12 (#2)",
           "language": "por"
         },
         {
           "reference_id": 156565,
           "content_id": 641810,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 10.24 (#1)",
           "language": "por"
         },
         {
           "reference_id": 156643,
           "content_id": 641888,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 11.6 (#3)",
           "language": "por"
         },
         {
           "reference_id": 156648,
           "content_id": 641893,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 11.6 (#8)",
           "language": "por"
         },
         {
           "reference_id": 156762,
           "content_id": 642007,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 11.28 (#1)",
           "language": "por"
         },
         {
           "reference_id": 156785,
           "content_id": 642030,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 11.34 (#3)",
           "language": "por"
         },
         {
           "reference_id": 157076,
           "content_id": 642321,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.13 (#1)",
           "language": "por"
         },
         {
           "reference_id": 157155,
           "content_id": 642400,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.26 (#9)",
           "language": "por"
         },
         {
           "reference_id": 157162,
           "content_id": 642407,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.27 (#5)",
           "language": "por"
         },
         {
           "reference_id": 157169,
           "content_id": 642414,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.28 (#5)",
           "language": "por"
         },
         {
           "reference_id": 157176,
           "content_id": 642421,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.29 (#4)",
           "language": "por"
         },
         {
           "reference_id": 157182,
           "content_id": 642427,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.30 (#4)",
           "language": "por"
         },
         {
           "reference_id": 157199,
           "content_id": 642444,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.34 (#3)",
           "language": "por"
         },
         {
           "reference_id": 157202,
           "content_id": 642447,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.34 (#6)",
           "language": "por"
         },
         {
           "reference_id": 157207,
           "content_id": 642452,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.35 (#3)",
           "language": "por"
         },
         {
           "reference_id": 157219,
           "content_id": 642464,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.37 (#3)",
           "language": "por"
         },
         {
           "reference_id": 157226,
           "content_id": 642471,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.38 (#4)",
           "language": "por"
         },
         {
           "reference_id": 157234,
           "content_id": 642479,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 14.40 (#2)",
           "language": "por"
         },
         {
           "reference_id": 157601,
           "content_id": 642846,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 16.2 (#2)",
           "language": "por"
         },
         {
           "reference_id": 157638,
           "content_id": 642883,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 16.11 (#1)",
           "language": "por"
         },
         {
           "reference_id": 157664,
           "content_id": 642909,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 16.14 (#1)",
           "language": "por"
         },
         {
           "reference_id": 157701,
           "content_id": 642946,
+          "resource_code": "Unknown",
           "label": "1 Coríntios 16.22 (#3)",
           "language": "por"
         },
         {
           "reference_id": 158816,
           "content_id": 659860,
+          "resource_code": "Unknown",
           "label": "2 Coríntios 10.7 (#7)",
           "language": "por"
         },
         {
           "reference_id": 158834,
           "content_id": 659878,
+          "resource_code": "Unknown",
           "label": "2 Coríntios 10.11 (#1)",
           "language": "por"
         },
         {
           "reference_id": 158866,
           "content_id": 659910,
+          "resource_code": "Unknown",
           "label": "2 Coríntios 10.17 (#2)",
           "language": "por"
         },
         {
           "reference_id": 159466,
           "content_id": 660972,
+          "resource_code": "Unknown",
           "label": "Colossenses 2.16 (#2)",
           "language": "por"
         },
         {
           "reference_id": 159474,
           "content_id": 660980,
+          "resource_code": "Unknown",
           "label": "Colossenses 2.18 (#2)",
           "language": "por"
         },
         {
           "reference_id": 162257,
           "content_id": 760274,
+          "resource_code": "Unknown",
           "label": "2 Timóteo 2.19 (#7)",
           "language": "por"
         }

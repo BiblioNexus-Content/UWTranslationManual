@@ -13,24 +13,28 @@
         {
           "reference_id": 26669,
           "content_id": 800034,
+          "resource_code": "UWTranslationManual",
           "label": "Escolhendo uma equipe de tradução",
           "language": "por"
         },
         {
           "reference_id": 26759,
           "content_id": 800124,
+          "resource_code": "UWTranslationManual",
           "label": "As qualidades de uma boa tradução",
           "language": "por"
         },
         {
           "reference_id": 26811,
           "content_id": 800176,
+          "resource_code": "UWTranslationManual",
           "label": "O processo de tradução",
           "language": "por"
         },
         {
           "reference_id": 26827,
           "content_id": 800192,
+          "resource_code": "UWTranslationManual",
           "label": "Escolhendo o que traduzir",
           "language": "por"
         }

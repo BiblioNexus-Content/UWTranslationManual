@@ -13,90 +13,105 @@
         {
           "reference_id": 26737,
           "content_id": 800102,
+          "resource_code": "UWTranslationManual",
           "label": "Primeiro rascunho",
           "language": "por"
         },
         {
           "reference_id": 26827,
           "content_id": 800192,
+          "resource_code": "UWTranslationManual",
           "label": "Escolhendo o que traduzir",
           "language": "por"
         },
         {
           "reference_id": 209450,
           "content_id": 800209,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Alinhamento",
           "language": "por"
         },
         {
           "reference_id": 209453,
           "content_id": 800212,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Precisão por líderes de igreja",
           "language": "por"
         },
         {
           "reference_id": 209463,
           "content_id": 800222,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de palavras de tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209466,
           "content_id": 800225,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução a publicação",
           "language": "por"
         },
         {
           "reference_id": 209468,
           "content_id": 800227,
+          "resource_code": "UWTranslationManual",
           "label": "Verificando a clareza e naturalidade da tradução",
           "language": "por"
         },
         {
           "reference_id": 209474,
           "content_id": 800233,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação oral com um parceiro",
           "language": "por"
         },
         {
           "reference_id": 209477,
           "content_id": 800236,
+          "resource_code": "UWTranslationManual",
           "label": "Treinando antes de começar a tradução",
           "language": "por"
         },
         {
           "reference_id": 209482,
           "content_id": 800241,
+          "resource_code": "UWTranslationManual",
           "label": "Configurando o translationCore®",
           "language": "por"
         },
         {
           "reference_id": 209483,
           "content_id": 800242,
+          "resource_code": "UWTranslationManual",
           "label": "Organizando uma equipe de tradução",
           "language": "por"
         },
         {
           "reference_id": 209484,
           "content_id": 800243,
+          "resource_code": "UWTranslationManual",
           "label": "Configurando o translationStudio",
           "language": "por"
         },
         {
           "reference_id": 209489,
           "content_id": 800248,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de bloco oral em equipe",
           "language": "por"
         },
         {
           "reference_id": 209490,
           "content_id": 800249,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Notas de Tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209502,
           "content_id": 800261,
+          "resource_code": "UWTranslationManual",
           "label": "Etapas para verificadores de qualidade",
           "language": "por"
         }

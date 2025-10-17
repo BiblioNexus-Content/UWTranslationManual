@@ -13,60 +13,70 @@
         {
           "reference_id": 209449,
           "content_id": 689629,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Accuracy",
           "language": "eng"
         },
         {
           "reference_id": 209450,
           "content_id": 689630,
+          "resource_code": "UWTranslationManual",
           "label": "Alignment Checking",
           "language": "eng"
         },
         {
           "reference_id": 209463,
           "content_id": 689643,
+          "resource_code": "UWTranslationManual",
           "label": "translationWords Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209468,
           "content_id": 689648,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Clarity and Naturalness",
           "language": "eng"
         },
         {
           "reference_id": 209469,
           "content_id": 689649,
+          "resource_code": "UWTranslationManual",
           "label": "Quality Checker Evaluation Form",
           "language": "eng"
         },
         {
           "reference_id": 209474,
           "content_id": 689654,
+          "resource_code": "UWTranslationManual",
           "label": "Oral Partner Check",
           "language": "eng"
         },
         {
           "reference_id": 209489,
           "content_id": 689669,
+          "resource_code": "UWTranslationManual",
           "label": "Team Oral Chunk Check",
           "language": "eng"
         },
         {
           "reference_id": 209490,
           "content_id": 689670,
+          "resource_code": "UWTranslationManual",
           "label": "translationNotes Check in tC",
           "language": "eng"
         },
         {
           "reference_id": 209496,
           "content_id": 689676,
+          "resource_code": "UWTranslationManual",
           "label": "Back Translation",
           "language": "eng"
         },
         {
           "reference_id": 209502,
           "content_id": 689682,
+          "resource_code": "UWTranslationManual",
           "label": "Steps for Quality Checkers",
           "language": "eng"
         }

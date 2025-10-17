@@ -13,24 +13,28 @@
         {
           "reference_id": 26802,
           "content_id": 33388,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to the Translation Manual",
           "language": "eng"
         },
         {
           "reference_id": 209464,
           "content_id": 689644,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to the Checking Manual",
           "language": "eng"
         },
         {
           "reference_id": 209478,
           "content_id": 689658,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to the Process Manual",
           "language": "eng"
         },
         {
           "reference_id": 209488,
           "content_id": 689668,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to unfoldingWord® Translation Academy",
           "language": "eng"
         }

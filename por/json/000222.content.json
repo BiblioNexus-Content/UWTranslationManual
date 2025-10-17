@@ -13,54 +13,63 @@
         {
           "reference_id": 26737,
           "content_id": 800102,
+          "resource_code": "UWTranslationManual",
           "label": "Primeiro rascunho",
           "language": "por"
         },
         {
           "reference_id": 26797,
           "content_id": 800162,
+          "resource_code": "UWTranslationManual",
           "label": "Ajuda com tradução",
           "language": "por"
         },
         {
           "reference_id": 209466,
           "content_id": 800225,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução a publicação",
           "language": "por"
         },
         {
           "reference_id": 209472,
           "content_id": 800231,
+          "resource_code": "UWTranslationManual",
           "label": "Licença aberta",
           "language": "por"
         },
         {
           "reference_id": 209476,
           "content_id": 800235,
+          "resource_code": "UWTranslationManual",
           "label": "Treinando antes de começar a verificação",
           "language": "por"
         },
         {
           "reference_id": 209477,
           "content_id": 800236,
+          "resource_code": "UWTranslationManual",
           "label": "Treinando antes de começar a tradução",
           "language": "por"
         },
         {
           "reference_id": 209487,
           "content_id": 800246,
+          "resource_code": "UWTranslationManual",
           "label": "Declaração de Fé",
           "language": "por"
         },
         {
           "reference_id": 209492,
           "content_id": 800251,
+          "resource_code": "UWTranslationManual",
           "label": "Orientações de tradução",
           "language": "por"
         },
         {
           "reference_id": 209493,
           "content_id": 800252,
+          "resource_code": "UWTranslationManual",
           "label": "Visão geral da tradução",
           "language": "por"
         }

@@ -13,66 +13,77 @@
         {
           "reference_id": 26682,
           "content_id": 727312,
+          "resource_code": "Unknown",
           "label": "शिष्टोक्ति",
           "language": "hin"
         },
         {
           "reference_id": 26765,
           "content_id": 727397,
+          "resource_code": "UWTranslationManual",
           "label": "वैकल्पिक अनुवाद (AT) वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26766,
           "content_id": 727398,
+          "resource_code": "UWTranslationManual",
           "label": "वैकल्पिक अर्थ वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26767,
           "content_id": 727399,
+          "resource_code": "UWTranslationManual",
           "label": "UDB के उद्धरण को शामिल करने वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26769,
           "content_id": 727401,
+          "resource_code": "UWTranslationManual",
           "label": "परिभाषा के साथ नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26770,
           "content_id": 727402,
+          "resource_code": "UWTranslationManual",
           "label": "वर्णन करने वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26771,
           "content_id": 727403,
+          "resource_code": "UWTranslationManual",
           "label": "अलंकार के शब्दों को पहचानने वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26772,
           "content_id": 727404,
+          "resource_code": "UWTranslationManual",
           "label": "प्रत्यक्ष एवं अप्रत्यक्ष उद्धरणों को पहचानने वाले नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26774,
           "content_id": 727406,
+          "resource_code": "UWTranslationManual",
           "label": "ULB कथनों के साथ नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26775,
           "content_id": 727407,
+          "resource_code": "UWTranslationManual",
           "label": "संभावित अर्थों के साथ नोट्स",
           "language": "hin"
         },
         {
           "reference_id": 26777,
           "content_id": 727409,
+          "resource_code": "UWTranslationManual",
           "label": "प्रयायवाची एवं समान कथनों के साथ नोट्स",
           "language": "hin"
         }

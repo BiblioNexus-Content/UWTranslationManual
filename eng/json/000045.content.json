@@ -13,108 +13,126 @@
         {
           "reference_id": 26673,
           "content_id": 33259,
+          "resource_code": "UWTranslationManual",
           "label": "Apostrophe",
           "language": "eng"
         },
         {
           "reference_id": 26680,
           "content_id": 33266,
+          "resource_code": "UWTranslationManual",
           "label": "Doublet",
           "language": "eng"
         },
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         },
         {
           "reference_id": 26694,
           "content_id": 33280,
+          "resource_code": "UWTranslationManual",
           "label": "Hendiadys",
           "language": "eng"
         },
         {
           "reference_id": 26695,
           "content_id": 33281,
+          "resource_code": "UWTranslationManual",
           "label": "Hyperbole",
           "language": "eng"
         },
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         },
         {
           "reference_id": 26702,
           "content_id": 33288,
+          "resource_code": "UWTranslationManual",
           "label": "Irony",
           "language": "eng"
         },
         {
           "reference_id": 26703,
           "content_id": 33289,
+          "resource_code": "UWTranslationManual",
           "label": "Litany",
           "language": "eng"
         },
         {
           "reference_id": 26704,
           "content_id": 33290,
+          "resource_code": "UWTranslationManual",
           "label": "Litotes",
           "language": "eng"
         },
         {
           "reference_id": 26705,
           "content_id": 33291,
+          "resource_code": "UWTranslationManual",
           "label": "Merism",
           "language": "eng"
         },
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         },
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         },
         {
           "reference_id": 26715,
           "content_id": 33301,
+          "resource_code": "UWTranslationManual",
           "label": "Predictive Past",
           "language": "eng"
         },
         {
           "reference_id": 26716,
           "content_id": 33302,
+          "resource_code": "UWTranslationManual",
           "label": "Personification",
           "language": "eng"
         },
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         },
         {
           "reference_id": 26728,
           "content_id": 33314,
+          "resource_code": "UWTranslationManual",
           "label": "Simile",
           "language": "eng"
         },
         {
           "reference_id": 26729,
           "content_id": 33315,
+          "resource_code": "UWTranslationManual",
           "label": "Synecdoche",
           "language": "eng"
         }

@@ -13,54 +13,63 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         },
         {
           "reference_id": 26714,
           "content_id": 33300,
+          "resource_code": "UWTranslationManual",
           "label": "Parts of Speech",
           "language": "eng"
         },
         {
           "reference_id": 26717,
           "content_id": 33303,
+          "resource_code": "UWTranslationManual",
           "label": "Possession",
           "language": "eng"
         },
         {
           "reference_id": 26719,
           "content_id": 33305,
+          "resource_code": "UWTranslationManual",
           "label": "Direct and Indirect Quotations",
           "language": "eng"
         },
         {
           "reference_id": 26720,
           "content_id": 33306,
+          "resource_code": "UWTranslationManual",
           "label": "Quote Markings",
           "language": "eng"
         },
         {
           "reference_id": 26721,
           "content_id": 33307,
+          "resource_code": "UWTranslationManual",
           "label": "Quotes within Quotes",
           "language": "eng"
         },
         {
           "reference_id": 26725,
           "content_id": 33311,
+          "resource_code": "UWTranslationManual",
           "label": "Sentence Structure",
           "language": "eng"
         },
         {
           "reference_id": 26726,
           "content_id": 33312,
+          "resource_code": "UWTranslationManual",
           "label": "Sentence Types",
           "language": "eng"
         },
         {
           "reference_id": 26840,
           "content_id": 33426,
+          "resource_code": "UWTranslationManual",
           "label": "Quotations and Quote Margins",
           "language": "eng"
         }

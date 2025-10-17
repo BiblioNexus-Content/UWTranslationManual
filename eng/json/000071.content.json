@@ -13,24 +13,28 @@
         {
           "reference_id": 26663,
           "content_id": 33249,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Common Patterns",
           "language": "eng"
         },
         {
           "reference_id": 26675,
           "content_id": 33261,
+          "resource_code": "UWTranslationManual",
           "label": "Complex Metaphor",
           "language": "eng"
         },
         {
           "reference_id": 26686,
           "content_id": 33272,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Imagery — Extended Metaphors",
           "language": "eng"
         },
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }

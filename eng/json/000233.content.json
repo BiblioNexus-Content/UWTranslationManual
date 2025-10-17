@@ -13,18 +13,21 @@
         {
           "reference_id": 26789,
           "content_id": 33375,
+          "resource_code": "UWTranslationManual",
           "label": "Chapter and Verse Numbers",
           "language": "eng"
         },
         {
           "reference_id": 26819,
           "content_id": 33405,
+          "resource_code": "UWTranslationManual",
           "label": "Textual Variants",
           "language": "eng"
         },
         {
           "reference_id": 26824,
           "content_id": 33410,
+          "resource_code": "UWTranslationManual",
           "label": "Verse Bridges",
           "language": "eng"
         }

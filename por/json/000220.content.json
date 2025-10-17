@@ -13,24 +13,28 @@
         {
           "reference_id": 209450,
           "content_id": 800209,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Alinhamento",
           "language": "por"
         },
         {
           "reference_id": 209463,
           "content_id": 800222,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de palavras de tradução no tC",
           "language": "por"
         },
         {
           "reference_id": 209466,
           "content_id": 800225,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução a publicação",
           "language": "por"
         },
         {
           "reference_id": 209490,
           "content_id": 800249,
+          "resource_code": "UWTranslationManual",
           "label": "Verificação de Notas de Tradução no tC",
           "language": "por"
         }

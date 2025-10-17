@@ -13,24 +13,28 @@
         {
           "reference_id": 209454,
           "content_id": 689634,
+          "resource_code": "UWTranslationManual",
           "label": "Clear Translation",
           "language": "eng"
         },
         {
           "reference_id": 209455,
           "content_id": 689635,
+          "resource_code": "UWTranslationManual",
           "label": "Language Community Evaluation Questions",
           "language": "eng"
         },
         {
           "reference_id": 209471,
           "content_id": 689651,
+          "resource_code": "UWTranslationManual",
           "label": "Natural Translation",
           "language": "eng"
         },
         {
           "reference_id": 209473,
           "content_id": 689653,
+          "resource_code": "UWTranslationManual",
           "label": "Other Methods",
           "language": "eng"
         }

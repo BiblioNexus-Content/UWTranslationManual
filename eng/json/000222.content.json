@@ -13,54 +13,63 @@
         {
           "reference_id": 26737,
           "content_id": 33323,
+          "resource_code": "UWTranslationManual",
           "label": "First Draft",
           "language": "eng"
         },
         {
           "reference_id": 26797,
           "content_id": 33383,
+          "resource_code": "UWTranslationManual",
           "label": "Help with Translating",
           "language": "eng"
         },
         {
           "reference_id": 209466,
           "content_id": 689646,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction to Publishing",
           "language": "eng"
         },
         {
           "reference_id": 209472,
           "content_id": 689652,
+          "resource_code": "UWTranslationManual",
           "label": "Open License",
           "language": "eng"
         },
         {
           "reference_id": 209476,
           "content_id": 689656,
+          "resource_code": "UWTranslationManual",
           "label": "Training Before Checking Begins",
           "language": "eng"
         },
         {
           "reference_id": 209477,
           "content_id": 689657,
+          "resource_code": "UWTranslationManual",
           "label": "Training Before Translation Begins",
           "language": "eng"
         },
         {
           "reference_id": 209487,
           "content_id": 689667,
+          "resource_code": "UWTranslationManual",
           "label": "Statement of Faith",
           "language": "eng"
         },
         {
           "reference_id": 209492,
           "content_id": 689672,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Guidelines",
           "language": "eng"
         },
         {
           "reference_id": 209493,
           "content_id": 689673,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Overview",
           "language": "eng"
         }

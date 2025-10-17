@@ -13,24 +13,28 @@
         {
           "reference_id": 209449,
           "content_id": 689629,
+          "resource_code": "UWTranslationManual",
           "label": "Checking the Translation for Accuracy",
           "language": "eng"
         },
         {
           "reference_id": 209496,
           "content_id": 689676,
+          "resource_code": "UWTranslationManual",
           "label": "Back Translation",
           "language": "eng"
         },
         {
           "reference_id": 209502,
           "content_id": 689682,
+          "resource_code": "UWTranslationManual",
           "label": "Steps for Quality Checkers",
           "language": "eng"
         },
         {
           "reference_id": 209503,
           "content_id": 689683,
+          "resource_code": "UWTranslationManual",
           "label": "Types of Things to Check",
           "language": "eng"
         }

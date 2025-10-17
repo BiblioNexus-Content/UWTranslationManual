@@ -13,12 +13,14 @@
         {
           "reference_id": 26715,
           "content_id": 800080,
+          "resource_code": "UWTranslationManual",
           "label": "Passado preditivo",
           "language": "por"
         },
         {
           "reference_id": 26822,
           "content_id": 800187,
+          "resource_code": "UWTranslationManual",
           "label": "Traduzir desconhecidos",
           "language": "por"
         }

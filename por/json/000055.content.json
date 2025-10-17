@@ -13,30 +13,35 @@
         {
           "reference_id": 26749,
           "content_id": 800114,
+          "resource_code": "UWTranslationManual",
           "label": "Palavras e frases conectivas",
           "language": "por"
         },
         {
           "reference_id": 26829,
           "content_id": 800194,
+          "resource_code": "UWTranslationManual",
           "label": "Informações de fundo",
           "language": "por"
         },
         {
           "reference_id": 26831,
           "content_id": 800196,
+          "resource_code": "UWTranslationManual",
           "label": "Fim da história",
           "language": "por"
         },
         {
           "reference_id": 26833,
           "content_id": 800198,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução de um novo evento",
           "language": "por"
         },
         {
           "reference_id": 26835,
           "content_id": 800200,
+          "resource_code": "UWTranslationManual",
           "label": "Introdução de novos e antigos participantes",
           "language": "por"
         }

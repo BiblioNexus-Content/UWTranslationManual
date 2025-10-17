@@ -13,36 +13,42 @@
         {
           "reference_id": 26815,
           "content_id": 33401,
+          "resource_code": "UWTranslationManual",
           "label": "Source Texts and Version Numbers",
           "language": "eng"
         },
         {
           "reference_id": 209455,
           "content_id": 689635,
+          "resource_code": "UWTranslationManual",
           "label": "Language Community Evaluation Questions",
           "language": "eng"
         },
         {
           "reference_id": 209461,
           "content_id": 689641,
+          "resource_code": "UWTranslationManual",
           "label": "Affirmation of Accuracy and Community Acceptance",
           "language": "eng"
         },
         {
           "reference_id": 209469,
           "content_id": 689649,
+          "resource_code": "UWTranslationManual",
           "label": "Quality Checker Evaluation Form",
           "language": "eng"
         },
         {
           "reference_id": 209487,
           "content_id": 689667,
+          "resource_code": "UWTranslationManual",
           "label": "Statement of Faith",
           "language": "eng"
         },
         {
           "reference_id": 209492,
           "content_id": 689672,
+          "resource_code": "UWTranslationManual",
           "label": "Translation Guidelines",
           "language": "eng"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 209454,
           "content_id": 800213,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução clara",
           "language": "por"
         },
         {
           "reference_id": 209471,
           "content_id": 800230,
+          "resource_code": "UWTranslationManual",
           "label": "Tradução natural",
           "language": "por"
         }
